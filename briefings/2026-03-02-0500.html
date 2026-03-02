@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iran Situation Report — March 02, 2026 05:00 ET</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+    @top-center {
+      content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION";
+      font-size: 7pt;
+      color: #999;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+    @bottom-center {
+      content: counter(page) " of " counter(pages);
+      font-size: 8pt;
+      color: #888;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 10.5pt;
+    line-height: 1.55;
+    color: #1a1a1a;
+    background: #fff;
+  }
+
+  .cover-header {
+    border-bottom: 3px solid #b71c1c;
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+  }
+  .cover-header .classification {
+    background: #b71c1c;
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .cover-header h1 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 22pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.5px;
+    margin-bottom: 4px;
+  }
+  .cover-header .subtitle {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11pt;
+    color: #555;
+    font-weight: 400;
+  }
+  .cover-header .dateline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    color: #333;
+    margin-top: 8px;
+    font-weight: 600;
+  }
+  .cover-header .meta-line {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  .exec-summary {
+    background: #f8f5f0;
+    border-left: 4px solid #b71c1c;
+    padding: 14px 18px;
+    margin-bottom: 22px;
+  }
+  .exec-summary h2 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #b71c1c;
+    margin-bottom: 8px;
+  }
+  .exec-summary ul { list-style: none; padding: 0; }
+  .exec-summary li {
+    padding: 3px 0 3px 16px;
+    position: relative;
+    font-size: 10.5pt;
+    line-height: 1.45;
+  }
+  .exec-summary li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #b71c1c;
+    font-weight: bold;
+  }
+
+  .section {
+    margin-bottom: 20px;
+    page-break-inside: avoid;
+  }
+  .section-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    border-bottom: 1.5px solid #ccc;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
+  .section-header .section-num {
+    color: #b71c1c;
+    font-weight: 800;
+    margin-right: 6px;
+  }
+  .section-header .section-icon { margin-right: 4px; }
+
+  .subsection-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: 700;
+    color: #333;
+    margin-top: 12px;
+    margin-bottom: 6px;
+  }
+
+  p { margin-bottom: 8px; text-align: justify; hyphens: auto; }
+  .source { color: #666; font-size: 9pt; font-style: italic; }
+  .source a { color: #1a5276; text-decoration: none; }
+
+  .callout {
+    background: #f0f4f8;
+    border: 1px solid #d5dde5;
+    border-radius: 3px;
+    padding: 10px 14px;
+    margin: 10px 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9.5pt;
+  }
+  .callout .label {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    font-size: 8pt;
+    letter-spacing: 1px;
+  }
+  .callout .value { font-size: 16pt; font-weight: 700; color: #1a1a1a; }
+  .callout .delta { font-size: 9pt; color: #666; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 9.5pt;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  th {
+    background: #2c3e50;
+    color: #fff;
+    padding: 6px 10px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 8.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  td { padding: 5px 10px; border-bottom: 1px solid #e0e0e0; }
+  tr:nth-child(even) { background: #f9f9f9; }
+
+  .gap-open { border-left: 3px solid #e67e22; padding-left: 10px; margin: 6px 0; }
+  .gap-resolved { border-left: 3px solid #27ae60; padding-left: 10px; margin: 6px 0; color: #555; }
+  .gap-new { border-left: 3px solid #b71c1c; padding-left: 10px; margin: 6px 0; }
+
+  .edward-analysis {
+    background: #fafaf5;
+    border: 1px solid #d5d0c0;
+    border-radius: 3px;
+    padding: 16px 20px;
+    margin: 16px 0;
+  }
+  .edward-analysis .byline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  .edward-analysis p { font-style: italic; text-align: left; }
+
+  .footer {
+    margin-top: 30px;
+    padding-top: 12px;
+    border-top: 2px solid #b71c1c;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 7.5pt;
+    color: #999;
+    text-align: center;
+  }
+  .footer .warning {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 7pt;
+    margin-bottom: 4px;
+  }
+
+  .tier-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-bottom: 8px;
+    border-radius: 2px;
+  }
+  .tier-1 { background: #b71c1c; color: #fff; }
+  .tier-2 { background: #e67e22; color: #fff; }
+  .tier-3 { background: #2c3e50; color: #fff; }
+
+  .no-change { color: #999; font-style: italic; font-size: 9.5pt; padding: 4px 0; }
+
+  a { color: #1a5276; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  ul, ol { margin: 6px 0 8px 20px; }
+  li { margin-bottom: 3px; }
+
+  @media print {
+    body { font-size: 10pt; }
+    .section { page-break-inside: avoid; }
+    .edward-analysis { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cover-header">
+  <div class="classification">INTELLIGENCE BRIEFING</div>
+  <h1>Iran Situation Report</h1>
+  <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment</div>
+  <div class="dateline">Monday, March 02, 2026 — 05:00 ET (10:00 UTC)</div>
+  <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection & Analysis</div>
+  <div class="meta-line">Sources: 74+ | Languages: 14 | Classification: OPEN SOURCE</div>
+</div>
+
+<div class="exec-summary">
+  <h2>Executive Summary</h2>
+  <ul>
+    <li>US F-15s crash in Kuwait — first US aircraft losses of war. Kuwait MoD confirmed. Cause under investigation.</li>
+    <li>Saudi Aramco shuts Ras Tanura refinery after drone strike — 550K bpd offline. First Iranian attack on Saudi oil infrastructure.</li>
+    <li>US Embassy Kuwait: fire, smoke, shelter in place — first embassy directly affected by Iranian strikes.</li>
+    <li>Iran death toll triples: Red Crescent now 555 killed across 131 cities (was 201).</li>
+    <li>IDF chief declares "offensive campaign against Hezbollah" — ground invasion "all options on table." 100K reservists mobilized.</li>
+    <li>IRGC deploys Kheibar missile (Wave 10) — first combat use. Targeting Tel Aviv, Haifa, East Jerusalem.</li>
+    <li>US futures: Dow -627, S&P -1.3%, Nasdaq -1.7%. Gold $5,372 (+3.3%). Brent peaked $82.37.</li>
+    <li>IAEA emergency session: Iran claims Natanz struck. IAEA cannot verify — comms blackout. Radiation warning issued.</li>
+  </ul>
+</div>
+
+<!-- SECTION 1: MILITARY SITUATION -->
+<div class="section">
+  <div class="section-header"><span class="section-num">1.</span> MILITARY SITUATION</div>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">US F-15s Crashed in Kuwait — First Aircraft Losses</div>
+  <p>Kuwait Ministry of Defense confirmed "several" US warplanes crashed Monday morning near Al Jahra, close to a US air base. CNN geolocated footage showing an F-15 in a fiery tailspin with pilot parachuting. All crew survived, evacuated to hospital in stable condition. <span class="source">(Kuwait MoD via X, CNN, Guardian live blog)</span></p>
+  <p>Cause under joint US-Kuwait investigation. Turkiye Today reports one crash may have been "friendly fire" — single source, unverified. US and Israel have NOT confirmed the crashes. If Iranian fire downed them, this demonstrates a capability not previously seen in this conflict. <span class="source">(Turkiye Today, Daily Mail)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">IRGC Wave 10 — Kheibar Missile Deployed (First Combat Use)</div>
+  <p>IRGC communiqué confirmed use of Kheibar ballistic missile — 2,000km range, 1,500kg warhead — targeting Tel Aviv, Haifa, and East Jerusalem. This is Wave 10 of True Promise 4 (previous cycle had up to Wave 9). <span class="source">(BBC Persian, IRGC communiqué)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">Iran Army: 15 Cruise Missiles at Ali Al Salem + Indian Ocean</div>
+  <p>Iran Army claimed it targeted Ali Al Salem US Air Base in Kuwait and vessels in the Indian Ocean with 15 cruise missiles. Indian Ocean targeting extends geographic scope beyond Hormuz. <span class="source">(BBC Persian, Fars News)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">Operation Epic Fury — B-2 Bombers Confirmed</div>
+  <p>CENTCOM confirmed four B-2 stealth bombers flew round-trip from Whiteman AFB, Missouri, equipped with GBU-57 massive ordnance penetrators (30,000 lbs each) targeting Iranian ballistic missile facilities Saturday night. Second known B-2 use against Iran (first: Operation Midnight Hammer, June 2025). No Iranian defensive fire detected. <span class="source">(CENTCOM, The Hill, The Aviationist)</span></p>
+
+  <span class="tier-label tier-2">THREAD UPDATE</span>
+  <div class="subsection-header">Jamaran-Class Frigate Sinking</div>
+  <p>Iranian Jamaran-class frigate reportedly targeted by US and sinking in Gulf of Oman. Appears separate from Mowj-class frigate sunk at Chabahar (previous cycle). <span class="source">(Syria News Pravda citing CENTCOM)</span></p>
+
+  <span class="tier-label tier-2">THREAD UPDATE</span>
+  <div class="subsection-header">IDF Air Superiority Ops — Tabriz/Mahabad</div>
+  <p>IDF released video of bombing F-4 and F-5 jets at Tabriz airport while being prepared for flight. Strikes on Tabriz and Mahabad confirmed Monday morning. <span class="source">(Kikar HaShabbat, Euronews Persian)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">Beit Shemesh Interceptor FAILED</div>
+  <p>IDF preliminary review confirmed attempts to intercept the missile that hit Beit Shemesh failed. The synagogue shelter strike (9 dead) was due to interception failure, not system overwhelm. <span class="source">(Haaretz)</span></p>
+
+  <div class="subsection-header">Sanandaj &amp; Kamyaran Casualties</div>
+  <p>Kurdish cities sustaining civilian casualties: 3 dead in Sanandaj (residential homes destroyed alongside police station), 2 dead in Kamyaran. <span class="source">(IRNA, Fars News, Iran International)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">US Embassy Kuwait — Fire and Smoke</div>
+  <p>Fire and smoke rose from inside the US Embassy compound in Kuwait City. AP obtained video showing smoke with alarm wailing. Embassy issued: "Do not come to the Embassy. Take cover in your residence." Personnel sheltering in place. First US Embassy directly affected. <span class="source">(AP, AFP, CBS, ABC News, DW)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">IRGC Attacking Commercial Shipping</div>
+  <p>IRGC claimed attacks on 3 US/British oil tankers near Hormuz. Tanker "Skylight" (Palau-flagged) confirmed attacked 5nm north of Khasab Port, Oman — 20 crew evacuated, 4 injured. Iran reported a vessel sinking after "unauthorized passage." <span class="source">(Al Araby Al Jadeed, Oman official, CNN)</span></p>
+</div>
+
+<!-- SECTION 2: CIVILIAN & HUMANITARIAN -->
+<div class="section">
+  <div class="section-header"><span class="section-num">2.</span> CIVILIAN &amp; HUMANITARIAN</div>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">Iran Death Toll: Red Crescent 555 (Was 201)</div>
+  <p>Iranian Red Crescent Society now reports 555 killed across 131 cities — a 175% increase in ~6 hours. Over 100,000 rescuers on "full alert," 4 million volunteers on standby. Converging toward health authority figure (610+), still below Xinhua (~1,000). <span class="source">(IRCS Telegram, Guardian, CBS, BBC Persian)</span></p>
+
+  <div class="callout">
+    <div class="label">Iran Casualty Tracking</div>
+    <div class="value">555</div>
+    <div class="delta">Red Crescent — was 201 (+175%) | Health Auth: 610+ | Xinhua: ~1,000 | HRANA: 133 (lagging)</div>
+  </div>
+
+  <span class="tier-label tier-2">THREAD UPDATE</span>
+  <div class="subsection-header">Minab School: 165 Dead (Was 148)</div>
+  <p>Death toll rose to 165 with 96 injured. Hengaw notes school enrollment was 170 — 97% of students killed. Education Ministry: all education remote for rest of school year after 7-day national mourning. <span class="source">(Al Jazeera, Guardian, Hengaw, Vista.ir)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">IAEA Emergency Session — Natanz &amp; Radiation Warning</div>
+  <p>IAEA Board convened special session. Grossi: no indication nuclear installations damaged, BUT Iran's IAEA ambassador claimed Natanz was attacked. IAEA cannot contact Iranian nuclear authorities due to communications blackout. Grossi warned: "We cannot rule out a possible radiological release with serious consequences, including the necessity to evacuate areas as large or larger than major cities." No elevated radiation detected in bordering countries. <span class="source">(CBS, Reuters, IAEA)</span></p>
+
+  <div class="subsection-header">Golestan Palace (UNESCO) Damaged</div>
+  <p>Windows, doors, and mirrors at Tehran's Golestan Palace damaged by blast shockwaves. <span class="source">(La Stampa, ISNA)</span></p>
+
+  <div class="subsection-header">Iran Foreign Ministry Hit with 28+ Missiles</div>
+  <p>MFA spokesman Baqaei confirmed to NPR the Foreign Ministry building was targeted with more than 28 missiles. <span class="source">(Fararu, NPR)</span></p>
+</div>
+
+<!-- SECTION 3: ECONOMIC IMPACT -->
+<div class="section">
+  <div class="section-header"><span class="section-num">3.</span> ECONOMIC IMPACT</div>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">European Markets — First Western Reaction</div>
+  <table>
+    <tr><th>Index</th><th>Level</th><th>Change</th></tr>
+    <tr><td>FTSE 100</td><td>~10,800</td><td>-1.0%</td></tr>
+    <tr><td>DAX</td><td>~24,700</td><td>-2.3%</td></tr>
+    <tr><td>CAC 40</td><td>~8,400</td><td>-2.1%</td></tr>
+    <tr><td>FTSE MIB</td><td>—</td><td>-2.3%</td></tr>
+    <tr><td>IBEX</td><td>—</td><td>-2.4%</td></tr>
+  </table>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">US Futures</div>
+  <div class="callout">
+    <div class="label">Dow Futures</div>
+    <div class="value">-627 pts (-1.27%)</div>
+    <div class="delta">S&P 500 futures: -91 pts (-1.32%) | Nasdaq 100: -442 pts (-1.71%)</div>
+  </div>
+  <p>Defense stocks edging higher. Airline stocks grounded. Barclays: "Too early to buy any dip." Citi: "Can't rule out more protracted friction to equities." <span class="source">(CNBC, Barclays, Citi)</span></p>
+
+  <div class="callout">
+    <div class="label">Gold</div>
+    <div class="value">$5,372/oz (+3.3%)</div>
+    <div class="delta">Safe-haven rotation underway. Spot gold +2.46%.</div>
+  </div>
+
+  <span class="tier-label tier-2">THREAD UPDATE</span>
+  <div class="subsection-header">Oil Markets</div>
+  <div class="callout">
+    <div class="label">Brent Crude</div>
+    <div class="value">~$79.53 (+9%)</div>
+    <div class="delta">Spiked to $82.37 (+13%) at European open. Was $77.98. WTI ~$72.81 (+8.5%). Still below $100.</div>
+  </div>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">Ras Tanura Refinery Shut Down — 550K bpd Offline</div>
+  <p>Aramco halted operations after drone strike — one of Middle East's largest refineries. Saudi MoD says drones intercepted; Bloomberg/Reuters say refinery hit. Fire broke out; loadings halted. <span class="source">(Bloomberg, Reuters, The National, Saudi MoD)</span></p>
+
+  <div class="subsection-header">European Gas +25%</div>
+  <p>European gas surged 25% Monday. Dutch reserves &lt;11%. Experts warn €100/MWh if war lasts weeks. Gas, electricity, AND fuel all rising. <span class="source">(NOS, NRC, Telegraaf)</span></p>
+
+  <div class="subsection-header">Shipping Updates</div>
+  <p>Hapag-Lloyd halts Hormuz transits (joins Maersk). 15+ container ships reversed course. OPEC+ increased production by 206K bpd — negligible vs. 15M bpd through Hormuz. Selective enforcement confirmed: Chinese/Iranian ships still passing. <span class="source">(CNN, BBC Chinese, Kpler, Folha de São Paulo)</span></p>
+</div>
+
+<!-- SECTION 4: TRAVEL -->
+<div class="section">
+  <div class="section-header"><span class="section-num">4.</span> <span class="section-icon">✈️</span> TRAVEL &amp; AIRSPACE</div>
+  <p class="no-change">No significant changes. Turkish Airlines cancellations expanded through March 2. Iranian NOTAM to March 3. Wizz Air to March 7. NHK emergency shortwave continues.</p>
+</div>
+
+<!-- SECTION 5: DUBAI & UAE -->
+<div class="section">
+  <div class="section-header"><span class="section-num">5.</span> <span class="section-icon">🇦🇪</span> DUBAI &amp; UAE</div>
+  <p>Updated detail: all 3 dead in UAE were Asian nationals, 58 injured. Dubai markets suspended. No change to overall posture. <span class="source">(Abu Dhabi media office)</span></p>
+</div>
+
+<!-- SECTION 6: OMAN -->
+<div class="section">
+  <div class="section-header"><span class="section-num">6.</span> <span class="section-icon">🇴🇲</span> OMAN</div>
+  <p>Egypt's Sisi called Sultan of Oman — condemned Duqm port attack. Sultan Haitham remains publicly silent. No mediation update. <span class="source">(Arabic media)</span></p>
+</div>
+
+<!-- SECTION 7: DIPLOMATIC -->
+<div class="section">
+  <div class="section-header"><span class="section-num">7.</span> DIPLOMATIC &amp; INTERNATIONAL</div>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">Joint US + Gulf Statement</div>
+  <p>US + Bahrain, Jordan, Kuwait, Qatar, Saudi Arabia, UAE: "These unjustified strikes targeted sovereign territory, endangered civilian populations." "We stand united in defense of our citizens, sovereignty, and territory." "Reaffirm our right to self-defense." All six Gulf states + Jordan publicly aligned with US. <span class="source">(US State Dept, CBS)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">Saudi Arabia Condemned Iran "In Strongest Terms"</div>
+  <p>"Condemns and denounces in the strongest terms Iran's treacherous aggression and blatant violation of sovereignty." Combined with Ras Tanura attack, Saudi-Iranian hostility now open. <span class="source">(ABC Chinese, Saudi official statement)</span></p>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">China MFA: "Firmly Opposes and Strongly Condemns"</div>
+  <p>"Attacking and killing Iran's supreme leader gravely violates Iran's sovereignty and security, tramples on the purposes and principles of the UN Charter." Near top of China's rhetorical escalation ladder. <span class="source">(Chinese MFA official website)</span></p>
+
+  <div class="subsection-header">France Ready for Gulf Defense</div>
+  <p>France explicitly stated readiness for defensive operations in Gulf. RAF Akrotiri drone strike confirmed. EU Council meeting on Cyprus postponed. <span class="source">(Corriere della Sera)</span></p>
+
+  <div class="subsection-header">Lebanese PM: Hezbollah's Actions "Irresponsible"</div>
+  <p>Lebanese government publicly splitting from Hezbollah during wartime. <span class="source">(Mako/N12, Al Jazeera Arabic)</span></p>
+
+  <div class="subsection-header">CIA Tracked Khamenei for Months</div>
+  <p>CIA mapped Khamenei's movements for "several months." Learned about Saturday meeting. "High fidelity" intelligence passed to Israel. Confirms killing was culmination of sustained intelligence operation. <span class="source">(NYT, CBS)</span></p>
+
+  <div class="subsection-header">Iran FM Letter to UN</div>
+  <p>Araghchi called Khamenei killing "a direct assault on the very core principles of international law" and "cowardly act of terror." Called on UNSC for accountability. <span class="source">(Various)</span></p>
+</div>
+
+<!-- SECTION 8: US POLITICS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">8.</span> <span class="section-icon">🇺🇸</span> US POLITICS &amp; STRATEGY</div>
+
+  <div class="subsection-header">Executive Branch</div>
+  <p>No new statements. Operation name confirmed: "Operation Epic Fury." Trump's "four or five weeks" timeline and "ahead of schedule" remain latest. <span class="source">(CNBC)</span></p>
+
+  <span class="tier-label tier-2">THREAD UPDATE</span>
+  <div class="subsection-header">Congress — War Powers Coalition Growing</div>
+  <ul>
+    <li>Sen. Andy Kim (D-NJ): op-ed — strikes "unconstitutional," "same dangerous and foolish decision President Bush did" <span class="source">(Kim op-ed)</span></li>
+    <li>Sen. Elizabeth Warren: called for immediate Senate reconvene for war powers vote <span class="source">(Warren statement)</span></li>
+    <li>Rep. Thomas Massie (R-KY): joined call to bar further hostilities — notable Republican crossover <span class="source">(Massie statement)</span></li>
+    <li>Rep. Jim Himes: "war of choice with no strategic endgame" <span class="source">(Himes statement)</span></li>
+    <li>Bipartisan coalition: Kaine, Rand Paul, Schumer, Jeffries, Andy Kim, Warren, Massie</li>
+    <li>Vote expected NEXT WEEK. Most Dems for, most GOP against.</li>
+  </ul>
+
+  <div class="subsection-header">Domestic Politics</div>
+  <p>Republicans using strikes to pressure Democrats in DHS funding fight. Lankford (R-OK): "defending the homeland by also funding what's here at home." <span class="source">(Politico)</span></p>
+
+  <div class="subsection-header">Legal / Constitutional</div>
+  <p>NYT editorial board: "War and Peace Cannot Be Left to One Man — Especially Not This Man" — 8-minute social media announcement, no Congressional consultation or UN authorization. <span class="source">(NYT)</span></p>
+
+  <div class="subsection-header">Antiwar Movement</div>
+  <p>NYC: hundreds marched Midtown Saturday (National Day of Action). Counter-demonstrations among anti-regime diaspora. Dual dynamic continues. <span class="source">(Gothamist, Wikipedia)</span></p>
+
+  <div class="subsection-header">Public Opinion</div>
+  <p>No new polling. Reuters/Ipsos 27% approval remains latest.</p>
+</div>
+
+<!-- SECTION 9: US DOMESTIC SECURITY -->
+<div class="section">
+  <div class="section-header"><span class="section-num">9.</span> <span class="section-icon">🇺🇸</span> US DOMESTIC SECURITY &amp; HOMEFRONT</div>
+
+  <span class="tier-label tier-1">NEW DEVELOPMENT</span>
+  <div class="subsection-header">DHS Threat Posture ESCALATED</div>
+  <p>DHS bulletin: "Iran conflict is causing a heightened threat environment in the United States." Iranian actors "routinely target poorly secured US networks." Lone wolf AND cyberattack warnings. Escalated from Saturday's "no known credible domestic threats." FBI and DHS on "war footing." <span class="source">(ABC News, Prism News)</span></p>
+
+  <div class="subsection-header">Protests</div>
+  <p>NYC: hundreds marched Midtown (antiwar). LA: Iranian-Americans cheering outside federal building (pro-strike). No arrests or violence at any US protest. <span class="source">(Gothamist, NYT)</span></p>
+
+  <div class="subsection-header">Iranian-American Community</div>
+  <p>Community divided: celebrating potential regime fall while fearing for family inside Iran. No discrimination incidents reported yet (early — typically lags 48-72 hours). <span class="source">(NYT, WaPo)</span></p>
+
+  <p class="no-change">No reported domestic violent incidents, hate crimes, or cyberattacks yet. DHS posture elevated for all categories.</p>
+</div>
+
+<!-- SECTION 10: FOREIGN LANGUAGE INTEL -->
+<div class="section">
+  <div class="section-header"><span class="section-num">10.</span> FOREIGN LANGUAGE INTELLIGENCE</div>
+
+  <div class="subsection-header">Persian — Regime Mobilization Mode</div>
+  <p>Hassan Khomeini (founder's grandson): "Don't leave the streets and mosques for a moment." Police Chief Radan threatening "traitors and spies." Education remote rest of year. Internet still 99% cut (36+ hours). IRGC escalating with Kheibar + cruise missiles. Diaspora: Pahlavi calling Khamenei "Zahhak of our era." Komalah: "This war has nothing to do with Iranian people's interests." <span class="source">(Tasnim, CNN Español, Khabarfoori, BBC Persian)</span></p>
+
+  <div class="subsection-header">Arabic — Tanker War + Saudi Entry</div>
+  <p>IRGC claims 3 US/British tankers attacked. Ras Tanura hit. Saudi condemned Iran. Ex-Qatar PM Hamad bin Jassim warned Gulf states not to be dragged in. Bahrain: fire at Al Salam naval base from 2 Iranian drones. <span class="source">(Al Araby Al Jadeed, BBC Arabic, Abu Dhabi media office)</span></p>
+
+  <div class="subsection-header">Hebrew — Multi-Front War</div>
+  <p>IDF simultaneously striking Tehran AND Lebanon. Beit Shemesh interceptor failed. Ground operation "all possibilities." Nasrallah Qassem = target. 100K reservists. Haaretz: "Trump got what he wanted; Netanyahu wants to continue indefinitely." <span class="source">(Haaretz, Mako, Srugim)</span></p>
+
+  <div class="subsection-header">Chinese — Economic Modeling</div>
+  <p>Three scenarios: mild ($75), medium ($90), severe ($130/bbl). Chinese/Iranian ships still transiting Hormuz — selective enforcement. Chemical supply chain analysis. China MFA strongest language. <span class="source">(Sina Finance, Sputnik Chinese, Chinese MFA)</span></p>
+
+  <div class="subsection-header">European — Energy Crisis</div>
+  <p>Gas +25%. Dutch €100/MWh warning. Thousands of Germans stranded. UK evacuating 300K nationals. France ready for Gulf defense. Le Monde: "Trump's war of choice." <span class="source">(NRC, NOS, Der Spiegel, Le Monde)</span></p>
+
+  <div class="subsection-header">Russian — Oil Fear</div>
+  <p>Meduza: "Colossal shock for world oil prices." Iran's Hormuz closure hurts Iran itself. OPEC+ compensating. <span class="source">(Meduza, E1.ru)</span></p>
+</div>
+
+<!-- SECTION 11: INFO OPS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">11.</span> INFORMATION OPERATIONS</div>
+  <p><strong>Regime mobilization + crackdown:</strong> Hassan Khomeini (streets call) + Radan (threatening "traitors"). Dual track: mobilize base AND suppress dissent.</p>
+  <p><strong>IRGC escalation messaging:</strong> Wave 10, named Kheibar missile, specific targets, tanker claims. Message: "We are escalating."</p>
+  <p><strong>Israeli multi-front signaling:</strong> "Hundreds of aircraft simultaneously." Ground invasion explicit. Qassem declared target.</p>
+  <p><strong>Saudi entry now facts:</strong> Condemnation + Ras Tanura = Saudi-Iranian open hostility. Trump's "they're fighting too" retroactively validated.</p>
+  <p><strong>Selective Hormuz enforcement:</strong> Iran/China ships passing. Targeted economic warfare, not total closure.</p>
+</div>
+
+<!-- SECTION 12: MAPS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">12.</span> <span class="section-icon">🗺️</span> MAPS &amp; IMAGERY</div>
+  <p class="no-change">No new significant imagery. IDF released Tabriz airport bombing video (F-4/F-5 on ground).</p>
+</div>
+
+<!-- SECTION 13: KEY SOURCES -->
+<div class="section">
+  <div class="section-header"><span class="section-num">13.</span> KEY SOURCES — New This Cycle</div>
+  <p>Kuwait MoD (X), BBC Persian live blog, CNBC live updates, Haaretz (Beit Shemesh), La Stampa (Golestan Palace), NRC/NOS/Telegraaf (Dutch energy), Corriere della Sera (reservists), Sina Finance (Chinese markets), Mako/N12/Srugim/Kikar HaShabbat (Hebrew), Fararu (MFA), Gothamist (NYC protests), Folha de São Paulo (OPEC+), Chinese MFA, Kpler (shipping data), IAEA Director General Grossi.</p>
+</div>
+
+<!-- SECTION 14: INTELLIGENCE GAPS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">14.</span> INTELLIGENCE GAPS</div>
+
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Oil at European open — Brent spiked to $82.37, retreated. Not breaching $100.</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Saudi involvement — Ras Tanura attacked, Saudi condemned Iran, joint statement with "right to self-defense."</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Beit Shemesh interceptor — IDF confirms interception FAILED.</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Hezbollah escalation — IDF ready for ground op, Qassem declared target, 100K reservists.</div>
+
+  <div class="gap-open"><strong>STILL OPEN:</strong> Houthi first kinetic attack — 55+ hours since declaration, nothing confirmed.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> Kharg Island explosion — unconfirmed.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> Assembly of Experts timeline — no data.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> 48 leaders killed — only 7 by name.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> 9 warships sunk (Trump claim) — unverified.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> 11 missing Israelis — no update.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> Iran death toll reconciliation (555 vs 610+ vs ~1,000).</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> OCHA/WHO formal situation reports — still none.</div>
+
+  <div class="gap-new"><strong>NEW:</strong> F-15 crash cause — Iranian fire, friendly fire, or mechanical? CENTCOM silent.</div>
+  <div class="gap-new"><strong>NEW:</strong> US Embassy Kuwait damage extent — direct hit or debris? Staff casualties?</div>
+  <div class="gap-new"><strong>NEW:</strong> Ras Tanura — how many drones got through vs. intercepted?</div>
+  <div class="gap-new"><strong>NEW:</strong> Natanz — current operation or June 2025 reference? IAEA cannot verify.</div>
+  <div class="gap-new"><strong>NEW:</strong> Iran vessel sinking in Hormuz — what vessel? Who sank it?</div>
+  <div class="gap-new"><strong>NEW:</strong> Brent at US market open (09:30 ET) — Ras Tanura impact?</div>
+  <div class="gap-new"><strong>NEW:</strong> IDF ground invasion of Lebanon — timeline?</div>
+  <div class="gap-new"><strong>NEW:</strong> DHS lone wolf warning — specific threat vectors?</div>
+</div>
+
+<!-- SECTION 16: EDWARD'S ANALYSIS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">16.</span> <span class="section-icon">🦉</span> EDWARD'S ANALYSIS</div>
+
+  <div class="edward-analysis">
+    <div class="byline">Edward — AI Intelligence Analyst</div>
+
+    <p>Three things happened this cycle that change the shape of this war.</p>
+
+    <p><strong>First: Kuwait became a front.</strong> F-15s crashing, embassy on fire, cruise missiles hitting Ali Al Salem by name. Kuwait went from hosting US bases to being in the crosshairs. The fact that CENTCOM hasn't commented on the F-15 crashes while Kuwait's own defense ministry has is telling — the US doesn't want to confirm aircraft losses, because the narrative implications are enormous. If Iran shot down F-15s, the "turkey shoot" framing dies. If it was friendly fire or mechanical failure during intense bombardment, the tempo of Iranian fire is high enough to create operational chaos.</p>
+
+    <p><strong>Second: Saudi Arabia is in this war whether it wants to be or not.</strong> Ras Tanura is not some random target — it's one of the most important refineries on Earth. Iran just demonstrated it can reach Saudi oil infrastructure with drones, exactly as at Abqaiq in 2019. The difference: in 2019, there was no war. The joint Gulf statement's "right to self-defense" language is pre-positioning for Saudi military action. Chinese sources suggesting Saudi privately encouraged the strikes add another layer. The Saudis may have wanted this war but didn't want their refineries to be the price of admission.</p>
+
+    <p><strong>Third: The IAEA situation is genuinely alarming.</strong> Iran's ambassador claiming Natanz struck, Grossi saying he can't verify because he can't reach Iranian nuclear authorities, and a public warning about radiological releases requiring city-scale evacuations. Whether or not Natanz was hit, the IAEA's inability to monitor during bombardment is a gap with consequences far beyond this conflict.</p>
+
+    <p><strong>What I'm watching:</strong> The Houthi silence is getting louder. 55+ hours since declaring war and nothing kinetic. Either they're positioning for something significant, or someone told them to stand down. The selective Hormuz enforcement — Iran/China ships still passing — suggests this isn't madness, it's strategy. Iran is hurting everyone EXCEPT its biggest customer. That's leverage, not chaos.</p>
+
+    <p>The US market opens in 4.5 hours. Ras Tanura offline, European gas +25%, Dow futures -627. This is the first Monday morning where Western capital has to price in a real shooting war in the Gulf.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="warning">SENSITIVE — NOT FOR PUBLIC DISTRIBUTION</div>
+  Produced by Edward (AI Intelligence Analyst) for Nichol Alexander<br>
+  Sources: Open-source intelligence across 14 languages<br>
+  This briefing is generated from publicly available information and does not represent classified intelligence.<br>
+  Next scheduled briefing: Monday, March 02, 2026 — 06:00 ET (11:00 UTC)
+</div>
+
+</body>
+</html>
