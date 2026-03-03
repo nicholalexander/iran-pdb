@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iran Situation Report — 9:00 PM ET, March 02, 2026</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+    @top-center {
+      content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION";
+      font-size: 7pt;
+      color: #999;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+    @bottom-center {
+      content: counter(page) " of " counter(pages);
+      font-size: 8pt;
+      color: #888;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 10.5pt;
+    line-height: 1.55;
+    color: #1a1a1a;
+    background: #fff;
+  }
+
+  .cover-header {
+    border-bottom: 3px solid #b71c1c;
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+  }
+  .cover-header .classification {
+    background: #b71c1c;
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .cover-header h1 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 22pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.5px;
+    margin-bottom: 4px;
+  }
+  .cover-header .subtitle {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11pt;
+    color: #555;
+    font-weight: 400;
+  }
+  .cover-header .dateline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    color: #333;
+    margin-top: 8px;
+    font-weight: 600;
+  }
+  .cover-header .meta-line {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  .exec-summary {
+    background: #f8f5f0;
+    border-left: 4px solid #b71c1c;
+    padding: 14px 18px;
+    margin-bottom: 22px;
+  }
+  .exec-summary h2 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #b71c1c;
+    margin-bottom: 8px;
+  }
+  .exec-summary ul { list-style: none; padding: 0; }
+  .exec-summary li {
+    padding: 3px 0 3px 16px;
+    position: relative;
+    font-size: 10.5pt;
+    line-height: 1.45;
+  }
+  .exec-summary li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #b71c1c;
+    font-weight: bold;
+  }
+
+  .section { margin-bottom: 20px; page-break-inside: avoid; }
+  .section-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    border-bottom: 1.5px solid #ccc;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
+  .section-header .section-num { color: #b71c1c; font-weight: 800; margin-right: 6px; }
+
+  .subsection-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: 700;
+    color: #333;
+    margin-top: 12px;
+    margin-bottom: 6px;
+  }
+
+  p { margin-bottom: 8px; text-align: justify; hyphens: auto; }
+  .source { color: #666; font-size: 9pt; font-style: italic; }
+
+  .callout {
+    background: #f0f4f8;
+    border: 1px solid #d5dde5;
+    border-radius: 3px;
+    padding: 10px 14px;
+    margin: 10px 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9.5pt;
+  }
+  .callout .label { font-weight: 700; color: #b71c1c; text-transform: uppercase; font-size: 8pt; letter-spacing: 1px; }
+  .callout .value { font-size: 16pt; font-weight: 700; color: #1a1a1a; }
+  .callout .delta { font-size: 9pt; color: #666; }
+
+  table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 9.5pt; font-family: 'Helvetica Neue', Arial, sans-serif; }
+  th { background: #2c3e50; color: #fff; padding: 6px 10px; text-align: left; font-weight: 600; font-size: 8.5pt; text-transform: uppercase; letter-spacing: 0.5px; }
+  td { padding: 5px 10px; border-bottom: 1px solid #e0e0e0; }
+  tr:nth-child(even) { background: #f9f9f9; }
+
+  .gap-open { border-left: 3px solid #e67e22; padding-left: 10px; margin: 6px 0; }
+  .gap-resolved { border-left: 3px solid #27ae60; padding-left: 10px; margin: 6px 0; color: #555; }
+  .gap-new { border-left: 3px solid #b71c1c; padding-left: 10px; margin: 6px 0; }
+
+  .edward-analysis {
+    background: #fafaf5;
+    border: 1px solid #d5d0c0;
+    border-radius: 3px;
+    padding: 16px 20px;
+    margin: 16px 0;
+  }
+  .edward-analysis .byline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  .edward-analysis p { font-style: italic; text-align: left; }
+
+  .tier-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-bottom: 8px;
+    border-radius: 2px;
+  }
+  .tier-1 { background: #b71c1c; color: #fff; }
+  .tier-2 { background: #e67e22; color: #fff; }
+  .tier-3 { background: #2c3e50; color: #fff; }
+
+  .no-change { color: #999; font-style: italic; font-size: 9.5pt; padding: 4px 0; }
+
+  a { color: #1a5276; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  ul, ol { margin: 6px 0 8px 20px; }
+  li { margin-bottom: 3px; }
+
+  .footer {
+    margin-top: 30px;
+    padding-top: 12px;
+    border-top: 2px solid #b71c1c;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 7.5pt;
+    color: #999;
+    text-align: center;
+  }
+  .footer .warning { font-weight: 700; color: #b71c1c; text-transform: uppercase; letter-spacing: 1px; font-size: 7pt; margin-bottom: 4px; }
+
+  @media print {
+    body { font-size: 10pt; }
+    .section { page-break-inside: avoid; }
+    .edward-analysis { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cover-header">
+  <div class="classification">INTELLIGENCE BRIEFING</div>
+  <h1>Iran Situation Report</h1>
+  <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment</div>
+  <div class="dateline">Monday, March 02, 2026 — 9:00 PM ET (02:00 UTC March 3)</div>
+  <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection & Analysis</div>
+  <div class="meta-line">Sources: 65+ | Languages: 14 | Classification: OPEN SOURCE</div>
+</div>
+
+<div class="exec-summary">
+  <h2>Executive Summary</h2>
+  <ul>
+    <li><strong>BREAKING:</strong> 2 Iranian drones strike US Embassy in Riyadh — fire, minor damage, no casualties. First US diplomatic facility hit. Trump vows response "soon."</li>
+    <li>CNN: US preparing "significant increase" in strikes next 24 hours — Phase 2 targeting missile production, drone factories, naval capability.</li>
+    <li>Israel assesses 1,500+ IRGC killed — vs Iran's ~700 civilian claim. Total dead likely 2,000+.</li>
+    <li>Multiple Arab countries considering joining attacks on Iran after Gulf strikes hit 9+ nations (Axios).</li>
+    <li>US polling collapse: only 25% support strikes (Reuters/Ipsos), 59% disapprove (CNN/SSRS) — worst initial war polling in modern US history.</li>
+  </ul>
+</div>
+
+<div class="tier-label tier-1">TIER 1 — NEW DEVELOPMENTS</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">1.</span> MILITARY SITUATION</div>
+
+  <div class="subsection-header">US Embassy Riyadh Struck by 2 Iranian Drones</div>
+  <p>Saudi Defense Ministry confirmed 2 drones hit the US Embassy in Riyadh's diplomatic quarter at approximately 01:15 UTC March 3. Limited fire, minor material damage. Embassy was empty — no casualties. CNN: 2 sources confirm drones were Iranian one-way attack munitions. Trump told NewsNation response coming "soon." State Department confirmed strike via cable. US Embassy issued shelter-in-place for all Americans in Jeddah, Riyadh, and Dhahran. <span class="source">Saudi Defense Ministry, CNN, Fox News, NYT, Reuters, WSJ</span></p>
+
+  <div class="subsection-header">Islamic Resistance in Iraq: Drone Swarm on US Troop Hotel in Erbil</div>
+  <p>Claimed "drone swarm attack" on hotel housing US troops. Group has conducted 23 operations using dozens of drones against US bases in Iraq since conflict began. Iraqi FM Fuad Hussein: 70+ missile/drone attacks on Erbil reported in recent days. Erbil airport fire ongoing. Iranian drones also struck Erbil airport US base directly. <span class="source">Al Hadath TV, Reuters, India Today, WSJ via Meduza</span></p>
+
+  <div class="subsection-header">IDF Strikes Hezbollah in Beirut — Day 3</div>
+  <p>IDF announced early Tuesday it is "currently striking Hezbollah command centres and weapons storage facilities in Beirut." Continuation from Monday. <span class="source">Guardian, Haaretz, AFP</span></p>
+
+  <div class="subsection-header">New Iranian Missile Wave at Israel</div>
+  <p>IDF working to intercept new wave of missiles from Iran just after midnight March 3. IDF observes Iran now firing MORE missiles per barrage — escalation from earlier single launches. Submunition dispersal warnings issued. <span class="source">Haaretz, The Hindu, N12/Mako</span></p>
+
+  <div class="subsection-header">B-1 Bombers Deep Inside Iran / Air Superiority Claimed</div>
+  <p>CENTCOM confirmed B-1 bombers struck "deep inside Iran" to degrade ballistic missile capabilities. Gen. Caine (Chief of Staff) declared "control of the skies" achieved over Iran. Phase 1 complete. <span class="source">CENTCOM, BFMTV</span></p>
+
+  <div class="subsection-header">Munitions Tally: 3,800 in 48 Hours</div>
+  <p>La Stampa: 2,300 Israeli + 1,500 US munitions dropped on Iran in 48 hours. <span class="source">La Stampa</span></p>
+
+  <div class="subsection-header">IRGC Wave 12 Breakdown</div>
+  <p>Khatam al-Anbia HQ spokesperson Lt Col Zolfaghari (video briefing): Wave 12 of True Promise-4 — 26 attack drones + 5 ballistic missiles across 4 targets: Arifjan/Kuwait (12 drones), Minhad/UAE (6 drones + 5 ballistic missiles), US Navy Bahrain (6 drones — claimed "destroyed"), Tanker ATHE NOVA (2 drones, still burning). <span class="source">Andishemoaser, IRGC video</span></p>
+
+  <div class="subsection-header">Iranian Parliament Area & SNSC Buildings Targeted</div>
+  <p>Fars News reported Majles building targeted. Areas on Valiasr Street near old parliament building struck. SNSC buildings near Chitgar Park (NW Tehran) also hit. Police Station 104 Abbasabad destroyed. "Tharallah" HQ (Tehran defense command) destroyed. <span class="source">Fars News, Tasnim, Independent Persian</span></p>
+
+  <div class="subsection-header">Iran Attacked Bundeswehr Bases</div>
+  <p>Der Spiegel exclusive: Iran fired rockets/drones at 2 bases where German troops stationed since Saturday. All projectiles neutralized. <span class="source">Der Spiegel</span></p>
+
+  <div class="subsection-header">UAE Intercepting Active Ballistic Missile Barrage</div>
+  <p>UAE Defense Ministry: air defense "currently engaging a barrage of ballistic missiles launched from Iran." Escalation from previous drone-only attacks. <span class="source">UAE Defense Ministry</span></p>
+
+  <div class="callout">
+    <div class="label">Casualty Assessment</div>
+    <div class="value">2,000+ likely total dead</div>
+    <div class="delta">Israel: 1,500+ IRGC military | Iran Health Min: ~700 civilian | Red Crescent: 555 | Categories don't overlap</div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">2.</span> CIVILIAN &amp; HUMANITARIAN</div>
+  <p>5+ hospitals now damaged across 2 cities: Khatam, Motahari, Gandhi, Arman (Tehran) + Aboozar (Ahvaz). Police Station 104 Abbasabad destroyed. Power outages in Tehranpars after east Tehran strikes. Internet still 99% cut (72+ hours). <span class="source">Fararu, Independent Persian</span></p>
+  <p>At least 6 US citizens/permanent residents detained in Iran — hostage/leverage risk. Iran doesn't recognize dual citizenship. Thousands of Americans believed trapped. <span class="source">Reuters, DevDiscourse</span></p>
+  <p>Philippine caretaker Mary Ann de Vera, 32, killed by Iranian missile in Tel Aviv — first identified foreign national casualty in Israel. <span class="source">Philippine Embassy via Ynet</span></p>
+  <p class="no-change">Minab school toll: 168 confirmed (HRANA). Iran death toll figures unchanged. Israel: 12 dead, 11 missing, 450 injured — no update.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">3.</span> ECONOMIC IMPACT</div>
+
+  <div class="callout">
+    <div class="label">Oil Markets</div>
+    <div class="value">Brent: $79.45/bbl</div>
+    <div class="delta">Settlement $77.74 (+6.7%), post-close surge to $79.45 (+9%) on IRGC Hormuz declaration | WTI: $72.74 post-close (+8.4%)</div>
+  </div>
+
+  <div class="callout">
+    <div class="label">Gold</div>
+    <div class="value">$5,350–$5,400</div>
+    <div class="delta">Surged overnight | J.P. Morgan forecast: $6,300 by end of 2026</div>
+  </div>
+
+  <p>Tehran Stock Exchange: closed since Saturday "until further notice." Dollar frozen at 166,400 toman. <span class="source">EcoIran</span></p>
+  <p>Japan: Nomura estimates GDP -0.18%, CPI +0.31% if prolonged. BOJ rate hike delayed. 90%+ Middle East oil dependency. <span class="source">NHK, Nomura</span></p>
+  <p>India: 50% of oil imports transit Hormuz. 2.8M bbl/day in February. 9.5-15 days reserves. Plan B: more Russian oil. Indian Navy escorting vessels. <span class="source">Economic Times Hindi, Moneycontrol Hindi</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">4.</span> ✈️ TRAVEL &amp; AIRSPACE</div>
+  <p>State Dept global departure order: Americans urged to "depart now" from 15 countries. Rubio recorded direct video message. Hundreds of thousands stranded. Germany sending evacuation planes to Riyadh/Muscat (first major European evac). <span class="source">Guardian, CNBC, State Dept, BFMTV</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">5.</span> 🇦🇪 DUBAI &amp; UAE</div>
+  <p>Active ballistic missile engagement ongoing. Minhad targeted with 6 drones + 5 ballistic missiles (Wave 12). 700+ attacks intercepted total. 3 dead, 58 injured (no change). UAE simultaneously called US-Israel attack on Iran "unacceptable" — with Russia. <span class="source">UAE Defense Ministry, Mehr News</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">6.</span> 🇴🇲 OMAN</div>
+  <p class="no-change">No change. Sultan silent. GCC SecGen condemned Duqm attack. 1 injured.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">7.</span> DIPLOMATIC &amp; INTERNATIONAL</div>
+  <p><strong>Multiple Arab countries considering joining attacks on Iran</strong> (Axios). Iran's strikes hit 9+ countries. Gap between "only targeting US/Israel" rhetoric and reality pushing Arab states from victims to potential combatants. <span class="source">Axios, Corriere della Sera</span></p>
+  <p>China-Russia FMs joint condemnation + cooperation pledge. NATO chief Rutte: European leaders "extraordinarily pleased." Erdogan: "deep sorrow and concern," calls for diplomacy. Araghchi called 6 Gulf country FMs individually. Iraqi forces deployed around US Embassy Baghdad. Bin Salman "does not exclude use of force." <span class="source">Mehr News, NRC, BBC Türkçe, Corriere</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">8.</span> 🇺🇸 US POLITICS &amp; STRATEGY</div>
+
+  <div class="subsection-header">Executive Branch</div>
+  <p>Trump: response to Riyadh embassy attack coming "soon." On ground troops: "I don't have the yips" (NY Post) vs "boots won't be necessary" (NewsNation). Contradictory statements within hours. <span class="source">Fox News, NY Post, NewsNation</span></p>
+  <p>Rubio: "There absolutely was an imminent threat." "The hardest hits are yet to come." "The next phase will be even more punishing." Did not rule out ground troops. <span class="source">CNBC, Guardian, Politico</span></p>
+  <p>Hegseth: "This is not regime change" — "this is not Iraq, this is not a war that won't end." <span class="source">Shafaqna, Haaretz, BFMTV</span></p>
+  <p>CNN/senior US official: "significant increase" in strikes next 24 hours. Phase 2: missile production, drone factories, naval capability. <span class="source">CNN via Euronews Persian</span></p>
+
+  <div class="subsection-header">Congress</div>
+  <p>Gang of Eight briefing completed Monday evening. Schumer: "completely and totally insufficient — raised more questions than answers." Johnson: "defensive operation." All-member classified briefings Tuesday. War powers vote expected as soon as Tuesday. Kaine leading bipartisan effort. <span class="source">Guardian, NPR, Politico</span></p>
+
+  <div class="callout">
+    <div class="label">KEY CONTRADICTION ON THE RECORD</div>
+    Pentagon staff briefing (Sunday): NO intel Iran planned to attack US first.<br>
+    Rubio (Monday): "there absolutely was an imminent threat."<br>
+    This is now the central legal/political battleground for War Powers.
+  </div>
+
+  <div class="subsection-header">Public Opinion</div>
+  <div class="callout">
+    <div class="label">Polling Collapse</div>
+    <div class="value">25% support (Reuters/Ipsos)</div>
+    <div class="delta">59% disapprove (CNN/SSRS) | Women oppose 58-32 | 60%+ under-40 oppose | Worst initial war polling in modern US history (Iraq started ~70%)</div>
+  </div>
+
+  <div class="subsection-header">Domestic Politics</div>
+  <p>Right-wing split: Fuentes: "Iraq 2.0 — forget 2026 and 2028." Owens agreed. Levin/Hannity support strikes. America First faction breaking. Warren + 14 Democrats linking student deportations to wartime civil liberties crackdown. <span class="source">Social media, NPR</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">9.</span> 🇺🇸 US DOMESTIC SECURITY &amp; HOMEFRONT</div>
+  <p>Austin shooting: no material change. 3 dead, 14 wounded. FBI JTTF investigating — no formal determination. <span class="source">Guardian, AP, CNN</span></p>
+  <p>Multi-city antiwar protests Feb 28–March 1: DC, NYC, Atlanta, Baltimore, Boston, Chicago, Cincinnati, Denver, Las Vegas, LA, Miami, Minneapolis, SF, Philadelphia. Jane Fonda joined LA rally. Counter-demonstrations by Iranian diaspora (pro-strike). 1,000+ in Athens. No arrests or National Guard reported. <span class="source">Wikipedia, Navbharat Times</span></p>
+  <p>Warren letter on student deportations. Court found State Dept actions designed "to chill" free speech. Iranian Civil Society abroad: "Immediately hand over power." <span class="source">NPR, VOA</span></p>
+  <p class="no-change">No new CISA alerts, hate crime incidents, or Iranian APT activity this cycle.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">10.</span> 🇺🇸-🇨🇳 US-CHINA STRATEGIC ANGLE</div>
+  <p>China-Russia FMs joint condemnation + cooperation pledge (new). Chinese analysts framing Hormuz closure as unsustainable for Iran — "economic nuclear option" but self-harming. China imports 60%+ of methanol from Iran. CASS: shock absorbable in low-inflation environment. Prolonged closure: oil $120-150/bbl. BBC Russian: disruption "benefits Russia — billions for Ukraine war." <span class="source">Mehr News, Guancha, Ifeng, BBC Russian</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">11.</span> FOREIGN LANGUAGE INTELLIGENCE</div>
+  <p><strong>Persian:</strong> Citizen voices — "This war is not our war" (مردم این جنگ، جنگ ما نیست — VOA). Dollar frozen 166,400 toman; stock exchange closed. Hegseth/Trump contradictions amplified.</p>
+  <p><strong>Arabic:</strong> Saudi Defense Ministry confirmed embassy attack. Arab states considering joining war. Wave 12 breakdown from IRGC video briefing.</p>
+  <p><strong>Hebrew:</strong> IDF observing Iran escalating missiles per barrage. "Tharallah" HQ destroyed. Submunition warnings.</p>
+  <p><strong>Russian:</strong> "Serial hunting of leaders" rhetoric. Benefits narrative strengthening.</p>
+  <p><strong>German:</strong> Bundeswehr bases attacked (Spiegel exclusive). Terror threat growing. Evacuation planes dispatched.</p>
+  <p><strong>Japanese:</strong> BOJ rate hike delayed. 90%+ oil dependency = existential concern. NHK emergency shortwave.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">12.</span> INFORMATION OPERATIONS</div>
+  <p>Embassy attack dominates info space — symbolic weight disproportionate to military damage. Phase 2 messaging coordinated (CNN + Rubio + Caine = deliberate expectation-setting). Casualty narrative war: three competing numbers, three stories. Arab coalition story = strategic earthquake. Trump/Hegseth contradictions amplified in Persian media. Russia benefits narrative growing. VOA anti-war voices complicate "liberation" narrative.</p>
+</div>
+
+<div class="tier-label tier-2">TIER 2 — THREAD UPDATES</div>
+
+<div class="section">
+  <p><strong>Hormuz — three-way contradiction:</strong> IRGC (closed), FM Araghchi (not closed), CENTCOM (not closed, no mining, "80% of their oil goes to China"). Wave 12 shows active IRGC Navy attacks IN Hormuz.</p>
+  <p><strong>Ground troops rhetoric:</strong> Both Rubio and Trump declined to rule out. Hegseth: "this is not Iraq." Significant rhetorical escalation.</p>
+  <p><strong>Ahmadinejad — RESOLVED:</strong> Confirmed killed March 1 (CBS + Iranian state media).</p>
+  <p><strong>Houthis — ~96+ hours, still nothing.</strong> Abdulmalik: solidarity speeches, no operations announced. AP: "intends to resume" but hasn't. Calculated restraint.</p>
+</div>
+
+<div class="tier-label tier-3">TIER 3 — INTELLIGENCE GAPS</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">15.</span> INTELLIGENCE GAPS</div>
+
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Congressional briefing outcomes — deep partisan split confirmed.</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Ahmadinejad status — confirmed dead.</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Hormuz contradiction — now three-way (IRGC, FM, CENTCOM).</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> IDF Tehran evening strikes — parliament, SNSC, IRIB, Police Station 104.</div>
+
+  <div class="gap-open"><strong>STILL OPEN:</strong> 49 leaders claim — only ~12 named.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> Austin shooting — FBI determination pending.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> 400kg enriched uranium — moved to Isfahan?</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> 11 missing Israelis.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> Assembly of Experts timeline.</div>
+  <div class="gap-open"><strong>STILL OPEN:</strong> Houthis — ~96+ hours, no kinetic action.</div>
+
+  <div class="gap-new"><strong>NEW:</strong> US Embassy Riyadh — who launched the drones? Iran direct? Proxy?</div>
+  <div class="gap-new"><strong>NEW:</strong> Trump's "response" to embassy attack — scope, timing, targets?</div>
+  <div class="gap-new"><strong>NEW:</strong> Erbil hotel attack — US casualties?</div>
+  <div class="gap-new"><strong>NEW:</strong> Iran midnight missile wave at Israel — damage assessment?</div>
+  <div class="gap-new"><strong>NEW:</strong> Senate war powers vote — timeline, count, chances?</div>
+  <div class="gap-new"><strong>NEW:</strong> Saudi response to embassy strike on their soil — enter conflict?</div>
+  <div class="gap-new"><strong>NEW:</strong> Arab coalition — which countries? Timeline?</div>
+  <div class="gap-new"><strong>NEW:</strong> Ground troops rhetoric — operational or political?</div>
+  <div class="gap-new"><strong>NEW:</strong> Phase 2 — operational details?</div>
+  <div class="gap-new"><strong>NEW:</strong> US detainees in Iran — 6+ held, leverage risk.</div>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">16.</span> 🦉 EDWARD'S ANALYSIS</div>
+  <div class="edward-analysis">
+    <div class="byline">Edward — AI Intelligence Analyst</div>
+    <p>The embassy attack changes things. Not because of the material damage — two drones, a fire, an empty building. But because "Iran struck the US Embassy" is a sentence that activates a very specific part of the American political memory. Tehran 1979. Benghazi 2012. The symbolic weight of an embassy attack is wildly disproportionate to its military significance, and everyone involved knows that.</p>
+    <p>Trump's response will be revealing. He now has political cover to do almost anything. "They attacked our embassy" is a cleaner casus belli than Rubio's convoluted "preemptive defensive" logic. Watch whether the administration pivots to the embassy attack as primary justification.</p>
+    <p>The polling is the most underreported story. 25% support is not "controversial war" territory — it's "majority of your own party has doubts" territory. Iraq started at ~70%. Afghanistan at ~90%. These numbers are in a different universe. If this war is active by the 2026 midterms, it will be THE issue.</p>
+    <p>The Arab coalition story is the strategic earthquake nobody's processing yet. If Saudi Arabia, UAE, Bahrain, and Kuwait move from intercepting to joining, this becomes a fundamentally different war. The IRGC's strategy of attacking everyone within missile range may have been emotionally satisfying but is proving strategically catastrophic — they're building their own opposing coalition.</p>
+    <p>The 1,500 IRGC vs 700 civilian casualty discrepancy tells you something important: the actual death toll is probably north of 2,500. Israel counts military kills. Iran counts civilian martyrs. Neither has incentive to count the other category.</p>
+    <p>Phase 2 scares me. Phase 1 was air defenses — the prerequisite. Phase 2 is industrial destruction: missile factories, drone plants, naval yards. This is what turns a punitive strike into a war of annihilation against Iran's military-industrial complex. Once those facilities are rubble, the political pressure to go further becomes almost irresistible.</p>
+    <p>The Houthi silence at 96+ hours is the dog that isn't barking. Abdulmalik's speeches — solidarity but no operations — suggest calculated restraint, not incapacity. They're keeping their powder dry. The question is: for what?</p>
+    <p>One thing that bothers me: nobody is talking about what happens AFTER. Phase 2, Phase 3, "4-5 weeks" — all about prosecution. Zero discussion of endstate. What does "winning" look like? That silence is louder than any of Rubio's press conferences.</p>
+    <p><strong>Prediction:</strong> The embassy attack triggers a named escalation within 12-24 hours. The Senate war powers vote fails, probably 45-55 or similar. The war enters a qualitatively different phase by Wednesday.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="warning">SENSITIVE — NOT FOR PUBLIC DISTRIBUTION</div>
+  Produced by Edward (AI Intelligence Analyst) for Nichol Alexander<br>
+  Sources: Open-source intelligence across 14 languages<br>
+  This briefing is generated from publicly available information and does not represent classified intelligence.<br>
+  Next scheduled briefing: ~1:00 AM ET, March 3 (06:00 UTC)
+</div>
+
+</body>
+</html>
