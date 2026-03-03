@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iran Situation Report — 05:00 ET, March 3, 2026</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+    @top-center {
+      content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION";
+      font-size: 7pt;
+      color: #999;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+    @bottom-center {
+      content: counter(page) " of " counter(pages);
+      font-size: 8pt;
+      color: #888;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; font-size: 10.5pt; line-height: 1.55; color: #1a1a1a; background: #fff; }
+  .cover-header { border-bottom: 3px solid #b71c1c; padding-bottom: 14px; margin-bottom: 20px; }
+  .cover-header .classification { background: #b71c1c; color: #fff; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase; padding: 4px 10px; display: inline-block; margin-bottom: 10px; }
+  .cover-header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 22pt; font-weight: 700; color: #1a1a1a; letter-spacing: -0.5px; margin-bottom: 4px; }
+  .cover-header .subtitle { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11pt; color: #555; }
+  .cover-header .dateline { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 10pt; color: #333; margin-top: 8px; font-weight: 600; }
+  .cover-header .meta-line { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; color: #888; margin-top: 3px; }
+  .exec-summary { background: #f8f5f0; border-left: 4px solid #b71c1c; padding: 14px 18px; margin-bottom: 22px; }
+  .exec-summary h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 9pt; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #b71c1c; margin-bottom: 8px; }
+  .exec-summary ul { list-style: none; padding: 0; }
+  .exec-summary li { padding: 3px 0 3px 16px; position: relative; font-size: 10.5pt; line-height: 1.45; }
+  .exec-summary li::before { content: "▸"; position: absolute; left: 0; color: #b71c1c; font-weight: bold; }
+  .section { margin-bottom: 20px; page-break-inside: avoid; }
+  .section-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12pt; font-weight: 700; color: #1a1a1a; border-bottom: 1.5px solid #ccc; padding-bottom: 4px; margin-bottom: 10px; }
+  .section-header .section-num { color: #b71c1c; font-weight: 800; margin-right: 6px; }
+  .subsection-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 10pt; font-weight: 700; color: #333; margin-top: 12px; margin-bottom: 6px; }
+  p { margin-bottom: 8px; text-align: justify; hyphens: auto; }
+  .source { color: #666; font-size: 9pt; font-style: italic; }
+  .callout { background: #f0f4f8; border: 1px solid #d5dde5; border-radius: 3px; padding: 10px 14px; margin: 10px 0; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 9.5pt; }
+  .callout .label { font-weight: 700; color: #b71c1c; text-transform: uppercase; font-size: 8pt; letter-spacing: 1px; }
+  .callout .value { font-size: 16pt; font-weight: 700; color: #1a1a1a; }
+  .callout .delta { font-size: 9pt; color: #666; }
+  table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 9.5pt; font-family: 'Helvetica Neue', Arial, sans-serif; }
+  th { background: #2c3e50; color: #fff; padding: 6px 10px; text-align: left; font-weight: 600; font-size: 8.5pt; text-transform: uppercase; letter-spacing: 0.5px; }
+  td { padding: 5px 10px; border-bottom: 1px solid #e0e0e0; }
+  tr:nth-child(even) { background: #f9f9f9; }
+  .gap-open { border-left: 3px solid #e67e22; padding-left: 10px; margin: 6px 0; }
+  .gap-resolved { border-left: 3px solid #27ae60; padding-left: 10px; margin: 6px 0; color: #555; }
+  .gap-new { border-left: 3px solid #b71c1c; padding-left: 10px; margin: 6px 0; }
+  .edward-analysis { background: #fafaf5; border: 1px solid #d5d0c0; border-radius: 3px; padding: 16px 20px; margin: 16px 0; }
+  .edward-analysis .byline { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; text-transform: uppercase; letter-spacing: 1.5px; color: #888; margin-bottom: 10px; }
+  .edward-analysis p { font-style: italic; text-align: left; }
+  .footer { margin-top: 30px; padding-top: 12px; border-top: 2px solid #b71c1c; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 7.5pt; color: #999; text-align: center; }
+  .footer .warning { font-weight: 700; color: #b71c1c; text-transform: uppercase; letter-spacing: 1px; font-size: 7pt; margin-bottom: 4px; }
+  .tier-label { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 3px 8px; display: inline-block; margin-bottom: 8px; border-radius: 2px; }
+  .tier-1 { background: #b71c1c; color: #fff; }
+  .tier-2 { background: #e67e22; color: #fff; }
+  .tier-3 { background: #2c3e50; color: #fff; }
+  .no-change { color: #999; font-style: italic; font-size: 9.5pt; padding: 4px 0; }
+  a { color: #1a5276; text-decoration: none; }
+  ul, ol { margin: 6px 0 8px 20px; }
+  li { margin-bottom: 3px; }
+  @media print { body { font-size: 10pt; } .section { page-break-inside: avoid; } }
+</style>
+</head>
+<body>
+
+<div class="cover-header">
+  <div class="classification">INTELLIGENCE BRIEFING</div>
+  <h1>Iran Situation Report</h1>
+  <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment</div>
+  <div class="dateline">Tuesday, March 3, 2026 — 05:00 ET / 10:00 UTC</div>
+  <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection &amp; Analysis</div>
+  <div class="meta-line">Sources: 50+ | Languages: 15 | Classification: OPEN SOURCE</div>
+</div>
+
+<div class="exec-summary">
+  <h2>Executive Summary</h2>
+  <ul>
+    <li><strong>E3 (France/UK/Germany)</strong> declare readiness for "defensive actions to destroy" Iran's military capabilities — France says it is "at war." Macron delivers nuclear deterrence speech from submarine.</li>
+    <li><strong>MILITARY:</strong> IDF launches simultaneous strikes on Tehran and Beirut. CENTCOM claims IRGC C2 "destroyed." IDF assessment: Iran has fewer than 2,000 missiles remaining.</li>
+    <li><strong>BAHRAIN:</strong> IRGC claims attack on Sheikh Isa Air Base; pro-Iran clashes erupt on Sitra Island — first internal unrest in a Gulf state.</li>
+    <li><strong>OMAN:</strong> Port of Duqm struck, fuel tank hit. Oman simultaneously mediating Larijani's private negotiation proposal.</li>
+    <li><strong>DIPLOMACY:</strong> Larijani PRIVATELY proposing negotiations via Oman — contradicts public "no negotiations" stance. War may be closer to talks than rhetoric suggests.</li>
+    <li><strong>IAEA:</strong> Confirms Natanz entrance buildings damaged. "No radiological consequence expected."</li>
+    <li><strong>MARKETS:</strong> Brent $82.03 (+5%). European Stoxx 600 -1.8%. VIX at 2026 high. Nikkei -793.</li>
+  </ul>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">1.</span> MILITARY SITUATION</div>
+  <span class="tier-label tier-1">TIER 1 — NEW DEVELOPMENTS</span>
+
+  <div class="subsection-header">CENTCOM: IRGC C2 Facilities "Destroyed"</div>
+  <p>CENTCOM issued new statement Tuesday claiming US forces have "destroyed" IRGC command and control facilities, air defense capabilities, missile and drone launch sites, and military airfields. First explicit claim of destroying C2 infrastructure — previous statements focused on targets hit and tonnage.</p>
+  <p class="source">Sources: Times of Israel, Al Jazeera, Economic Times — citing CENTCOM, ~05:00-06:00 UTC</p>
+
+  <div class="subsection-header">IDF: Simultaneous Strikes on Tehran AND Beirut</div>
+  <p>Israeli Air Force confirmed Tuesday morning it was attacking Tehran and Beirut simultaneously with "extensive strikes." IDF struck Hezbollah weapons depots, command centers, and intelligence equipment in Dahiyeh (Beirut suburbs). Al-Manar TV office in Haret Hreik directly hit. First confirmed simultaneous dual-front IDF operations — previous strikes on Lebanon and Iran were sequential.</p>
+  <p class="source">Sources: Guardian, Times of Israel, Arab News — 07:00-09:00 UTC</p>
+
+  <div class="subsection-header">IDF Assessment: Iran Has Fewer Than 2,000 Missiles Remaining</div>
+  <p>IDF assessed that hundreds of Iranian missiles exploded on ground or shortly before launch. Iran now has fewer than 2,000 missiles remaining. ~50% of missile launchers destroyed. At current launch tempo, supply could exhaust within days.</p>
+  <p class="source">Sources: Ynet, Mako — citing IDF internal assessment (Hebrew media)</p>
+
+  <div class="subsection-header">3 Additional IDF Strike Waves in Western Iran</div>
+  <p>IDF announced air force completed three additional strike waves in western Iran targeting fire systems and "deepening air superiority."</p>
+  <p class="source">Sources: Ynet, Mako (Hebrew)</p>
+
+  <div class="subsection-header">IRGC Claims Attack on Sheikh Isa Air Base, Bahrain</div>
+  <p>IRGC announced Wave 14 of True Promise-4: "large-scale drone and missile attack at dawn" on US air base in Sheikh Isa area using 20+ UAVs and 3 missiles, claiming destruction of "main command headquarters." Also claimed targeting US Navy Fifth Fleet HQ. CNBC reports satellite imagery shows damage at Fifth Fleet naval base. No US/Bahraini confirmation of IRGC claims.</p>
+  <p class="source">Sources: IRNA/Telegram, Al Jazeera, CNBC — 06:00-08:00 UTC</p>
+
+  <div class="subsection-header">Pro-Iran Clashes on Bahrain's Sitra Island</div>
+  <p>Clashes between pro-Iran demonstrators and Bahraini security forces on Sitra Island, coinciding with IRGC's claimed base attack. Bahrain has ~70% Shia majority. First reported internal unrest in a Gulf state directly linked to the conflict.</p>
+  <p class="source">Sources: Türkiye Today citing IRNA — 05:00 UTC</p>
+
+  <div class="subsection-header">Oman's Port of Duqm Struck</div>
+  <p>Several drones targeted Oman's commercial Port of Duqm Tuesday. One struck a fuel tank. No casualties reported. Duqm is a major dry dock and industrial port outside the Strait of Hormuz.</p>
+  <p class="source">Sources: Reuters, Guardian, Argus Media — 08:00-09:00 UTC</p>
+
+  <div class="subsection-header">Israel Authorizes Ground Expansion in Lebanon</div>
+  <p>Defense Minister Katz authorized IDF to "advance and take control of additional strategic positions in Lebanon." IDF deploying additional soldiers to southern Lebanon — framed as "defensive." Al Jazeera confirms new ground incursion.</p>
+  <p class="source">Sources: AFP, Reuters, Al Jazeera — 07:00-09:00 UTC</p>
+
+  <div class="subsection-header">Hezbollah Claims Targeting 3 Israeli Bases</div>
+  <p>Hezbollah said it targeted three Israeli military bases. Launched drones at northern Israel — IDF intercepted 2 crossing border.</p>
+  <p class="source">Sources: Asharq Al-Awsat, Yahoo News — 08:00-09:00 UTC</p>
+
+  <div class="subsection-header">Leadership Kills</div>
+  <p>Yahya Hamidi, deputy intelligence minister for Israel affairs, confirmed killed by IDF. 4 additional unnamed MOIS officials killed. Khamenei's wife died days after being injured in initial strike (Ynet Hebrew). Iran appointing new commanders to replace killed leaders (BBC Arabic).</p>
+
+  <div class="subsection-header">Naval/Port Destruction</div>
+  <p>~100 fishing boats burned at Jask port following strikes. New satellite imagery shows ships burning at Bandar Abbas. Iran's southern naval infrastructure being systematically destroyed.</p>
+  <p class="source">Sources: Ynet Hebrew citing Iranian media + satellite imagery</p>
+
+  <div class="subsection-header">IAEA Confirms Natanz Damage</div>
+  <p>IAEA confirmed strikes damaged entrance buildings of Natanz nuclear site. "No radiological consequence expected and no additional impact detected." Iran's own IAEA ambassador also confirmed Natanz was struck.</p>
+  <p class="source">Sources: NYT (IAEA statement), Rai News Italian</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">2.</span> CIVILIAN &amp; HUMANITARIAN</div>
+
+  <div class="subsection-header">Iran Casualties</div>
+  <p>Al Jazeera: death toll risen to 787. Multiple competing figures: Hengaw 1,500 (200 civ + 1,300 mil), Health Ministry ~700, Red Crescent 555.</p>
+
+  <div class="subsection-header">Israeli Casualties</div>
+  <p>Israeli Health Ministry: 777 transported to hospitals, 86 in ICU. Previous: 450 injured. 12 dead, 11 missing.</p>
+
+  <div class="subsection-header">Gaza Total Siege</div>
+  <p>Israel closed ALL Gaza border crossings indefinitely. WCK founder José Andrés: "If the borders stay closed, World Central Kitchen will run out of food this week." 2 million people at risk.</p>
+  <p class="source">Sources: Guardian, Reuters, PBS, The Hill</p>
+
+  <div class="subsection-header">Iran Domestic</div>
+  <p>Schools closed until end of school year (remote only). Internet 99% cut for 72+ hours. Power outages continuing. Dollar frozen at 166,400 toman. Tehran SE closed. IRGC intelligence warned citizens not to protest. Some citizens celebrated strikes on "the Leader's house." Euronews Persian already running post-war reconstruction framing.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">3.</span> ECONOMIC IMPACT</div>
+
+  <div class="callout">
+    <span class="label">Brent Crude</span><br>
+    <span class="value">$82.03</span>
+    <span class="delta">+5.06% | Hit $82.37 intraday (highest since Jan 2025)</span>
+  </div>
+
+  <div class="callout">
+    <span class="label">VIX</span><br>
+    <span class="value">2026 HIGH</span>
+    <span class="delta">Highest level of the year</span>
+  </div>
+
+  <p><strong>Markets:</strong> European Stoxx 600 -1.8% Tuesday (cumulative ~3.4% over 2 days). DAX -2.0%. Banking -3.5%. S&P 500 futures lower. Nikkei -793. Gold at $5,360/oz (safe haven surge).</p>
+
+  <p><strong>Hormuz — IRGC Escalates:</strong> Gen. Jabbari: "We will burn any ship. We will strike pipelines. Not a single drop of oil." FM Araghchi contradiction stands. CENTCOM: not closed. Jiji: transit down 70%.</p>
+
+  <p><strong>China:</strong> Iran = 3rd largest supplier, 13% seaborne, yuan-settled since April 2025. MFA confronted on Hormuz impact. Scenarios: $75/$90/$130.</p>
+
+  <p><strong>Russia:</strong> Solovyev: "Big plus for our budget." Yushkov: "If Iran can't export, China buys Russian." Moscow SE rose on oil stocks.</p>
+
+  <p><strong>India:</strong> 55% energy from ME at risk. $100 crude = +12-14 rupees/liter fuel. Planning Russia/US imports.</p>
+
+  <p><strong>Brazil:</strong> 20% fuel price gap. Copom rate decision may be affected.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">4.</span> ✈️ TRAVEL &amp; AIRSPACE</div>
+  <p class="no-change">No new NOTAMs or airline changes. Dubai airport closed Day 3. Emirates suspended. Israel considering limited airspace reopening.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">5.</span> 🇦🇪 DUBAI &amp; UAE</div>
+  <p>UAE fully closed embassy in Tehran — complete diplomatic severance (previously ambassador recall only). 700+ attacks intercepted, 3 dead, 58 injured. Gulf officials: "Attacking us was a grave mistake." Bin Salman "does not exclude force."</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">6.</span> 🇴🇲 OMAN</div>
+  <p>Port of Duqm struck — fuel tank hit. FM: "door of diplomacy still open." Serving as back-channel for Larijani's private negotiation proposal. Araghchi told Oman: Iran "open to serious de-escalation efforts." Oman simultaneously being bombed and mediating.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">7.</span> DIPLOMATIC &amp; INTERNATIONAL</div>
+
+  <div class="subsection-header">E3: "Ready for Defensive Actions to Destroy"</div>
+  <p>France, UK, Germany jointly declared readiness for "defensive actions" to "destroy" Iran's military capabilities. French base in Abu Dhabi hit → Macron defense council → coordinated E3 response. War potentially expanding to include European powers.</p>
+
+  <div class="subsection-header">Macron Nuclear Deterrence from Submarine</div>
+  <p>"If we had to use our nuclear arsenal, no state would recover. A single one of our submarines carries a strike power equivalent to the sum of all bombs dropped in Europe during World War I." Unprecedented signaling.</p>
+
+  <div class="subsection-header">IRGC Threatens Cyprus</div>
+  <p>Gen. Jabbari: "We will fire so many missiles at Cyprus that the Americans will have to flee." Cyprus is EU/NATO member. Greek F-16s + 2 frigates deployed.</p>
+
+  <div class="subsection-header">Spain Refuses Bases; Iran Threatens Spain</div>
+  <p>Spain blocked Rota. Iranian ambassador threatens attack on Spanish bases. Israel reproaches Spain.</p>
+
+  <div class="subsection-header">Italy Not Informed</div>
+  <p>Defense Minister Crosetto caught in ME theater. Wasn't informed beforehand. 127 Italians evacuated from Oman.</p>
+
+  <div class="subsection-header">Erdogan: Dual Condemnation</div>
+  <p>Condemns US-Israel attacks AND Iran's Gulf attacks. Calls for Ramadan ceasefire.</p>
+
+  <p><strong>Qatar</strong> requesting quick end. <strong>China MFA:</strong> "Violates international law." <strong>Netherlands:</strong> "Understanding" for attacks.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">8.</span> 🇺🇸 US POLITICS &amp; STRATEGY</div>
+
+  <div class="subsection-header">Executive Branch</div>
+  <p>Trump to The Sun: Starmer "not helpful," US-UK relationship "not like it used to be." Attacked London mayor Khan. Netanyahu on Hannity: "Not going to take years" — diverges from Trump's "4-5 weeks."</p>
+
+  <div class="subsection-header">Congress</div>
+  <p>Hawley (R-MO) flipped AGAINST war powers resolution. Passage probability: VERY LOW. Schumer slammed "totally insufficient" briefing answers. Democrats shifting to funding leverage strategy. House DHS vote expected this week.</p>
+
+  <div class="subsection-header">Negotiations</div>
+  <p>Larijani initiative to resume diplomatic channels submitted through Omani mediators (Al-Masry Al-Youm). Publicly defiant, privately seeking off-ramp.</p>
+
+  <div class="subsection-header">Think Tanks</div>
+  <p>New Republic: "Phase II is terrifying." Chatham House: aerial bombardment alone won't topple regime. Foreign Policy: proxies acting independently. TV Asahi: Iran max 2 weeks capability.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">9.</span> 🇺🇸 US DOMESTIC SECURITY &amp; HOMEFRONT</div>
+
+  <div class="subsection-header">Austin Shooting</div>
+  <p>FBI still investigating. CBS: Diagne arrived US 2000, naturalized 2013. NCTC engaged. "Lone actor" assessment. No determination.</p>
+
+  <div class="subsection-header">DHS Shutdown — Week 3</div>
+  <p>NYT: "Federal agencies showing signs of strain." CISA, TSA, Coast Guard, Secret Service unfunded during active conflict. Bacon (R-NE): "Inexcusable."</p>
+
+  <div class="subsection-header">Iran Expanding Cyber Attacks</div>
+  <p>Check Point reports Iran expanding cyber attacks regionally. No new CISA domestic alerts.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">10.</span> 🇺🇸-🇨🇳 US-CHINA STRATEGIC ANGLE</div>
+  <p>Iran = China's 3rd largest oil supplier. Yuan-settled since April 2025. MFA confronted on Hormuz. "Anti-US alliance" framing emerging (DW Chinese). People's Daily: "multi-domain attrition war." If Iran falls as supplier, Russia fills gap — direct Russia benefit.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">11.</span> FOREIGN LANGUAGE INTELLIGENCE</div>
+  <p><strong>French:</strong> E3 "prêts à des actions défensives pour détruire." Macron submarine: "aucun État ne s'en remettrait." Desportes: "La France est en guerre."</p>
+  <p><strong>Hebrew:</strong> Iran &lt;2,000 missiles. Khamenei's wife dead. 777 hospitalized. Jask/Bandar Abbas destruction.</p>
+  <p><strong>Turkish:</strong> IRGC threatens Cyprus mass missile strikes.</p>
+  <p><strong>Persian:</strong> IRGC claims 560 US casualties (93x actual). Schools closed. Protest crackdown.</p>
+  <p><strong>Arabic:</strong> Larijani back-channel via Oman. New commanders appointed. Qatar lobbying ceasefire.</p>
+  <p><strong>Spanish:</strong> Spain refuses Rota. Iran threatens Spain directly.</p>
+  <p><strong>Italian:</strong> Italy not informed. Crosetto in war zone.</p>
+  <p><strong>Japanese:</strong> Nikkei -793. Iran max 2 weeks capability.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">12.</span> INFORMATION OPERATIONS</div>
+  <p><strong>IRGC 560 vs 6:</strong> 93x discrepancy for domestic morale. <strong>Araghchi:</strong> "Israel Firsters" language targeting US divisions. <strong>Netanyahu:</strong> Retroactive nuclear justification. <strong>European fracture:</strong> Iran exploiting by threatening Spain specifically.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">15.</span> INTELLIGENCE GAPS</div>
+
+  <div class="gap-resolved"><strong>RESOLVED:</strong> IAEA/Natanz — entrance buildings damaged, no radiological consequence. Tuesday markets — full selloff confirmed. IRGC next targets — Sheikh Isa + Fifth Fleet + pipelines.</div>
+
+  <div class="gap-open"><strong>OPEN:</strong> Bahrain internal stability. Sheikh Isa actual damage. Duqm port operations. IDF Lebanon expansion scope. Gaza food timeline. Larijani framework. Macron follow-through. Tuesday briefing outcomes.</div>
+
+  <div class="gap-new"><strong>NEW:</strong> Trump-Starmer fallout impact on base access. Democrats' funding leverage conditions. Iran missiles at Israel details. European defense stock reversal cause.</div>
+</div>
+
+<div class="edward-analysis">
+  <div class="byline">🦉 Edward's Analysis — Section 16</div>
+  <p>The biggest development in this cycle isn't military — it's political. Europe just split into three camps in the space of a few hours, and the fault lines tell you everything about how this war ends (or doesn't).</p>
+  <p>France is in. Not because Macron woke up wanting to bomb Iran, but because an Iranian drone hit a French base in Abu Dhabi. Wars recruit participants through consequences, not ideology. The E3 statement uses the word "destroy." Macron delivered a nuclear deterrence speech from a submarine. A retired general said "France has been at war since this morning." These aren't trial balloons.</p>
+  <p>Meanwhile, Spain refuses Rota — and Iran's ambassador immediately threatens to attack Spanish bases anyway. Italy's defense minister was in the theater of war and didn't know the war was starting. Europe is not a bloc right now. It's a spectrum from belligerence to bewilderment.</p>
+  <p>The Larijani back-channel is the most important intelligence finding this cycle. Publicly: "long war, no negotiations." Privately, through Oman: "let's talk." The louder the public defiance, the more urgent the private outreach. The IDF assessment that Iran has &lt;2,000 missiles remaining puts a hard timer on this. That assessment doesn't get leaked by accident. It's a signal.</p>
+  <p>The Bahrain situation scares me more than anything else. Not the IRGC's claimed attack — their damage claims have been consistently inflated. What scares me is Sitra Island. Bahrain is 70% Shia, ruled by a Sunni monarchy, hosting the Fifth Fleet. If pro-Iran unrest spreads, you don't have a war between states anymore — you have internal destabilization of a country hosting critical US military infrastructure.</p>
+  <p>The 560 vs 6 casualty discrepancy is a tell. The IRGC needs these numbers because the actual picture is terrible for them. Their C2 is destroyed. Their missile stock is depleting. Their leadership is being replaced under fire.</p>
+  <p>Pattern I'm watching: the war is getting wider (Lebanon ground expansion, European entry, Bahrain unrest, Cyprus threats) while simultaneously getting closer to negotiations. That's not contradictory — that's how wars end. They expand until the cost of continuing exceeds the cost of talking. The Larijani back-channel says Iran is doing that math right now.</p>
+</div>
+
+<div class="footer">
+  <div class="warning">SENSITIVE — NOT FOR PUBLIC DISTRIBUTION</div>
+  Produced by Edward (AI Intelligence Analyst) for Nichol Alexander<br>
+  Sources: Open-source intelligence across 15 languages<br>
+  This briefing is generated from publicly available information and does not represent classified intelligence.<br>
+  Next scheduled briefing: ~09:00 ET / 14:00 UTC, March 3, 2026
+</div>
+
+</body>
+</html>
