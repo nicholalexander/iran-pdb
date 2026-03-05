@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iran Situation Report — March 04, 2026 8:00 PM ET</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+    @top-center {
+      content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION";
+      font-size: 7pt;
+      color: #999;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+    @bottom-center {
+      content: counter(page) " of " counter(pages);
+      font-size: 8pt;
+      color: #888;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 10.5pt;
+    line-height: 1.55;
+    color: #1a1a1a;
+    background: #fff;
+  }
+
+  .cover-header {
+    border-bottom: 3px solid #b71c1c;
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+  }
+  .cover-header .classification {
+    background: #b71c1c;
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .cover-header h1 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 22pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.5px;
+    margin-bottom: 4px;
+  }
+  .cover-header .subtitle {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11pt;
+    color: #555;
+    font-weight: 400;
+  }
+  .cover-header .dateline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    color: #333;
+    margin-top: 8px;
+    font-weight: 600;
+  }
+  .cover-header .meta-line {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  .exec-summary {
+    background: #f8f5f0;
+    border-left: 4px solid #b71c1c;
+    padding: 14px 18px;
+    margin-bottom: 22px;
+  }
+  .exec-summary h2 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #b71c1c;
+    margin-bottom: 8px;
+  }
+  .exec-summary ul {
+    list-style: none;
+    padding: 0;
+  }
+  .exec-summary li {
+    padding: 3px 0 3px 16px;
+    position: relative;
+    font-size: 10.5pt;
+    line-height: 1.45;
+  }
+  .exec-summary li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #b71c1c;
+    font-weight: bold;
+  }
+
+  .section {
+    margin-bottom: 20px;
+    page-break-inside: avoid;
+  }
+  .section-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    border-bottom: 1.5px solid #ccc;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
+  .section-header .section-num {
+    color: #b71c1c;
+    font-weight: 800;
+    margin-right: 6px;
+  }
+
+  .subsection-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: 700;
+    color: #333;
+    margin-top: 12px;
+    margin-bottom: 6px;
+  }
+
+  p { margin-bottom: 8px; text-align: justify; hyphens: auto; }
+  .source { color: #666; font-size: 9pt; font-style: italic; }
+
+  .callout {
+    background: #f0f4f8;
+    border: 1px solid #d5dde5;
+    border-radius: 3px;
+    padding: 10px 14px;
+    margin: 10px 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9.5pt;
+  }
+  .callout .label {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    font-size: 8pt;
+    letter-spacing: 1px;
+  }
+  .callout .value {
+    font-size: 16pt;
+    font-weight: 700;
+    color: #1a1a1a;
+  }
+  .callout .delta { font-size: 9pt; color: #666; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 9.5pt;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  th {
+    background: #2c3e50;
+    color: #fff;
+    padding: 6px 10px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 8.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  td { padding: 5px 10px; border-bottom: 1px solid #e0e0e0; }
+  tr:nth-child(even) { background: #f9f9f9; }
+
+  .gap-open { border-left: 3px solid #e67e22; padding-left: 10px; margin: 6px 0; }
+  .gap-resolved { border-left: 3px solid #27ae60; padding-left: 10px; margin: 6px 0; color: #555; }
+  .gap-new { border-left: 3px solid #b71c1c; padding-left: 10px; margin: 6px 0; }
+
+  .edward-analysis {
+    background: #fafaf5;
+    border: 1px solid #d5d0c0;
+    border-radius: 3px;
+    padding: 16px 20px;
+    margin: 16px 0;
+  }
+  .edward-analysis .byline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  .edward-analysis p { font-style: italic; text-align: left; }
+
+  .footer {
+    margin-top: 30px;
+    padding-top: 12px;
+    border-top: 2px solid #b71c1c;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 7.5pt;
+    color: #999;
+    text-align: center;
+  }
+  .footer .warning {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 7pt;
+    margin-bottom: 4px;
+  }
+
+  .tier-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-bottom: 8px;
+    border-radius: 2px;
+  }
+  .tier-1 { background: #b71c1c; color: #fff; }
+  .tier-2 { background: #e67e22; color: #fff; }
+  .tier-3 { background: #2c3e50; color: #fff; }
+
+  ul, ol { margin: 6px 0 8px 20px; }
+  li { margin-bottom: 3px; }
+
+  @media print {
+    body { font-size: 10pt; }
+    .section { page-break-inside: avoid; }
+    .edward-analysis { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cover-header">
+  <div class="classification">INTELLIGENCE BRIEFING</div>
+  <h1>Iran Situation Report</h1>
+  <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment</div>
+  <div class="dateline">Wednesday, March 04, 2026 — 8:00 PM ET (01:00 UTC March 5) | Day 5</div>
+  <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection &amp; Analysis</div>
+  <div class="meta-line">Sources: 72+ | Languages: 16 | Classification: OPEN SOURCE</div>
+</div>
+
+<div class="exec-summary">
+  <h2>Executive Summary</h2>
+  <ul>
+    <li>Pentagon confirmed US submarine sank IRIS Dena with single Mk 48 torpedo — first US sub torpedo kill since WWII. 87 confirmed dead, 32 rescued, 78 injured. Pentagon released periscope video.</li>
+    <li>Iraq's national electrical grid collapsed across ALL provinces — 43 million without power after gas supply cuts and drone strikes on power facilities.</li>
+    <li>Senate rejected war powers resolution 47-53. Fetterman sole Democrat voting no; Paul sole Republican voting yes. House vote Thursday (Massie-Khanna).</li>
+    <li>P&amp;I war risk insurance from major clubs formally CANCELLED effective March 5 — Hormuz transit now uninsurable through normal channels.</li>
+    <li>Hormuz tanker transits collapsed to 2/day (down from 50+ three days prior). CENTCOM: struck or sunk 20+ Iranian ships; no Iranian vessel operating in Persian Gulf, Hormuz, or Sea of Oman.</li>
+    <li>IRGC announced 18th wave. Claims hypersonic missile strikes on Israeli Defense Ministry + Ben Gurion Airport (unverified).</li>
+    <li>IDF killed MOIS Deputy Minister for Israel Affairs Yahya Hosseini Panjaki.</li>
+    <li>Minab school death toll: 168 → 175. Pentagon "investigating."</li>
+    <li>KOSPI crashed -12.06% — worst day in Korean market history. European gas prices nearly doubled (€32.50 → €55.70/MWh).</li>
+    <li>US first combat use of LUCAS drones (Shahed-modeled, $35K) and PrSM missiles.</li>
+  </ul>
+</div>
+
+<div class="tier-label tier-1">TIER 1 — NEW DEVELOPMENTS</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">1.</span> MILITARY SITUATION</div>
+
+  <div class="subsection-header">IRIS Dena — Confirmed: US Submarine Torpedo Kill</div>
+  <p>Pentagon confirmed a US submarine sank the Iranian frigate IRIS Dena with a single Mark 48 torpedo. SecDef Hegseth at Pentagon briefing: "An American submarine sunk an Iranian warship that thought it was safe in international waters." Pentagon released periscope footage showing torpedo striking beneath the stern. First US submarine torpedo kill since WWII. Ship was in 7th Fleet Indo-Pacific AO, "hundreds of miles" outside the theater of conflict — indicating US tracked the frigate well beyond the war zone. Deputy SecDef Caine: "an incredible demonstration of America's global reach." Casualties: 87 confirmed dead (was ~148 missing), 32 rescued, 78 injured.</p>
+  <p class="source">Sources: Reuters, Guardian, ABC News, Military.com, Naval News, Corriere della Sera, Hurriyet</p>
+
+  <div class="subsection-header">CENTCOM: 20+ Iranian Ships Struck or Sunk</div>
+  <p>CENTCOM says US has struck or sunk over 20 Iranian naval vessels. No Iranian vessel now operating in Persian Gulf, Hormuz, or Sea of Oman — per CENTCOM Commander Brad Cooper. Hegseth declared Iranian navy "rests at the bottom of the Persian Gulf" and is "ineffective, decimated, destroyed."</p>
+  <p class="source">Sources: NBC News, BBC Persian, Radio Farda</p>
+
+  <div class="subsection-header">IRGC Wave 18 + Hypersonic Claims</div>
+  <p>IRGC announced 18th wave of retaliatory operations (was at 17). Iran total since Feb 28: 500+ ballistic missiles and 2,000+ drones launched (per CENTCOM/Brad Cooper). IRGC claims it struck Israeli Defense Ministry and Ben Gurion Airport with hypersonic missiles and attack drones, destroyed 7 advanced radars. First claimed use of Iranian hypersonic missiles in combat. NOT independently verified — Israeli sources have not confirmed hits.</p>
+  <p class="source">Sources: Fars News/Pravda, Khaberni (Jordan), Vista.ir (Iran), Al Jazeera</p>
+
+  <div class="subsection-header">IDF: 300 Missile Launchers Destroyed</div>
+  <p>IDF destroyed 300 Iranian missile launchers since conflict began. 70% drop in Iranian missile fire toward Israel. FDD Long War Journal analysis: decline due to strike effectiveness + risk to operators + degraded command and control.</p>
+  <p class="source">Sources: ISW, Times of Israel, FDD Long War Journal</p>
+
+  <div class="subsection-header">First Combat Use: LUCAS Drones + PrSM</div>
+  <p>CENTCOM confirmed first combat use of LUCAS (Low-Cost Uncrewed Combat Attack System) — $35K one-way attack drones modeled after Iran's Shahed-136, made by SpektreWorks (Arizona). "Task Force Scorpion Strike" — first US one-way attack drones in combat history. Also first combat use of PrSM (Precision Strike Missile).</p>
+  <p class="source">Sources: BBC Persian, Breaking Defense, The Print, Aerospace America</p>
+
+  <div class="subsection-header">Rubio: ~2,000 Targets in &lt;100 Hours</div>
+  <p>In less than 100 hours of operations, nearly 2,000 targets struck with 2,000+ munitions. Iranian air defense "severely weakened."</p>
+  <p class="source">Sources: Independent Persian, Rubio press conference</p>
+
+  <div class="subsection-header">IDF Killed MOIS Deputy Minister</div>
+  <p>IDF confirmed killing Yahya Hosseini Panjaki (alias Yahya Hamidi), Deputy Minister of Intelligence for Israel affairs. Deep intelligence penetration of Iran's security apparatus.</p>
+  <p class="source">Sources: Iran International (Persian), IDF statement</p>
+
+  <div class="subsection-header">IDF Strikes Mehrabad + Bushehr Airports</div>
+  <p>IDF destroyed air defense and detection systems at Mehrabad International Airport (Tehran). Fighter jets attacked airport grounds, locations west of Azadi Square, Tehransar and Chitgar neighborhoods. IDF called this "tenth wave." At Bushehr Airport: Iran Air Airbus A319 (EP-IEP) destroyed on ground — one of only three in-service A319s.</p>
+  <p class="source">Sources: NYT, RBC-Ukraine, Aviation Week, Simple Flying, Israel-Alma</p>
+
+  <div class="subsection-header">Kurdish Ground Offensive — DISPUTED</div>
+  <p>i24NEWS exclusive: CPFIK official claims "thousands" of PJAK-affiliated fighters began taking combat positions inside Iranian territory since midnight March 2, in "southern mountains of Mariwan in western Iran." HOWEVER: Iran's Tasnim denied. KRG denied. White House denied — Leavitt: Trump "has not agreed to any such plan." Al Jazeera Arabic: Iranian source claims "catastrophic failure." Both sides deny. Critical thread requiring OSINT/satellite confirmation.</p>
+  <p class="source">Sources: i24NEWS, Daily Mail, Tasnim, Al Jazeera Arabic, CNBC, Caspian Post</p>
+
+  <div class="subsection-header">Incirlik Targeting Confirmed</div>
+  <p>Der Spiegel: NATO-intercepted Iranian missile was specifically targeting Incirlik Air Base. Missile crossed Iraq → Syria → Turkey airspace, intercepted in eastern Mediterranean. Turkey summoned Iranian ambassador. Former Turkish Defense Minister Hulusi Akar warned publicly. Hegseth: Article 5 NOT triggered.</p>
+  <p class="source">Sources: Der Spiegel, Cumhuriyet, Anadolu Agency</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">2.</span> CIVILIAN &amp; HUMANITARIAN</div>
+
+  <div class="subsection-header">Minab School: 175 Dead</div>
+  <p>Death toll updated from 168 to 175. Most victims: girls aged 7-12. Pentagon says it is "investigating" (Hegseth confirmed). Leavitt "did not accept US responsibility." Rubio: "would not deliberately target a school." Thousands attended funeral Tuesday. Disinformation circulating claiming Iranian government bombed own school.</p>
+  <p class="source">Sources: NBC, CBS, USA Today, Guardian, Democracy Now</p>
+
+  <div class="subsection-header">Iraq Total Blackout</div>
+  <p>Iraqi Ministry of Electricity announced national grid completely stopped in ALL provinces. Triggered by gas supply cuts to Rumaila power station + drone attacks on facilities in Baghdad and Erbil at dawn. Entire country of 43 million without power.</p>
+  <p class="source">Sources: Asharq Al-Awsat, Okaz (Saudi), Attaqa Energy</p>
+
+  <div class="subsection-header">Food Shortage Fears in Tehran</div>
+  <p>Panic buying reported in Tehran. BBC quoted resident named Nasrin: "We must stockpile supplies because we don't know how long this situation will continue." First signs of civilian supply chain disruption beyond school closures and internet cuts.</p>
+  <p class="source">Sources: BBC Arabic, BBC Persian, Cedar News</p>
+
+  <div class="subsection-header">Lebanon: 83,000+ Displaced</div>
+  <p>Lebanese government figures: 83,000+ displaced persons registered in approximately 400 shelters.</p>
+  <p class="source">Source: Monte Carlo Doualiya</p>
+
+  <div class="subsection-header">HRANA: 1,097 Civilian Deaths in Iran</div>
+  <p>Third independent count from US-based HRANA. Converges with Foundation of Martyrs (1,045) and Hengaw (1,500). All three counts now in the 1,000-1,500 range.</p>
+  <p class="source">Sources: BBC Russian, NRC (Dutch)</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">3.</span> ECONOMIC IMPACT</div>
+
+  <div class="callout">
+    <div class="label">Hormuz Tanker Transits</div>
+    <div class="value">2 / day</div>
+    <div class="delta">Was 50+ three days prior, 7 on March 2</div>
+  </div>
+
+  <div class="subsection-header">P&amp;I War Risk Insurance Cancelled</div>
+  <p>Major P&amp;I clubs (Gard, Skuld, NorthStandard, London P&amp;I Club, American Club) formally cancelled war risk cover effective March 5. Hormuz transit now effectively uninsurable. Trump insurance backstop plan still lacking details. Leavitt: "I don't want to commit to a timeline" on when Strait will be safe.</p>
+  <p class="source">Sources: Al Jazeera, NewsNation, Windward</p>
+
+  <div class="subsection-header">IRGC: 10+ Tankers Targeted in Hormuz</div>
+  <p>IRGC claims targeting 10 oil tankers attempting to cross Hormuz without compliance. Malta-flagged container ship severely damaged, crew abandoned. Multiple sources confirm systematic vessel targeting.</p>
+  <p class="source">Sources: TRT Arabic, Echo FM (Russia), Corriere della Sera, BBC Russian</p>
+
+  <div class="callout">
+    <div class="label">Brent Crude</div>
+    <div class="value">$83.22</div>
+    <div class="delta">Closed $81.40 Wed, +0.79% in Asian trade. Was $83.44-83.83 last cycle. Goldman Sachs raised Q2 forecast by $10 to $76/bbl.</div>
+  </div>
+
+  <div class="subsection-header">Global Market Carnage</div>
+  <p>KOSPI -12.06%: worst day in Korean market history, worse than 9/11. KOSDAQ -10%+. Bloomberg: worst 2-day drop since 2008. European gas nearly doubled: €32.50/MWh → €55.70/MWh. Gas rising 5x faster than oil. PetroChina became #1 market cap in China. Dubai/Abu Dhabi exchanges reopened after 2-day halt, down ~5%. India: 25 days crude reserves, 40% via Hormuz.</p>
+  <p class="source">Sources: Hankyoreh, JoongAng Ilbo, NRC (Dutch), El País, Sina Finance, NDTV Hindi, BBC Hindi</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">4.</span> ✈️ TRAVEL &amp; AIRSPACE</div>
+  <p>Emirates suspended through March 7. Etihad grounded through 14:00 UAE time March 5. Qantas rerouting Perth-London via Singapore. IDF struck Mehrabad + Bushehr airports. Iran Air A319 destroyed. Iran restricting its own citizens from leaving while allowing third-country nationals to exit. 17,500+ Americans returned from Middle East since Saturday; 8,500 yesterday alone. Bus evacuation Israel → Egypt active. Czech military evacuated ~40 from Jordan. Slovak flights brought 127 to Bratislava. NZ deploying two C-130J Hercules. Rubio evacuation phone initially didn't work — automated message said "US has no plans to rescue you."</p>
+  <p class="source">Sources: Time Out Dubai, Emirates247, NBC News, Guardian, CNBC, Turkish FM</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">5.</span> 🇦🇪 DUBAI &amp; UAE</div>
+  <p>Dubai Airport DAMAGED by Iranian drone strikes. Iran attacks on UAE "exceed total of all other targeted countries combined." UAE casualties: 3 dead (Pakistani, Nepali, Bangladeshi nationals), 78 injured. All 3 AWS data centers (1 Bahrain, 2 UAE) remain offline. Fars News: Bahrain data center targeted specifically for "US military and intelligence activities." Nvidia closed Dubai office. Emirates suspended through March 7.</p>
+  <p class="source">Sources: CNN Arabic, CNBC, Fars News</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">6.</span> 🇴🇲 OMAN</div>
+  <p>No change. Sultan still silent. US Embassy instructed shelter-in-place. Back-channel for Larijani diplomacy remains operative.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">7.</span> DIPLOMATIC &amp; INTERNATIONAL</div>
+
+  <div class="subsection-header">Spain-US Clash</div>
+  <p>Leavitt claimed Spain "agreed to cooperate with US military." Immediately denied by Spain. FM Albares: "I can refute the White House spokesperson. The position of the Spanish government has not changed one iota." PM Sánchez: "No to war." Trump previously threatened to "cut off all trade with Spain."</p>
+
+  <div class="subsection-header">France: Critical but Participating Defensively</div>
+  <p>French MFA sources: "Don't view the attack on Iran favorably." Le Monde: France entering "strictly defensive" logic. Macron: "Preserve Lebanon's territorial integrity and refrain from ground offensive."</p>
+
+  <div class="subsection-header">Iran Denies ALL Diplomatic Contact</div>
+  <p>Tasnim: "No message has been sent to America and no response is being given to America's messages." Contradicts NYT report of MOIS-CIA backchannel.</p>
+
+  <div class="subsection-header">Pezeshkian to Neighbors</div>
+  <p>"We tried, with your help and through diplomacy, to avoid war. The American-Zionist military attack left us no option other than defending ourselves. We respect your sovereignty."</p>
+
+  <div class="subsection-header">Larijani: Armed Forces "Fully in Control"</div>
+  <p>SNSC Secretary warned separatist groups: "should not think a favorable wind has begun to blow."</p>
+
+  <div class="subsection-header">Lebanese PM: Hezbollah Must Disarm</div>
+  <p>PM Nawaf Salam announced emergency cabinet meeting demanding Hezbollah disarmament. Government banned Hezbollah military activities Monday.</p>
+
+  <div class="subsection-header">EU Analysts: Regime Will Survive</div>
+  <p>Spiegel: EU intelligence assessment believes ayatollahs will retain power despite strikes. "Beijing stands rhetorically behind Tehran but China's support is limited. This crisis reveals an unequal partnership."</p>
+
+  <p class="source">Sources: Guardian, AP, Newsweek, Haaretz, Le Monde, Tasnim, ISNA, Dostor (Egypt), Der Spiegel</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">8.</span> 🇺🇸 US POLITICS &amp; STRATEGY</div>
+
+  <div class="subsection-header">Executive Branch</div>
+  <p>Hegseth Pentagon briefing: "We are just getting started. We are accelerating, not decelerating." "Iran's capabilities are evaporating by the hour." Regime "are toast, and they know it." "More bombers and more fighters arriving just today." Operation could last "a number of weeks." Leavitt: Iran's leaders "paying for their crimes in blood." Named Obama: "sent pallets of cash." Trump: rated war "about a 15" out of 10. Decision rationale: "good feeling" Iran was about to strike + Netanyahu intel on Khamenei location.</p>
+  <p>Ground troops: Leavitt: "not part of the plan at this time" but "I certainly will never take away military options." Murphy (D-CT) after classified briefing: "open-ended operation that hasn't even really started in earnest yet. There will be more Americans killed. They refuse to take off the table the insertion of ground troops." Booker (D-NJ): "There clearly was no imminent threat."</p>
+
+  <div class="subsection-header">Congress</div>
+  <p>Senate war powers resolution FAILED 47-53. 8th consecutive failure. Fetterman (D-PA): only Democrat voting no. Paul (R-KY): only Republican voting yes. House vote Thursday — Massie (R) and Khanna (D). Even if passed, Trump would veto; 2/3 override needed. Rubio: "No presidential administration has ever accepted the War Powers Act as constitutional."</p>
+
+  <div class="subsection-header">Public Opinion</div>
+  <p>CBS News poll: Most Americans disapprove of war. ~Half believe it could last months or years. Admin hasn't clearly explained goals.</p>
+
+  <p class="source">Sources: Guardian, CBS, Al Jazeera, ABC News, CNBC, NBC, Reuters, WaPo, NPR</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">9.</span> 🇺🇸 US DOMESTIC SECURITY &amp; HOMEFRONT</div>
+
+  <div class="subsection-header">Threat Posture</div>
+  <p>DHS Secretary Noem: working to "closely monitor and thwart" threats. Experts warn agencies "spread thin." CISA still understaffed (~1/3 lost). DHS shutdown Week 3. Johnson weaponizing: "Democrats shutting down DHS while Iran threatens our homeland." FBI JTTF fully activated.</p>
+
+  <div class="subsection-header">Evacuations</div>
+  <p>17,500+ Americans returned from Middle East since Saturday; 8,500 yesterday alone. Rubio evacuation phone initially automated: "US has no plans to rescue you." State Dept considering military flight options.</p>
+
+  <div class="subsection-header">Dignified Transfer</div>
+  <p>Trump to attend dignified transfer of 6 fallen service members.</p>
+
+  <div class="subsection-header">Iraq Rocket Foiled</div>
+  <p>Iraqi security forces seized mobile rocket platform with two missiles ready to fire in Zubair district, south of Basra. Likely militia targeting Kuwait or US base.</p>
+
+  <p>No new domestic incidents, hate crimes, or major protest activity this cycle (overnight hours).</p>
+
+  <p class="source">Sources: CNBC, CBC, CS Monitor, NBC News, Reuters/Hindustan Times</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">10.</span> 🇺🇸-🇨🇳 US-CHINA STRATEGIC ANGLE</div>
+  <p>Spiegel: "Beijing stands rhetorically behind Tehran but support is limited. This crisis reveals an unequal partnership." Chinese analyst (Sina): "Iran defines victory as regime survival; US-Israel have no clear political objective or post-war plan." PetroChina #1 market cap — crisis creating winners. No new direct Chinese military moves.</p>
+  <p class="source">Sources: Der Spiegel, Sina Finance, NRC, Xinhua</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">11.</span> FOREIGN LANGUAGE INTELLIGENCE</div>
+
+  <div class="subsection-header">Persian/Farsi — Defiance + Hypersonic Claims + Denial</div>
+  <p>State media pushing hypersonic narrative. SNSC Secretary claims 500+ US military casualties (vs 6 confirmed). Officially denying diplomatic contact. Denying Kurdish border crossing. Outrage at US using "Shahed-like drones" against Iran. Diaspora: Operation Genesis details — Khamenei killed with first shots before air defense disabled (Euronews Persian). Food shortage fears acknowledged. Isfahan celebrating. MEK claims 31 operations in 20 cities — state media ignoring.</p>
+
+  <div class="subsection-header">Arabic — Humanitarian Crisis + Gulf Fury</div>
+  <p>Iraq blackout dominating. Dubai Airport damage confirmed. Gulf Arabic furious: Iran attacks on UAE "exceed all other countries combined." IRGC 10-tanker claim heavily covered. Qatar FM rejected Iran's "only targeting US bases" claim. Embassies in 9 Arab countries hit.</p>
+
+  <div class="subsection-header">Chinese — Cautious Distancing</div>
+  <p>PetroChina beneficiary. "No clear US political objective." Unequal partnership exposed. BBC Chinese triple oil crisis analysis circulating.</p>
+
+  <div class="subsection-header">Russian — Submarine Confirmation + Regime Anxiety</div>
+  <p>BBC Russian: US Navy sank warship off Sri Lanka. "Putin losing friends" growing. EADaily poll: 47% say Iran won't teach Russia anything. No TASS defense of Iran.</p>
+
+  <div class="subsection-header">Other Languages</div>
+  <p>Turkish: Incirlik targeting confirmed, ambassador summoned. Hebrew: "deepening air superiority across all of Iran," partial normalization from Thursday. European: gas doubled, Karl Bildt 2003 Iraq comparison, interceptor shortage. Korean: KOSPI worst day ever. Japanese: Evin Prison bombed (NHK bureau chief location), BOJ monitoring.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">12.</span> INFORMATION OPERATIONS</div>
+  <p>Pentagon released submarine torpedo video — power projection. US using Iran's own Shahed design against them (LUCAS). Iran's 500-casualty claim vs 6 confirmed — massive propaganda gap. Iran denying diplomacy while NYT reports backchannel. Disinformation: Iran bombed own school. Hegseth escalation rhetoric: "just getting started." MEK claims 31 domestic operations — state media silent. Qassem distancing Hezbollah from Iran's war while threatening Lebanese state. IRGC claims second THAAD destroyed (unverified).</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">13.</span> 🗺️ MAPS &amp; VISUAL INTELLIGENCE</div>
+  <p>Pentagon posted official strike map showing first 100 hours. Daily Mail satellite imagery: Tehran presidential complex before/after. NBC News Hormuz tanker traffic comparison. Standing maps at Reuters, BBC, Guardian, CBS News updated continuously.</p>
+</div>
+
+<div class="tier-label tier-3">TIER 3 — INTELLIGENCE GAPS</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">15.</span> INTELLIGENCE GAPS</div>
+
+  <div class="gap-resolved"><strong>RESOLVED:</strong> IRIS Dena cause → US submarine, Mk 48 torpedo. Confirmed by SecDef.</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Senate war powers vote → Failed 47-53. 8th consecutive failure.</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Turkey/NATO Article 5 → NOT triggered. Missile targeting Incirlik specifically.</div>
+
+  <div class="gap-open"><strong>PARTIALLY:</strong> MOIS-CIA contact — Iran officially denies all contact; contradicts NYT.</div>
+  <div class="gap-open"><strong>PARTIALLY:</strong> CIA Kurdish operation — both sides deny border crossing despite i24 claims.</div>
+  <div class="gap-open"><strong>PARTIALLY:</strong> Interceptor depletion — running short per Spiegel; Europe may supply.</div>
+
+  <div class="gap-open"><strong>OPEN:</strong> Ahmadinejad alive/dead. Saudi refinery production impact. Houthi kinetic action (still zero). UAE offensive decision. 32+ unnamed leaders killed. CM-302 deal. Verba MANPADS unused. US detainees. Claude AI in combat.</div>
+
+  <div class="gap-new"><strong>NEW:</strong> Kurdish ground offensive reality? IRGC Wave 18 targets? P&amp;I cancellation shipping impact? Iranian navy total neutralization status? Tehran remaining air defenses? House vote outcome? Trump insurance backstop mechanism? Qassem survival method? US evacuation numbers? Iran Air fleet losses? IRGC hypersonic verification? Iraq grid restoration timeline?</div>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">16.</span> 🦉 EDWARD'S ANALYSIS</div>
+
+  <div class="edward-analysis">
+    <div class="byline">Edward — AI Intelligence Analyst</div>
+
+    <p>The submarine kill is the headline, but it's not the story. The story is Hormuz.</p>
+
+    <p>Two tankers crossed the Strait on Monday. Two. Down from fifty-plus three days earlier. And as of midnight tonight, you can't insure a ship through there at all — the P&amp;I clubs have pulled out. This isn't a partial disruption. This is the functional closure of the world's most important energy chokepoint, and we're watching it happen in slow motion while everyone focuses on torpedo footage.</p>
+
+    <p>The insurance cancellation is the kind of thing that sounds technical until you realize what it means: no insurance, no shipping. No shipping, no oil. Not just Iranian oil — everyone's oil that transits Hormuz. That's 20% of global supply. India has 25 days of reserves and gets 40% through that strait. European gas prices doubled in five days. South Korea just had the worst single day in its stock market's history — worse than 9/11. This is the economic shockwave arriving, and it's going to get worse before it gets better.</p>
+
+    <p>Meanwhile, the Pentagon is framing this as a greatest-hits reel. First submarine torpedo kill since WWII! First LUCAS drone combat use! First PrSM deployment! The messaging is deliberate — this is weapons-catalog warfare, every new system getting its combat debut and its press release. The military-industrial complex is having an incredible week.</p>
+
+    <p>Hegseth says "just getting started" and "accelerating, not decelerating." Ground troops "not part of the plan at this time" — the "at this time" doing a lot of work in that sentence. Murphy came out of the classified briefing and said they were told it's "open-ended" and "hasn't even really started in earnest." That's a sitting senator telling you, after seeing the classified picture, that this is going to get bigger.</p>
+
+    <p>The Iraq blackout is getting buried in English coverage but it shouldn't be. Forty-three million people without electricity because their gas supply got cut and their power stations got droned. Iraq isn't even a combatant. This is the war spreading through infrastructure dependencies, and it's a preview of what happens to every country in the region that depends on Iranian gas or sits near the conflict zone.</p>
+
+    <p>The Kurdish thing is fascinating and frustrating. I have an i24NEWS exclusive with a named group (CPFIK), a specific organization (PJAK), a specific location (Mariwan), and a claim of thousands of fighters — and then Iran denies it, the KRG denies it, the White House denies it, and even Kurdish groups deny it. Everyone denying something that one source says is happening since March 2. Either i24's source is fabricating, or there's a covert operation everyone has agreed to deny. Given that CNN already confirmed CIA is arming Kurds and IDF is striking the border to enable entry, I lean toward "it's happening and no one wants to own it yet."</p>
+
+    <p>The domestic off-ramp is gone. Senate voted 47-53. The eighth consecutive failure. House votes Thursday but Massie-Khanna won't pass either. War Powers Act is dead as a constraint mechanism. Trump's legal team is calling it unconstitutional anyway. The only check left is public opinion, and while most Americans disapprove, there's no mechanism to translate that into policy before this escalates further.</p>
+
+    <p>Something that doesn't add up: Iran claims 500+ US military casualties. The US says 6. There is no middle ground between those numbers. Either Iran's SNSC is lying by a factor of 80, or the US is suppressing casualty reporting on an unprecedented scale. I think the former is far more likely — it reads like domestic morale propaganda — but the gap is so extreme that it's worth flagging every cycle until we get independent verification from either direction.</p>
+
+    <p>The food shortage reporting from Tehran is new and significant. Schools were closed, internet was cut, but those are disruptions. Panic buying is fear. When people start hoarding food five days into a war, they're telling you they don't believe their government can protect them or provide for them. That's a different kind of damage than a missile strike.</p>
+
+    <p>Pattern I'm watching: the war is simultaneously being won militarily (by every objective metric — air superiority, naval elimination, leadership decapitation, infrastructure degradation) and lost strategically (no stated objectives, no exit strategy, no diplomatic off-ramp, allies criticizing, global economy bleeding, civilian casualties mounting). The EU analysts saying the ayatollahs will retain power despite all of this should give everyone pause. You can destroy every frigate and every missile launcher and still not achieve anything politically durable. Ask anyone who was in Baghdad in 2003.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="warning">SENSITIVE — NOT FOR PUBLIC DISTRIBUTION</div>
+  Produced by Edward (AI Intelligence Analyst) for Nichol Alexander<br>
+  Sources: Open-source intelligence across 16 languages<br>
+  This briefing is generated from publicly available information and does not represent classified intelligence.<br>
+  Next scheduled briefing: Thursday, March 05, 2026 — 3:00 AM ET
+</div>
+
+</body>
+</html>
