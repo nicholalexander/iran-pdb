@@ -40,7 +40,7 @@ If 1953 planted the seed of Iranian mistrust, the Iran-Iraq War of 1980-1988 mad
 
 The scale of chemical warfare was staggering. Iraq used mustard gas, tabun, and sarin against Iranian forces in at least forty documented engagements. The attack on Halabja in March 1988, which killed between 3,200 and 5,000 Kurdish civilians, was carried out with chemicals whose precursors were supplied by Western European firms, a fact well known to Western intelligence services. The United States initially attempted to blame Iran for the Halabja attack — a piece of disinformation that the Defense Intelligence Agency helped construct and that was not formally corrected for years.
 
-For Iranians, the Iran-Iraq War is not ancient history. It is living memory. One million Iranians were killed or wounded. Every city has its martyrs' cemetery. Every family has its story. The war ended with UN Resolution 598, which Khomeini accepted by comparing it to "drinking poison." The phrase has entered the Iranian political lexicon as shorthand for the anguish of accepting an unjust peace imposed by a world order that had watched Iran bleed for eight years while supplying its enemy.
+For Iranians, the Iran-Iraq War is not ancient history. It is living memory. An estimated one million people on both sides were killed or wounded, with Iran bearing the heaviest losses. Every city has its martyrs' cemetery. Every family has its story. The war ended with UN Resolution 598, which Khomeini accepted by comparing it to drinking "a chalice of poison." The phrase has entered the Iranian political lexicon as shorthand for the anguish of accepting an unjust peace imposed by a world order that had watched Iran bleed for eight years while supplying its enemy.
 
 ### The Nuclear Program as Sovereignty
 
@@ -60,7 +60,7 @@ This is not to say that all Iranians support their government — many manifestl
 
 ### Drawing Lines in the Sand
 
-In May 1916, Sir Mark Sykes of Britain and François Georges-Picot of France drew lines on a map of the Ottoman Empire's Arab provinces, dividing them into spheres of influence with a casualness that still staggers. The agreement, later modified by the inclusion of Russian and Italian claims, created the template for the modern Middle East: Iraq (a British creation joining three Ottoman provinces with little in common), Syria and Lebanon (French mandates carved to maximize Christian-Muslim tensions that could be exploited for colonial control), Palestine (promised simultaneously to Arabs and Jews in contradictory commitments), and Transjordan (invented as a consolation prize for the Hashemite dynasty expelled from the Hejaz).
+In May 1916, Sir Mark Sykes of Britain and François Georges-Picot of France drew lines on a map of the Ottoman Empire's Arab provinces, dividing them into spheres of influence with a casualness that still staggers. The agreement, later modified by the inclusion of Russian and Italian claims, created the template for the modern Middle East: Iraq (a British creation joining three Ottoman provinces with little in common), Syria and Lebanon (French mandates carved to maximize Christian-Muslim tensions that could be exploited for colonial control), Palestine (promised simultaneously to Arabs and Jews in contradictory commitments), and Transjordan (carved out in 1921 for the Hashemite prince Abdullah, before the dynasty's later expulsion from the Hejaz by Ibn Saud in 1925).
 
 The mandate system that formalized these arrangements after World War I was colonialism wearing a League of Nations mask. Article 22 of the League Covenant described the mandates as a "sacred trust of civilization" for peoples "not yet able to stand by themselves." The language of civilizational tutelage — the assumption that Middle Eastern peoples required Western guidance to achieve political maturity — persisted long after the mandates formally ended. It persists, one might argue, in Trump's declaration that he must be "involved in the appointment" of Iran's next leader.
 
@@ -188,7 +188,7 @@ Iran will survive this war. It has survived the Arab conquest of the seventh cen
 
 The weight of history is not a metaphor. It is the accumulated mass of lived experience — of suffering, resistance, betrayal, and survival — that shapes how peoples understand the present and choose the future. Iran carries that weight. The Middle East carries that weight. The question is not whether the 2026 war will add to it — it already has. The question is whether anyone in a position of power will learn from it, or whether the next generation of policymakers will once again proceed in the serene conviction that history does not apply to them, repeating the tragedy that their predecessors' amnesia guaranteed.
 
-As the great Iranian poet Hafez wrote six centuries ago: *"The green sea of heaven and the bark of the new moon / Are drowned in the illusion of my love."* The illusion of control over the Middle East has drowned more than moons. It has drowned democracies, peoples, and the possibility of peace — again and again, in waves that each generation believes it sees for the first time.
+The illusion of control over the Middle East has drowned more than moons. It has drowned democracies, peoples, and the possibility of peace — again and again, in waves that each generation believes it sees for the first time.
 
 ---
 
