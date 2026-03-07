@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T22:15:06.804139+00:00",
+    "last_updated": "2026-03-07T22:30:06.585169+00:00",
     "total_items": 500,
-    "new_this_run": 14,
+    "new_this_run": 6,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "dcaf4a08452ac9fb",
+      "title": "About 454,000 registered as displaced in Lebanon, minister says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/about-454000-registered-displaced-lebanon-minister-says",
+      "summary": "\n\n  \n      \n      \nAbout 454,000 registered as displaced in Lebanon, minister says\n\n    \n    \n\n        \n    \n                Lebanon’s social affairs minister, Haneen Sayed, has announced that approximately 454,000 Lebanese people have registered as displaced.\n\n\"Today, we inspected the preparations ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T22:19:29+00:00",
+      "fetched": "2026-03-07T22:30:06.494730+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "c97e19f878a6598c",
+      "title": "Dozens gather in Boston in support of war with Iran and to honor \"brave American soldiers\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0padm1tMUpRRjBneXZZSndwTzJLV1hqRzE1dm9tTE5TOVZ6b0pFcEJTdHdIbldWUlJoZHY1RloyaS1NMk1hSDl0VFg2YkhTdmtoLUpKZWVDUk9acnR0MGgzeWJNWXNLbm9mMU9ZaE5rUEpYR2pOeHA3ZFhfSUpLd21zNGN1dFZ2SlcydQ?oc=5",
+      "summary": "Dozens gather in Boston in support of war with Iran and to honor \"brave American soldiers\"&nbsp;&nbsp;CBS News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:14:00+00:00",
+      "fetched": "2026-03-07T22:30:06.381707+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "7f81ed7151daab7b",
       "title": "Israel kills two in southern Lebanon, bombs Beirut suburbs",
@@ -136,6 +160,18 @@
       "category": "regional",
       "published": "2026-03-07T21:55:25+00:00",
       "fetched": "2026-03-07T22:00:06.412777+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6a6382a65a0a50c4",
+      "title": "Trump attends return of first US troops killed in Iran war - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDJ1QnhjUUhwWk1DUno1ZWFCaEk3ZWJJa2dDbUpKWGpReHZwUTlGcUtYRUNYd21uUGVFM2xnRVl1Q3NRcTNOYmFFTDhoSHdjSnNFcndoMlVYWE9BZ1VMQXlVaGdTMnc1TFdTVlBxb0FIdUFEZGc4RVpZdHUtYmpnWThSN3IzSGV5VW5JSnIxUHZLNk9ZVlhUeHBwYjhrOXUxNUxieUVDVTk?oc=5",
+      "summary": "Trump attends return of first US troops killed in Iran war&nbsp;&nbsp;France 24",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T21:55:13+00:00",
+      "fetched": "2026-03-07T22:30:06.382188+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1928,6 +1964,18 @@
       "iran_specific": true
     },
     {
+      "id": "ed82b916b2507fde",
+      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPOV9rWWhmY1M1NDFfN2lzY2IxT3ZGTXh5RFV4dHB6LXFqemFiam8xUVpvTjZ0SUdCeWFMeWhtUk1Dd09wYW1Ia3pYNnlhQzFQSFZiaENxRXpYU2ZWaC1aYXFEUUJKWkFNTDY3a2tvRm0yMmxSMDNTQ0pWMFR6NmpsbHgxT0NJS195X1dJMTBwRjZtanMzUUFtMUhDOHZFV29pRUxUOTFZSWFBdkgyMmNTNlFUNHR5Vl9VXy1GZ2VoaHZ4dEFUMXZSa1RielBBNWtLUEg5aW9fWWJEMFphNFB6ekRNanlJaDl4bzRzc1NISms3X1NpdnFvQWdWNDhzV1hJQm9uT1BmUGZqQjNTNGJEVXlCSHJyb0p5MnM0NDVYZTV0WGNaUndjVUpxOWVmNG5SeGpBeVRScDVzLVY5Z3VzazkxOE5jclU1ZXM4WGJBdXVwYnpSQlNWWXMxdlhKX0RGT3pYQkZKWmlMSlI3UU1fWUdlRXpJWjk1VXFnUDhPRHA?oc=5",
+      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:00:00+00:00",
+      "fetched": "2026-03-07T22:30:06.382265+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "30988ee5d7f3e2ae",
       "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
       "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
@@ -2312,6 +2360,18 @@
       "iran_specific": true
     },
     {
+      "id": "213ece8ce53321fd",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNUXBWcTA2RTJ1X3RJc0hTR3NLQjFIRlNDNWZJN3d1cnk2bU9UcW1fM3J2ZVRJZ2NTTlQ3R1dXcjlITTlRcWMxSmdSUFk3QjNpeHRoTDF3d1ZCdHJaYjBlQ25wODY3aDNEaGg0Sm9tOWp3SVJLdEE2Ni1SbDQ1YW5zU2tReWZac1R6eG9DN2Z0RDhFb1dNUk1XbnRseG5PUF90WURhTjJnbFpKNHFBVkpGYlY1MlNwQkFoTkVsVHFhNUJ2a0d0S3hBc0xMN2R1SHgtT1ktaHJiT3ZfNEUzYWp0enpmUHhSNHdBQkJ2TjFEVDNUam9WMDZONU9aUzRFWmlfX2hQTW9vN1pXUEtMVW50dWpsam1vOXlIalUwM3ptdmJQRnZJbjFpMWtKMFVueVhDaVluR3l4OXFxbWROc0xjMVpMaEtra1pXQU5hNGwwbGJ0RTZWd19lUmV0RTdKb1JlUTY1TXIxV0N5RmpCMjZvd3lWRmk5TGNGTTNDakdqWk5zSE1UcmJn?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T22:30:06.381896+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -2644,6 +2704,18 @@
       "category": "aggregator",
       "published": "2026-03-07T16:01:04+00:00",
       "fetched": "2026-03-07T22:15:06.543620+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a8c13300694b5231",
+      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTI3S2huVlNTMEV6ZHdHVEdvYWhiMW91dHNPV1hpTzRIZm8zNmpnc0xKZHFWUFRiUGVQSm0zMXhzQ25VRVV3bENyNF9CN1BaeFJHdEhBOEU5ZHUzbjB6S2xrdkE1Qm5DV0tXbVNpTk1CQ2xRc2pMdTUxN2JrX3J0blRiajJKcnY2eENuRU5yWDREaGl2VVJEZkhtazQ4cC0tR3ZtRWROdDlHMjJEYUR0VnhMSjNZUzllSEg1R1hlc29YVHZDd2xDLU9FaDZUdlpvMUVfdzZhZC1adTUzVHJrbDhGTUwzTmhMeWRNcWxIUXNCT0VBUGpyOVNJN0hVaklucDRYSnZEYjZwaGJsV3JKTWlUYS1TR19XMG9mNEs5aUM2eWZqOXNSeHZYWnJvSmtyVkFJakk2Z1hnZ3kzSU1oYXRTR09RQ3R4VWdVcEItVmM2b19QWmdoNWEtUEQyRGloNXp1UmNLcEVKQkdveE55SXFLbGZGN3dQZkU5ekNrN2x1c01ZZkQ1RlFSUnZGVEdLekJoTkxtWXJ1V2tt?oc=5",
+      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:01:04+00:00",
+      "fetched": "2026-03-07T22:30:06.382303+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:41:23.368909+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "cef57bcff95f3126",
-      "title": "Endless Talks, Elusive Outcomes",
-      "link": "https://warontherocks.com/2026/02/endless-talks-elusive-outcomes/",
-      "summary": "Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranAs tensions simmer between the United States and Iran, attempts to resume negotiations and ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-05T22:45:24+00:00",
-      "fetched": "2026-03-07T20:41:23.368939+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "aef21087e79f3836",
-      "title": "How We Arrived at this Iranian Moment and What Happens Next",
-      "link": "https://warontherocks.com/2026/02/how-we-arrived-at-this-iranian-moment-and-what-happens-next/",
-      "summary": "The Iranian regime has crushed the latest wave of protests through brute force, but the regime&#8217;s survival comes at a cost. It now confronts a volatile mix of domestic opposition, weakened regional proxies, and years of economic decay. Ryan is joined by co-host Kerry Anderson in a conversation ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-05T21:16:54+00:00",
-      "fetched": "2026-03-07T20:41:23.368955+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "79788f3bf78c15d8",
-      "title": "Beyond the Missile: A Cost-Per-Effect Blueprint for the Future Force",
-      "link": "https://warontherocks.com/2026/02/beyond-the-missile-a-cost-per-effect-blueprint-for-the-future-force/",
-      "summary": "Should the United States buy more destroyers, or would the money be better spent developing bases, munitions, or software? These are the kinds of questions the Department of Defense confronts every year when building its budget. Yet the Pentagon&#8217;s process still lacks a clear way to answer the ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-05T09:00:05+00:00",
-      "fetched": "2026-03-07T20:41:23.368990+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "dcbeada6d1663184",
-      "title": "Command Responsibility at Home: Governors, the Guard, and Domestic Readiness",
-      "link": "https://warontherocks.com/2026/02/command-responsibility-at-home-governors-the-guard-and-domestic-readiness/",
-      "summary": "Late last year, the Supreme Court blocked an attempted National Guard deployment into the Chicago area &#8212; but months earlier, far from the headlines, a federal memo was already reshaping what Guard &#8220;readiness&#8221; means at home. The Supreme Court&#8217;s order was procedural, not a fina",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-05T08:30:02+00:00",
-      "fetched": "2026-03-07T20:41:23.369026+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "15732d2cf0d16b18",
-      "title": "Sun Tzu in the Supply Chain: The New Face of Economic War With China",
-      "link": "https://warontherocks.com/2026/02/sun-tzu-in-the-supply-chain-the-new-face-of-economic-war-with-china/",
-      "summary": "Editor&#8217;s note: This article is the first in an 11-part series examining how the United States should organize, lead, and integrate economic statecraft into strategy, defense practice, and the broader national security ecosystem. This special series is brought to you by the Potomac Institute fo",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-05T08:00:58+00:00",
-      "fetched": "2026-03-07T20:41:23.369066+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1ccdd4bf8c883c6b",
-      "title": "Skipping to the Endgame on the Iran Strategy",
-      "link": "https://warontherocks.com/2026/02/skipping-to-the-endgame-on-the-iran-strategy/",
-      "summary": "In 2025, Richard Nephew and Ariana Tabatabai wrote, &#8220;Trump Has A Rare and Short Window to Solve the Iran Problem &#8211; Here&#8217;s How,&#8221; where they argued the second Trump administration should intensify pressure on Tehran amid its accelerating nuclear program. A year later, amid heig",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-04T18:30:28+00:00",
-      "fetched": "2026-03-07T20:41:23.369081+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
