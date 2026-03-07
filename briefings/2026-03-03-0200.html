@@ -4,218 +4,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Iran Situation Report — 9:00 PM ET, March 02, 2026</title>
-<style>
-  @page {
-    size: letter;
-    margin: 0.75in 0.85in;
-    @top-center {
-      content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION";
-      font-size: 7pt;
-      color: #999;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-    }
-    @bottom-center {
-      content: counter(page) " of " counter(pages);
-      font-size: 8pt;
-      color: #888;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-    }
-  }
-
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-
-  body {
-    font-family: 'Georgia', 'Times New Roman', serif;
-    font-size: 10.5pt;
-    line-height: 1.55;
-    color: #1a1a1a;
-    background: #fff;
-  }
-
-  .cover-header {
-    border-bottom: 3px solid #b71c1c;
-    padding-bottom: 14px;
-    margin-bottom: 20px;
-  }
-  .cover-header .classification {
-    background: #b71c1c;
-    color: #fff;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 8pt;
-    font-weight: 700;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    padding: 4px 10px;
-    display: inline-block;
-    margin-bottom: 10px;
-  }
-  .cover-header h1 {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 22pt;
-    font-weight: 700;
-    color: #1a1a1a;
-    letter-spacing: -0.5px;
-    margin-bottom: 4px;
-  }
-  .cover-header .subtitle {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 11pt;
-    color: #555;
-    font-weight: 400;
-  }
-  .cover-header .dateline {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 10pt;
-    color: #333;
-    margin-top: 8px;
-    font-weight: 600;
-  }
-  .cover-header .meta-line {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 8pt;
-    color: #888;
-    margin-top: 3px;
-  }
-
-  .exec-summary {
-    background: #f8f5f0;
-    border-left: 4px solid #b71c1c;
-    padding: 14px 18px;
-    margin-bottom: 22px;
-  }
-  .exec-summary h2 {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 9pt;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    color: #b71c1c;
-    margin-bottom: 8px;
-  }
-  .exec-summary ul { list-style: none; padding: 0; }
-  .exec-summary li {
-    padding: 3px 0 3px 16px;
-    position: relative;
-    font-size: 10.5pt;
-    line-height: 1.45;
-  }
-  .exec-summary li::before {
-    content: "▸";
-    position: absolute;
-    left: 0;
-    color: #b71c1c;
-    font-weight: bold;
-  }
-
-  .section { margin-bottom: 20px; page-break-inside: avoid; }
-  .section-header {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 12pt;
-    font-weight: 700;
-    color: #1a1a1a;
-    border-bottom: 1.5px solid #ccc;
-    padding-bottom: 4px;
-    margin-bottom: 10px;
-  }
-  .section-header .section-num { color: #b71c1c; font-weight: 800; margin-right: 6px; }
-
-  .subsection-header {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 10pt;
-    font-weight: 700;
-    color: #333;
-    margin-top: 12px;
-    margin-bottom: 6px;
-  }
-
-  p { margin-bottom: 8px; text-align: justify; hyphens: auto; }
-  .source { color: #666; font-size: 9pt; font-style: italic; }
-
-  .callout {
-    background: #f0f4f8;
-    border: 1px solid #d5dde5;
-    border-radius: 3px;
-    padding: 10px 14px;
-    margin: 10px 0;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 9.5pt;
-  }
-  .callout .label { font-weight: 700; color: #b71c1c; text-transform: uppercase; font-size: 8pt; letter-spacing: 1px; }
-  .callout .value { font-size: 16pt; font-weight: 700; color: #1a1a1a; }
-  .callout .delta { font-size: 9pt; color: #666; }
-
-  table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 9.5pt; font-family: 'Helvetica Neue', Arial, sans-serif; }
-  th { background: #2c3e50; color: #fff; padding: 6px 10px; text-align: left; font-weight: 600; font-size: 8.5pt; text-transform: uppercase; letter-spacing: 0.5px; }
-  td { padding: 5px 10px; border-bottom: 1px solid #e0e0e0; }
-  tr:nth-child(even) { background: #f9f9f9; }
-
-  .gap-open { border-left: 3px solid #e67e22; padding-left: 10px; margin: 6px 0; }
-  .gap-resolved { border-left: 3px solid #27ae60; padding-left: 10px; margin: 6px 0; color: #555; }
-  .gap-new { border-left: 3px solid #b71c1c; padding-left: 10px; margin: 6px 0; }
-
-  .edward-analysis {
-    background: #fafaf5;
-    border: 1px solid #d5d0c0;
-    border-radius: 3px;
-    padding: 16px 20px;
-    margin: 16px 0;
-  }
-  .edward-analysis .byline {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 8pt;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    color: #888;
-    margin-bottom: 10px;
-  }
-  .edward-analysis p { font-style: italic; text-align: left; }
-
-  .tier-label {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 8pt;
-    font-weight: 700;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    padding: 3px 8px;
-    display: inline-block;
-    margin-bottom: 8px;
-    border-radius: 2px;
-  }
-  .tier-1 { background: #b71c1c; color: #fff; }
-  .tier-2 { background: #e67e22; color: #fff; }
-  .tier-3 { background: #2c3e50; color: #fff; }
-
-  .no-change { color: #999; font-style: italic; font-size: 9.5pt; padding: 4px 0; }
-
-  a { color: #1a5276; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-
-  ul, ol { margin: 6px 0 8px 20px; }
-  li { margin-bottom: 3px; }
-
-  .footer {
-    margin-top: 30px;
-    padding-top: 12px;
-    border-top: 2px solid #b71c1c;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 7.5pt;
-    color: #999;
-    text-align: center;
-  }
-  .footer .warning { font-weight: 700; color: #b71c1c; text-transform: uppercase; letter-spacing: 1px; font-size: 7pt; margin-bottom: 4px; }
-
-  @media print {
-    body { font-size: 10pt; }
-    .section { page-break-inside: avoid; }
-    .edward-analysis { page-break-inside: avoid; }
-  }
-</style>
+<link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
+<header>
+<div class="container">
+<h1>Iran Situation Report</h1>
+<p>Automated Open-Source Intelligence Aggregation</p>
+</div>
+</header>
 
+<main class="container">
 <div class="cover-header">
   <div class="classification">INTELLIGENCE BRIEFING</div>
-  <h1>Iran Situation Report</h1>
+  
   <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment</div>
   <div class="dateline">Monday, March 02, 2026 — 9:00 PM ET (02:00 UTC March 3)</div>
   <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection & Analysis</div>
@@ -443,6 +245,8 @@
   This briefing is generated from publicly available information and does not represent classified intelligence.<br>
   Next scheduled briefing: ~1:00 AM ET, March 3 (06:00 UTC)
 </div>
+</main>
 
+<script src="../assets/nav.js"></script>
 </body>
 </html>

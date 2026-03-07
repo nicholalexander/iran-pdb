@@ -1,0 +1,357 @@
+/* Iran PDB Design System - Pico CSS + Custom Properties */
+@import url('https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css');
+
+:root {
+  /* PDB Brand Colors */
+  --pdb-accent: #8b0000;
+  --pdb-accent-light: #c0392b;
+  --pdb-bg: #f5f5f0;
+  --pdb-surface: #ffffff;
+  --pdb-text: #1a1a1a;
+  --pdb-text-muted: #666;
+  --pdb-border: #ccc;
+  --pdb-header-bg: #1a1a1a;
+  --pdb-header-text: #d4d4c8;
+
+  /* Override Pico's default colors */
+  --pico-primary-500: var(--pdb-accent);
+  --pico-primary-600: var(--pdb-accent);
+  --pico-primary-700: var(--pdb-accent);
+}
+
+/* Dark theme overrides for feeds page */
+[data-theme="dark"] {
+  --pdb-bg: #0a0e14;
+  --pdb-surface: #111820;
+  --pdb-border: #1e2a3a;
+  --pdb-text: #c8cdd3;
+  --pdb-text-muted: #6b7785;
+  --pdb-header-bg: var(--pdb-surface);
+  --pdb-header-text: var(--pdb-text);
+}
+
+/* Global overrides */
+body {
+  background-color: var(--pdb-bg);
+  color: var(--pdb-text);
+}
+
+/* Typography - System fonts for body, Courier for data */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.monospace, code, pre, .briefing-date, .classification, .confidence {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Header styling */
+header {
+  background: var(--pdb-header-bg);
+  color: var(--pdb-header-text);
+  padding: 1.5rem 0;
+  margin-bottom: 0;
+  border-bottom: 3px solid var(--pdb-accent);
+}
+
+header h1 {
+  font-size: 1.4rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+header p {
+  font-size: 0.8rem;
+  color: var(--pdb-text-muted);
+  margin: 0;
+}
+
+/* Navigation */
+nav {
+  background: rgba(26, 26, 26, 0.95);
+  padding: 0.75rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+nav a {
+  color: var(--pdb-header-text);
+  text-decoration: none;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+  transition: all 0.15s;
+}
+
+nav a:hover {
+  color: #fff;
+  border-color: var(--pdb-accent);
+}
+
+nav .nav-home {
+  font-weight: bold;
+  color: var(--pdb-accent-light);
+}
+
+/* Classification banner */
+.classification {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--pdb-accent);
+  font-weight: bold;
+  letter-spacing: 0.15em;
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--pdb-border);
+  border-bottom: 1px solid var(--pdb-border);
+  margin: 2rem 0;
+  background: rgba(139, 0, 0, 0.05);
+}
+
+/* Section cards for homepage */
+.section-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.section-card {
+  background: var(--pdb-surface);
+  border: 2px solid var(--pdb-accent);
+  padding: 1.5rem;
+  border-radius: 8px;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.section-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.1);
+}
+
+.section-card h2 {
+  color: var(--pdb-accent);
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+}
+
+.section-card p {
+  margin-bottom: 0.75rem;
+}
+
+.section-card .meta {
+  font-size: 0.8rem;
+  color: var(--pdb-text-muted);
+  margin-bottom: 1rem;
+}
+
+.section-card a {
+  color: var(--pdb-text);
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px solid var(--pdb-accent);
+}
+
+.section-card a:hover {
+  color: var(--pdb-accent);
+}
+
+/* Hero section for latest briefing */
+.hero-briefing {
+  background: linear-gradient(135deg, var(--pdb-accent), var(--pdb-accent-light));
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.hero-briefing h2 {
+  margin: 0 0 1rem;
+  font-size: 1.3rem;
+}
+
+.hero-briefing .briefing-link {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border-bottom: 2px solid rgba(255,255,255,0.3);
+  transition: border-color 0.15s;
+}
+
+.hero-briefing .briefing-link:hover {
+  border-color: white;
+}
+
+.hero-briefing .briefing-date {
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  opacity: 0.9;
+}
+
+/* Briefing list styling */
+.briefing-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.briefing-list li {
+  padding: 1rem 0;
+  border-bottom: 1px dotted var(--pdb-border);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.briefing-date {
+  font-weight: bold;
+  min-width: 9em;
+  color: var(--pdb-text);
+  font-size: 0.9rem;
+}
+
+.briefing-title {
+  flex: 1;
+  min-width: 200px;
+}
+
+.briefing-title a {
+  color: var(--pdb-text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--pdb-border);
+  line-height: 1.4;
+}
+
+.briefing-title a:hover {
+  color: var(--pdb-accent);
+  border-color: var(--pdb-accent);
+}
+
+.pdf-link {
+  font-size: 0.8rem;
+  color: var(--pdb-accent);
+  text-decoration: none;
+  border: 1px solid var(--pdb-accent);
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  white-space: nowrap;
+  transition: all 0.15s;
+}
+
+.pdf-link:hover {
+  background: var(--pdb-accent);
+  color: white;
+}
+
+/* Confidence ratings */
+.confidence {
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 0.15rem 0.4rem;
+  margin-left: 0.3rem;
+  border-radius: 3px;
+}
+
+.confirmed { 
+  color: #006600;
+  background: rgba(0, 102, 0, 0.1);
+}
+
+.reported { 
+  color: #cc6600;
+  background: rgba(204, 102, 0, 0.1);
+}
+
+.claimed { 
+  color: var(--pdb-accent);
+  background: rgba(139, 0, 0, 0.1);
+}
+
+.unconfirmed { 
+  color: #666;
+  background: rgba(102, 102, 102, 0.1);
+}
+
+/* Source attribution */
+.source {
+  font-size: 0.75rem;
+  color: var(--pdb-text-muted);
+  font-style: italic;
+}
+
+/* Meta information */
+.meta {
+  font-size: 0.8rem;
+  color: var(--pdb-text-muted);
+  margin-bottom: 1.5rem;
+  border-left: 3px solid var(--pdb-accent);
+  padding-left: 1rem;
+}
+
+/* Footer */
+footer {
+  margin-top: 3rem;
+  padding: 1.5rem 0 2rem;
+  border-top: 2px solid var(--pdb-text);
+  font-size: 0.7rem;
+  color: var(--pdb-text-muted);
+  line-height: 1.7;
+}
+
+footer .warn {
+  color: var(--pdb-accent);
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .section-cards {
+    grid-template-columns: 1fr;
+  }
+  
+  .briefing-list li {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
+  }
+  
+  .briefing-date {
+    min-width: auto;
+    font-size: 0.8rem;
+  }
+  
+  nav ul {
+    gap: 1rem;
+  }
+  
+  nav a {
+    font-size: 0.75rem;
+  }
+}
+
+/* Utilities */
+.text-center { text-align: center; }
+.text-muted { color: var(--pdb-text-muted); }
+.mb-0 { margin-bottom: 0; }
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mt-2 { margin-top: 1rem; }

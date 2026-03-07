@@ -4,52 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Data API — Iran Intelligence Briefings</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Courier New',Courier,monospace;background:#f5f5f0;color:#1a1a1a;line-height:1.7}
-header{background:#1a1a1a;color:#d4d4c8;padding:1.5rem 2rem;border-bottom:3px solid #8b0000}
-header h1{font-size:1.2rem;letter-spacing:0.08em;text-transform:uppercase}
-header p{font-size:0.8rem;color:#888;margin-top:0.3rem}
-nav{padding:0.5rem 2rem;background:#2a2a2a;font-size:0.8rem}
-nav a{color:#d4d4c8;text-decoration:none;margin-right:1.5rem}
-nav a:hover{color:#fff}
-main{max-width:800px;margin:2rem auto;padding:0 1.5rem}
-.classification{text-align:center;font-size:0.75rem;color:#8b0000;font-weight:bold;letter-spacing:0.15em;padding:0.5rem 0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin-bottom:2rem}
-h2{font-size:1rem;margin:2rem 0 0.8rem;text-transform:uppercase;letter-spacing:0.05em;border-bottom:1px solid #999;padding-bottom:0.3rem}
-h3{font-size:0.9rem;margin:1.5rem 0 0.5rem;color:#333}
-p{margin-bottom:0.8rem}
-ul{margin:0.5rem 0 1rem 1.5rem}
-li{margin-bottom:0.4rem}
-a{color:#8b0000}
-a:hover{color:#1a1a1a}
-.feed-card{background:#fff;border:1px solid #ccc;padding:1.2rem 1.5rem;margin:1rem 0}
-.feed-card h3{margin-top:0;color:#8b0000;font-size:0.95rem}
-.feed-card .links{margin:0.5rem 0}
-.feed-card .links a{display:inline-block;font-size:0.8rem;border:1px solid #8b0000;padding:0.15rem 0.5rem;margin-right:0.5rem;text-decoration:none;color:#8b0000}
-.feed-card .links a:hover{background:#8b0000;color:#fff}
-.feed-card .desc{font-size:0.85rem;color:#555;margin:0.3rem 0}
-.feed-card .rows{font-size:0.75rem;color:#888}
-code{background:#e8e8e0;padding:0.1rem 0.3rem;font-size:0.85rem}
-pre{background:#1a1a1a;color:#d4d4c8;padding:1rem 1.5rem;margin:0.8rem 0;overflow-x:auto;font-size:0.8rem;line-height:1.5}
-.schema{background:#fafaf5;border:1px solid #ccc;padding:1rem 1.5rem;margin:0.8rem 0;font-size:0.82rem}
-.schema code{background:none;padding:0}
-.updated{font-size:0.75rem;color:#888;text-align:right;margin:1rem 0}
-footer{max-width:800px;margin:3rem auto 2rem;padding:1.5rem;border-top:2px solid #1a1a1a;font-size:0.7rem;color:#555;line-height:1.7}
-footer .warn{color:#8b0000;font-weight:bold;display:block;margin-bottom:0.5rem}
-</style>
+<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <header>
+<div class="container">
 <h1>Iran Intelligence Briefings — Data API</h1>
 <p>Machine-Readable Structured Data Feeds</p>
+</div>
 </header>
-<nav>
-<a href="../">← Briefings</a>
-<a href="../analysis/">Strategic Analysis</a>
-<a href="../timeline/">Timeline</a>
-<a href="../map/">Map</a>
-</nav>
-<main>
+
+<main class="container">
 <div class="classification">UNCLASSIFIED // OPEN SOURCE // AI-GENERATED</div>
 
 <p>All conflict data from the Iran intelligence briefing series is available as static JSON and CSV files for programmatic access. These are designed for analysts, researchers, and automated systems that need machine-readable data.</p>
@@ -247,13 +212,7 @@ plot(econ$wti_crude_usd, type = "l", main = "WTI Crude (USD)")
 </ul>
 
 </main>
-<footer>
-<span class="warn">⚠ AI-GENERATED INTELLIGENCE PRODUCT</span>
-This data is compiled by AI systems from open-source reporting. It has not been verified by human intelligence analysts. Casualty figures, economic data, and event details may contain errors, lag behind real-time developments, or reflect source biases. Do not use as sole basis for investment, policy, or operational decisions.
-<br><br>
-All briefings and data are generated using AI language models (Claude, OpenAI) processing publicly available sources. No classified or proprietary information is used. Source attribution is provided for all claims. Confidence ratings reflect source reliability assessment, not ground truth.
-<br><br>
-<strong>License:</strong> Data is provided for research and analysis purposes. Attribution appreciated: "Iran Intelligence Briefings — nicholalexander.github.io/iran-pdb"
-</footer>
+
+<script src="assets/nav.js"></script>
 </body>
 </html>
