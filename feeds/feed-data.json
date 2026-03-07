@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T20:47:35.134481+00:00",
-    "total_items": 458,
-    "new_this_run": 229,
+    "last_updated": "2026-03-07T21:00:06.621376+00:00",
+    "total_items": 468,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "b1db8668651324d3",
+      "title": "Iranian foreign minister sats Trump ‘killed’ Iran’s gesture towards its neighbours",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-sats-trump-killed-irans-gesture-towards-its",
+      "summary": "\n\n  \n      \n      \nIranian foreign minister sats Trump ‘killed’ Iran’s gesture towards its neighbours\n\n    \n    \n\n        \n    \n                “President Pezeshkian expressed openness to de-escalation within our region, provided that our neighbors’ airspace, territory, and waters are not used to at",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T20:54:17+00:00",
+      "fetched": "2026-03-07T21:00:06.531397+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "117088cc5379d87e",
       "title": "Historic gold for Iran as teen fencer wins World Cup title",
@@ -1100,6 +1112,18 @@
       "iran_specific": true
     },
     {
+      "id": "be339c2e172016f6",
+      "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOU1DZzBYeG5DOFlLRC1KMERORFpfNVdERlJBdjB1ZWNNSmR0WkF4ZWc0ak9ObkRaZTRYM0JOcS1SbWNsWl9ycDNHSzhsLTJiQnVBWUJCUEJ6U05qaEdwR0pGVXRHZ2dwYU1TaVZhT3prRVBTaUNfOXo2RUppT09QbkRGQTdlREdXYUo4T1JqVlR4a09UVFE1MDVUaVpDMGptdmpOSUVsekZTV1dkN25DWUl30gG3AUFVX3lxTE1xVXVvSFhHX3M5Q0ZrNHpOcEtqSlN4TUtfV0kyWmhfSTR3MnVJb1QtSElCRUlPdjlwa2o3bXZUNl84QTlPdk1QeFJzcmREN1VjempoMGc1YnJIUEl5RmdYRDN4bzhiTHQyQnJ6UmRtZW9Zak9PNndMeV93ZC1yY0hXd0k0am5DSDloT3F6WThNeXhVM2tvXzR2a29YUUs1MXV6M29Jb3BKYVNwT0ZFRlYxOVYtSm9tdw?oc=5",
+      "summary": "UAE president says prepared to confront ‘threats’ as Iran attacks continue&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T20:22:40+00:00",
+      "fetched": "2026-03-07T21:00:06.424633+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "a108e3653f99016b",
       "title": "Spain evacuates staff of its embassy in Iran — Foreign Minister",
       "link": "https://tass.com/world/2098233",
@@ -1592,6 +1616,18 @@
       "iran_specific": true
     },
     {
+      "id": "75c12b60e12fb62c",
+      "title": "Middle East conflict: Do US voters back Trump's Iran war? - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmh2SzRpMVlEeV9YWDhSTXdHQmsyMGxTcUJVajRUcUx1UFpPaWExSExMd1doNWg4MjA4b3NZa1hjbV9nck5OVmVENHZIeUlsYUdaTVBELVNHaWJ1MlE5YUxMOUgzZURWSWRSdWt1OHVSVlhRYnFHWVF6NDNTSl8wQkp5eXZSQjJ6bzlneWhNdC3SAZABQVVfeXFMUEkxN0RBNmVCXzllWVV6RURYSDBOQWJtbnZRUjktMzNEaVVjOEJVbUVocmtIU01aM1pPR05nbUpwTlo2bEp4ZDB5YU9FRjFYUjI4RVFQdGxZUEhYTXJjWGdfUnJ6RVNZemdnZnNBZ3EtbTlyOUJLUktrZXp1bE5zcnJxd1ZINlpYYkY4THNMSG1Z?oc=5",
+      "summary": "Middle East conflict: Do US voters back Trump's Iran war?&nbsp;&nbsp;DW.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:44:24+00:00",
+      "fetched": "2026-03-07T21:00:06.424321+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "466f701e2369c270",
       "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss",
@@ -1660,6 +1696,18 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-07T20:47:34.881597+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "37ee17050b71ad24",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNczFHckRhZnctOHlBOHRwRmdfUzZNSHdic01HOWduSWk2NDFkc0p5dWQtR0Q4alhuU0ZBSkE0d0J6Z1FRazRrUTQwa3gybk5DbTljMlpIUnBDZWFCLWhOdjhXem5SOGJGa09MMlUtd010cVF3dFoxT0gyWXg1bC1DbkdCQU83dHpyTUJKczhySkJoaHJ6bDlHOFV0UGlzRTVGMU4zQW9YOWFsT1l3V05HenkySDEzV2hhNng2cE83QVZkMlNlYU0waHhQSkcxeEREN0NpMmpTTURQZjJFMExXQk9OQjNQUDNDLTFLb3VNN3ZhS1FwVUVjLXVobDllQ1VsbGFIeW1kX0U2TElscDcwdjFqV2Q4eUJFYll1NXpFRjdFNGhUM29jcnkycGx3aTB2TFo4ZnMtVGwwV0tHZ0FIeEFOc0ZpM1MtSS1MUk9hTVNSNE1fVTIzeUNjZVJsQWpZc2pHTUQwRUdibF92RkVpY0EybFc5aHdmVHZrTjFORWh4aHNIV3FV?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T21:00:06.424379+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1912,6 +1960,18 @@
       "category": "aggregator",
       "published": "2026-03-07T16:01:04+00:00",
       "fetched": "2026-03-07T20:47:34.883331+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7f07003c0fcf153f",
+      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPQmNnUUo1LTRyUDR3bWx4OXpRZ2lQZGJkRnlMdjN3REg5Mk5PZE9tZUhKZ0tIWWNKYWstRUcxc0lOdmViVXVlNkpYU3ZPWjkyVmgyc2hmNmNuV01aeGw2ZHJyOGZSVDBNMmNFU1JEdThfT2NWajA5TTNHZEliSWZhMlFNVVVraEt1X3lhOEIwS2dhZlVvQkdrR0hVM0JLMDc5ZjVjTmprLWdqcVRybXFnSHE0aHo4QUowV0h4eFpaR0Y3YVhMVUdtVlYzWXhzYzJLOW1ENW5WUzdudkQ5QkxWUmhIYzFBcGZOYWFEb2lmLVAwc1Vsa2R3MFhoYWpVV2ZZOG1LVkVjdXJ3X2hZQmd2ekFYUm0yRDFOZ1doX3NwTnM2bjhsSTZYRW5pUTRxZlNLS2Rrc3dfTVNPaW51T3ZHOFgwU19xdXZHdUVOSVlYQUMtZ1ViTlRyRTRlRWttd2t4RXN4enBIa0tzcHNPY3ZWQjRxdUpHUUhLQS1Sa08zZjBhRWI4M1NqNnlmNWoyTk56YUIwb2JCYzZEYzYt?oc=5",
+      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:01:04+00:00",
+      "fetched": "2026-03-07T21:00:06.424691+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2840,6 +2900,18 @@
       "iran_specific": true
     },
     {
+      "id": "9fb868d775b2bb2f",
+      "title": "From ‘peace president’ to Operation Epic Fury: Donald Trump’s road to war - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVC01Vk8tUTY2MnJ5ZDFXNkhHdTZhT2Nrc0pHNTIwVTlxLXlkZkZ0ZE4wcER5MEtKd25GdGg4RHVvTkVsSmRSQUxLYnlPanZIUDRydUo2SXV0NDVGYUxhUHNYWmJiQ1lGVlFnOElKVmdGMk83U3VsSi1iRW1nckJNYVFXOWVBeE1iVVRWWURmbjNRRXVNNGpOZTMtNTUzUENSWmQ1TzIyVlNBbkI2djdnUXBXU1AwUXM4?oc=5",
+      "summary": "From ‘peace president’ to Operation Epic Fury: Donald Trump’s road to war&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T09:36:00+00:00",
+      "fetched": "2026-03-07T21:00:06.424906+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
       "id": "962da99400a34dab",
       "title": "Seven days on, seven questions about the US-Israeli war on Iran - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY19LR0V0aURpZE5yNDFZVVlsOHIybk90MEg3Y0hJNDBKaTZXWUstNU5CY2tiRzZYTFp2dDluVUdoTm5fSzFsSUk3ZmxGa3pSQXh3dTk3N0RvMHFYaktXUU15U2FoZExoRlh5ZHVLTERwU1JOWmhWQTJ6dnh6ZGJYWHVR?oc=5",
@@ -3536,6 +3608,18 @@
       "iran_specific": true
     },
     {
+      "id": "f6ae64ee8f8e7f88",
+      "title": "Iran War Poses Test for Justice Dept. After Firings Deplete National Security Ranks - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDVZMHUyTTk1ZzF6aDIwd2lxc1l6eHlXS3ExeHdOWHA4VXFwZmpxU0ppeGJlVkpDM1hfU0c4OGhRNG5iOFFxLWdleElMSzdid0N0c2N5UWtadTAweHhRU3FObFk3WHhlRTNiVURCYVUwTWJRZzFLMVYxZ3FGYUo4MGo3ZlRzcTgzV2c?oc=5",
+      "summary": "Iran War Poses Test for Justice Dept. After Firings Deplete National Security Ranks&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-06T23:35:51+00:00",
+      "fetched": "2026-03-07T21:00:06.424845+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "2a5b872af33a1ba5",
       "title": "Trump calls question about Russia allegedly sharing intelligence with Iran 'stupid'",
       "link": "https://tass.com/world/2098029",
@@ -4088,6 +4172,30 @@
       "iran_specific": true
     },
     {
+      "id": "da3838be1b228946",
+      "title": "Trump wants to help pick Iran's next leader as the war stretches into Day 6 - NPR",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGw2STZqblltcGZHVURJd2s0dEdFNWpEYnFYU01sNHNJc1QwVTEtYTc2SUg2UWhPRjZtM1FIX3djR2Zwa0l6dzZnSjhiaHY0MHdnMG9ZZW9ieXFjdm9OTXZLS0p0enNQUEphaE1pU3lZMEUxbUxiSmMyQVR3RS1MTWtiQVlRZlgySFZyQWgxZFM5bUNJTjRyUEtpUS0xLXlrUWZqenU2ekxWYXlxWi04dm9CdlJaZw?oc=5",
+      "summary": "Trump wants to help pick Iran's next leader as the war stretches into Day 6&nbsp;&nbsp;NPR",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-05T11:09:56+00:00",
+      "fetched": "2026-03-07T21:00:06.424783+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "430f0f8bb1493c56",
+      "title": "Opinion | Does the Iran War Put America First? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDRuaU5SRlhNVVVVOGlhOEhSQ1JEcWNPaEZhT0lMdGlGblBidjV4cXVIaFhWN3pYTmdSaG9VN01VckZuNENpSURxclN6eGQwb3JvSEFlOWpHamNFU2VSOU9OQUZJdDc1SXBqNUlmTzJ1dWxzVjJwQ2ZSUkR4N0xJWlh0UkNuUGNS?oc=5",
+      "summary": "Opinion | Does the Iran War Put America First?&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-05T10:04:39+00:00",
+      "fetched": "2026-03-07T21:00:06.424867+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "d70079917b26e55b",
       "title": "Why a $1.5 Trillion Defense Budget Request Might Slow the Pentagon’s Reform Efforts",
       "link": "https://warontherocks.com/2026/03/why-a-1-5-trillion-defense-budget-request-might-slow-the-pentagons-reform-efforts/",
@@ -4276,6 +4384,18 @@
       "category": "western",
       "published": "2026-03-04T00:24:05+00:00",
       "fetched": "2026-03-07T20:41:04.877057+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a356cacde0e374c2",
+      "title": "The Trump Administration’s Reckless War in Iran Has Already Cost More Than $5 Billion - Center for American Progress",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMk5hQWJoQVdFMXI0VUw2NlhyU1BoYWQ0WVMyRDI5Qlo3VVhKZUppTmZ1bzVrcXpBTTMwMDRnMXVXVUNJd0owMFI1bWNCa2hnb1VfSkhDd3hTdE5vSThWMmpJOERhb3AzR2luUU1mZkdRekRUTFVoUFk1enF1S2xzTXhzbzhsTGh4aGxqbnhhN3owX284RHBDaEdKTWp3Q1M4eTVjNTRHdDVEVV9kRDdhRDRzSnJPNWtObmhEdmUxT1ZxV2c?oc=5",
+      "summary": "The Trump Administration’s Reckless War in Iran Has Already Cost More Than $5 Billion&nbsp;&nbsp;Center for American Progress",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-03T20:35:58+00:00",
+      "fetched": "2026-03-07T21:00:06.424817+00:00",
       "relevant": true,
       "iran_specific": true
     },
