@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T22:45:05.684522+00:00",
+    "last_updated": "2026-03-07T23:03:51.645160+00:00",
     "total_items": 500,
-    "new_this_run": 12,
+    "new_this_run": 13,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "1f83b995e2f810a7",
+      "title": "Israeli opposition leader says Israel must destroy all of Iran's oil fields",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-says-israel-must-destroy-all-irans-oil-fields",
+      "summary": "\n\n  \n      \n      \nIsraeli opposition leader says Israel must destroy all of Iran's oil fields\n\n    \n    \n\n        \n    \n                Israeli opposition leader Yair Lapid said, \"Israel must destroy all of Iran's oil fields and energy industry on Kharg Island.\"\n\nIn a post on X, Lapid said \"that is",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:01:52+00:00",
+      "fetched": "2026-03-07T23:03:51.548891+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "204383589e5df87e",
+      "title": "Israeli strikes on south Lebanon kill eight, ministry says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-eight-ministry",
+      "summary": "\n\n  \n      \n      \nIsraeli strikes on south Lebanon kill eight, ministry says\n\n    \n    \n\n        \n    \n                Israeli air strikes on several targets in southern Lebanon Saturday killed eight people, according to a toll released by the health ministry.\n\nLebanon's state-run National News Age",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T22:52:51+00:00",
+      "fetched": "2026-03-07T23:03:51.548950+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "d0cfc4a6de2d22d9",
+      "title": "US needs to take part in choosing Iran’s leader not to start new war — Trump",
+      "link": "https://tass.com/world/2098269",
+      "summary": "The US president says \"We don’t want to come back every five years or every 10 years and do this\"",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-07T22:42:43+00:00",
+      "fetched": "2026-03-07T23:03:50.547093+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "676c7c2152e7681b",
       "title": "Trump says doesn't want Kurds to launch offensive against Iran",
@@ -16,6 +52,18 @@
       "category": "regional",
       "published": "2026-03-07T22:40:59+00:00",
       "fetched": "2026-03-07T22:45:05.611292+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "fcb0f40d31f10cb5",
+      "title": "Trump administration denies reports that Iran captured US soldiers - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTUzc1BMaGhNWmtQTTc5SWVGdkZLeXc1Y2ltd2UyZU9DRjFjX09KcFFJUVY0VV83b0l0eTJCeVdkWHpGdnVYc1NwaTR2aXh0eURVUjFNdXlxSG83bE9uX3dSRUJMcTlZQ2xmUDNqeEtYRUl2dU9fT3ZhNkh1bmc3MkJCdmw0MjZ6cHhXU2U4TDk0dnAxTjVXaklpUXNYbDlvM3pObmRjR2VuQdIBrwFBVV95cUxONDN2WWJwdmtmRWVfVU53ZzVaZmRfdmZaekVxWi1wOUh5SF9rSE93bUduSlEwbEhiMkdEZHNmeHZvLTdtOXkwY18zMk5KMzViUGxnYUhCSjhvNzdUOTVTUUtHeE02STI1QzNkT1lGbVhyZ2hsQUliRmxvT0JUMGRZX1FSUVBycVF5WXJNX2ZSM3pTcFJYTTlXaE84RVJmM0MzaG4wUUw5UmJCVGxLS01z?oc=5",
+      "summary": "Trump administration denies reports that Iran captured US soldiers&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:39:02+00:00",
+      "fetched": "2026-03-07T23:03:51.466936+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -232,6 +280,18 @@
       "category": "aggregator",
       "published": "2026-03-07T21:55:13+00:00",
       "fetched": "2026-03-07T22:30:06.382188+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9737703cddf1beb9",
+      "title": "How far will the Iran war spillover? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE14enladHU1REhYT3BsZGU0LUN0YU96TGNYZXZHN29YS2pLa1p1cDdZSjlPQWZ6UHhYeWVFcFdlY1BFeFB3WUxRM0d6QWItY0hIREx4SmlWZlZ2NHhFZ1hmem5QWlZsMzZwcmRiMXNFM3kyUUtDWEZYczFXV1Y0ZTZEclZxVlRQa0g0UGJGSDhuLTA?oc=5",
+      "summary": "How far will the Iran war spillover?&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T21:54:38+00:00",
+      "fetched": "2026-03-07T23:03:51.466999+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2072,6 +2132,18 @@
       "iran_specific": true
     },
     {
+      "id": "4a933d62f7a031ec",
+      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQLV9LQ3RvV0NYeDBVSUZyd0pPUHMwTjkxb3dzSkZkejBnczJ0RmJZNjZ5V056Q0xHWlZ2TWpOQ2l0MktIbU0wSGZwaDdBSDdvRzAwWmJrNTFBV2wzbk4zNXNmcmdQZml0Ync1TVozNVBpQ3M2TW5ZQW5WclVuaW9WYnlYTHlrZ3BNbUZxZVYteXRqbUJIakEwS3hfeEdhQ0x0YlF2ajRtaFdoelA1QzF1eXNtd2c0djhPTFVCSFBwY2FPQXRGdGoxRzBNX2kwWUh5T2F4Z01KWU1ia2JsaG1mSmtmSUpabGNoR2czSHFhQTR5dU5BMVkwTHpkLUxmRWJTYk12LXkzY1pPaElLSWJSLVp2b0RqcE56YW96ZDNoXzQ4SmJ4cS1BS3pmV21RQ3Nhb2hJTVN1Z3R6Sm5mYWU1TkJ2cWoxZ2JDQ1VsUzZ0RVBLS092WHNoQ3F6X2wxRGZidUY0WmptZ0c0U0YxcWg0U29QMXhIYks4REgwQy1kcGI?oc=5",
+      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:00:00+00:00",
+      "fetched": "2026-03-07T23:03:51.467187+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "30988ee5d7f3e2ae",
       "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
       "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
@@ -2492,6 +2564,18 @@
       "iran_specific": true
     },
     {
+      "id": "b1068174c4394cf4",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPcTBrVU1VdjFWNzR2cXp3cS1DaTRCZ0NWcXAwdEtjc2diS1Bzd25SRlI2ZVFwV2FSS1BCOE1jazQ4YjVFNTZKVWhWd18zTmlSR3loWENmRE9ERGhoX1ltMTQtV0k5emdHTHNNNjhZUzFUVThKZ0NBd0VXNlhyOW9sTXM2RnJVTWhNNEZNdExxanMxY1A0TlJraUhaWG9DUnBPRm1lMUV1aEhjV2k3Mzd3azJLMHBwNnZmaG1yeVFrSnFCRFYweFZUWmpCXzdZMHlxOU52cnlhZXJYRVdNQ0piTnl1LUlpWnJORWxsUVZ0RE5URDlWX1BQQzNJTjgtdG9KRUFocTRXelFCR1lDajJwNjRyMlkxOEZab19Dc1BKc1VqdnctanRtZ3hRTUR2M3oyY2lPV0ZIQnlJUEJ4QmFwMlR1T3MyandZWVA3YjExSUJoUTZwUzNmdzVmMW5PUUFabkFGcmdweHhvMUtUV1c0UTJ6d3hjNi0zZi1WOW9WeHpTMjFsSXhr?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T23:03:51.466876+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -2572,6 +2656,18 @@
       "category": "western",
       "published": "2026-03-07T16:51:14+00:00",
       "fetched": "2026-03-07T20:41:04.876747+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ef418f7e3df9792c",
+      "title": "Why did Iran's president apologise? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85eEp6WTFUeWJUZUZZNlVHTm9CTVJYd3BacF9sYW1qUEFaLXhLUHpXWWplWkhiZzdTRTYxUVpOcnRFdHF0YzBUV3NQMU5wdFVsU21fdWdHSHhMdw?oc=5",
+      "summary": "Why did Iran's president apologise?&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:51:14+00:00",
+      "fetched": "2026-03-07T23:03:51.466777+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2848,6 +2944,18 @@
       "category": "aggregator",
       "published": "2026-03-07T16:01:04+00:00",
       "fetched": "2026-03-07T22:45:05.518333+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a6062acaf1148ec5",
+      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMlZrclVKWmNoUnpQUVJVNm5GaUVwaEdoRmZWcnUzSVlKQWxXQmxmMGZKWEFfa2ZmOUNGcDZpZEpHaDRGeWpUQTg0UURqR2lIUFNkSUN3bFlMOC01dExEbV82R1dXaS1vSy1oU252TWVEQmlRRnNrUnc3dU9WM1lVTlRtamk0Uk9jWUtMMTdhLVdWOGVSWGhHWWVIbFdoYmU1X0ZaOGRHZUYyWFJGTFVnc19acXJzeE5CZHJUOUs3dElUTXQwcUQ4RnBjT2NLako0RGk4QkdGUzN6cTNWT21yWmZNTVlNVzJSVmd2a3Q4NTRvazE2YjVpYWN3bXNrdUpCUmF1N2NEVXhoY1hyQTFTcjZiWDJ4TjdNRjU4cXBibTBObWFUNFI0cHA3VVk5dVh3U0JmWTNZS255SVU2TURCVmh0RmZkamZiNTVvaWNlM3FZd0RRNDBCcTg5U0lLTTBuelFVZXN1TUp5U1N4WHhmSkRJTzRQR2c1Tjlub2RJYzdxZnkwZlduMkdOLTc0dlBrSmFpeEo0ODd6RWFR?oc=5",
+      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:01:04+00:00",
+      "fetched": "2026-03-07T23:03:51.467209+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3160,6 +3268,18 @@
       "category": "russian",
       "published": "2026-03-07T13:51:15+00:00",
       "fetched": "2026-03-07T20:41:22.708413+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d26cd2bc7c2cf1fd",
+      "title": "Saudi Arabia said talking with Iran; Gulf states complain at lack of notice before war - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXJDaG9ob3NCVnVUTlhXT3ViY2RocnJEUGpGVzcxVkoyWGh0MVZUMXgxbjYxZ2ZWdl94SG9LZlFOWENvV0VlNXU5LTRNWUxNa3hCeXM2QmthemVhZFQxaElFcmRWOTdqVmpMbW5LS2hzelZWVHBid0FaNUJkcDFHWUxpRjhIX0ZrRUVSQnNQa3cwYTZDTkNVcWdVemxkX1dj0gGmAUFVX3lxTE5aUmh5TlFOWjd5Q2V4WGJ6U2Y4RlF6UnJZUlFfajBBTkg1TGR2UU9iZ0V0TUpvQXdGVm1XeHBGLTZsMm9kR0k3YmlxYVlBc2p0Zml2ZGVBUE5JZnU3d0NacjY3STA0YzJHOE1JTzdCOEM2dmJRT3M2TFZNQWFZX1pST1d6aEpTa3NaRlNBX0kwdUQtSkRUeS1VYVhvalhFWFVHaHh4N0E?oc=5",
+      "summary": "Saudi Arabia said talking with Iran; Gulf states complain at lack of notice before war&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T13:30:48+00:00",
+      "fetched": "2026-03-07T23:03:51.467108+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3628,6 +3748,18 @@
       "category": "aggregator",
       "published": "2026-03-07T11:00:00+00:00",
       "fetched": "2026-03-07T21:30:07.341309+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e73e904f022a6286",
+      "title": "Republicans hope Iran conflict doesn’t become a ‘forever war’ - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTllycFcyU2d4cGctVkFPN2VGNUdkdkVzQ1JLRTdfSndLa2dxNzlnWml1dUI2Q0gwS0NfUk9BTjRSdnkzZVlIb2VUTFhGUUU1dmhaeDh0Z0ZqeEJtUzRuUFR0RVB4T3VaT1ptUkdZM0RtUndBRU51ZVl0c3lHcU00RHhNRGNUTXp00gGOAUFVX3lxTFBsbDA1MHVzMTFsN3M4WG9naGpFVlB6UFdpUmdYRnZZRVBLS1pReC1WUkVFQzk1V0MzZG1MQjRzNENsaVZmUUF3Q2tIbXh5LV9ZSWh6cnBjaEVucndTX2hicGRzb1drUlcwNzdfMWFJRVRaY2N1dTVHMXVMUkpobVFNd2F3cDJCX09jSEFxTUE?oc=5",
+      "summary": "Republicans hope Iran conflict doesn’t become a ‘forever war’&nbsp;&nbsp;The Hill",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T11:00:00+00:00",
+      "fetched": "2026-03-07T23:03:51.467063+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4580,6 +4712,18 @@
       "iran_specific": true
     },
     {
+      "id": "9def005c6318d027",
+      "title": "Americans stranded abroad as Iran war erupted describe struggle to return home - PBS",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVlEeU5yU0F6ZVp2S3F6TEwwQU4tLWt0MzBjUkZ5elVjQ0pUbFdrazJaVl9BV1lzQ0JWSDgtYXZTRmlxd0l2LTVnZW56YUpIV0hzMFdScFkyUDhFY0k3RksybFlWQTg3MW1ZZW5uR0ljd0p5THJhZkNiVWlGUklxc1RNdDR6dU9fNkNPUlhoaURYVDJGY0dsaldWZ1daUmFMZVA4b0JCQXQ5dGhnY1hLQUt3?oc=5",
+      "summary": "Americans stranded abroad as Iran war erupted describe struggle to return home&nbsp;&nbsp;PBS",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-06T23:30:08+00:00",
+      "fetched": "2026-03-07T23:03:51.467147+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "2a5b872af33a1ba5",
       "title": "Trump calls question about Russia allegedly sharing intelligence with Iran 'stupid'",
       "link": "https://tass.com/world/2098029",
@@ -4588,6 +4732,18 @@
       "category": "russian",
       "published": "2026-03-06T23:30:01+00:00",
       "fetched": "2026-03-07T20:41:22.709686+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "71afcc69fa8ef1e1",
+      "title": "Great Power Spillover from the Iran War: Implications for China, Russia, Turkey, and Europe - The Washington Institute",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckRobFBoS1BYbjZyYmJPLXdSR2JudTBzb1NJeGRhSnhyajdNQURXb3RjSmQ5QnAyRUJzYVE1LTJPWTRwSmY5b2M1MThHWk4tcUhhQzlyRnlXSkVKX21FSWhSQ0tyRTZidkRRRzJQcnFIal9TeFJIQWlhMHJOVVBYLVIxeFZJbHdsZEFoempzMkhHRXUxNld5bVRUQjItTlQ5YmVhTzlpcWtnczZVRnh4Wm1yLXZSMjNXNmJVbFpNNWRDT3ZX?oc=5",
+      "summary": "Great Power Spillover from the Iran War: Implications for China, Russia, Turkey, and Europe&nbsp;&nbsp;The Washington Institute",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-06T23:14:44+00:00",
+      "fetched": "2026-03-07T23:03:51.467132+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5848,162 +6004,6 @@
       "category": "defense",
       "published": "2026-02-20T08:15:47+00:00",
       "fetched": "2026-03-07T20:41:23.367887+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "4287674b110aaddb",
-      "title": "Power, Paranoia, and the People’s Liberation Army",
-      "link": "https://warontherocks.com/2026/02/power-paranoia-and-the-peoples-liberation-army/",
-      "summary": "China&#8217;s top military leadership has been shaken by a new round of purges at the highest level, raising urgent questions about loyalty, corruption, and combat readiness. What do these removals, and especially the purge of&#160;Zhang Youxia, signal about Xi Jinping&#8217;s grip on power, the hea",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-19T20:15:09+00:00",
-      "fetched": "2026-03-07T20:41:23.367957+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "c2a3425b05a0fc10",
-      "title": "BONUS In Brief: Vibes Out of Munich",
-      "link": "https://warontherocks.com/2026/02/bonus-in-brief-vibes-out-of-munich/",
-      "summary": "On Feb. 13 to 15, leaders and specialists from around the world &#8212; especially Europe and the United States &#8212; attended the 62nd Munich Security Conference. This year&#8217;s conference highlighted an ongoing European interest in maintaining the trans-Atlantic relationship, an emphasis on E",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-19T18:30:40+00:00",
-      "fetched": "2026-03-07T20:41:23.368003+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "df3e563f30bfaca1",
-      "title": "When GPS Goes Dark: Building a Force That Navigates from Orbit to Seabed",
-      "link": "https://warontherocks.com/2026/02/when-gps-goes-dark-building-a-force-that-navigates-from-orbit-to-seabed/",
-      "summary": "GPS denial is no longer a theoretical future threat. It is the environment in which modern forces increasingly operate.China has invested heavily in space and counterspace capabilities designed to degrade U.S. positioning, navigation, and timing. Other state and non-state actors are following close ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-19T09:00:27+00:00",
-      "fetched": "2026-03-07T20:41:23.368039+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "9fc12090084bf7bf",
-      "title": "A Worrying Military Build-up in the Western Balkans?",
-      "link": "https://warontherocks.com/2026/02/a-worrying-military-build-up-in-the-western-balkans/",
-      "summary": "Europe&#8217;s most fragile region is not sleepwalking toward war, but it is quietly recalibrating for it. Across the Western Balkans, military procurement decisions once framed as technical upgrades are evolving into something more consequential: a shifting balance of power unfolding at a moment wh",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-19T08:30:52+00:00",
-      "fetched": "2026-03-07T20:41:23.368075+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "15a6a9f947643567",
-      "title": "Lessons from Past Israeli-Palestinian Talks for Trump’s Negotiators",
-      "link": "https://warontherocks.com/2026/02/lessons-from-past-israeli-palestinian-talks-for-trumps-negotiators/",
-      "summary": "There is a long history of Israeli-Palestinian negotiations, often involving the United States as the primary negotiator. However, as the Oct. 7 attacks and war in Gaza demonstrated, neither Israelis nor Palestinians feel safe. As Israel&#8217;s recent moves to expand its control over the West Bank ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-18T20:00:13+00:00",
-      "fetched": "2026-03-07T20:41:23.368122+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1d21335daee8aeb1",
-      "title": "How Are Iran’s Proxies Doing Amidst a Weakened Regime?",
-      "link": "https://warontherocks.com/2026/02/how-are-irans-proxies-doing-amidst-a-weakened-regime/",
-      "summary": "In Jan. 2025, Farzin Zandi wrote, &#8220;How Iran&#160;Lost Before It Lost: The Roll Back of its Gray Zone Strategy,&#8221; where he argued Iran&#8217;s proxy network and gray zone strategy had significantly eroded over time. A year later, amidst pressure from the United States and a weakened regime",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-18T18:30:49+00:00",
-      "fetched": "2026-03-07T20:41:23.368143+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f96e9559d10e333a",
-      "title": "Breaking Tehran’s Grip on Baghdad",
-      "link": "https://warontherocks.com/2026/02/breaking-tehrans-grip-on-baghdad/",
-      "summary": "What happens when the proxy network loses its patron but not its guns? We might be about to find out.Negotiations between the United States and Iran proceed, but the fact that the president has ordered a second aircraft carrier to the Persian Gulf is a clear sign that force is not off the table. It ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-18T08:30:37+00:00",
-      "fetched": "2026-03-07T20:41:23.368172+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e46aa8239bb8dd30",
-      "title": "China Now Finds Itself in al-Qaeda’s Crosshairs",
-      "link": "https://warontherocks.com/2026/02/china-now-finds-itself-in-al-qaedas-crosshairs/",
-      "summary": "Could China replace the United States atop the target list of transnational jihadist groups like al-Qaeda? A recent statement released by Sheikh Saad bin Atef al Awlaqi, the emir of al-Qaeda in the Arabian Peninsula, directly threatened China, labeling its government as a &#8220;pagan, infidel&#8221",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-18T08:15:56+00:00",
-      "fetched": "2026-03-07T20:41:23.368215+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "40e9077709ff6ed4",
-      "title": "The Greatest Threat to Acquisition Transformation Is Fear",
-      "link": "https://warontherocks.com/2026/02/the-greatest-threat-to-acquisition-transformation-is-fear/",
-      "summary": "The Department of Defense&#8217;s acquisition and sustainment culture is pathologically risk-averse. The greatest threat to acquisition transformation is not the Federal Acquisition Regulation. It is not congressional oversight, statutory constraints, insufficient training, or an absence of strategy",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-17T09:00:33+00:00",
-      "fetched": "2026-03-07T20:41:23.368250+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "43936944d949ed08",
-      "title": "Recalibrating U.S. Intelligence Strategy for an Uncertain Global Order",
-      "link": "https://warontherocks.com/2026/02/recalibrating-u-s-intelligence-strategy-for-an-uncertain-global-order/",
-      "summary": "In the wake of 9/11, the newly established Office of the Director of National Intelligence produced the nation&#8217;s first National Intelligence Strategy, a document explicitly intended to guide reforms to the intelligence community and help prevent another terrorist attack on the U.S. homeland. T",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-17T08:30:31+00:00",
-      "fetched": "2026-03-07T20:41:23.368286+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1cc0a8d2872ab342",
-      "title": "Panama’s Hidden Chokepoint: Tocumen and the Convergence of Mobility Power",
-      "link": "https://warontherocks.com/2026/02/panamas-hidden-chokepoint-tocumen-and-the-convergence-of-mobility-power/",
-      "summary": "The most consequential infrastructure decisions in Panama today are often not made at the locks of the canal, but in conference rooms where aviation security software, cargo-routing platforms, and port-scheduling systems converge. Sustained observation of Panama&#8217;s logistics and regulatory envi",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-17T08:15:53+00:00",
-      "fetched": "2026-03-07T20:41:23.368330+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "640ad0efbbc048ca",
-      "title": "The Full Spectrum of Victory",
-      "link": "https://warontherocks.com/2026/02/the-full-spectrum-of-victory/",
-      "summary": "Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for&#160;War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate t",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-16T16:00:31+00:00",
-      "fetched": "2026-03-07T20:41:23.368365+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a555c9ad0ab3d323",
-      "title": "The Sound of Munich: Autonomy, Anxiety, and the Twilight of Transatlantic Order",
-      "link": "https://warontherocks.com/2026/02/the-sound-of-munich-autonomy-anxiety-and-the-twilight-of-transatlantic-order/",
-      "summary": "Munich was warmer than Washington this weekend, both in weather and in sentiment. Neither development was widely forecast. The sense of crisis in transatlantic relations was plain, especially on the European side, and the world descended on the Bayerischer Hof hotel to sort it all out. At the Munich",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-16T08:30:33+00:00",
-      "fetched": "2026-03-07T20:41:23.368400+00:00",
       "relevant": false,
       "iran_specific": false
     }
