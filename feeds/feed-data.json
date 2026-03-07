@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T23:30:06.184762+00:00",
+    "last_updated": "2026-03-07T23:45:05.842034+00:00",
     "total_items": 500,
-    "new_this_run": 112,
+    "new_this_run": 11,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "478d3952646e6034",
+      "title": "Saudi Arabia says eight drones intercepted",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-eight-drones-intercepted",
+      "summary": "\n\n  \n      \n      \nSaudi Arabia says eight drones intercepted\n\n    \n    \n\n        \n    \n                Saudi Arabia’s ministry of defence says eight drones were intercepted and destroyed after entering the country’s airspace.\n\nIn a statement on X, the ministry’s spokesperson Fahad Nazer said the dr",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:38:23+00:00",
+      "fetched": "2026-03-07T23:45:05.762238+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "7c8c46a01e517fb6",
+      "title": "At least ten people wounded in Ukrainian attack against residential building",
+      "link": "https://tass.com/politics/2098277",
+      "summary": "Governor Evgeny Balitsky says there were fatalities",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-07T23:34:26+00:00",
+      "fetched": "2026-03-07T23:45:04.670017+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "b0107e197ac28372",
+      "title": "Qatar says targeted by 12 Iranian missiles on Saturday",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-targeted-12-iranian-missiles-saturday",
+      "summary": "\n\n  \n      \n      \nQatar says targeted by 12 Iranian missiles on Saturday\n\n    \n    \n\n        \n    \n                Qatar's defence ministry said on Sunday that&nbsp;Iran&nbsp;had fired a dozen missiles at the country a day earlier, as Tehran continued its strikes across the Gulf.\n\n\"Qatar's Ministry",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:32:11+00:00",
+      "fetched": "2026-03-07T23:45:05.762271+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "114770926da5eb81",
       "title": "Trump rejects settling war with Iran",
@@ -20,6 +56,18 @@
       "iran_specific": true
     },
     {
+      "id": "e273dd3d82b12423",
+      "title": "UAE is in state of war — President",
+      "link": "https://tass.com/world/2098275",
+      "summary": "Mohammed bin Zayed Al Nahyan thanked the armed forces for an outstanding role in time of combat actions",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-07T23:29:29+00:00",
+      "fetched": "2026-03-07T23:45:04.670089+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
       "id": "405dbfb3ae575705",
       "title": "Trump says Iran's map will 'probably' not look the same after the war",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-irans-map-will-probably-not-look-same-after-war",
@@ -28,6 +76,42 @@
       "category": "regional",
       "published": "2026-03-07T23:22:49+00:00",
       "fetched": "2026-03-07T23:30:06.081323+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "42a0d5b82eaf7378",
+      "title": "Trump on more dignified transfers of US service members killed: ‘It’s a part of war, isn’t it?’ - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmhDSm13b25lWllOSHJacE1mZUdqdnktY0E3ZGV1RHF4TUZFdUlzdk0ydE12QkZObUdWOUVPbXhpdXZLcXprU3J5d1RNMGMwM2JHWjhLSXh3ZUV3bXhWQnNoVXQ5WlJVWkpBeDhaUm8wU1liaHBxWUlLd2ZDVXRIQzB5eWU0bi1VeW000gGQAUFVX3lxTFBBcEVfRDRLVms1OGQ3TjA3dkR1RGNWV2pqamJ2S0ozcVVGYkFULVJtdm5OZF9oelg0SlRZTWFqelNVQ3FKdU12UWlwUVJtREttVHJadVhIOFRkbmJYMjZ4OU1OdGVieDVYT3RGWkhMcDRmd0Z2RHpWVnAydG9oekF6Q0ViN3cxb0dmRjFGbmtGaQ?oc=5",
+      "summary": "Trump on more dignified transfers of US service members killed: ‘It’s a part of war, isn’t it?’&nbsp;&nbsp;The Hill",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:19:00+00:00",
+      "fetched": "2026-03-07T23:45:05.676527+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "3ba8acb1a3de3d9d",
+      "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWFhdXc1N1VqSENGNk0wZmNzRkFLd3phakJsdzk5S05NLUdlUUphVjNzZTBGWDhFcndrMmdFeVZ4TUJnNF9rM1VLLVpVaGdIYmMzZXdzSXV2Tzh4aWd2bjFDSml3d2VqZ2Fta2V0ZlkxMXRheE5EdzhBRms3SzFJbnNhZ3RVNEZEcm5QU1U5aVpoeDVKWVJ0VzZfVjA2ZkwwdzlmNmlQYWlQWWQ5TWRN0gG0AUFVX3lxTFBKQWMxU3plcmxiWGkxTWFZb2RvMEZ6Tk5EN080UWpsdm1VbjRQdDU5TnRRZ3VQcW8xUks2azItOV9weTJjWkRvUmcwTjJaUGRERlBWUjNYQVRjQWgwWlFUYUxMU3FnUjRnVUpEWUE2T1pvOGlmVVVvWDFweF82cmJSbGp6MUtLbEpwRTJsTkx2Z3pUS3FLNkdLdFdrc2lBZEk5bWFnZ2tFTy1LeXdEWXFrN1dkag?oc=5",
+      "summary": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:15:52+00:00",
+      "fetched": "2026-03-07T23:45:05.676078+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d9272373fa731f52",
+      "title": "Live Updates: Trump vows to hit Iran \"very hard,\" says he has no war timetable: \"Whatever it takes\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFh4c0djeTJobnBEVmtQeVUyTVJubkw5UGducS02T1pUMjE2QmhDQnM4aVRlSnRacFoxelVIazZnSExCdGZvMnZKcFU2dmt6dzg3WHcwN2FfQjZLaFNKNXpuemRSckxubXdYdGxXeWptek92dXhfaVNSVmlVWTNJaHJjVDY0Z9IBiwFBVV95cUxNNmVWRVloV2N6OHFickp4MVNwT1BLZGd1ckYxWlhYUll2NVNwNHNOVHpTSDJNQXpNM0lhaDJFN1lCYzYzTlBvb1hZVVRwb05RbjkxZS1TdTYyRkl5bGZ2T0o2WTk3aHJSSGVXTWl1MkFBZU5heG9fNDRyTE8zVjJ3QXB5dFMzci1tRDVB?oc=5",
+      "summary": "Live Updates: Trump vows to hit Iran \"very hard,\" says he has no war timetable: \"Whatever it takes\"&nbsp;&nbsp;CBS News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:13:00+00:00",
+      "fetched": "2026-03-07T23:45:05.675913+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -92,6 +176,18 @@
       "iran_specific": false
     },
     {
+      "id": "f294609b410a30b0",
+      "title": "Trump: ‘Today Iran will be hit very hard’ as war enters another week - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXhXcTBfMnlOcG1CcUZBQTh6cTdoWnpHUlNvQmJNUjZjYnNTSFhYOHZEQ2ZSVlNEYW0wTDdRMnZwTTZJRGtkalp5dVJUTnlnUHlQWlprbERuMW55azBKZXh1Qkp4cFczNm5FdXhPMFhJaHN3MEsyb1NlSkFqR0paTlRMUG3SAYoBQVVfeXFMTUpUUy1qTElOWWZjSzhlX0xodFVLOEV0NUNYQUFPaUlXNjRBRmh1TkxNTEtnemVZMmg5SEd2M2xsZ3E3ZVhNYk5vTDVBSUVyemhNRUV1Y1BJZ1F3TUtSZE9hd2c4cER6bldzRl9PaHlvVy1zTnB3cm1WMU41Y2VvWURKYWNtRnJfSjdR?oc=5",
+      "summary": "Trump: ‘Today Iran will be hit very hard’ as war enters another week&nbsp;&nbsp;NewsNation",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:45:46+00:00",
+      "fetched": "2026-03-07T23:45:05.676206+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "69ab999f66f7a002",
       "title": "Live Updates: Strikes Across Iran With No Compromise in Sight - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYzVqeS00a1haZGNBUzdlbDVMMGdxWHVpN1F0blpRX2Jpb2FRR29iejB0cHE4LUxhdUR5LUhqcU5qV3NQVS0tdEJyZWRVVFhtSDBaQ2k4X2t0RFcta2FiRTZZWWY0bnFpeTJaOXVNNXN5UjNodGlud1o1emtLTmwtcw?oc=5",
@@ -148,6 +244,18 @@
       "category": "regional",
       "published": "2026-03-07T22:37:00+00:00",
       "fetched": "2026-03-07T22:45:03.527490+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e2e0f0ba55b27708",
+      "title": "Families of US detainees in Iran fear they risk becoming collateral damage in war - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSm1lWlJmV1NOWGZubW5ULVIyUkhhQnlTWkJ3cXM4SW9EdENTOXM1cndLYlAwWDNFR084QXpkRWo4b1lKbHoyTHd6bEhTUUpwYkdabUNfS0wySjVKVkhDS2RNY2tQdEdMODBjZ3NzNGJncHZtV2JmOV9rb0podlR5cHZsWjR6QjFaeDlLZElvOEUwcUVXdHB2X3gwSl9RLUJsYUMzNXV0RHlvOUtNcG4tMU530gG3AUFVX3lxTE82YU9nYTM2dGhnV001N04zRUdtbjdDdWlURzRDVXl1MXY4RjRoUVcyZXQ4LTVBd3kyVXVuN1ExUXlCeU9BaEdFQkpuOS1uaXZYU0Z5MlpOQklka1VIQ3Vzd2s1SUdOUTNYZXlWMU9oQ09RNFA2d2hpR2VvX1AyOGsyanhhU0lZVWVzVGo0UHpfdXp0Rjh4cFpsUGM0N096cDM0cnRyQ0tPVDhkYkNqTEdzaUZDOHY4aw?oc=5",
+      "summary": "Families of US detainees in Iran fear they risk becoming collateral damage in war&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:34:00+00:00",
+      "fetched": "2026-03-07T23:45:05.676426+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2744,6 +2852,18 @@
       "iran_specific": true
     },
     {
+      "id": "8f5ac6560f09dcf9",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQdmpmTGhldHNVYXdjV3owbElfUm5KbXVGNjhmbW9yTE5UejZ6and4ZUthQkpjSjRkRlgwN2tuYTVvOUpPbGRIT2Y1OHUyWU5yMmNfR2tKc1Fjc2lFZVh3allmX2xzMXF0dW5JbkpoQ0s3TkpKOVRJUE1ROHNkTGsxMTN0cllmV3lOdDdOdE9reTNLZGRBZEdzVXFXMkg3V1dTZm1raV9zbGhWRDRSY1NSWkZfSU5MQ2JXbGpkY3Y0ZUxDaHdlandqVm15UTIxMk94UXdsRUdTVlBvcDhfRGRwZU5vSnRwd19oeVU3VGs1RnU4UFI4a0UwWnA5NmtTamI3Y3ltTDV2RElIN2NBN3lmOTlqazdVVWpOTlNjUDByTEJ3Z3RjUDVYaF9teGlZcGF6Z1J3QW5SSFh1cU5GNlpFWEotZTF1aDhZUG52aWl1SUtweHQ4WFcxWEpsNVE1RFZVQ3p2WHpoc002Z1Z2a0dTX3VpXzYxdUZOd2x3Q0ViUEg0TTM5RDlv?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T23:45:05.676031+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5312,6 +5432,18 @@
       "iran_specific": true
     },
     {
+      "id": "5a20a3c44aba10bc",
+      "title": "What Does War with Iran Have to Do with Elections? - Brennan Center for Justice",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTRIVllKak1Rc2dlUnZ2dHFuUjZOWTRSSkNTelNEUEo3RE16NnY3T3RBT2lDTXVtVFFnMllKWlg3RVdXM1NhTkU2b3lDUHUzVmg0bFlMelB4Z0dWMGJ3TVVJTGtRZ3RMc1JCSVhsZkx4T29VaFh2N0Vkanl4RFcxa1dQM1BxNG5CRVl0VTE0SFc2WTNhUWJR?oc=5",
+      "summary": "What Does War with Iran Have to Do with Elections?&nbsp;&nbsp;Brennan Center for Justice",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-06T03:10:37+00:00",
+      "fetched": "2026-03-07T23:45:05.676622+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "fb0c6c7e610c0925",
       "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
       "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
@@ -5874,138 +6006,6 @@
       "fetched": "2026-03-07T20:41:23.367026+00:00",
       "relevant": true,
       "iran_specific": false
-    },
-    {
-      "id": "a0659bdf3eef802a",
-      "title": "Trump won’t rule out sending US troops into Iran ‘if necessary’— tells Post war is progressing ‘way ahead of schedule’ - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR2Rfb2RqWFFPSFpYTy1nYzY2STlxQjktRDZYX3Y2WjAtYmMxOGF3LXRiYzdGSk9rbVFDaUFRdjlPM2lqZldJajQ5N2VVa2tzUjhCcjNLTmZ6ZUdva0xEa1JWU3VTcVM5MURON2xtODZiWUJkY2s3eElNZFBXd3VWeWkzT1ZrcXRxeGU1Um9XTmQ4SXVLdHFkMk5sbzk3aUNmLXcxeDZFbGlhQkpWdl8zTGh5V1dEczFMTC10ZFVvSGxlNjlPb0Y0V09mNDJhb0FBWUJHUEFQNA?oc=5",
-      "summary": "Trump won’t rule out sending US troops into Iran ‘if necessary’— tells Post war is progressing ‘way ahead of schedule’&nbsp;&nbsp;New York Post",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-02T15:18:40+00:00",
-      "fetched": "2026-03-07T23:15:06.666526+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2039ce14cae1daf3",
-      "title": "Washington Built the AI Infrastructure AUKUS Needs — Then Locked Allies Out",
-      "link": "https://warontherocks.com/2026/03/washington-built-the-ai-infrastructure-aukus-needs-then-locked-allies-out/",
-      "summary": "The&#160;Manhattan Project&#160;brought allied scientists to Los Alamos because winning required pooling allied scientific capacity. Today, as Australia invests&#160;$3.4 billion in quantum and advanced defense technologies and autonomous capabilities, the United States has built the supercomputing ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-02T09:00:45+00:00",
-      "fetched": "2026-03-07T20:41:23.367073+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a4160bb081d167d8",
-      "title": "The Deluge, the Paper Cup, and Washington’s Lack of Urgency on Guam",
-      "link": "https://warontherocks.com/2026/03/the-deluge-the-paper-cup-and-washingtons-lack-of-urgency-on-guam/",
-      "summary": "As I conclude nearly four decades of military and public service, including as lieutenant governor of Guam, a line from the 1986 Crowded House song &#8220;Don&#8217;t Dream It&#8217;s Over&#8221;&#160;keeps returning to me:&#160;&#8220;Trying to catch a deluge in a paper cup.&#8221;For Guam &#8212; ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-02T08:30:48+00:00",
-      "fetched": "2026-03-07T20:41:23.367114+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "d2870edcbc92ed87",
-      "title": "Iran's regime is still intact - the coming days will show if it can hold out",
-      "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-01T18:05:06+00:00",
-      "fetched": "2026-03-07T20:41:04.877161+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "48390ea5667e2c2e",
-      "title": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
-      "link": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss",
-      "summary": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-01T14:45:56+00:00",
-      "fetched": "2026-03-07T20:41:04.877174+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "dacc7c5f3a0d199e",
-      "title": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
-      "link": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of the supreme leader will be a huge jolt to the Islamic Republic, which will try hard to show it has a plan in place.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-01T06:21:42+00:00",
-      "fetched": "2026-03-07T20:41:04.877199+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b9312bdd3ad98503",
-      "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
-      "link": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranians talk about what is happening inside the country, despite an almost total internet blackout.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-01T05:17:07+00:00",
-      "fetched": "2026-03-07T20:41:04.877238+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1a3c1ad1086c396c",
-      "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
-      "link": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel and the US believe Iran's regime is vulnerable, dealing with an economic crisis and the aftermath of protests.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-01T02:03:31+00:00",
-      "fetched": "2026-03-07T20:41:04.877212+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "27ec11a716447cb4",
-      "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
-      "link": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-01T01:47:42+00:00",
-      "fetched": "2026-03-07T20:41:04.877224+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8109114edac7fd24",
-      "title": "Twice Bombed, Still Nuclear: The Limits of Force Against Iran’s Atomic Program",
-      "link": "https://warontherocks.com/2026/02/twice-bombed-still-nuclear-the-limits-of-force-against-irans-atomic-program/",
-      "summary": "On Feb. 28, the United States and Israel launched coordinated but separately named military campaigns against Iran &#8212; the United States under Operation Epic Fury and Israel under Operation Roaring Lion &#8212; striking Iran&#8217;s nuclear facilities, ballistic missile infrastructure, and milit",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-28T21:28:55+00:00",
-      "fetched": "2026-03-07T20:41:23.367137+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8dced256bbe721b8",
-      "title": "A Proxy Without a Purpose: Hizballah and the Iran Crisis",
-      "link": "https://warontherocks.com/2026/02/a-proxy-without-a-purpose-hizballah-and-the-iran-crisis/",
-      "summary": "What use to Iran is Hizballah in the event of all-out war against the regime? In principle, a great deal. In practice, not so much. The ongoing U.S. and Israeli attack on Iran raises not only what would happen to and be done by Iran, but also the very future and existence of its crown jewel proxy, H",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-28T16:03:56+00:00",
-      "fetched": "2026-03-07T20:41:23.367153+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
