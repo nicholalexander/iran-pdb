@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prediction Tracker — Iran Intelligence Briefings</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Courier New',Courier,monospace;background:#f5f5f0;color:#1a1a1a;line-height:1.6}
+header{background:#1a1a1a;color:#d4d4c8;padding:1.5rem 2rem;border-bottom:3px solid #8b0000}
+header h1{font-size:1.4rem;letter-spacing:0.08em;text-transform:uppercase}
+header p{font-size:0.8rem;color:#888;margin-top:0.3rem}
+nav{max-width:1100px;margin:0 auto;padding:0.8rem 1.5rem;font-size:0.8rem;border-bottom:1px solid #ddd}
+nav a{color:#1a1a1a;text-decoration:none;margin-right:1rem;border-bottom:1px solid #999}
+nav a:hover{color:#8b0000;border-color:#8b0000}
+main{max-width:1100px;margin:2rem auto;padding:0 1.5rem}
+.classification{text-align:center;font-size:0.75rem;color:#8b0000;font-weight:bold;letter-spacing:0.15em;padding:0.5rem 0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin-bottom:2rem}
+h2{font-size:1.1rem;margin:1.5rem 0 1rem;border-bottom:1px solid #999;padding-bottom:0.5rem;text-transform:uppercase;letter-spacing:0.05em}
+
+/* Dashboard */
+.dashboard{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin-bottom:2rem}
+.dash-card{background:#fff;border:1px solid #ddd;padding:1.2rem;text-align:center}
+.dash-card .number{font-size:2.2rem;font-weight:bold;display:block}
+.dash-card .label{font-size:0.75rem;text-transform:uppercase;letter-spacing:0.1em;color:#666;display:block;margin-top:0.3rem}
+.dash-card.green .number{color:#006600}
+.dash-card.red .number{color:#8b0000}
+.dash-card.yellow .number{color:#b8860b}
+.dash-card.gray .number{color:#666}
+.dash-card.blue .number{color:#1a5276}
+
+/* Scorecard */
+.scorecard{background:#fff;border:2px solid #1a1a1a;padding:1.5rem;margin-bottom:2rem}
+.scorecard h3{font-size:0.9rem;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:1rem}
+.score-bar{display:flex;height:24px;border-radius:2px;overflow:hidden;margin-bottom:0.5rem;border:1px solid #ccc}
+.score-bar .seg-confirmed{background:#006600}
+.score-bar .seg-partial{background:#b8860b}
+.score-bar .seg-wrong{background:#8b0000}
+.score-bar .seg-open{background:#ddd}
+.score-bar .seg-overtaken{background:#999}
+.score-legend{display:flex;flex-wrap:wrap;gap:1rem;font-size:0.75rem;margin-bottom:1rem}
+.score-legend span{display:flex;align-items:center;gap:0.3rem}
+.score-legend .dot{width:10px;height:10px;display:inline-block;border-radius:1px}
+
+/* Category bars */
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:0.5rem;margin-bottom:2rem}
+.cat-item{background:#fff;border:1px solid #ddd;padding:0.6rem 0.8rem;font-size:0.8rem;display:flex;justify-content:space-between}
+.cat-item .cat-count{font-weight:bold}
+
+/* Filters */
+.filters{display:flex;flex-wrap:wrap;gap:0.8rem;margin-bottom:1.5rem;align-items:center}
+.filters label{font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;color:#666}
+.filters select{font-family:inherit;font-size:0.8rem;padding:0.3rem 0.5rem;border:1px solid #999;background:#fff}
+
+/* Table */
+.pred-table{width:100%;border-collapse:collapse;font-size:0.78rem}
+.pred-table th{background:#1a1a1a;color:#d4d4c8;padding:0.5rem 0.6rem;text-align:left;font-size:0.7rem;text-transform:uppercase;letter-spacing:0.05em;cursor:pointer;white-space:nowrap;user-select:none}
+.pred-table th:hover{background:#333}
+.pred-table th .sort-arrow{margin-left:0.3rem;font-size:0.6rem}
+.pred-table td{padding:0.5rem 0.6rem;border-bottom:1px solid #ddd;vertical-align:top}
+.pred-table tr:nth-child(even){background:#fafaf5}
+.pred-table tr:hover{background:#f0ede5}
+.pred-table tr.status-confirmed{border-left:3px solid #006600}
+.pred-table tr.status-partially-confirmed{border-left:3px solid #b8860b}
+.pred-table tr.status-wrong{border-left:3px solid #8b0000}
+.pred-table tr.status-open{border-left:3px solid #ddd}
+.pred-table tr.status-overtaken{border-left:3px solid #999}
+
+/* Status badges */
+.badge{display:inline-block;padding:0.15rem 0.5rem;font-size:0.65rem;font-weight:bold;text-transform:uppercase;letter-spacing:0.05em;border-radius:2px;white-space:nowrap}
+.badge-confirmed{background:#006600;color:#fff}
+.badge-partially-confirmed{background:#b8860b;color:#fff}
+.badge-wrong{background:#8b0000;color:#fff}
+.badge-open{background:#eee;color:#333;border:1px solid #ccc}
+.badge-overtaken{background:#999;color:#fff}
+
+.pred-text{max-width:350px}
+.pred-resolution{max-width:250px;font-size:0.72rem;color:#555}
+.source-tag{font-size:0.7rem;color:#1a5276}
+.briefing-link{font-size:0.7rem;color:#8b0000;text-decoration:none;border-bottom:1px dotted #8b0000}
+.briefing-link:hover{border-bottom-style:solid}
+
+/* Source breakdown */
+.source-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-bottom:2rem}
+.source-card{background:#fff;border:1px solid #ddd;padding:1rem}
+.source-card h4{font-size:0.85rem;margin-bottom:0.5rem}
+.source-card .stat-line{display:flex;justify-content:space-between;font-size:0.78rem;padding:0.2rem 0;border-bottom:1px dotted #eee}
+
+footer{max-width:1100px;margin:3rem auto 2rem;padding:1.5rem;border-top:2px solid #1a1a1a;font-size:0.7rem;color:#555;line-height:1.7}
+footer .warn{color:#8b0000;font-weight:bold;display:block;margin-bottom:0.5rem}
+@media(max-width:768px){
+  .dashboard{grid-template-columns:repeat(2,1fr)}
+  .pred-table{font-size:0.7rem}
+  .pred-table th,.pred-table td{padding:0.4rem}
+  .pred-text{max-width:200px}
+  .pred-resolution{max-width:150px}
+  header h1{font-size:1.1rem}
+}
+@media(max-width:480px){
+  .dashboard{grid-template-columns:1fr}
+  .filters{flex-direction:column}
+  .pred-table{display:block;overflow-x:auto}
+}
+</style>
+</head>
+<body>
+<header>
+<h1>🎯 Prediction Tracker</h1>
+<p>Operation Epic Fury — Forecasting Accuracy & Assessment Scorecard</p>
+</header>
+<nav>
+<a href="../index.html">← Briefing Archive</a>
+<a href="../timeline/">Timeline</a>
+<a href="../map/">Map</a>
+<a href="../sources/">Sources</a>
+<a href="../analysis/">Analysis</a>
+<a href="../historical/">Historical</a>
+<a href="../verification/">Verification</a>
+</nav>
+<main>
+<div class="classification">UNCLASSIFIED // OPEN SOURCE // AI-GENERATED</div>
+
+<p style="margin-bottom:1.5rem;font-size:0.85rem">
+This page tracks predictions, forecasts, and forward-looking assessments made in Edward's Analysis sections (§16) across all intelligence briefings, plus external analyst forecasts. Each prediction is scored as events unfold. Last updated: March 7, 2026 03:00 UTC.
+</p>
+
+<!-- Dashboard — populated by JS -->
+<div class="dashboard" id="dashboard"></div>
+
+<!-- Scorecard -->
+<div class="scorecard" id="scorecard">
+<h3>📊 Overall Accuracy Scorecard</h3>
+<div class="score-bar" id="scoreBar"></div>
+<div class="score-legend">
+<span><span class="dot" style="background:#006600"></span> Confirmed</span>
+<span><span class="dot" style="background:#b8860b"></span> Partially Confirmed</span>
+<span><span class="dot" style="background:#8b0000"></span> Wrong</span>
+<span><span class="dot" style="background:#999"></span> Overtaken</span>
+<span><span class="dot" style="background:#ddd;border:1px solid #ccc"></span> Open</span>
+</div>
+<div id="scoreSummary" style="font-size:0.82rem"></div>
+</div>
+
+<h2>Predictions by Category</h2>
+<div class="cat-grid" id="catGrid"></div>
+
+<h2>Source Track Record</h2>
+<div class="source-grid" id="sourceGrid"></div>
+
+<h2>All Predictions</h2>
+<div class="filters">
+<label>Status:</label>
+<select id="filterStatus"><option value="all">All</option><option value="Open">Open</option><option value="Confirmed">Confirmed</option><option value="Partially Confirmed">Partially Confirmed</option><option value="Wrong">Wrong</option><option value="Overtaken by events">Overtaken</option></select>
+<label>Category:</label>
+<select id="filterCategory"><option value="all">All</option></select>
+<label>Source:</label>
+<select id="filterSource"><option value="all">All</option></select>
+</div>
+
+<table class="pred-table" id="predTable">
+<thead>
+<tr>
+<th data-sort="id">ID <span class="sort-arrow"></span></th>
+<th data-sort="date">Date <span class="sort-arrow"></span></th>
+<th data-sort="source">Source <span class="sort-arrow"></span></th>
+<th data-sort="text">Prediction <span class="sort-arrow"></span></th>
+<th data-sort="category">Category <span class="sort-arrow"></span></th>
+<th data-sort="status">Status <span class="sort-arrow"></span></th>
+<th>Resolution</th>
+<th>Briefing</th>
+</tr>
+</thead>
+<tbody id="predBody"></tbody>
+</table>
+
+</main>
+
+<footer>
+<span class="warn">⚠ AI-GENERATED CONTENT — NOT HUMAN ANALYSIS</span>
+This prediction tracker is generated by an AI system (Claude/Anthropic) operating autonomously. Predictions are extracted from AI-generated analysis sections within intelligence briefings that are themselves AI-generated from open sources. Assessment of prediction accuracy (Confirmed/Wrong/etc.) is also performed by the AI system and may contain errors, biases, or misjudgments. This is NOT professional forecasting, intelligence assessment, or expert judgment. Scoring methodology: "Confirmed" = core claim verified by subsequent reporting. "Partially Confirmed" = directionally correct but specifics differed. "Wrong" = core claim contradicted by events. "Open" = insufficient data to resolve. All underlying source material is open-source.
+</footer>
+
+<script>
+let predictions = [];
+let sortCol = 'date';
+let sortDir = 1;
+
+async function init() {
+  const resp = await fetch('predictions.json');
+  const data = await resp.json();
+  predictions = data.predictions;
+  buildDashboard();
+  buildScorecard();
+  buildCategories();
+  buildSources();
+  buildFilters();
+  renderTable();
+  setupSort();
+}
+
+function statusClass(s) {
+  return s.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z-]/g, '');
+}
+
+function badgeHTML(status) {
+  const cls = statusClass(status);
+  return `<span class="badge badge-${cls}">${status}</span>`;
+}
+
+function countByStatus(preds) {
+  const c = { confirmed: 0, 'partially-confirmed': 0, wrong: 0, open: 0, overtaken: 0 };
+  preds.forEach(p => {
+    const k = statusClass(p.status);
+    if (k in c) c[k]++;
+    else c.open++;
+  });
+  return c;
+}
+
+function buildDashboard() {
+  const c = countByStatus(predictions);
+  const total = predictions.length;
+  const resolved = c.confirmed + c['partially-confirmed'] + c.wrong + c.overtaken;
+  const accuracy = resolved > 0 ? Math.round((c.confirmed + c['partially-confirmed'] * 0.5) / resolved * 100) : 0;
+  document.getElementById('dashboard').innerHTML = `
+    <div class="dash-card blue"><span class="number">${total}</span><span class="label">Total Predictions</span></div>
+    <div class="dash-card green"><span class="number">${accuracy}%</span><span class="label">Accuracy (Resolved)</span></div>
+    <div class="dash-card green"><span class="number">${c.confirmed}</span><span class="label">Confirmed</span></div>
+    <div class="dash-card yellow"><span class="number">${c['partially-confirmed']}</span><span class="label">Partially Confirmed</span></div>
+    <div class="dash-card red"><span class="number">${c.wrong}</span><span class="label">Wrong</span></div>
+    <div class="dash-card"><span class="number">${c.open}</span><span class="label">Open</span></div>
+  `;
+}
+
+function buildScorecard() {
+  const c = countByStatus(predictions);
+  const total = predictions.length;
+  const bar = document.getElementById('scoreBar');
+  const pcts = {
+    confirmed: c.confirmed / total * 100,
+    partial: c['partially-confirmed'] / total * 100,
+    wrong: c.wrong / total * 100,
+    overtaken: c.overtaken / total * 100,
+    open: c.open / total * 100
+  };
+  bar.innerHTML = `
+    <div class="seg-confirmed" style="width:${pcts.confirmed}%" title="Confirmed: ${c.confirmed}"></div>
+    <div class="seg-partial" style="width:${pcts.partial}%" title="Partially: ${c['partially-confirmed']}"></div>
+    <div class="seg-wrong" style="width:${pcts.wrong}%" title="Wrong: ${c.wrong}"></div>
+    <div class="seg-overtaken" style="width:${pcts.overtaken}%" title="Overtaken: ${c.overtaken}"></div>
+    <div class="seg-open" style="width:${pcts.open}%" title="Open: ${c.open}"></div>
+  `;
+  const resolved = c.confirmed + c['partially-confirmed'] + c.wrong + c.overtaken;
+  const accuracy = resolved > 0 ? ((c.confirmed + c['partially-confirmed'] * 0.5) / resolved * 100).toFixed(1) : 'N/A';
+  document.getElementById('scoreSummary').innerHTML = `
+    <strong>Resolved:</strong> ${resolved} of ${total} predictions (${(resolved/total*100).toFixed(0)}%) · 
+    <strong>Accuracy:</strong> ${accuracy}% · 
+    <strong>Confirmed:</strong> ${c.confirmed} · 
+    <strong>Partially:</strong> ${c['partially-confirmed']} · 
+    <strong>Wrong:</strong> ${c.wrong} · 
+    <strong>Open:</strong> ${c.open}
+  `;
+}
+
+function buildCategories() {
+  const cats = {};
+  predictions.forEach(p => { cats[p.category] = (cats[p.category] || 0) + 1; });
+  const grid = document.getElementById('catGrid');
+  grid.innerHTML = Object.entries(cats).sort((a, b) => b[1] - a[1])
+    .map(([cat, n]) => `<div class="cat-item"><span>${cat}</span><span class="cat-count">${n}</span></div>`).join('');
+}
+
+function buildSources() {
+  const sources = {};
+  predictions.forEach(p => {
+    const s = p.source.split('(')[0].trim();
+    if (!sources[s]) sources[s] = { total: 0, confirmed: 0, partial: 0, wrong: 0, open: 0 };
+    sources[s].total++;
+    const st = statusClass(p.status);
+    if (st === 'confirmed') sources[s].confirmed++;
+    else if (st === 'partially-confirmed') sources[s].partial++;
+    else if (st === 'wrong') sources[s].wrong++;
+    else sources[s].open++;
+  });
+  const grid = document.getElementById('sourceGrid');
+  grid.innerHTML = Object.entries(sources).sort((a, b) => b[1].total - a[1].total).map(([name, s]) => {
+    const resolved = s.confirmed + s.partial + s.wrong;
+    const acc = resolved > 0 ? ((s.confirmed + s.partial * 0.5) / resolved * 100).toFixed(0) + '%' : 'N/A';
+    return `<div class="source-card">
+      <h4>${name}</h4>
+      <div class="stat-line"><span>Total</span><span>${s.total}</span></div>
+      <div class="stat-line"><span>Confirmed</span><span style="color:#006600">${s.confirmed}</span></div>
+      <div class="stat-line"><span>Partial</span><span style="color:#b8860b">${s.partial}</span></div>
+      <div class="stat-line"><span>Wrong</span><span style="color:#8b0000">${s.wrong}</span></div>
+      <div class="stat-line"><span>Open</span><span>${s.open}</span></div>
+      <div class="stat-line"><span><strong>Accuracy</strong></span><span><strong>${acc}</strong></span></div>
+    </div>`;
+  }).join('');
+}
+
+function buildFilters() {
+  const cats = [...new Set(predictions.map(p => p.category))].sort();
+  const srcs = [...new Set(predictions.map(p => p.source.split('(')[0].trim()))].sort();
+  const catSel = document.getElementById('filterCategory');
+  cats.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; catSel.appendChild(o); });
+  const srcSel = document.getElementById('filterSource');
+  srcs.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; srcSel.appendChild(o); });
+  document.getElementById('filterStatus').addEventListener('change', renderTable);
+  catSel.addEventListener('change', renderTable);
+  srcSel.addEventListener('change', renderTable);
+}
+
+function renderTable() {
+  const statusF = document.getElementById('filterStatus').value;
+  const catF = document.getElementById('filterCategory').value;
+  const srcF = document.getElementById('filterSource').value;
+  let filtered = predictions.filter(p => {
+    if (statusF !== 'all' && p.status !== statusF) return false;
+    if (catF !== 'all' && p.category !== catF) return false;
+    if (srcF !== 'all' && !p.source.startsWith(srcF)) return false;
+    return true;
+  });
+  filtered.sort((a, b) => {
+    let va = a[sortCol] || '', vb = b[sortCol] || '';
+    if (typeof va === 'string') va = va.toLowerCase();
+    if (typeof vb === 'string') vb = vb.toLowerCase();
+    return va < vb ? -sortDir : va > vb ? sortDir : 0;
+  });
+  const tbody = document.getElementById('predBody');
+  tbody.innerHTML = filtered.map(p => {
+    const sc = statusClass(p.status);
+    const briefingLink = p.briefing ? `<a class="briefing-link" href="../${p.briefing}">${p.briefing.split('/').pop().replace('.html','')}</a>` : '—';
+    return `<tr class="status-${sc}">
+      <td>${p.id}</td>
+      <td style="white-space:nowrap">${p.date}</td>
+      <td class="source-tag">${p.source}</td>
+      <td class="pred-text">${p.text}</td>
+      <td>${p.category}</td>
+      <td>${badgeHTML(p.status)}</td>
+      <td class="pred-resolution">${p.resolution || '—'}</td>
+      <td>${briefingLink}</td>
+    </tr>`;
+  }).join('');
+}
+
+function setupSort() {
+  document.querySelectorAll('.pred-table th[data-sort]').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.sort;
+      if (sortCol === col) sortDir *= -1;
+      else { sortCol = col; sortDir = 1; }
+      document.querySelectorAll('.sort-arrow').forEach(a => a.textContent = '');
+      th.querySelector('.sort-arrow').textContent = sortDir === 1 ? '▲' : '▼';
+      renderTable();
+    });
+  });
+}
+
+init();
+</script>
+</body>
+</html>

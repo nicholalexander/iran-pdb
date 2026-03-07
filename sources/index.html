@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Source Reliability Tracker — Iran Intelligence Briefings</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Courier New',Courier,monospace;background:#f5f5f0;color:#1a1a1a;line-height:1.6}
+header{background:#1a1a1a;color:#d4d4c8;padding:1.5rem 2rem;border-bottom:3px solid #8b0000}
+header h1{font-size:1.4rem;letter-spacing:0.08em;text-transform:uppercase}
+header p{font-size:0.8rem;color:#888;margin-top:0.3rem}
+nav{background:#2a2a2a;padding:0.5rem 2rem;display:flex;flex-wrap:wrap;gap:0.3rem 1rem}
+nav a{color:#aaa;text-decoration:none;font-size:0.75rem;letter-spacing:0.05em;text-transform:uppercase;padding:0.3rem 0}
+nav a:hover{color:#fff}
+nav a.active{color:#d4d4c8;border-bottom:2px solid #8b0000}
+main{max-width:1200px;margin:2rem auto;padding:0 1.5rem}
+.classification{text-align:center;font-size:0.75rem;color:#8b0000;font-weight:bold;letter-spacing:0.15em;padding:0.5rem 0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin-bottom:2rem}
+h2{font-size:1.1rem;margin-bottom:1rem;border-bottom:1px solid #999;padding-bottom:0.5rem;text-transform:uppercase;letter-spacing:0.05em}
+h3{font-size:0.95rem;margin:1.5rem 0 0.8rem;color:#333}
+
+/* Controls */
+.controls{display:flex;flex-wrap:wrap;gap:0.8rem;margin-bottom:1.5rem;align-items:center}
+.controls input,.controls select{font-family:inherit;font-size:0.8rem;padding:0.4rem 0.6rem;border:1px solid #999;background:#fff}
+.controls input{flex:1;min-width:200px}
+.controls select{min-width:120px}
+.controls .count{font-size:0.75rem;color:#666;margin-left:auto}
+
+/* Tier badges */
+.tier{display:inline-block;padding:0.15rem 0.5rem;font-size:0.7rem;font-weight:bold;letter-spacing:0.05em;border-radius:2px}
+.tier-1{background:#1a5e1a;color:#fff}
+.tier-2{background:#2a6e8f;color:#fff}
+.tier-3{background:#b8860b;color:#fff}
+.tier-4{background:#8b0000;color:#fff}
+
+/* Source table */
+.source-table{width:100%;border-collapse:collapse;font-size:0.8rem}
+.source-table th{background:#1a1a1a;color:#d4d4c8;padding:0.5rem;text-align:left;font-size:0.7rem;text-transform:uppercase;letter-spacing:0.05em;cursor:pointer;white-space:nowrap;user-select:none}
+.source-table th:hover{background:#333}
+.source-table th .sort-arrow{margin-left:0.3rem;font-size:0.6rem}
+.source-table td{padding:0.5rem;border-bottom:1px solid #ddd;vertical-align:top}
+.source-table tr:hover{background:#e8e8e0}
+.source-table tr.tier-row-1{border-left:3px solid #1a5e1a}
+.source-table tr.tier-row-2{border-left:3px solid #2a6e8f}
+.source-table tr.tier-row-3{border-left:3px solid #b8860b}
+.source-table tr.tier-row-4{border-left:3px solid #8b0000}
+
+/* Expandable details */
+.source-name{cursor:pointer;color:#1a1a1a;font-weight:bold}
+.source-name:hover{color:#8b0000}
+.source-name::before{content:'▸ ';font-size:0.7rem}
+.source-name.expanded::before{content:'▾ '}
+.source-original{font-size:0.7rem;color:#666;display:block}
+.detail-row{display:none}
+.detail-row.visible{display:table-row}
+.detail-row td{background:#f0f0e8;padding:1rem;font-size:0.75rem;line-height:1.8}
+.detail-row td dl{display:grid;grid-template-columns:140px 1fr;gap:0.3rem 1rem}
+.detail-row td dt{font-weight:bold;color:#555;text-transform:uppercase;font-size:0.65rem}
+.detail-row td dd{margin:0}
+
+/* State media section */
+.state-media-section{margin-top:3rem;padding:1.5rem;background:#fff;border:2px solid #8b0000}
+.state-card{margin:1rem 0;padding:1rem;border:1px solid #ddd;background:#fafaf5}
+.state-card h4{font-size:0.85rem;margin-bottom:0.5rem}
+.state-card .analysis{font-size:0.8rem;color:#333;line-height:1.7}
+.state-card .country-tag{font-size:0.65rem;color:#666;text-transform:uppercase;letter-spacing:0.05em}
+
+/* Methodology */
+.methodology{margin-top:2rem;padding:1rem;background:#fff;border:1px solid #ddd;font-size:0.75rem}
+.methodology h3{margin-top:0}
+.tier-legend{display:flex;flex-wrap:wrap;gap:1rem;margin:0.8rem 0}
+.tier-legend div{display:flex;align-items:center;gap:0.4rem;font-size:0.75rem}
+
+footer{max-width:1200px;margin:3rem auto 2rem;padding:1.5rem;border-top:2px solid #1a1a1a;font-size:0.7rem;color:#555;line-height:1.7}
+footer .warn{color:#8b0000;font-weight:bold;display:block;margin-bottom:0.5rem}
+
+@media(max-width:768px){
+  header h1{font-size:1.1rem}
+  .controls{flex-direction:column}
+  .controls input,.controls select{width:100%;min-width:0}
+  .source-table{font-size:0.7rem}
+  .source-table th,.source-table td{padding:0.3rem}
+  .col-hide-mobile{display:none}
+  .detail-row td dl{grid-template-columns:1fr}
+  .state-media-section{padding:1rem}
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Source Reliability Tracker</h1>
+<p>Iran Intelligence Briefings — Open-Source Media Assessment</p>
+</header>
+<nav>
+<a href="../">Briefings</a>
+<a href="../timeline/">Timeline</a>
+<a href="../analysis/">Analysis</a>
+<a href="../historical/">Historical</a>
+<a href="../verification/">Verification</a>
+<a href="./" class="active">Sources</a>
+</nav>
+<main>
+<div class="classification">UNCLASSIFIED // OPEN SOURCE // AI-GENERATED</div>
+
+<p style="font-size:0.85rem;margin-bottom:1.5rem">Comprehensive reliability assessment of <strong id="totalCount">0</strong> sources cited across <strong>18+</strong> briefings covering the 2026 US-Iran conflict. Each source rated on independence, track record, ownership, and confirmed accuracy during this conflict.</p>
+
+<div class="methodology">
+<h3>Tier Methodology</h3>
+<div class="tier-legend">
+<div><span class="tier tier-1">TIER 1</span> Highly reliable — independent, strong track record, claims consistently confirmed</div>
+<div><span class="tier tier-2">TIER 2</span> Generally reliable — minor bias or access concerns, mostly accurate</div>
+<div><span class="tier tier-3">TIER 3</span> Use with caution — known bias, state links, or mixed track record</div>
+<div><span class="tier tier-4">TIER 4</span> State media / propaganda — valuable for narrative analysis only, not factual accuracy</div>
+</div>
+<p style="margin-top:0.5rem;font-size:0.7rem;color:#666">Ratings reflect performance during this specific conflict (Feb 28 – Mar 7, 2026), not lifetime reputation. Government sources (CENTCOM, IDF, IRGC) are rated as sources, not as independent media.</p>
+</div>
+
+<h2 style="margin-top:2rem">Source Database</h2>
+
+<div class="controls">
+<input type="text" id="searchBox" placeholder="Search sources...">
+<select id="filterTier"><option value="">All Tiers</option><option value="1">Tier 1 — Highly Reliable</option><option value="2">Tier 2 — Generally Reliable</option><option value="3">Tier 3 — Use with Caution</option><option value="4">Tier 4 — State Media / Propaganda</option></select>
+<select id="filterType"><option value="">All Types</option><option value="Wire service">Wire Service</option><option value="Independent">Independent</option><option value="State media">State Media</option><option value="Government source">Government Source</option><option value="Think tank">Think Tank</option><option value="NGO">NGO</option><option value="OSINT">OSINT</option><option value="Social media">Social Media</option></select>
+<select id="filterCountry"><option value="">All Countries</option></select>
+<span class="count"><span id="visibleCount">0</span> shown</span>
+</div>
+
+<table class="source-table" id="sourceTable">
+<thead>
+<tr>
+<th data-sort="name">Source <span class="sort-arrow"></span></th>
+<th data-sort="country" class="col-hide-mobile">Country <span class="sort-arrow"></span></th>
+<th data-sort="type" class="col-hide-mobile">Type <span class="sort-arrow"></span></th>
+<th data-sort="tier">Tier <span class="sort-arrow"></span></th>
+<th data-sort="mentions" class="col-hide-mobile">Cited <span class="sort-arrow"></span></th>
+</tr>
+</thead>
+<tbody id="sourceBody"></tbody>
+</table>
+
+<div class="state-media-section">
+<h2 style="color:#8b0000;border:none;padding:0;margin:0 0 0.5rem">State Media Narrative Analysis</h2>
+<p style="font-size:0.8rem;margin-bottom:1rem">How each state media ecosystem has framed the conflict for its audience. Understanding these narratives is essential for separating information from propaganda.</p>
+<div id="stateMediaCards"></div>
+</div>
+
+</main>
+
+<footer>
+<span class="warn">⚠ AI-GENERATED INTELLIGENCE PRODUCT</span>
+This source reliability tracker was compiled by an AI system using automated open-source aggregation. Source assessments reflect analysis of citation patterns, ownership structures, and track record during the Feb 28 – Mar 7, 2026 conflict period. Tier ratings are analytical judgments, not definitive classifications. All claims should be independently verified. Ownership and bias assessments reflect publicly available information as of March 2026.
+<br><br>
+This product is unclassified and derived entirely from open sources. It does not represent the views of any government or organization. For corrections or updates, see the <a href="https://github.com/nicholalexander/iran-pdb" style="color:#8b0000">project repository</a>.
+</footer>
+
+<script>
+let sources = [];
+let sortCol = 'tier';
+let sortAsc = true;
+
+fetch('sources.json')
+  .then(r => r.json())
+  .then(data => {
+    sources = data;
+    document.getElementById('totalCount').textContent = sources.length;
+    populateCountryFilter();
+    renderTable();
+    renderStateMedia();
+  });
+
+function populateCountryFilter() {
+  const countries = [...new Set(sources.map(s => s.country))].sort();
+  const sel = document.getElementById('filterCountry');
+  countries.forEach(c => {
+    const o = document.createElement('option');
+    o.value = c; o.textContent = c;
+    sel.appendChild(o);
+  });
+}
+
+function getFiltered() {
+  const q = document.getElementById('searchBox').value.toLowerCase();
+  const tier = document.getElementById('filterTier').value;
+  const type = document.getElementById('filterType').value;
+  const country = document.getElementById('filterCountry').value;
+  return sources.filter(s => {
+    if (q && !s.name.toLowerCase().includes(q) && !(s.nameOriginal||'').toLowerCase().includes(q) && !s.country.toLowerCase().includes(q) && !s.type.toLowerCase().includes(q)) return false;
+    if (tier && s.tier != tier) return false;
+    if (type && s.type !== type) return false;
+    if (country && s.country !== country) return false;
+    return true;
+  });
+}
+
+function renderTable() {
+  const filtered = getFiltered();
+  filtered.sort((a, b) => {
+    let va = a[sortCol], vb = b[sortCol];
+    if (typeof va === 'string') va = va.toLowerCase();
+    if (typeof vb === 'string') vb = vb.toLowerCase();
+    if (va < vb) return sortAsc ? -1 : 1;
+    if (va > vb) return sortAsc ? 1 : -1;
+    return 0;
+  });
+  const tbody = document.getElementById('sourceBody');
+  tbody.innerHTML = '';
+  filtered.forEach((s, i) => {
+    const tr = document.createElement('tr');
+    tr.className = 'tier-row-' + s.tier;
+    tr.innerHTML = `
+      <td><span class="source-name" data-idx="${i}">${s.name}${s.nameOriginal ? '<span class="source-original">' + s.nameOriginal + '</span>' : ''}</span></td>
+      <td class="col-hide-mobile">${s.country}</td>
+      <td class="col-hide-mobile">${s.type}</td>
+      <td><span class="tier tier-${s.tier}">TIER ${s.tier}</span></td>
+      <td class="col-hide-mobile">${s.mentions || '—'}</td>
+    `;
+    tbody.appendChild(tr);
+    const dr = document.createElement('tr');
+    dr.className = 'detail-row';
+    dr.id = 'detail-' + i;
+    dr.innerHTML = `<td colspan="5"><dl>
+      <dt>Language</dt><dd>${s.language}</dd>
+      <dt>Ownership</dt><dd>${s.ownership}</dd>
+      <dt>Bias</dt><dd>${s.bias}</dd>
+      <dt>Track Record</dt><dd>${s.trackRecord}</dd>
+      ${s.notableScoops ? '<dt>Notable Scoops</dt><dd>' + s.notableScoops + '</dd>' : ''}
+      ${s.notableErrors ? '<dt>Notable Errors</dt><dd>' + s.notableErrors + '</dd>' : ''}
+      <dt>Notes</dt><dd>${s.notes}</dd>
+      <dt>Citations</dt><dd>${s.mentions || 0} across briefings</dd>
+    </dl></td>`;
+    tbody.appendChild(dr);
+  });
+  document.getElementById('visibleCount').textContent = filtered.length;
+  // Bind expand
+  tbody.querySelectorAll('.source-name').forEach(el => {
+    el.addEventListener('click', () => {
+      const idx = el.dataset.idx;
+      const detail = document.getElementById('detail-' + idx);
+      detail.classList.toggle('visible');
+      el.classList.toggle('expanded');
+    });
+  });
+}
+
+function renderStateMedia() {
+  const container = document.getElementById('stateMediaCards');
+  const stateGroups = {};
+  sources.filter(s => s.stateMediaAnalysis).forEach(s => {
+    const key = s.country;
+    if (!stateGroups[key]) stateGroups[key] = [];
+    stateGroups[key].push(s);
+  });
+  const order = ['Iran', 'Russia', 'China', 'Qatar', 'Saudi Arabia', 'Lebanon', 'Syria', 'Turkey', 'France', 'Germany', 'United States', 'Czech Republic'];
+  const sorted = Object.keys(stateGroups).sort((a,b) => {
+    const ia = order.indexOf(a), ib = order.indexOf(b);
+    return (ia===-1?99:ia) - (ib===-1?99:ib);
+  });
+  sorted.forEach(country => {
+    const card = document.createElement('div');
+    card.className = 'state-card';
+    let html = `<span class="country-tag">${country}</span>`;
+    stateGroups[country].forEach(s => {
+      html += `<h4>${s.name} <span class="tier tier-${s.tier}" style="font-size:0.6rem">TIER ${s.tier}</span></h4>`;
+      html += `<p class="analysis">${s.stateMediaAnalysis}</p>`;
+    });
+    card.innerHTML = html;
+    container.appendChild(card);
+  });
+}
+
+// Sorting
+document.querySelectorAll('.source-table th[data-sort]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.sort;
+    if (sortCol === col) sortAsc = !sortAsc;
+    else { sortCol = col; sortAsc = true; }
+    document.querySelectorAll('.sort-arrow').forEach(a => a.textContent = '');
+    th.querySelector('.sort-arrow').textContent = sortAsc ? '▲' : '▼';
+    renderTable();
+  });
+});
+
+// Filters
+['searchBox','filterTier','filterType','filterCountry'].forEach(id => {
+  document.getElementById(id).addEventListener(id==='searchBox'?'input':'change', renderTable);
+});
+</script>
+</body>
+</html>

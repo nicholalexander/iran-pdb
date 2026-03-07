@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data API — Iran Intelligence Briefings</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Courier New',Courier,monospace;background:#f5f5f0;color:#1a1a1a;line-height:1.7}
+header{background:#1a1a1a;color:#d4d4c8;padding:1.5rem 2rem;border-bottom:3px solid #8b0000}
+header h1{font-size:1.2rem;letter-spacing:0.08em;text-transform:uppercase}
+header p{font-size:0.8rem;color:#888;margin-top:0.3rem}
+nav{padding:0.5rem 2rem;background:#2a2a2a;font-size:0.8rem}
+nav a{color:#d4d4c8;text-decoration:none;margin-right:1.5rem}
+nav a:hover{color:#fff}
+main{max-width:800px;margin:2rem auto;padding:0 1.5rem}
+.classification{text-align:center;font-size:0.75rem;color:#8b0000;font-weight:bold;letter-spacing:0.15em;padding:0.5rem 0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin-bottom:2rem}
+h2{font-size:1rem;margin:2rem 0 0.8rem;text-transform:uppercase;letter-spacing:0.05em;border-bottom:1px solid #999;padding-bottom:0.3rem}
+h3{font-size:0.9rem;margin:1.5rem 0 0.5rem;color:#333}
+p{margin-bottom:0.8rem}
+ul{margin:0.5rem 0 1rem 1.5rem}
+li{margin-bottom:0.4rem}
+a{color:#8b0000}
+a:hover{color:#1a1a1a}
+.feed-card{background:#fff;border:1px solid #ccc;padding:1.2rem 1.5rem;margin:1rem 0}
+.feed-card h3{margin-top:0;color:#8b0000;font-size:0.95rem}
+.feed-card .links{margin:0.5rem 0}
+.feed-card .links a{display:inline-block;font-size:0.8rem;border:1px solid #8b0000;padding:0.15rem 0.5rem;margin-right:0.5rem;text-decoration:none;color:#8b0000}
+.feed-card .links a:hover{background:#8b0000;color:#fff}
+.feed-card .desc{font-size:0.85rem;color:#555;margin:0.3rem 0}
+.feed-card .rows{font-size:0.75rem;color:#888}
+code{background:#e8e8e0;padding:0.1rem 0.3rem;font-size:0.85rem}
+pre{background:#1a1a1a;color:#d4d4c8;padding:1rem 1.5rem;margin:0.8rem 0;overflow-x:auto;font-size:0.8rem;line-height:1.5}
+.schema{background:#fafaf5;border:1px solid #ccc;padding:1rem 1.5rem;margin:0.8rem 0;font-size:0.82rem}
+.schema code{background:none;padding:0}
+.updated{font-size:0.75rem;color:#888;text-align:right;margin:1rem 0}
+footer{max-width:800px;margin:3rem auto 2rem;padding:1.5rem;border-top:2px solid #1a1a1a;font-size:0.7rem;color:#555;line-height:1.7}
+footer .warn{color:#8b0000;font-weight:bold;display:block;margin-bottom:0.5rem}
+</style>
+</head>
+<body>
+<header>
+<h1>Iran Intelligence Briefings — Data API</h1>
+<p>Machine-Readable Structured Data Feeds</p>
+</header>
+<nav>
+<a href="../">← Briefings</a>
+<a href="../analysis/">Strategic Analysis</a>
+<a href="../timeline/">Timeline</a>
+<a href="../map/">Map</a>
+</nav>
+<main>
+<div class="classification">UNCLASSIFIED // OPEN SOURCE // AI-GENERATED</div>
+
+<p>All conflict data from the Iran intelligence briefing series is available as static JSON and CSV files for programmatic access. These are designed for analysts, researchers, and automated systems that need machine-readable data.</p>
+
+<p><strong>Base URL:</strong> <code>https://nicholalexander.github.io/iran-pdb/data/</code></p>
+
+<p class="updated">Last updated: 2026-03-07T01:00:00Z (Day 7)</p>
+
+<h2>Available Data Feeds</h2>
+
+<div class="feed-card">
+<h3>📋 Briefings Index</h3>
+<p class="desc">Metadata for all published situation reports — timestamps, headlines, links to HTML and PDF.</p>
+<div class="links">
+<a href="briefings.json">JSON</a>
+</div>
+<p class="rows">18 briefings</p>
+</div>
+
+<div class="feed-card">
+<h3>⚔️ Conflict Events</h3>
+<p class="desc">All significant conflict events with timestamps, categories, locations (lat/lng), sources, confidence levels, and casualty data where available.</p>
+<div class="links">
+<a href="events.json">JSON</a>
+<a href="events.csv">CSV</a>
+</div>
+<p class="rows">45 events</p>
+</div>
+
+<div class="feed-card">
+<h3>📈 Economic Indicators</h3>
+<p class="desc">Daily economic tracking: oil prices (Brent/WTI), Hormuz transits, shipping insurance, flight cancellations, USD/IRR exchange rate.</p>
+<div class="links">
+<a href="economic.json">JSON</a>
+<a href="economic.csv">CSV</a>
+</div>
+<p class="rows">9 data points (Day 0–7)</p>
+</div>
+
+<div class="feed-card">
+<h3>🏥 Casualty Tracker</h3>
+<p class="desc">Running casualty totals by country/category. Includes Iran, US, Israel, Lebanon, Gulf states, and other affected countries.</p>
+<div class="links">
+<a href="casualties.json">JSON</a>
+<a href="casualties.csv">CSV</a>
+</div>
+<p class="rows">8 snapshots</p>
+</div>
+
+<div class="feed-card">
+<h3>📰 Source Catalog</h3>
+<p class="desc">Registry of all sources cited across briefings — news agencies, governments, international organizations, OSINT providers.</p>
+<div class="links">
+<a href="sources.json">JSON</a>
+</div>
+<p class="rows">31 sources</p>
+</div>
+
+<h2>Schema Documentation</h2>
+
+<h3>events.json</h3>
+<div class="schema">
+<code>id</code> — Unique event identifier (evt-001, evt-002, ...)<br>
+<code>timestamp</code> — ISO 8601 UTC<br>
+<code>category</code> — military | naval | civilian | political | diplomatic | economic | terrorism | intelligence | leadership<br>
+<code>subcategory</code> — airstrike, ship_sinking, school_strike, etc.<br>
+<code>headline</code> — Short summary<br>
+<code>detail</code> — Extended description<br>
+<code>location</code> — Object: name, lat, lng, country (ISO 3166-1 alpha-2)<br>
+<code>sources</code> — Array of source names<br>
+<code>confidence</code> — CONFIRMED | REPORTED | CLAIMED | UNCONFIRMED<br>
+<code>briefingRef</code> — Briefing ID where event first reported<br>
+<code>casualties</code> — Object: reported_killed, reported_injured, source (null = unknown)
+</div>
+
+<h3>economic.json</h3>
+<div class="schema">
+<code>timestamp</code> — ISO 8601 UTC<br>
+<code>brent_crude_usd</code> — Brent crude price (USD/barrel)<br>
+<code>wti_crude_usd</code> — WTI crude price (USD/barrel)<br>
+<code>usd_irr</code> — USD to IRR (toman) exchange rate<br>
+<code>hormuz_transits_per_day</code> — Estimated daily Hormuz transits<br>
+<code>shipping_insurance_change</code> — Change from pre-war baseline<br>
+<code>dow_change</code> — Dow Jones change (points)<br>
+<code>flights_cancelled</code> — Cumulative regional flight cancellations<br>
+<code>notes</code> — Contextual notes
+</div>
+
+<h3>casualties.json</h3>
+<div class="schema">
+<code>timestamp</code> — ISO 8601 UTC<br>
+<code>day</code> — Conflict day number<br>
+<code>iran_military_killed</code> — Iranian military dead (null = unknown)<br>
+<code>iran_civilian_killed</code> — Iranian civilian dead (null = unknown)<br>
+<code>iran_total_killed</code> — Total Iranian dead (Red Crescent figures)<br>
+<code>us_military_killed</code> — US service members KIA<br>
+<code>israel_killed</code> — Israeli dead<br>
+<code>lebanon_killed</code> — Lebanese dead<br>
+<code>gulf_killed</code> — Gulf states dead (UAE, Kuwait, Bahrain, Qatar combined)<br>
+<code>other_killed</code> — Other countries (India, Pakistan, Iraq, Syria, Austin TX)<br>
+<code>source</code> — Primary source(s)<br>
+<code>confidence</code> — CONFIRMED | REPORTED<br>
+<code>notes</code> — Detailed breakdown
+</div>
+
+<h3>briefings.json</h3>
+<div class="schema">
+<code>id</code> — Briefing ID (YYYY-MM-DD-HHMM format, ET timezone)<br>
+<code>timestamp</code> — ISO 8601 UTC publication time<br>
+<code>headline</code> — Briefing headline/summary<br>
+<code>htmlUrl</code> — Relative URL to HTML version<br>
+<code>pdfUrl</code> — Relative URL to PDF version<br>
+<code>day</code> — Conflict day number<br>
+<code>type</code> — morning | afternoon | evening | overnight | flash
+</div>
+
+<h3>sources.json</h3>
+<div class="schema">
+<code>id</code> — Slug identifier<br>
+<code>name</code> — Full source name<br>
+<code>type</code> — military | government | wire_service | media | state_media | humanitarian | international_org | think_tank | social_media | industry | satellite | osint | military_alliance | law_enforcement<br>
+<code>country</code> — ISO 3166-1 alpha-2 (null for intl orgs)<br>
+<code>url</code> — Source website (if available)<br>
+<code>notes</code> — Usage context
+</div>
+
+<h2>Usage Examples</h2>
+
+<h3>curl</h3>
+<pre>
+# Fetch all conflict events
+curl -s https://nicholalexander.github.io/iran-pdb/data/events.json | jq .
+
+# Download economic CSV
+curl -O https://nicholalexander.github.io/iran-pdb/data/economic.csv
+
+# Count events by category
+curl -s .../events.json | jq 'group_by(.category) | map({(.[0].category): length}) | add'
+</pre>
+
+<h3>Python</h3>
+<pre>
+import pandas as pd
+
+# Load events
+events = pd.read_json(
+    "https://nicholalexander.github.io/iran-pdb/data/events.json"
+)
+
+# Load economic data from CSV
+econ = pd.read_csv(
+    "https://nicholalexander.github.io/iran-pdb/data/economic.csv",
+    parse_dates=["timestamp"]
+)
+
+# Plot oil prices
+econ.plot(x="timestamp", y=["brent_crude_usd", "wti_crude_usd"])
+
+# Filter military events only
+military = events[events["category"] == "military"]
+print(f"{len(military)} military events out of {len(events)} total")
+</pre>
+
+<h3>R</h3>
+<pre>
+library(jsonlite)
+library(dplyr)
+
+# Load events
+events &lt;- fromJSON(
+  "https://nicholalexander.github.io/iran-pdb/data/events.json"
+)
+
+# Load economic CSV
+econ &lt;- read.csv(
+  "https://nicholalexander.github.io/iran-pdb/data/economic.csv"
+)
+
+# Summary by category
+events %>% count(category, sort = TRUE)
+
+# Oil price trajectory
+plot(econ$wti_crude_usd, type = "l", main = "WTI Crude (USD)")
+</pre>
+
+<h2>Notes</h2>
+<ul>
+<li>All timestamps are UTC (ISO 8601). Briefing IDs use Eastern Time.</li>
+<li><code>null</code> values indicate data not available or not yet confirmed — not zero.</li>
+<li>Confidence levels follow intelligence standards: CONFIRMED (multiple independent sources), REPORTED (credible single source), CLAIMED (party to conflict claims), UNCONFIRMED (unverified).</li>
+<li>Casualty figures are cumulative snapshots, not incremental deltas.</li>
+<li>Economic data points are approximate — captured at briefing publication times, not market close.</li>
+<li>Data is updated with each briefing cycle (typically 2x daily).</li>
+<li>These are static files served via GitHub Pages — no rate limits, no authentication required.</li>
+</ul>
+
+</main>
+<footer>
+<span class="warn">⚠ AI-GENERATED INTELLIGENCE PRODUCT</span>
+This data is compiled by AI systems from open-source reporting. It has not been verified by human intelligence analysts. Casualty figures, economic data, and event details may contain errors, lag behind real-time developments, or reflect source biases. Do not use as sole basis for investment, policy, or operational decisions.
+<br><br>
+All briefings and data are generated using AI language models (Claude, OpenAI) processing publicly available sources. No classified or proprietary information is used. Source attribution is provided for all claims. Confidence ratings reflect source reliability assessment, not ground truth.
+<br><br>
+<strong>License:</strong> Data is provided for research and analysis purposes. Attribution appreciated: "Iran Intelligence Briefings — nicholalexander.github.io/iran-pdb"
+</footer>
+</body>
+</html>
