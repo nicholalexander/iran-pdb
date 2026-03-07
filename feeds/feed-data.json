@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T23:15:06.819777+00:00",
+    "last_updated": "2026-03-07T23:30:06.184762+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 112,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "114770926da5eb81",
+      "title": "Trump rejects settling war with Iran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-rejects-settling-war-iran",
+      "summary": "\n\n  \n      \n      \nTrump rejects settling war with Iran\n\n    \n    \n\n        \n    \n                US President Donald Trump on Saturday raised the possibility of the war against&nbsp;Iran&nbsp;ending only once that country no longer has a functioning military or any remaining leadership in power.\n\nS",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:30:03+00:00",
+      "fetched": "2026-03-07T23:30:06.081267+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "405dbfb3ae575705",
+      "title": "Trump says Iran's map will 'probably' not look the same after the war",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-irans-map-will-probably-not-look-same-after-war",
+      "summary": "\n\n  \n      \n      \nTrump says Iran's map will 'probably' not look the same after the war\n\n    \n    \n\n        \n    \n                The US president Donald Trump said that Iran's map will 'probably' change after the war.\n\nAnswering a reporter's question whether Iran's map will look the same after thi",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:22:49+00:00",
+      "fetched": "2026-03-07T23:30:06.081323+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "34d84a0ae69266eb",
+      "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
+      "link": "https://www.aljazeera.com/news/2026/3/7/zelenskyy-offers-saudi-arabias-mbs-help-with-countering-iranian-drones?traffic_source=rss",
+      "summary": "Ukraine&#039;s president seeks leverage with low-cost interceptors, as US and Gulf nations burn through Patriot missiles.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T23:11:51+00:00",
+      "fetched": "2026-03-07T23:30:03.625404+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "b3c06ae6537da503",
       "title": "Trump claims deadly school strike 'done by Iran'",
@@ -28,6 +64,18 @@
       "category": "regional",
       "published": "2026-03-07T23:01:52+00:00",
       "fetched": "2026-03-07T23:03:51.548891+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "586478214201fdd3",
+      "title": "Trump tells Britain he does not need its help to win Iran war - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?oc=5",
+      "summary": "Trump tells Britain he does not need its help to win Iran war&nbsp;&nbsp;Reuters",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:55:14+00:00",
+      "fetched": "2026-03-07T23:30:05.965458+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -112,6 +160,18 @@
       "category": "regional",
       "published": "2026-03-07T22:33:56+00:00",
       "fetched": "2026-03-07T22:45:05.611322+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "84d574663db98255",
+      "title": "How far will the Iran war spillover? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE14enladHU1REhYT3BsZGU0LUN0YU96TGNYZXZHN29YS2pLa1p1cDdZSjlPQWZ6UHhYeWVFcFdlY1BFeFB3WUxRM0d6QWItY0hIREx4SmlWZlZ2NHhFZ1hmem5QWlZsMzZwcmRiMXNFM3kyUUtDWEZYczFXV1Y0ZTZEclZxVlRQa0g0UGJGSDhuLTDSAZgBQVVfeXFMUGtHX2MzcFZPYllMcmR4Sk8zdHFNMk9ZZU9JMzhnT01sVjgxbzFoTC1McDNlM0IwSFJCbXZZcnVOVEJLaGcwX0t0TU40dmtIeXZhM2liMDlNa2Z0ZmpLdFdKTFQ5RUc1RHVvSXdSc0IxS0JWdmVMVGV3T1V5MFg1Q1JLSGlUTHVNZ19OMElPWVpEX05oa2RsMVA?oc=5",
+      "summary": "How far will the Iran war spillover?&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:28:21+00:00",
+      "fetched": "2026-03-07T23:30:05.965268+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -292,6 +352,18 @@
       "category": "iranian",
       "published": "2026-03-07T22:00:04.503218+00:00",
       "fetched": "2026-03-07T22:00:04.503243+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "59632875132aa831",
+      "title": "America’s military has an Iranian drone problem - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQUx2bE90VHRLaklfTy1rakx5cTA2aDNRTTQtelN3X3ViRkZFbWcwQlFQbVZxb2huaFBiZ29adC1NRTV5YUpYai1iQU9MQndmdEZCa0RhWGJVZFhyc0U0V3ViU3RQQV9XM2FyUGxLb2FpSjVBYzR6NVlaa9IBgAFBVV95cUxPX054ZFRFVVBxMkJYUU1udUhRUC1aWkZzZ3FlWXJPM1o5VHhsLWJqdnVpM1FMM0llOG91WXZudGNycjFOZ1pQN2FwdUhGTXduWUEyZWl3clcyLWdXM3dYVnkzRGg5VjJlV2tjenhUcHQ3RDV5R0VFbFJFemU1Nl9yTg?oc=5",
+      "summary": "America’s military has an Iranian drone problem&nbsp;&nbsp;The Hill",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:00:00+00:00",
+      "fetched": "2026-03-07T23:30:05.965210+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -544,6 +616,18 @@
       "category": "aggregator",
       "published": "2026-03-07T21:01:15+00:00",
       "fetched": "2026-03-07T21:30:07.341678+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "bf8d1dde29907792",
+      "title": "Video: Satellite images reveal damage to several Iranian military bases - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXZiWnFGczREa3l3blZtODUtUVNDV1Uxc3Nha09ZZjlBMDB4RllZVkQwanBaeWVuYy1lWV9BQmp3OGNyQWVER2FIaWxzY1R1TXF5aFg3V3ppVXVpdUxIZEFiZ3Y4Qm9FWE5iS2I0RkYyOUNvSktCZ1dVaHF5c01NZWItVzliRi1nNHRuT0JGVlhTUGFDMVFiM0I0V3c4am5fMFdYcVpmT20yRW9WZzNycFNjOXMtd0RjazByUdIBwgFBVV95cUxOVXBMeXFVbjduWDd3VjU4MmV4ODNoN0ZFTTJnNnNBamU3Z285clpvRU0wRVJRcjNnUmtHUHp6WEtCM3UtSXZmMjVPdU5NTkFndmpRN29CQWtvTFdORlZoYks3ZzNvQ1dBc0dEcklKOFhoV2tPNUJuN2thLUhnNHY4T0RUblppRzRxanZIY1IycmJiV2J1YWRNeWhxNnp4MThTTmJLbFdrWGJLeDNLV1BLcWJQZ3M0eld2UnRkUllDMUVOdw?oc=5",
+      "summary": "Video: Satellite images reveal damage to several Iranian military bases&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T20:58:31+00:00",
+      "fetched": "2026-03-07T23:30:05.965693+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2192,6 +2276,18 @@
       "iran_specific": true
     },
     {
+      "id": "7996edb7a983299a",
+      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRzdKNEZ2NkRteTZXOXpvNkJyR2pBNVd5UlNwTGczUlpWazF1ejA0MWc5bVZmQ1duUmxINTFueURtcGpxRzM3R0pZQXZRc283VnF2QUlQMWRmc3JKQ21uTDhQWkhad0FEZjFidkJqWXBoU2Z4RThxc1JSd2Fydm5Fb0s0SzhJY2pfaEFHdC05ZTY5Zm1lcklJNHVYVEFQZGpxUnJ1S1Z5SzFOeWNpc0NBdlZHTjA1R0tkcl9fUnRwRF9BZVhJTXZ2NHJDRE5OaXpzbkc0YVFiVGdFdmFoUmhOeVZEQklQWGk1aWYtSk81OWF1RExTb3h2SHpIMFh1X1RDbWppYnIzZGxXVEZZQWxDOFRheVpqQ0V6RUVZNldNcEJJa1NiZW1aQVk4X29LOVNQbVVIbkc2R2c4UjEwaTRtdTJ1RmJzZHVzVUZNWlZ4Uk5iRUZlbXRXLXRIOW9YQjNaeVFuY1FmcnVycC1DQXlhS2tGT1dhNzFzc01UVUhQaXM?oc=5",
+      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:00:00+00:00",
+      "fetched": "2026-03-07T23:30:05.965765+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "30988ee5d7f3e2ae",
       "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
       "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
@@ -2636,6 +2732,18 @@
       "iran_specific": true
     },
     {
+      "id": "3bc043a4396b1328",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNelhrQ0pkdW01a01JaW1jcC1OTzRVdWVpLUFyQXh2MzhXcnVQUnZwb1c1MWZjUDZxdFdKQUpPTkN0b29UYlhFdHlKSkZkUGhCVFNGYUszd21rZFhRRzZJSEF5bml4elR4bE9PNVFSaGU3UHgya2ZQbDRha1JvOG1idjhHamVadFJiZXNiQVFLMWlEaUlLTDEta3NoRmNaSVJ0UFZnRnl0QkduLTlPdU41YmtVallQNXNRVElhQ0ZYSUFVNlVTS0d1Z0F1dmEtVjJCeFh5WGVyVXMzOHBfRFFOd1ZGSTJ5UFRrWHF1ZXVxbnhCSXZwb2J5aXFGajh6VlZWdGtJaGplNnlZZV83ZnF5ZWV2QnRLUXM5Rld2OER1R1otUW9LZmJFeEJseUVzbFVqSFZrZHBhV3JoUG9LUjVGUWlUdUpvbUhCYkJtTjBzMnJXWk9qd2FRSUtUV1ZqajQ0QkdudGcwMHNaVkozYjNiZGlsV2psNDk4UGMxRnZacERvYjdmaWVR?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T23:30:05.965335+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -2824,6 +2932,18 @@
       "category": "regional",
       "published": "2026-03-07T16:27:54+00:00",
       "fetched": "2026-03-07T20:47:35.015365+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e8e5c9ff2426c57f",
+      "title": "Saudi Arabia intensifies engagement with Iran to defuse war - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemNLNVVDRmlWbjFMSzdWQzFHQ0FFV1FxUkw1TkJQYngteWctN1JUS3JES2dBeWNNYXlhZjJEUEJwZmtjSUVnOVF2OXBkOWZZbjRERnd3c1pZVXp6YjNOcnNZdW41SUFxV0lrZkxYUkFzUEdjR29OTmRkQ1F4RjdaTEIwNHU1NFRrN3RDUEd3WmNXcEdsRzRUTkxNelFRZXVl?oc=5",
+      "summary": "Saudi Arabia intensifies engagement with Iran to defuse war&nbsp;&nbsp;Fortune",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:26:00+00:00",
+      "fetched": "2026-03-07T23:30:05.965505+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3340,6 +3460,18 @@
       "category": "russian",
       "published": "2026-03-07T13:51:15+00:00",
       "fetched": "2026-03-07T20:41:22.708413+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "751837c0d43c1285",
+      "title": "Will Iran war fallout end the bull market? When investors really need to worry - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd214TUJlTkIzLTZmR1ZNZW9Mc3RvUUwtMkpoWUdYRmN5TDlRanZDSHBnSml5RFNYMDNiTkF6dXlqLTV1VFRVd3JLMkhJc2FWbnlPaEZ2eVZ4cGVOR0NOTUVPQlQxblhOSVlzV3RFcG5SUzljampqNDl1YXplbmRaNnVEd0hEMkJvb21fQnRObE1ONVo5SVBoWDVOR3N1RmZ0QndLalVRVFQtUG8?oc=5",
+      "summary": "Will Iran war fallout end the bull market? When investors really need to worry&nbsp;&nbsp;CNBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T13:41:24+00:00",
+      "fetched": "2026-03-07T23:30:05.965724+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4988,6 +5120,18 @@
       "iran_specific": true
     },
     {
+      "id": "c84778365d42dae3",
+      "title": "Majority of Americans oppose military action in Iran, new poll finds - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzRIZldKNm1MOUk4Q1RsVkNhblJVRE5nTW1BTkxDbHNNWFJ2MnVLdE5KNV9GQ2RHR0czTU4xQnY1WDN3dWQ2NWRDbVpCdTVEbElFeUNQUHBhNEkwNjNDTE9Camw4SXpqMHhzejQtdlBVMDJlRnJUVzRhc2NHeUZrLUF6TDZoZzJrUExUWk40RWcySVFzLUw5U0VOQVo4VHNFQ2pYNVk0ZW_SAa4BQVVfeXFMT0dkZlM0bzVDWHR2di16S2Q3NHRtWi1vaVlWOGNpc2FsdWxGZ2JIYmhHbU9LTV9zejk0U19vVVpGMVF6eVZRbFhwX0Njc2ZNVklmS01FQU5XRkctZmdxbmIzaE9sODdGeG9EekNMem9yN3BXMk4tclA4WWRnamE0UWprb1p0LUlEQ3dFN2pGT0R2aU9peUZjY0d6a0pycEJUQVV3X0hNaW0teTRFM1ln?oc=5",
+      "summary": "Majority of Americans oppose military action in Iran, new poll finds&nbsp;&nbsp;PBS",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-06T19:00:37+00:00",
+      "fetched": "2026-03-07T23:30:05.965653+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "bfbee92ee68c3833",
       "title": "Europe’s Disjointed Response to the War With Iran - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2t3QWo5dVVWRHk4UVl4T3h5eUdwdW9Wb2xqRGF5eXNvZjNPb1lXYjZSaVdKSXBKNFF1M1hLV243VzNkdlJOeUM0ZFRKQmZad29DTEYtRXAwUXNhMXR6Wm9Vc1FwclBBRVBqYXNZVnVuTDZXQUVpalVsOUdORXJkbnJSWWpmeHNDdlg0MXBQTDc2T1E?oc=5",
@@ -5862,150 +6006,6 @@
       "fetched": "2026-03-07T20:41:23.367153+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "3acffe563fe2f83e",
-      "title": "The Arsenal Beneath the Arsenal",
-      "link": "https://warontherocks.com/2026/02/the-arsenal-beneath-the-arsenal/",
-      "summary": "What does it take to rebuild the foundation of American military power? Michael Cadenazzi, assistant secretary of defense for industrial base policy, joined Ryan at a live event a few weeks back for a fascinating discussion on the state of the defense industrial base (from new VC-backed entrants to ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-27T17:25:28+00:00",
-      "fetched": "2026-03-07T20:41:23.367187+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "7b0f93ea6cf543f2",
-      "title": "All Too Quiet on the Western Neuroenhancement Front",
-      "link": "https://warontherocks.com/2026/02/all-too-quiet-on-the-western-neuroenhancement-front/",
-      "summary": "&#8220;A merry little surge of electricity piped by automatic alarm from the mood organ beside his bed awakened Rick Deckard.&#8221; The characters in Philip K. Dick&#8217;s 1968 novel Do Androids Dream of Electric Sheep? fine-tune their mental and emotional states with the &#8220;Penfield Mood Orga",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-27T09:00:22+00:00",
-      "fetched": "2026-03-07T20:41:23.367220+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "e961eb484f55e8b9",
-      "title": "Why Trump’s Criticism of Maliki Strengthens Him in Iraq",
-      "link": "https://warontherocks.com/2026/02/why-trumps-criticism-of-maliki-strengthens-him-in-iraq/",
-      "summary": "Is publicly confronting the likely next prime minister of Iraq the right strategy for the United States? The nomination of Nouri al Maliki by the Coordination Framework, the organizing body of Shiite politics in Iraq, on Jan. 24, and the blunt and public objection by President Donald Trump three day",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-27T08:30:11+00:00",
-      "fetched": "2026-03-07T20:41:23.367273+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "02ab8ecb8adb193d",
-      "title": "AI Is Being Misunderstood as a Breakthrough in Planning. It’s Not.",
-      "link": "https://warontherocks.com/2026/02/ai-is-being-misunderstood-as-a-breakthrough-in-planning-its-not/",
-      "summary": "In the age of AI, the scarcest resource in headquarters is no longer time. It is, rather, the willingness to say no.Artificial intelligence is moving rapidly into military planning staffs because it compresses routine cognitive labor. AI excels at absorbing guidance, reorganizing complex material, a",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-26T09:00:47+00:00",
-      "fetched": "2026-03-07T20:41:23.367319+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "eed24a5c8f32c98a",
-      "title": "Xi Has Made China’s Currency Ambition Explicit",
-      "link": "https://warontherocks.com/2026/02/xi-has-made-chinas-currency-ambition-explicit/",
-      "summary": "What changes when China&#8217;s leader finally states a reserve currency ambition explicitly?&#160;Xi Jinping has now done so, calling for the renminbi to attain global reserve currency status, not in a speech to foreign investors or at an international summit, but in&#160;Qiushi, the Chinese Commun",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-26T08:30:59+00:00",
-      "fetched": "2026-03-07T20:41:23.367361+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "8342da64518f6243",
-      "title": "For Iran’s Regime, Better to Take a Beating than Capitulate",
-      "link": "https://warontherocks.com/2026/02/for-irans-regime-better-to-take-a-beating-than-capitulate/",
-      "summary": "It seems natural to assume that relentless pressure will force authoritarian leaders to yield, yet the opposite is often true. When survival is at stake, backing down can be more dangerous than standing firm. This counterintuitive logic has played out repeatedly in the Persian Gulf. Iraqi President ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-26T08:15:41+00:00",
-      "fetched": "2026-03-07T20:41:23.367383+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "773ee98e3b1f8b1e",
-      "title": "The U.S. Military Must Save Itself Before Saving Others",
-      "link": "https://warontherocks.com/2026/02/the-u-s-military-must-save-itself-before-saving-others/",
-      "summary": "In 2023, Jennifer Kavanaugh and Jordan Cohen wrote, &#8220;The True Military Assistance Tradeoff is Between Israel and Taiwan,&#8221; where they argued Washington should place clear boundaries on its military aid to Israel to preserve capabilities essential to deterring China in the Indo-Pacific. Th",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-25T18:30:12+00:00",
-      "fetched": "2026-03-07T20:41:23.367418+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "2a4d011f48f802a5",
-      "title": "Arctic Hot Takes Need a Cold Reality Check",
-      "link": "https://warontherocks.com/2026/02/arctic-hot-takes-need-a-cold-reality-check/",
-      "summary": "At &#8211;40&#176;F, cold is not a condition simply to be managed. It is a constraint that governs everything. Equipment fails, humans slow, and mistakes compound. Any serious discussion of Arctic military strategy and operations needs to begin with and remain grounded in reality.Unfortunately, ther",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-25T08:30:39+00:00",
-      "fetched": "2026-03-07T20:41:23.367466+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "19003933aff65161",
-      "title": "The Transatlantic Defense Business Politics Can’t Break",
-      "link": "https://warontherocks.com/2026/02/the-transatlantic-defense-business-politics-cant-break/",
-      "summary": "The foundations of the Atlantic alliance are shifting in ways not seen since the early days of the Cold War. Washington is no longer simply urging greater European burden-sharing: It is redefining the terms of the alliance itself. Secretary of State Marco Rubio suggested that the era of a coherent, ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-25T08:15:35+00:00",
-      "fetched": "2026-03-07T20:41:23.367512+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "6b3b0e8368bf685e",
-      "title": "Ukraine as a European Nation",
-      "link": "https://warontherocks.com/2026/02/ukraine-as-a-european-nation/",
-      "summary": "Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for&#160;War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate t",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-24T19:36:05+00:00",
-      "fetched": "2026-03-07T20:41:23.367544+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "cb527168c5d15e1f",
-      "title": "Using the 2026 Winter Olympics to Build Soft Power",
-      "link": "https://warontherocks.com/2026/02/using-the-2026-winter-olympics-to-build-soft-power/",
-      "summary": "The Olympics have a long history of countries and participants using the games as a platform to build soft power, promote propaganda, advance diplomacy, and highlight political causes. These efforts can take hopeful forms, such as the 2016 creation of the Refugee Olympic Team and the role of the 201",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-24T18:30:50+00:00",
-      "fetched": "2026-03-07T20:41:23.367578+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ceca6cacdfb11c7e",
-      "title": "Agentic AI and the Pentagon’s Integration Challenge",
-      "link": "https://warontherocks.com/2026/02/agentic-ai-and-the-pentagons-integration-challenge/",
-      "summary": "Agentic AI is quickly moving from demo to deployment inside the Department of Defense. But what does it actually mean to give AI &#8220;agency&#8221; &#8212; and what does it take to make those systems work on real military networks?In this episode, Ryan sits down with Ben Van Roo, co-founder and CE",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-24T09:00:33+00:00",
-      "fetched": "2026-03-07T20:41:23.367621+00:00",
-      "relevant": true,
-      "iran_specific": false
     }
   ]
 }
