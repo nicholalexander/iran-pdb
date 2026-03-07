@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T21:30:07.564921+00:00",
+    "last_updated": "2026-03-07T21:45:06.500373+00:00",
     "total_items": 500,
-    "new_this_run": 19,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "c9fcda122d31d921",
+      "title": "Trump says he’s ruled out having Kurds join the Iran war - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDJydV90WC1USUt1QnU5ZHdIZzZkdU1EWXdrZUdYamlGbFhHbERWaWZZTVJIc2E2dEhnQS02TlQwalFqOWZDd2VabFhGb3VINmdvM25JWF9GbVcwQnlCSjQ2dFBuQTAyRVlDSHRLV0lUVmNjMWJocWpBTmkzYjlxdjMyWmFNOXV2OElvT1NCTTk?oc=5",
+      "summary": "Trump says he’s ruled out having Kurds join the Iran war&nbsp;&nbsp;AP News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T21:38:00+00:00",
+      "fetched": "2026-03-07T21:45:06.288995+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f8dde17caacae4bc",
+      "title": "Fire outbreak occurs at oil depot in Krasnodar Region — emergency services",
+      "link": "https://tass.com/politics/2098257",
+      "summary": "According to the latest data, nobody was injured",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-07T21:34:45+00:00",
+      "fetched": "2026-03-07T21:45:05.256222+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "198ad9f59b3f242a",
+      "title": "Trump attends return of first US troops killed in Iran war",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-attends-return-first-us-troops-killed-iran-war",
+      "summary": "\n\n  \n      \n      \nTrump attends return of first US troops killed in Iran war\n\n    \n    \n\n        \n    \n                US President Donald Trump attended the return Saturday of the bodies of the first six US soldiers killed during the escalating war with Iran.\n\nTrump, wearing a white \"USA\" baseball",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T21:31:21+00:00",
+      "fetched": "2026-03-07T21:45:06.385882+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "c98988037828aa8c",
       "title": "True Promise 4: Iran and resistance axis ops. against US-Israeli assets on Mar. 7",
@@ -1244,6 +1280,18 @@
       "iran_specific": false
     },
     {
+      "id": "24ccf964ff88f0c3",
+      "title": "Trump team bashed Europe for a year. Now he wants support in war on Iran. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjY1Zmo0c0hYWDdWMVhJMElvWl8xTDl4YmJsYkZoZS1lTEtsUXBZSVpNMXpZTVVIVVlBM1NhR1RfZTR3cml3dlBPUDIyRDVwRllDeU9hNXM1ZmIxaF9pUmx2WnR0cUpUM3lWMUFXQ3dmUWFrUGxwdGFlLUZsVG9aVUJ1dHV3X280X1A1X01DYU9wUXd4SjZqeEFXVU5yMm9va3lGV0RlRWV3ZnFIUHdzSVFWY29uY19a?oc=5",
+      "summary": "Trump team bashed Europe for a year. Now he wants support in war on Iran.&nbsp;&nbsp;The Washington Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T20:34:37+00:00",
+      "fetched": "2026-03-07T21:45:06.288599+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "f51ffda4d44061f9",
       "title": "Cuba says electricity plant successfully repaired after large blackout",
       "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss",
@@ -1420,6 +1468,18 @@
       "category": "aggregator",
       "published": "2026-03-07T20:02:00+00:00",
       "fetched": "2026-03-07T21:15:06.606819+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "2350234fe1be5e5d",
+      "title": "Iran’s president apologises to Gulf nations; Trump threatens further strikes – Middle East crisis live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMERfcU5HWXdvb091WVcxdmQ0Z19hYmRKQzdRaGNBNkpSVUFua3NRV3Fob1lxaExVb2x2NTdMNE5aR2pQWHczWlJISHFMNHNxUDVQNnl2MmQzZUs5TGNzNFlZbTlhWDNfXzFhdGJ4NFBGYXoxUWM3MzRZMEVlNF9VNDB0LWx6Yk5mRFhyYzM3cDhxYnI5ckhKWG1DXzRfdEgtQmtqdVhCVXNqQmh4UDd4VkJyNUFOUlB6ZDdQQllNM2dwcGZyM3dZdmVoN0FVUQ?oc=5",
+      "summary": "Iran’s president apologises to Gulf nations; Trump threatens further strikes – Middle East crisis live&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:58:00+00:00",
+      "fetched": "2026-03-07T21:45:06.288525+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1636,6 +1696,18 @@
       "category": "aggregator",
       "published": "2026-03-07T19:00:00+00:00",
       "fetched": "2026-03-07T20:47:34.881048+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c8f3086fa49eab5e",
+      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQUkRJVWFoUFhGZUdpYkdDem5qVmp2ejB3eWRiR1lBM29yVE5SNzNYSnZXYU9CUl9VR0tfcElkRldFcHBnMUJ2RDVIcGx2aWtWSWtRbFV3SmlNUFViVlFBVTdhaC1NWldIZDAxcWJ0Ym5kMTZ5NWVOSXJmWWNSdmlBVHFGR194WVZPRjNiUDVXYWF6QUJVWEg3UjFVR3VJSm5EZU50b3BnOVdJZUtJSTNDbkRmdzZONElFU2pZQ3BPWFl5SXVicFQzaXJvai1wQ0tZYXdJZExFbERlTFd2MFFJQmVscjd0eEtQOWpPTDZlY2NXQmpYdlN4Zk0wczRYUkhiSktkbkJQenB5R3BvTzA1OEd1RXpBOThDR2ZISGF4X3UtOEM0dUxqV3BYUG8wQnRVRlVWX0tOa2U1aGJRWXV6SGJsWjdEa19lb0JpNkNTbnE2RVJhUC1zQ0ZzNVRxcng4aURGSXBJS0xBQmpBZUNfZUlUQzdHaFNpX1hseFZGdHY?oc=5",
+      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:00:00+00:00",
+      "fetched": "2026-03-07T21:45:06.289073+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1868,6 +1940,18 @@
       "iran_specific": true
     },
     {
+      "id": "403a3ffadb5a9923",
+      "title": "Trump grieves with families during return of the 6 soldiers killed in Iran war - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGpjTGNhcHRidFVReHRhdThONnlYZjhhOUIwS0p4Rkc4V3c0SjJ3STNfN1BMLUdlYVQ4XzdCU2dqTWJmMndobU9lUEJXT0FZM0UyWTdhUmtSNGFjZ1RNdVdNcWVBWFJLU29CQ1YyQ3RaVVR0QWd1UFNEZVdBY1FFWXVfQXMzZmdaZ2hfWHNhOWo5TnpvR1NfcGxjT29DT2UzUjNHXzQyVkdJbjZGT092MHBBekw?oc=5",
+      "summary": "Trump grieves with families during return of the 6 soldiers killed in Iran war&nbsp;&nbsp;PBS",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:43:24+00:00",
+      "fetched": "2026-03-07T21:45:06.288934+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "466f701e2369c270",
       "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss",
@@ -1972,6 +2056,18 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-07T21:30:07.341377+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "bcbb91237d4643bc",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOS3F2ZjVWdEhGd1dzVmtRZGYtTnhsS0ZqTExmdWJWWWUzdnREN1hSdXVlS3hmaThqbHItWGNoYTg5UXFTTGpPSkJxM3VGTDFiMHRJb3JBWEVNdXZDMGNXZWc2MDlKSEpyTGpQcjZEUGlCSXVCOTNnR0cxQm5oUTR1RE5PaVo1SkJXcWxCQkdoeERsTURLd0hTUmlqTnlhZU9EcTdFajdVYlRfQzdUa0tQQ1ZIMFl5ODhvWUViWEZSVFVid196Qks0RkxpdFBBMm5iM2JOUlBfMEx3ZnNaWGx3UW1UMTFmcmZmVFZIazA0c29NZ2FwYVZ1bGtuMEd1bFlsMEhwR0p6VmlnbGVDZTZrT0ZUWjFVNklCM08wRm5zNVFHWDdvZWJXNDh3dEVQSHFYODFHdW96UUlyUzdyZ2hIaUpuUmRMOE9JdnltRUNPRnFXT2Vvbkt3VGZqejNwNW5YVl9Ka1U5RUVhR3g1WHU0YVhhU1pNSDcxT0JXcGlYa2RScm9heTM0?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T21:45:06.288702+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2260,6 +2356,18 @@
       "category": "aggregator",
       "published": "2026-03-07T16:01:04+00:00",
       "fetched": "2026-03-07T21:30:07.341718+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "81160a55aee568f5",
+      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNcWFvQ0xMTWdXMmo1ZTd3TnBjd2tlWGNSRzFXa0hvY2RBV0RkbTZaSlJwVFdCdVpYNWI1UjVfQzR0UndGRDJlLVlWSHBOZ3oxN3RIVUFKUVJHVkVGQ2dzSzU2aGNEcU9oSFpLOVRTRndTQ0l2Q1h6U2tqWTFnOVZnT2twMDZUQjBZMS1ERXlrQkkyRkNiV0lpcWpSYmtYNTc0NmVhbmxETzhuNzZJTHBRMkctSkw4UXhCSml0QWtCNzE3X1lyak5KcTFxS0tRTFp4Uy04WUJ0dlZUQlZISGJwYmx5YnFqRms4U0VOU1FmZ25ub1lXVS1sVjRMWXplQTNINDBDU0dtU3gxVk9vNUhIM0tNV2Jid0tma3FHV3EyM1FRV014TGRkbUlzd1ZHSXBxZE9TY29rckNtZmcwU3lnY3I5ZjdJc3d1MS1kSzJYUGhHVUVHMlV0WHgxaVdxS2g5SlJJR1RQaV9CelNjaDA5WXdlMS1JdExRREZPV2EyQmhxWDVlUEhTR0thUGxDTTJZTTEtcVE2MlhBTDFH?oc=5",
+      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:01:04+00:00",
+      "fetched": "2026-03-07T21:45:06.289019+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5896,114 +6004,6 @@
       "category": "defense",
       "published": "2026-01-23T08:30:41+00:00",
       "fetched": "2026-03-07T20:41:23.369960+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "542bb3efc780fe6b",
-      "title": "The Organic Industrial Base and the Risks of Competing Against Ourselves",
-      "link": "https://warontherocks.com/2026/01/the-organic-industrial-base-and-the-risks-of-competing-against-ourselves/",
-      "summary": "When I was in middle school, I ate lunch every day with the same group of boys. Most of us brought the same brown-bagged peanut butter and jelly sandwiches, faithfully made by our parents. One boy, however, regularly brought fluffernutter and banana sandwiches. Before long, curiosity turned into dem",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-22T09:00:43+00:00",
-      "fetched": "2026-03-07T20:41:23.370004+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "168713ca9c8fa855",
-      "title": "Deep Learning From Operation Sindoor: Five Takeaways From a Four-Day War",
-      "link": "https://warontherocks.com/2026/01/deep-learning-from-operation-sindoor-five-takeaways-from-a-four-day-war/",
-      "summary": "Tensions between India and Pakistan &#8212; two countries that President Donald Trump claimed had been fighting for 1,500 years &#8212; escalated rapidly over a few days in May 2025.On May 7&#8211;10, the two countries fought an 88-hour war after India accused Pakistan of orchestrating a gruesome te",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-22T08:30:58+00:00",
-      "fetched": "2026-03-07T20:41:23.370039+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "960772bd4a4b1625",
-      "title": "Protests and Crackdown: Implications for Iran",
-      "link": "https://warontherocks.com/2026/01/protests-and-crackdown-implications-for-iran/",
-      "summary": "In late December, a new wave of protests broke out in Iran &#8212; eventually spreading around the country and across many sectors of society. Due to an internet blackout imposed on Jan. 8, information is limited, but reports suggest that thousands of Iranian protesters were killed in the government",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-21T20:45:20+00:00",
-      "fetched": "2026-03-07T20:41:23.370055+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3d242d7dee62b539",
-      "title": "What Would Have Happened If the Green Berets Helped Ukraine?",
-      "link": "https://warontherocks.com/2026/01/what-would-have-happened-if-the-green-berets-helped-ukraine/",
-      "summary": "In 2024, Brian Petit wrote, &#8220;Send in the A Team: A Graduated Response for Ukraine,&#8221; where he argued for sending the Green Berets into Ukraine for training and assistance to the Ukrainian armed forces. We asked Brian to revisit his argument after talks of a peace deal have yet to produce ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-21T19:00:09+00:00",
-      "fetched": "2026-03-07T20:41:23.370090+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "719143a4c0cd7dad",
-      "title": "Ships or Munitions? Clarifying the Discussion on Unmanned Surface Vessels",
-      "link": "https://warontherocks.com/2026/01/ships-or-munitions-clarifying-the-discussion-on-unmanned-surface-vessels/",
-      "summary": "Many strategists, myself included, believe that unmanned surface vessels could be part of an approach to help the U.S. Navy maintain an edge over its competitors. Unfortunately, there is little agreement on exactly what they should do.Part of the problem is that people mean different things when the",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-21T09:00:43+00:00",
-      "fetched": "2026-03-07T20:41:23.370125+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "3c911d2ea87eed51",
-      "title": "Trump, Uncertainty, and China’s Anti-Alliance Strategy",
-      "link": "https://warontherocks.com/2026/01/trump-uncertainty-and-chinas-anti-alliance-strategy/",
-      "summary": "President Donald Trump&#8217;s return to the White House has revived a familiar anxiety across Europe and Taiwan: How reliable is the United States when its partners&#8217; core interests are at stake? Trump&#8217;s governing style is marked by transactional diplomacy, hostility toward multilateral ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-21T08:45:12+00:00",
-      "fetched": "2026-03-07T20:41:23.370171+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "46686a81afacdc8f",
-      "title": "Betting on War: Prediction Markets and the Corruption of National Security",
-      "link": "https://warontherocks.com/2026/01/betting-on-war-prediction-markets-and-the-corruption-of-national-security/",
-      "summary": "Prediction markets have proven remarkably effective at aggregating dispersed information across many domains. From technology product launches to election forecasting, they often outperform expert predictions. But when applied to military operations, these same mechanisms create categorically differ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-21T08:30:56+00:00",
-      "fetched": "2026-03-07T20:41:23.370206+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "801c465cbd3c6030",
-      "title": "Change or Just Cheating? Overhauling Professional Military Education for the AI Era",
-      "link": "https://warontherocks.com/2026/01/change-or-just-cheating-overhauling-professional-military-education-for-the-ai-era/",
-      "summary": "Thanks to AI, cheating in professional military education is becoming pervasive. Drawing on our perspectives as a uniformed instructor and as a recent course graduate, we&#8217;re seeing officers increasingly outsource their thinking and assignments to sophisticated AI tools despite attempted restri",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-20T08:30:08+00:00",
-      "fetched": "2026-03-07T20:41:23.370246+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "b2eb1cfc9ed95e57",
-      "title": "Greenland Is Strategic. Annexation Is Not",
-      "link": "https://warontherocks.com/2026/01/greenland-is-strategic-annexation-is-not/",
-      "summary": "As sea temperatures and geopolitical tensions simultaneously heat up, Greenland&#8217;s strategic importance increases. Against this backdrop, the specter of American territorial expansion has emerged as a new factor that is complicating Arctic security.The evolving security environment in the Arcti",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-01-20T08:15:33+00:00",
-      "fetched": "2026-03-07T20:41:23.370284+00:00",
       "relevant": false,
       "iran_specific": false
     }
