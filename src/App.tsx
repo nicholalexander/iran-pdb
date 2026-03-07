@@ -1,7 +1,7 @@
 import { HashRouter as Router, Routes, Route } from 'react-router-dom'
-import { Layout } from '@/components/Layout'
-import { HomePage } from '@/pages/HomePage'
-import { PlaceholderPage } from '@/pages/PlaceholderPage'
+import { Layout } from './components/Layout'
+import { HomePage } from './pages/HomePage'
+import { PlaceholderPage } from './pages/PlaceholderPage'
 
 function App() {
   return (

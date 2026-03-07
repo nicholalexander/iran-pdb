@@ -1,3 +1,4 @@
 feeds/state.json
 node_modules/
 dist/
+tsconfig*.tsbuildinfo

@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { ExternalLink, Calendar, Globe, Zap, BarChart3, Target, Clock, FileText, Database } from 'lucide-react'
-import { cn } from '@/lib/utils'
-import briefingsData from '@/data/briefings.json'
+import { cn } from '../lib/utils'
+import briefingsData from '../data/briefings.json'
 
 interface Briefing {
   id: string
