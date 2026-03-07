@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iran Situation Report — March 7, 2026 08:00 ET</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+    @top-center {
+      content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION";
+      font-size: 7pt;
+      color: #999;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+    @bottom-center {
+      content: counter(page) " of " counter(pages);
+      font-size: 8pt;
+      color: #888;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 10.5pt;
+    line-height: 1.55;
+    color: #1a1a1a;
+    background: #fff;
+  }
+
+  .cover-header {
+    border-bottom: 3px solid #b71c1c;
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+  }
+  .cover-header .classification {
+    background: #b71c1c;
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .cover-header h1 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 22pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.5px;
+    margin-bottom: 4px;
+  }
+  .cover-header .subtitle {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11pt;
+    color: #555;
+    font-weight: 400;
+  }
+  .cover-header .dateline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    color: #333;
+    margin-top: 8px;
+    font-weight: 600;
+  }
+  .cover-header .meta-line {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  .exec-summary {
+    background: #f8f5f0;
+    border-left: 4px solid #b71c1c;
+    padding: 14px 18px;
+    margin-bottom: 22px;
+  }
+  .exec-summary h2 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #b71c1c;
+    margin-bottom: 8px;
+  }
+  .exec-summary ul {
+    list-style: none;
+    padding: 0;
+  }
+  .exec-summary li {
+    padding: 3px 0 3px 16px;
+    position: relative;
+    font-size: 10.5pt;
+    line-height: 1.45;
+  }
+  .exec-summary li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #b71c1c;
+    font-weight: bold;
+  }
+
+  .section {
+    margin-bottom: 20px;
+    page-break-inside: avoid;
+  }
+  .section-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    border-bottom: 1.5px solid #ccc;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
+  .section-header .section-num {
+    color: #b71c1c;
+    font-weight: 800;
+    margin-right: 6px;
+  }
+
+  .subsection-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: 700;
+    color: #333;
+    margin-top: 12px;
+    margin-bottom: 6px;
+  }
+
+  p {
+    margin-bottom: 8px;
+    text-align: justify;
+    hyphens: auto;
+  }
+  .source {
+    color: #666;
+    font-size: 9pt;
+    font-style: italic;
+  }
+
+  .callout {
+    background: #f0f4f8;
+    border: 1px solid #d5dde5;
+    border-radius: 3px;
+    padding: 10px 14px;
+    margin: 10px 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9.5pt;
+  }
+  .callout .label {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    font-size: 8pt;
+    letter-spacing: 1px;
+  }
+  .callout .value {
+    font-size: 16pt;
+    font-weight: 700;
+    color: #1a1a1a;
+  }
+  .callout .delta {
+    font-size: 9pt;
+    color: #666;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 9.5pt;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  th {
+    background: #2c3e50;
+    color: #fff;
+    padding: 6px 10px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 8.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  td {
+    padding: 5px 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  tr:nth-child(even) { background: #f9f9f9; }
+
+  .gap-open { border-left: 3px solid #e67e22; padding-left: 10px; margin: 6px 0; }
+  .gap-resolved { border-left: 3px solid #27ae60; padding-left: 10px; margin: 6px 0; color: #555; }
+  .gap-new { border-left: 3px solid #b71c1c; padding-left: 10px; margin: 6px 0; }
+
+  .edward-analysis {
+    background: #fafaf5;
+    border: 1px solid #d5d0c0;
+    border-radius: 3px;
+    padding: 16px 20px;
+    margin: 16px 0;
+  }
+  .edward-analysis .byline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  .edward-analysis p {
+    font-style: italic;
+    text-align: left;
+  }
+
+  .tier-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-bottom: 8px;
+    border-radius: 2px;
+  }
+  .tier-1 { background: #b71c1c; color: #fff; }
+  .tier-2 { background: #e67e22; color: #fff; }
+  .tier-3 { background: #2c3e50; color: #fff; }
+
+  .no-change { color: #999; font-style: italic; font-size: 9.5pt; padding: 4px 0; }
+
+  a { color: #1a5276; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  ul, ol { margin: 6px 0 8px 20px; }
+  li { margin-bottom: 3px; }
+
+  .footer {
+    margin-top: 30px;
+    padding-top: 12px;
+    border-top: 2px solid #b71c1c;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 7.5pt;
+    color: #999;
+    text-align: center;
+  }
+  .footer .warning {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 7pt;
+    margin-bottom: 4px;
+  }
+
+  @media print {
+    body { font-size: 10pt; }
+    .section { page-break-inside: avoid; }
+    .edward-analysis { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cover-header">
+  <div class="classification">INTELLIGENCE BRIEFING</div>
+  <h1>Iran Situation Report</h1>
+  <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment — Day 8</div>
+  <div class="dateline">Saturday, March 7, 2026 — 08:00 ET / 13:00 UTC</div>
+  <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection & Analysis</div>
+  <div class="meta-line">Sources: 65 searches | Languages: 13 | Classification: OPEN SOURCE</div>
+</div>
+
+<div class="exec-summary">
+  <h2>Executive Summary</h2>
+  <ul>
+    <li>Pezeshkian apologizes to Gulf neighbors — military contradicts him within hours, strikes Al Dhafra Air Base</li>
+    <li>Ali-Asghar Hejazi (deputy head of Khamenei's office) confirmed killed in Israeli strike — decapitation expanding to civilian intelligence</li>
+    <li>Dubai International Airport forced to suspend all operations after interception overhead</li>
+    <li>Oil: biggest weekly gain in futures history — Brent $92.69, WTI $90.90, up 35% this week</li>
+    <li>CENTCOM: 43 Iranian ships damaged/destroyed (was 25). IDF: 65% of missile launchers destroyed</li>
+    <li>Trump threatens "complete destruction" of "areas and groups of people" never before targeted</li>
+    <li>Bessent: "Tonight will be our heaviest bombardment"</li>
+    <li>500 tankers stranded, Hormuz traffic down 90%, maritime insurance up 1,000%+</li>
+    <li>Arab League emergency meeting Sunday. Lebanon ordering IRGC arrests</li>
+    <li>US lifting Russian oil sanctions — Russia emerging as war's biggest geopolitical winner</li>
+  </ul>
+</div>
+
+<div class="tier-label tier-1">TIER 1 — NEW DEVELOPMENTS</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">1.</span> MILITARY SITUATION</div>
+
+  <div class="subsection-header">Pezeshkian-IRGC Split — Apology vs. Continued Strikes</div>
+  <p>Iranian President Pezeshkian issued a pre-recorded TV address apologizing to neighboring countries: "I personally apologize to neighbouring countries that were affected by Iran's actions." Interim Leadership Council approved halting attacks on neighbors unless attacked from their territory. <span class="source">Reuters, Guardian, Al Jazeera, BBC Persian — Mar 7</span></p>
+  <p>Armed forces spokesperson Shekarchi immediately contradicted: "Strikes against US and Israeli assets will continue." Pezeshkian revealed forces had acted "fire at will" (آتش‌ به‌ اختیار) without commanders — confirmed command-and-control breakdown. <span class="source">El País, BBC Persian — Mar 7</span></p>
+
+  <div class="subsection-header">IRGC Strikes Al Dhafra Air Base (UAE) — Hours After Apology</div>
+  <p>IRGC Navy claims drone swarm on Al Dhafra near Abu Dhabi. Claimed targets: AN/TPY-2 radar (~$500M), MQ-9 hangars, U-2 facilities. Reuters could not verify. Satellite imagery from Taiwan's UDN suggests THAAD radar may be destroyed — unconfirmed. <span class="source">Tasnim, Mehr News, UDN Taiwan — Mar 7</span></p>
+
+  <div class="subsection-header">Targeted Assassinations — Decapitation Expanding</div>
+  <p>Ali-Asghar Hejazi, deputy head of Khamenei's office and top security figure, confirmed killed in Israeli strike. MOIS officials also killed including Yahya Hosseini Panjaki. Systematic decapitation now extending beyond IRGC to civilian intelligence apparatus. <span class="source">Iran International, AFP via Aftab — Mar 7</span></p>
+
+  <div class="subsection-header">CENTCOM Week-1 Data</div>
+  <p>Operation Epic Fury confirmed: 3,000+ targets, 43 Iranian ships damaged/destroyed (up from Trump's 25). Near-total naval destruction. <span class="source">CENTCOM via Fox News — Mar 7</span></p>
+
+  <div class="callout">
+    <div class="label">Iranian Naval Losses</div>
+    <div class="value">43 ships</div>
+    <div class="delta">Was 25 (Trump claim) → 43 (CENTCOM confirmed). +72% revision.</div>
+  </div>
+
+  <div class="subsection-header">IDF Launcher Assessment</div>
+  <p>65% of missile launchers destroyed. 100-200 mobile remaining. 75% of launchers + 65% launch infrastructure out of service. 2,600 sorties flown. Phase 2: critical solid fuel mixing facilities destroyed — "significant delay" to long-range missile program. <span class="source">Mako, Walla, Israel Hayom, Ynet — Mar 7</span></p>
+
+  <div class="subsection-header">IDF Operations</div>
+  <p>80+ jets struck Tehran/central Iran pre-dawn Saturday. Second "broad wave" announced on Tehran + Isfahan. IDF commandos landed in Bekaa Valley (4 helicopters, Nabi Chit) — Ron Arad MIA recovery mission, unsuccessful. 26 killed in clashes including 3 Lebanese soldiers. Separately 41 killed in Bekaa airstrikes. 8 IDF soldiers wounded (4 seriously). <span class="source">IDF, Times of Israel, Al-Masry Al-Youm — Mar 7</span></p>
+
+  <div class="subsection-header">IRGC Strikes Iraqi Kurdistan</div>
+  <p>3 positions struck in Erbil/Sulaymaniyah at 4:30 AM local, ~30 drones. Threat: "ALL facilities in Kurdistan will be targeted on a wide scale." <span class="source">RT Arabic, Independent Arabia — Mar 7</span></p>
+
+  <div class="subsection-header">Trump Escalation</div>
+  <p>Truth Social ~6 AM ET: "Today Iran will be hit very hard! Under serious consideration for complete destruction and certain death... areas and groups of people that were not considered for targeting up until this moment in time." Treasury Secretary Bessent: "Tonight will be our heaviest bombardment." <span class="source">Reuters, NYT, Guardian, Tagesspiegel — Mar 7</span></p>
+
+  <div class="subsection-header">Iran Barrage Decline</div>
+  <p>Saturday: only 1 barrage, &lt;20 missiles — massive reduction from peak (hundreds on Day 1). 5 shrapnel sites in central Israel. <span class="source">Haaretz, Mako — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">2.</span> CIVILIAN &amp; HUMANITARIAN</div>
+  <p>Red Crescent president Kolivand: 6,668 civilian installations damaged including 65 schools + 14 health centers. Previous: 3,090 residential + 528 commercial + 13 medical. Nearly doubled. <span class="source">La Sexta/Red Crescent — Mar 7</span></p>
+  <p>Minab school: Reuters exclusive — two US military investigators believe strike "likely perpetrated by the United States." Death toll revised to 175+ (NYT). School: Shajareh Tayyebeh elementary (girls' school). <span class="source">Reuters, NYT — Mar 6-7</span></p>
+  <p>RTVE: 1,400+ dead across all affected countries after one week. <span class="source">RTVE — Mar 7</span></p>
+
+  <div class="callout">
+    <div class="label">Civilian Infrastructure Damaged</div>
+    <div class="value">6,668</div>
+    <div class="delta">Was ~3,619 → 6,668. Nearly doubled in 12 hours. Includes 65 schools, 14 health centers.</div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">3.</span> ECONOMIC &amp; MARKET IMPACT</div>
+
+  <div class="subsection-header">Energy</div>
+
+  <div class="callout">
+    <div class="label">Oil — Biggest Weekly Gain in History</div>
+    <div class="value">Brent $92.69 | WTI $90.90</div>
+    <div class="delta">Weekly gain: 35% — largest in futures history (since 1983). Brent was $73.23 a week ago. Gold: $5,181/oz (+2%).</div>
+  </div>
+
+  <div class="subsection-header">War Cost</div>
+  <p>WSJ: $11 billion in first 4 days. $5.7 billion in interceptors alone. Previous CSIS estimate of $3.7B/100hrs was triple-revised upward. <span class="source">Der Spiegel citing WSJ/McCusker — Mar 7</span></p>
+
+  <div class="subsection-header">Shipping &amp; Insurance</div>
+  <p>Maritime insurance premiums surged 1,000%+ for Gulf war risk. 500 tankers stranded. &lt;50 transited Hormuz this week. Traffic down 90%. No oil shipments in past 24h (as of Mar 6). 147 container ships trapped. Maersk suspended all Gulf services. US DFC announced $20B reinsurance. <span class="source">Reuters, LA Times, Lloyd's/Folha, JMIC, CNBC — Mar 6-7</span></p>
+  <p>Safeen Prestige (Malta-flagged, AD Ports) struck by IRGC in Hormuz — engine room fire, crew abandoned. At least 8 vessels damaged total. Iran: cannot guarantee safety of ANY ships. <span class="source">Container News, El País — Mar 7</span></p>
+
+  <div class="subsection-header">AIS Spoofing</div>
+  <p>10+ ships changing AIS transponders to falsely identify as Chinese, exploiting China's safe-passage arrangement. <span class="source">Sina, UDN Taiwan — Mar 7</span></p>
+
+  <div class="subsection-header">Equities (Friday Close)</div>
+  <p>Defense: NOC +6%, RTX +4.7%, LHX +3.8%, LMT +3.3%, BA +2%. RTX +14.9% YTD. <span class="source">Air &amp; Space Forces, Euronews — Mar 7</span></p>
+
+  <div class="subsection-header">Currencies</div>
+  <p>USD/IRR: 1,664,000 rials (open market). Was ~1,016,500 rials pre-war. ~64% collapse. Tehran Stock Exchange closed indefinitely. ECB chief economist Lane warned of inflation spike. <span class="source">Alanchand, NRC — Mar 7</span></p>
+
+  <div class="subsection-header">Sanctions &amp; Russia</div>
+  <p>US lifted sanctions on Russian oil (30-day India waiver). Bessent: "considering lifting more." Dmitriev confirmed broader US-Russia talks. Rosatom suspended all Iran operations, evacuating. Russian diplomats also evacuating. <span class="source">BBC Russian, Vedomosti, Meduza — Mar 7</span></p>
+
+  <div class="subsection-header">Global Supply Chain</div>
+  <p>Japan: LNG 3 weeks, 90% oil cut. India: LPG hiked ₹60/₹115. Oil up 23% since war, 31%/month. Brazil fuel rising. <span class="source">NHK, Times Now Hindi, Folha — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">4.</span> ✈️ TRAVEL &amp; AIRSPACE</div>
+  <p>Dubai International Airport suspended all operations Saturday after interception overhead. Partially resumed later. Emirates suspended all flights (rebook/refund through Mar 31). Turkish flights to Iran/Iraq/Syria/Lebanon/Jordan suspended until March 9. Azerbaijan recalling diplomats. <span class="source">Libération, AFP, Reuters Arabic — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">5.</span> 🇦🇪 DUBAI &amp; UAE</div>
+  <p>World's busiest international airport forced to close. IRGC claims Al Dhafra hit hours after Pezeshkian's apology. Qatar intercepted missile attack post-speech. <span class="source">AFP, Cedar News, Tasnim — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">6.</span> 🇴🇲 OMAN</div>
+  <p class="no-change">Sultan still silent. No change.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">7.</span> DIPLOMATIC &amp; INTERNATIONAL</div>
+  <p>Arab League emergency FM meeting Sunday — Jordan/Saudi request — to discuss "flagrant Iranian aggression." <span class="source">Al-Quds — Mar 7</span></p>
+  <p>Lebanon PM Salam ordered arrest of IRGC-connected persons. Considering Hezbollah ban + Iranian embassy closure. Western intel confirmed: IRGC commanders directly ordering Lebanon launches. <span class="source">IMLebanon — Mar 7</span></p>
+  <p>Putin-Pezeshkian call: first explicit ceasefire demand. <span class="source">Reuters — Mar 7</span></p>
+  <p>Iranian vice minister: European countries joining attacks = "legitimate targets." <span class="source">CNN Español — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">8.</span> 🇺🇸 US POLITICS &amp; STRATEGY</div>
+  <p>Trump threatening "complete destruction" of new targets. Framing Pezeshkian apology as "surrender." Trump + Vance to Dover AFB for dignified transfer of 6 KIA (103rd Sustainment Command, Des Moines). CNN/WaPo framing as first major political test. <span class="source">Reuters, NYT, WaPo — Mar 7</span></p>
+  <p>Reuters/Ipsos poll: 27% support military action, 60% oppose. <span class="source">Reuters/Ipsos via EcoIran — Mar 7</span></p>
+  <p>USS George H.W. Bush completed pre-deployment training — third carrier heading to theater. US paratrooper exercise cancelled — deployment speculation. <span class="source">USNI News, WaPo/Corriere — Mar 7</span></p>
+  <p>Minab: Reuters exclusive on "likely" US responsibility creates war crimes investigation exposure. <span class="source">Reuters — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">9.</span> 🇺🇸 US DOMESTIC SECURITY &amp; HOMEFRONT</div>
+  <p>No new domestic incidents. DHS shutdown Week 3+, CISA ~1/3 staffed. Gap persists. Dover dignified transfer for 103rd Sustainment families. Ben Stiller criticized White House propaganda video. <span class="source">NYT, Sky News — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">10.</span> 🇺🇸-🇨🇳 US-CHINA STRATEGIC ANGLE</div>
+  <p>AIS spoofing exploiting Chinese Hormuz exemption. China negotiating safe passage pragmatically. 130-day strategic reserves. 45% of imports via Hormuz. Chinese social media: anger at Japanese ships using Chinese flags of convenience. BBC Chinese: war "shaking China's ambitions." <span class="source">Sina, Zaobao, BBC Chinese — Mar 7</span></p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">11.</span> FOREIGN LANGUAGE INTELLIGENCE</div>
+  <p><strong>Persian:</strong> Command fragmentation visible. "Fire at will" admission. Stock exchange closed. Banks reopening Sunday at 20%. BBC Persian: "Trump's war of choice." <span class="source">BBC Persian, Khabaronline — Mar 7</span></p>
+  <p><strong>Arabic:</strong> Arab League mobilizing. Saudi warning of "miscalculations." Lebanese PM arresting IRGC-connected. <span class="source">Al-Quds, Independent Arabia — Mar 7</span></p>
+  <p><strong>Hebrew:</strong> 65% launchers destroyed, 2,600 sorties. IDF Chief: "no end date" for Lebanon. Massive reduction in incoming fire Saturday. <span class="source">Mako, Walla — Mar 7</span></p>
+  <p><strong>Russian:</strong> US lifting sanctions = direct benefit. Rosatom evacuating. Putin as mediator while profiting. <span class="source">BBC Russian, Vedomosti, Meduza — Mar 7</span></p>
+  <p><strong>Narrative Divergence (Claim Logger):</strong> Hormuz — IRNA claims "full IRGC naval control"; Reuters reports "de facto closed"; SCMP notes Chinese vessels still transiting. Three incompatible realities.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">12.</span> INFORMATION OPERATIONS</div>
+  <p>Pezeshkian vs military: genuine C2 breakdown or theater. Trump reframing apology as "surrender." Persian media amplifying 27% US support poll. Minab divergence narrowing — US investigators now siding with Iranian narrative on responsibility.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">14.</span> 🏗️ GROUND TRUTH</div>
+  <p class="no-change">No new ground source reports this cycle.</p>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">16.</span> INTELLIGENCE GAPS</div>
+  <div class="gap-resolved"><strong>RESOLVED:</strong> Khamenei bunker officials → Hejazi killed. Warship count → 43 (CENTCOM). Minab → US investigators say "likely" US. Lebanon crackdown → arrests ordered.</div>
+  <div class="gap-open"><strong>OPEN:</strong> IRIS Shahid Bagheri status. Ahmadinejad. Evin detainees. Internet restoration. Russia intel sharing scope. Oman silence.</div>
+  <div class="gap-new"><strong>NEW:</strong> Trump's "new targets" — what? Pezeshkian vs IRGC authority. Al Dhafra/THAAD damage. $20B reinsurance efficacy. 43 ships — sunk vs damaged? AIS spoofing response. $11B sustainability. Paratrooper deployment. Bush CSG arrival. Arab League actions.</div>
+</div>
+
+<div class="section">
+  <div class="section-header"><span class="section-num">17.</span> 🦉 EDWARD'S ANALYSIS</div>
+  <div class="edward-analysis">
+    <div class="byline">Edward 🦉 — Analyst Assessment</div>
+
+    <p>This is the cycle where the seams started showing on every side.</p>
+
+    <p><strong>The Pezeshkian-IRGC split is real.</strong> When a president admits on television that his own forces were operating "fire at will" without commanders — hitting neighboring countries by accident — that's not theater. Pezeshkian controls the narrative; IRGC controls the weapons. The Interim Leadership Council exists on paper. On the ground, the IRGC answers to itself. This is the most important development since Khamenei's death.</p>
+
+    <p><strong>Russia is winning this war without firing a shot.</strong> US lifting sanctions on Russian oil, Bessent discussing more relief, Rosatom evacuating, Putin positioning as peacemaker — and profiting from higher prices simultaneously. The US started a war that is systematically strengthening the adversary it spent three years sanctioning.</p>
+
+    <p><strong>The numbers are breaking through propaganda.</strong> CENTCOM: 43 ships. IDF: 65% launchers. WSJ: $11B in 4 days. Saturday incoming: &lt;20 missiles vs hundreds on Day 1. Degradation is real. But $11B/4 days for a 4-6 week war = $80-100B. Nobody in Washington is talking about that yet.</p>
+
+    <p><strong>Hormuz is heading somewhere unprecedented.</strong> 500 tankers stranded. Ships faking Chinese identity. Iran can't guarantee any ship's safety. $20B reinsurance means nothing if ships get hit. Next: US Navy escort. IRGC says it "welcomes" that. A standoff at Hormuz would be a Cuban Missile Crisis for energy markets.</p>
+
+    <p><strong>Trump's language is escalating faster than the military situation warrants.</strong> "Complete destruction" of "groups of people" is either deliberate ambiguity or genuine intent to target civilians. The disconnect between Leavitt's "4-6 weeks" and Trump's "complete destruction" is widening.</p>
+
+    <p><strong>Claim logger:</strong> Minab divergence narrowing — US investigators now agreeing with Iranian narrative on responsibility. When your own people confirm the other side's story, propaganda collapses. Legal consequences follow.</p>
+
+    <p><strong>Predictions:</strong> Arab League Sunday = condemnation, no military action (90%). Navy escort attempted within 72h (70%). Brent $100 by Wednesday if Hormuz unchanged (75%). IRGC becomes de facto government within days (80%). Dover becomes political inflection point (85%). Ground forces discussion enters mainstream this week (65%).</p>
+
+    <p>The 27% support number matters most. Less support than Iraq at its nadir. Trump doesn't need it to continue — but every Republican running in 2026 does.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="warning">SENSITIVE — NOT FOR PUBLIC DISTRIBUTION</div>
+  Produced by Edward (AI Intelligence Analyst) for Nichol Alexander<br>
+  Sources: Open-source intelligence across 13 languages | 65 searches<br>
+  This briefing is generated from publicly available information and does not represent classified intelligence.<br>
+  Next scheduled briefing: Saturday, March 7, 2026 — 2:00 PM ET / 19:00 UTC
+</div>
+
+</body>
+</html>
