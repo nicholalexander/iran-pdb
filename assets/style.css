@@ -67,44 +67,117 @@ header p {
   margin: 0;
 }
 
-/* Navigation */
-nav {
-  background: rgba(26, 26, 26, 0.95);
-  padding: 0.75rem 0;
+/* Navigation — hamburger on mobile, inline on desktop */
+.pdb-nav {
+  background: rgba(26, 26, 26, 0.97);
+  padding: 0;
   position: sticky;
   top: 0;
   z-index: 1000;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
-nav ul {
+.pdb-nav .container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.pdb-nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 0;
   align-items: center;
+  width: 100%;
 }
 
-nav a {
-  color: var(--pdb-header-text);
+.pdb-nav li {
+  margin: 0;
+  padding: 0;
+}
+
+.pdb-nav a {
+  color: #b0b0a8;
   text-decoration: none;
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  border-bottom: 1px solid transparent;
-  padding-bottom: 2px;
+  padding: 0.75rem 1rem;
+  display: block;
+  border-bottom: 2px solid transparent;
   transition: all 0.15s;
 }
 
-nav a:hover {
+.pdb-nav a:hover {
   color: #fff;
-  border-color: var(--pdb-accent);
+  border-bottom-color: var(--pdb-accent);
 }
 
-nav .nav-home {
-  font-weight: bold;
-  color: var(--pdb-accent-light);
+.pdb-nav a.active {
+  color: #fff;
+  border-bottom-color: var(--pdb-accent);
+}
+
+/* Hamburger button */
+.hamburger {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.75rem 1rem;
+  margin: 0;
+  flex-direction: column;
+  gap: 5px;
+  z-index: 10;
+}
+
+.hamburger span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: #d4d4c8;
+  transition: all 0.25s;
+  border-radius: 1px;
+}
+
+/* Hamburger animation when open */
+.pdb-nav.open .hamburger span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.pdb-nav.open .hamburger span:nth-child(2) {
+  opacity: 0;
+}
+.pdb-nav.open .hamburger span:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* Mobile: show hamburger, hide nav */
+@media (max-width: 768px) {
+  .hamburger {
+    display: flex;
+  }
+  .pdb-nav ul {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    border-top: 1px solid #333;
+  }
+  .pdb-nav.open ul {
+    display: flex;
+  }
+  .pdb-nav a {
+    padding: 0.85rem 1.25rem;
+    width: 100%;
+    border-bottom: 1px solid #2a2a2a;
+    font-size: 0.85rem;
+  }
+  .pdb-nav a:last-child {
+    border-bottom: none;
+  }
 }
 
 /* Classification banner */
@@ -339,13 +412,7 @@ footer .warn {
     font-size: 0.8rem;
   }
   
-  nav ul {
-    gap: 1rem;
-  }
-  
-  nav a {
-    font-size: 0.75rem;
-  }
+  /* nav handled by .pdb-nav mobile rules */
 }
 
 /* Utilities */
