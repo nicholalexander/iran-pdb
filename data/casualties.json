@@ -118,5 +118,19 @@
     "source": "Iranian Red Crescent, UNICEF, WHO, multiple governments",
     "confidence": "REPORTED",
     "notes": "Iran: 1,332 dead (Red Crescent), 6,000+ wounded. UNICEF: 181 children. 4 schools hit. 3,090 residential + 528 commercial units. 13 medical facilities (WHO). Lebanon: 217 dead, 798 wounded. Israel: 12 dead, 11 missing, 777 hospitalized. US: 6 KIA, 10 seriously wounded. UAE: 3+/94+. Kuwait: 3/32+. Qatar: 0/16. Bahrain: 1/6. Austin TX: 3. India: 5. Pakistan: 23. Iraq: 13. Syria: 4."
+  },
+  {
+    "timestamp": "2026-03-07T13:00:00Z",
+    "iran_dead": 1332,
+    "iran_wounded": 6000,
+    "iran_civilian_installations": 6668,
+    "lebanon_dead": 284,
+    "lebanon_wounded": 798,
+    "israel_dead": 12,
+    "israel_hospitalized": 777,
+    "us_kia": 6,
+    "us_wounded": 10,
+    "total_all_countries": 1400,
+    "notes": "Red Crescent: 6668 civilian installations (65 schools, 14 health). RTVE: 1400+ total. Lebanon +67 (Bekaa ops)."
   }
 ]

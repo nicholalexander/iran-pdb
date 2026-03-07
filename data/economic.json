@@ -97,5 +97,17 @@
     "dow_change": -450,
     "flights_cancelled": 23000,
     "notes": "Day 7 PM: WTI spikes to $92. Qatar warns $150/bbl in 2-3 weeks. ALL Gulf force majeure expected 'in next few days.' Qatar airspace partially reopened. 23,000 flights cancelled cumulative."
+  },
+  {
+    "timestamp": "2026-03-07T13:00:00Z",
+    "brent": 92.69,
+    "wti": 90.9,
+    "gold": 5181,
+    "usd_irr": 1664000,
+    "hormuz_traffic_pct": 10,
+    "tankers_stranded": 500,
+    "war_cost_cumulative_bn": 11,
+    "insurance_premium_change_pct": 1000,
+    "notes": "Biggest weekly oil gain in futures history (+35%). Maritime insurance up 1000%+. 500 tankers stranded. WSJ: $11B/4 days."
   }
 ]

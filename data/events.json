@@ -6,11 +6,23 @@
     "subcategory": "airstrike",
     "headline": "US-Israeli strikes begin across 24 Iranian provinces",
     "detail": "Coordinated first-strike campaign targeting military infrastructure across all 24 provinces of Iran. War begins.",
-    "location": {"name": "Iran (nationwide)", "lat": 32.4279, "lng": 53.6880, "country": "IR"},
-    "sources": ["CENTCOM", "IDF"],
+    "location": {
+      "name": "Iran (nationwide)",
+      "lat": 32.4279,
+      "lng": 53.688,
+      "country": "IR"
+    },
+    "sources": [
+      "CENTCOM",
+      "IDF"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not yet reported"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not yet reported"
+    }
   },
   {
     "id": "evt-002",
@@ -19,11 +31,23 @@
     "subcategory": "assassination",
     "headline": "Supreme Leader Khamenei killed in strike",
     "detail": "Ayatollah Ali Khamenei confirmed killed. Succession crisis triggered. Mojtaba Khamenei later named successor.",
-    "location": {"name": "Tehran", "lat": 35.6892, "lng": 51.3890, "country": "IR"},
-    "sources": ["Iranian state media", "multiple OSINT"],
+    "location": {
+      "name": "Tehran",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian state media",
+      "multiple OSINT"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": 1, "reported_injured": null, "source": "Iranian state media"}
+    "casualties": {
+      "reported_killed": 1,
+      "reported_injured": null,
+      "source": "Iranian state media"
+    }
   },
   {
     "id": "evt-003",
@@ -32,11 +56,23 @@
     "subcategory": "school_strike",
     "headline": "Minab school struck — children killed",
     "detail": "School in Minab hit during military operations. Death toll rose from initial reports to 175 children. US Army later acknowledged proximity to IRGC facility. Investigation ongoing.",
-    "location": {"name": "Minab, Hormozgan Province", "lat": 27.1050, "lng": 57.0810, "country": "IR"},
-    "sources": ["Iranian Red Crescent", "US Army"],
+    "location": {
+      "name": "Minab, Hormozgan Province",
+      "lat": 27.105,
+      "lng": 57.081,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian Red Crescent",
+      "US Army"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": 175, "reported_injured": null, "source": "Iranian Red Crescent / US Army acknowledgment"}
+    "casualties": {
+      "reported_killed": 175,
+      "reported_injured": null,
+      "source": "Iranian Red Crescent / US Army acknowledgment"
+    }
   },
   {
     "id": "evt-004",
@@ -45,11 +81,23 @@
     "subcategory": "strait_closure",
     "headline": "Iran issues Strait of Hormuz closure warnings",
     "detail": "IRGC Navy begins threatening closure of Strait of Hormuz. Later formally declared closed (selective enforcement — Chinese ships passing).",
-    "location": {"name": "Strait of Hormuz", "lat": 26.5667, "lng": 56.2500, "country": "IR"},
-    "sources": ["IRGC Navy", "Reuters"],
+    "location": {
+      "name": "Strait of Hormuz",
+      "lat": 26.5667,
+      "lng": 56.25,
+      "country": "IR"
+    },
+    "sources": [
+      "IRGC Navy",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-005",
@@ -58,11 +106,23 @@
     "subcategory": "us_casualties",
     "headline": "6 US service members killed at Shuaiba, Kuwait",
     "detail": "First US combat deaths. 6 KIA at Shuaiba base in Kuwait from IRGC missile/drone attack. 10 seriously wounded.",
-    "location": {"name": "Shuaiba, Kuwait", "lat": 29.0500, "lng": 48.1700, "country": "KW"},
-    "sources": ["Pentagon", "CNN"],
+    "location": {
+      "name": "Shuaiba, Kuwait",
+      "lat": 29.05,
+      "lng": 48.17,
+      "country": "KW"
+    },
+    "sources": [
+      "Pentagon",
+      "CNN"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": 6, "reported_injured": 10, "source": "Pentagon"}
+    "casualties": {
+      "reported_killed": 6,
+      "reported_injured": 10,
+      "source": "Pentagon"
+    }
   },
   {
     "id": "evt-006",
@@ -71,11 +131,22 @@
     "subcategory": "back_channel",
     "headline": "Iran contacts CIA via back-channel",
     "detail": "MOIS makes contact with CIA. Later revealed as Larijani back-channel via Oman.",
-    "location": {"name": "Unknown (via Oman)", "lat": 23.5880, "lng": 58.3829, "country": "OM"},
-    "sources": ["Multiple intelligence sources"],
+    "location": {
+      "name": "Unknown (via Oman)",
+      "lat": 23.588,
+      "lng": 58.3829,
+      "country": "OM"
+    },
+    "sources": [
+      "Multiple intelligence sources"
+    ],
     "confidence": "REPORTED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-007",
@@ -84,11 +155,24 @@
     "subcategory": "proxy_escalation",
     "headline": "Hezbollah enters war — Lebanon front active",
     "detail": "Hezbollah opens fire from Lebanon. Attacks on Maroun al-Ras, Kfar Kila, Golan Heights, Haifa port. IDF responds with Dahiya strikes.",
-    "location": {"name": "Southern Lebanon / Northern Israel", "lat": 33.2774, "lng": 35.2037, "country": "LB"},
-    "sources": ["IDF", "Al Jazeera", "Reuters"],
+    "location": {
+      "name": "Southern Lebanon / Northern Israel",
+      "lat": 33.2774,
+      "lng": 35.2037,
+      "country": "LB"
+    },
+    "sources": [
+      "IDF",
+      "Al Jazeera",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-02-0100",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Ongoing"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Ongoing"
+    }
   },
   {
     "id": "evt-008",
@@ -97,11 +181,23 @@
     "subcategory": "airstrike",
     "headline": "UK grants basing + first kinetic engagement",
     "detail": "UK confirms military basing for operations against Iran. First British kinetic engagement in the conflict.",
-    "location": {"name": "UK bases (Gulf region)", "lat": 25.9304, "lng": 50.6378, "country": "BH"},
-    "sources": ["UK MOD", "BBC"],
+    "location": {
+      "name": "UK bases (Gulf region)",
+      "lat": 25.9304,
+      "lng": 50.6378,
+      "country": "BH"
+    },
+    "sources": [
+      "UK MOD",
+      "BBC"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-009",
@@ -110,11 +206,23 @@
     "subcategory": "hospital_strike",
     "headline": "Gandhi Hospital Tehran struck by Israeli strike",
     "detail": "Gandhi Hospital in Tehran hit. Neonatal ward later confirmed destroyed.",
-    "location": {"name": "Gandhi Hospital, Tehran", "lat": 35.7000, "lng": 51.4200, "country": "IR"},
-    "sources": ["Iranian media", "WHO"],
+    "location": {
+      "name": "Gandhi Hospital, Tehran",
+      "lat": 35.7,
+      "lng": 51.42,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian media",
+      "WHO"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-01-1700",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not yet tallied"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not yet tallied"
+    }
   },
   {
     "id": "evt-010",
@@ -123,11 +231,23 @@
     "subcategory": "domestic_attack",
     "headline": "Austin TX shooting — 3 dead",
     "detail": "Shooting in Austin, Texas. FBI investigating potential connection to conflict. Suspect named as Diagne.",
-    "location": {"name": "Austin, Texas, USA", "lat": 30.2672, "lng": -97.7431, "country": "US"},
-    "sources": ["FBI", "AP"],
+    "location": {
+      "name": "Austin, Texas, USA",
+      "lat": 30.2672,
+      "lng": -97.7431,
+      "country": "US"
+    },
+    "sources": [
+      "FBI",
+      "AP"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-02-1800",
-    "casualties": {"reported_killed": 3, "reported_injured": null, "source": "FBI"}
+    "casualties": {
+      "reported_killed": 3,
+      "reported_injured": null,
+      "source": "FBI"
+    }
   },
   {
     "id": "evt-011",
@@ -136,11 +256,23 @@
     "subcategory": "energy_disruption",
     "headline": "QatarEnergy halts LNG shipments",
     "detail": "QatarEnergy suspends LNG exports through Strait of Hormuz. Force majeure expected across Gulf producers.",
-    "location": {"name": "Qatar", "lat": 25.2760, "lng": 51.5200, "country": "QA"},
-    "sources": ["QatarEnergy", "Reuters"],
+    "location": {
+      "name": "Qatar",
+      "lat": 25.276,
+      "lng": 51.52,
+      "country": "QA"
+    },
+    "sources": [
+      "QatarEnergy",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-02-1800",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-012",
@@ -149,11 +281,24 @@
     "subcategory": "strait_closure",
     "headline": "IRGC formally declares Hormuz closed",
     "detail": "IRGC formally announces closure of Strait of Hormuz. Selective enforcement: Chinese vessels observed transiting. Down to 2 transits/day from normal 50+.",
-    "location": {"name": "Strait of Hormuz", "lat": 26.5667, "lng": 56.2500, "country": "IR"},
-    "sources": ["IRGC", "Reuters", "Tanker Trackers"],
+    "location": {
+      "name": "Strait of Hormuz",
+      "lat": 26.5667,
+      "lng": 56.25,
+      "country": "IR"
+    },
+    "sources": [
+      "IRGC",
+      "Reuters",
+      "Tanker Trackers"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-02-1800",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-013",
@@ -162,11 +307,23 @@
     "subcategory": "nuclear_strike",
     "headline": "Natanz nuclear site struck again — 2nd attack",
     "detail": "Second strike on Natanz nuclear facility. IAEA later confirms damage. Nuclear-specific damage not fully confirmed.",
-    "location": {"name": "Natanz, Isfahan Province", "lat": 33.7244, "lng": 51.7275, "country": "IR"},
-    "sources": ["IAEA", "CENTCOM"],
+    "location": {
+      "name": "Natanz, Isfahan Province",
+      "lat": 33.7244,
+      "lng": 51.7275,
+      "country": "IR"
+    },
+    "sources": [
+      "IAEA",
+      "CENTCOM"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-02-1800",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Classified"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Classified"
+    }
   },
   {
     "id": "evt-014",
@@ -175,11 +332,23 @@
     "subcategory": "leadership_decapitation",
     "headline": "White House confirms 49 senior Iranian leaders killed",
     "detail": "White House announces 49 senior Iranian military and political leaders killed since start of operations. 7 confirmed by Iranian media on Day 1.",
-    "location": {"name": "Iran (multiple locations)", "lat": 32.4279, "lng": 53.6880, "country": "IR"},
-    "sources": ["White House", "Iranian state media"],
+    "location": {
+      "name": "Iran (multiple locations)",
+      "lat": 32.4279,
+      "lng": 53.688,
+      "country": "IR"
+    },
+    "sources": [
+      "White House",
+      "Iranian state media"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-02-1800",
-    "casualties": {"reported_killed": 49, "reported_injured": null, "source": "White House"}
+    "casualties": {
+      "reported_killed": 49,
+      "reported_injured": null,
+      "source": "White House"
+    }
   },
   {
     "id": "evt-015",
@@ -188,11 +357,23 @@
     "subcategory": "embassy_attack",
     "headline": "US Embassy Riyadh struck by drones",
     "detail": "IRGC drones strike US Embassy compound in Riyadh, Saudi Arabia.",
-    "location": {"name": "US Embassy, Riyadh", "lat": 24.7136, "lng": 46.6753, "country": "SA"},
-    "sources": ["Reuters", "State Department"],
+    "location": {
+      "name": "US Embassy, Riyadh",
+      "lat": 24.7136,
+      "lng": 46.6753,
+      "country": "SA"
+    },
+    "sources": [
+      "Reuters",
+      "State Department"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-03-0200",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not disclosed"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not disclosed"
+    }
   },
   {
     "id": "evt-016",
@@ -201,11 +382,24 @@
     "subcategory": "coalition_expansion",
     "headline": "E3 (UK, France, Germany) enters war",
     "detail": "European E3 declares readiness to 'destroy' Iran capabilities. Macron delivers speech from nuclear submarine. France deploys carrier.",
-    "location": {"name": "Europe / Mediterranean", "lat": 48.8566, "lng": 2.3522, "country": "FR"},
-    "sources": ["Élysée Palace", "UK MOD", "Bundestag"],
+    "location": {
+      "name": "Europe / Mediterranean",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "country": "FR"
+    },
+    "sources": [
+      "Élysée Palace",
+      "UK MOD",
+      "Bundestag"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-03-0800",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-017",
@@ -214,11 +408,23 @@
     "subcategory": "c2_destruction",
     "headline": "CENTCOM destroys IRGC command & control network",
     "detail": "CENTCOM announces destruction of IRGC C2 infrastructure. IDF conducts simultaneous strikes on Tehran and Beirut.",
-    "location": {"name": "Tehran + Beirut", "lat": 35.6892, "lng": 51.3890, "country": "IR"},
-    "sources": ["CENTCOM", "IDF"],
+    "location": {
+      "name": "Tehran + Beirut",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "country": "IR"
+    },
+    "sources": [
+      "CENTCOM",
+      "IDF"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-03-0500",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not disclosed"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not disclosed"
+    }
   },
   {
     "id": "evt-018",
@@ -227,11 +433,23 @@
     "subcategory": "nuclear_strike",
     "headline": "Secret nuclear facility destroyed",
     "detail": "Previously unknown nuclear facility destroyed. Parchin struck twice. Nuclear-specific damage assessment ongoing.",
-    "location": {"name": "Parchin Military Complex", "lat": 35.5200, "lng": 51.7700, "country": "IR"},
-    "sources": ["CENTCOM", "IAEA"],
+    "location": {
+      "name": "Parchin Military Complex",
+      "lat": 35.52,
+      "lng": 51.77,
+      "country": "IR"
+    },
+    "sources": [
+      "CENTCOM",
+      "IAEA"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-04-0100",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Classified"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Classified"
+    }
   },
   {
     "id": "evt-019",
@@ -240,11 +458,23 @@
     "subcategory": "governance_attack",
     "headline": "Assembly of Experts attacked during succession vote",
     "detail": "Strike on Assembly of Experts during session to vote on Khamenei succession. Mojtaba Khamenei named successor despite attack.",
-    "location": {"name": "Tehran", "lat": 35.6892, "lng": 51.3890, "country": "IR"},
-    "sources": ["Iranian state TV", "Reuters"],
+    "location": {
+      "name": "Tehran",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian state TV",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-04-0100",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not confirmed"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not confirmed"
+    }
   },
   {
     "id": "evt-020",
@@ -253,11 +483,24 @@
     "subcategory": "ship_sinking",
     "headline": "US submarine sinks IRIS Dena — first torpedo kill since WWII",
     "detail": "US submarine torpedoes and sinks Iranian frigate IRIS Dena off Sri Lanka. First US submarine torpedo kill since World War II.",
-    "location": {"name": "Indian Ocean, off Sri Lanka", "lat": 7.8731, "lng": 80.7718, "country": "LK"},
-    "sources": ["Pentagon", "CNN", "Naval analysts"],
+    "location": {
+      "name": "Indian Ocean, off Sri Lanka",
+      "lat": 7.8731,
+      "lng": 80.7718,
+      "country": "LK"
+    },
+    "sources": [
+      "Pentagon",
+      "CNN",
+      "Naval analysts"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-04-0800",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Iranian crew status unknown"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Iranian crew status unknown"
+    }
   },
   {
     "id": "evt-021",
@@ -266,11 +509,23 @@
     "subcategory": "nato_intercept",
     "headline": "NATO intercepts Iranian missile heading toward Turkey",
     "detail": "NATO air defenses intercept Iranian ballistic missile on trajectory toward Turkey. EU later condemns attacks on Turkey and Azerbaijan specifically.",
-    "location": {"name": "Turkey (southern border)", "lat": 37.0000, "lng": 35.3213, "country": "TR"},
-    "sources": ["NATO", "Reuters"],
+    "location": {
+      "name": "Turkey (southern border)",
+      "lat": 37,
+      "lng": 35.3213,
+      "country": "TR"
+    },
+    "sources": [
+      "NATO",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-04-0800",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "NATO"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "NATO"
+    }
   },
   {
     "id": "evt-022",
@@ -279,11 +534,23 @@
     "subcategory": "air_combat",
     "headline": "F-35 scores first air-to-air kill",
     "detail": "US F-35 achieves first confirmed air-to-air kill in combat. Also: 3 F-15E lost to friendly fire (separate incident).",
-    "location": {"name": "Iranian airspace", "lat": 33.0000, "lng": 52.0000, "country": "IR"},
-    "sources": ["CENTCOM", "Defense analysts"],
+    "location": {
+      "name": "Iranian airspace",
+      "lat": 33,
+      "lng": 52,
+      "country": "IR"
+    },
+    "sources": [
+      "CENTCOM",
+      "Defense analysts"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-04-0800",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not disclosed"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not disclosed"
+    }
   },
   {
     "id": "evt-023",
@@ -292,11 +559,23 @@
     "subcategory": "us_congress",
     "headline": "Senate war powers resolution fails 47-53",
     "detail": "US Senate vote on war powers resolution to constrain Iran operations fails 47-53. House war powers later also defeated.",
-    "location": {"name": "Washington, DC", "lat": 38.9072, "lng": -77.0369, "country": "US"},
-    "sources": ["C-SPAN", "AP"],
+    "location": {
+      "name": "Washington, DC",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "country": "US"
+    },
+    "sources": [
+      "C-SPAN",
+      "AP"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-04-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-024",
@@ -305,11 +584,23 @@
     "subcategory": "regional_escalation",
     "headline": "IRGC drones strike Azerbaijan",
     "detail": "Iranian drones strike targets in Azerbaijan. Azerbaijan halts cross-border traffic, prepares retaliatory measures.",
-    "location": {"name": "Azerbaijan", "lat": 40.4093, "lng": 49.8671, "country": "AZ"},
-    "sources": ["Azerbaijan MOD", "Reuters"],
+    "location": {
+      "name": "Azerbaijan",
+      "lat": 40.4093,
+      "lng": 49.8671,
+      "country": "AZ"
+    },
+    "sources": [
+      "Azerbaijan MOD",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-05-0800",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Azerbaijan MOD"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Azerbaijan MOD"
+    }
   },
   {
     "id": "evt-025",
@@ -318,11 +609,23 @@
     "subcategory": "infrastructure_destruction",
     "headline": "Azadi Stadium destroyed",
     "detail": "Tehran's Azadi Stadium, Iran's largest sports venue, destroyed in strikes.",
-    "location": {"name": "Azadi Stadium, Tehran", "lat": 35.7228, "lng": 51.2779, "country": "IR"},
-    "sources": ["Iranian media", "satellite imagery"],
+    "location": {
+      "name": "Azadi Stadium, Tehran",
+      "lat": 35.7228,
+      "lng": 51.2779,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian media",
+      "satellite imagery"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-05-0800",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Unknown"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Unknown"
+    }
   },
   {
     "id": "evt-026",
@@ -331,11 +634,23 @@
     "subcategory": "energy_disruption",
     "headline": "BAPCO refinery in Bahrain hit — fire contained",
     "detail": "Bahrain Petroleum Company (BAPCO) refinery struck by IRGC drones/missiles. Fire eventually contained. Bahrain total: 221 projectiles intercepted.",
-    "location": {"name": "Sitra, Bahrain", "lat": 26.1500, "lng": 50.6100, "country": "BH"},
-    "sources": ["Bahrain MOD", "Reuters"],
+    "location": {
+      "name": "Sitra, Bahrain",
+      "lat": 26.15,
+      "lng": 50.61,
+      "country": "BH"
+    },
+    "sources": [
+      "Bahrain MOD",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-05-2000",
-    "casualties": {"reported_killed": 1, "reported_injured": 6, "source": "Bahrain government"}
+    "casualties": {
+      "reported_killed": 1,
+      "reported_injured": 6,
+      "source": "Bahrain government"
+    }
   },
   {
     "id": "evt-027",
@@ -344,11 +659,23 @@
     "subcategory": "us_demands",
     "headline": "Trump demands role in choosing Iran's next leader",
     "detail": "Trump states 'I have to be involved' in selecting Iran's next leader. Called Mojtaba 'a lightweight.' Later: 'Maybe' to religious leader IF pro-US/Israel.",
-    "location": {"name": "Washington, DC", "lat": 38.9072, "lng": -77.0369, "country": "US"},
-    "sources": ["Truth Social", "White House briefing"],
+    "location": {
+      "name": "Washington, DC",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "country": "US"
+    },
+    "sources": [
+      "Truth Social",
+      "White House briefing"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-05-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-028",
@@ -357,11 +684,23 @@
     "subcategory": "bunker_buster",
     "headline": "B-2 strikes underground sites; Khamenei bunker destroyed",
     "detail": "B-2 bombers deploy penetrator munitions on deep underground facilities including Khamenei's bunker. Phase 2 officially begins. 'Space Command equivalent' facility also targeted.",
-    "location": {"name": "Iran (multiple deep targets)", "lat": 35.6892, "lng": 51.3890, "country": "IR"},
-    "sources": ["CENTCOM", "Pentagon"],
+    "location": {
+      "name": "Iran (multiple deep targets)",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "country": "IR"
+    },
+    "sources": [
+      "CENTCOM",
+      "Pentagon"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-0800",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Unknown — officials possibly inside"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Unknown — officials possibly inside"
+    }
   },
   {
     "id": "evt-029",
@@ -370,11 +709,23 @@
     "subcategory": "escalation",
     "headline": "Iran regular Army enters combat",
     "detail": "Iran's conventional Army (Artesh) formally enters combat alongside IRGC. Will 'expand attacks in coming days.' 610,000 active forces (350K army + 190K IRGC).",
-    "location": {"name": "Iran (nationwide)", "lat": 32.4279, "lng": 53.6880, "country": "IR"},
-    "sources": ["Iranian state media", "Reuters"],
+    "location": {
+      "name": "Iran (nationwide)",
+      "lat": 32.4279,
+      "lng": 53.688,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian state media",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-0800",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-030",
@@ -383,11 +734,24 @@
     "subcategory": "us_demands",
     "headline": "Trump demands 'UNCONDITIONAL SURRENDER' on Truth Social",
     "detail": "Trump posts demand for unconditional surrender. Axios clarifies: means total military destruction, not formal capitulation. Leavitt announces 4-6 week timeline — first official estimate.",
-    "location": {"name": "Washington, DC", "lat": 38.9072, "lng": -77.0369, "country": "US"},
-    "sources": ["Truth Social", "Axios", "White House"],
+    "location": {
+      "name": "Washington, DC",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "country": "US"
+    },
+    "sources": [
+      "Truth Social",
+      "Axios",
+      "White House"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-031",
@@ -396,11 +760,23 @@
     "subcategory": "naval_warfare",
     "headline": "25 Iranian warships struck; navy 'destroyed' — Trump/CNN",
     "detail": "Trump claims via CNN that 25 Iranian warships have been struck. IRIS Shahid Bagheri burning (sinking unconfirmed). Iran retaliates by striking 'US-owned' oil tanker off Kuwait.",
-    "location": {"name": "Persian Gulf", "lat": 27.0000, "lng": 51.0000, "country": "IR"},
-    "sources": ["Trump/CNN", "Iranian media"],
+    "location": {
+      "name": "Persian Gulf",
+      "lat": 27,
+      "lng": 51,
+      "country": "IR"
+    },
+    "sources": [
+      "Trump/CNN",
+      "Iranian media"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not disclosed"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not disclosed"
+    }
   },
   {
     "id": "evt-032",
@@ -409,11 +785,22 @@
     "subcategory": "foreign_support",
     "headline": "Haaretz: Russia providing Iran intelligence on US forces",
     "detail": "Haaretz reports Russia sharing intelligence with Iran on US force positions. If confirmed: near co-belligerency. Kremlin positioning as energy beneficiary.",
-    "location": {"name": "Russia → Iran", "lat": 55.7558, "lng": 37.6173, "country": "RU"},
-    "sources": ["Haaretz"],
+    "location": {
+      "name": "Russia → Iran",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "country": "RU"
+    },
+    "sources": [
+      "Haaretz"
+    ],
     "confidence": "REPORTED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-033",
@@ -422,11 +809,23 @@
     "subcategory": "kurdish_operations",
     "headline": "Kurdish leaders confirm US/Israel coordination — ground op 'within week'",
     "detail": "Kurdish leaders confirm to Reuters/Al Jazeera direct coordination with US and Israel for over a year. 5,000-6,000 fighters on Iraqi border. Ground operation 'very likely within a week.' Reza Pahlavi named as opposition candidate.",
-    "location": {"name": "Iraqi-Iranian border (Kurdistan)", "lat": 36.1901, "lng": 44.0091, "country": "IQ"},
-    "sources": ["Reuters", "Al Jazeera"],
+    "location": {
+      "name": "Iraqi-Iranian border (Kurdistan)",
+      "lat": 36.1901,
+      "lng": 44.0091,
+      "country": "IQ"
+    },
+    "sources": [
+      "Reuters",
+      "Al Jazeera"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-034",
@@ -435,11 +834,23 @@
     "subcategory": "commercial_shipping",
     "headline": "Iran strikes oil tanker off Kuwait — commercial shipping warfare escalation",
     "detail": "Iran strikes 'US-owned' oil tanker off Kuwait coast. Tanker on fire. Represents new escalation into commercial shipping warfare.",
-    "location": {"name": "Off Kuwait coast", "lat": 29.2000, "lng": 48.5000, "country": "KW"},
-    "sources": ["Reuters", "shipping industry sources"],
+    "location": {
+      "name": "Off Kuwait coast",
+      "lat": 29.2,
+      "lng": 48.5,
+      "country": "KW"
+    },
+    "sources": [
+      "Reuters",
+      "shipping industry sources"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Unknown"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Unknown"
+    }
   },
   {
     "id": "evt-035",
@@ -448,11 +859,22 @@
     "subcategory": "airstrike",
     "headline": "Mehrabad airbase (Tehran) struck overnight",
     "detail": "Mehrabad airbase in Tehran hit by coalition strikes. Damage assessment pending.",
-    "location": {"name": "Mehrabad Airbase, Tehran", "lat": 35.6892, "lng": 51.3115, "country": "IR"},
-    "sources": ["CENTCOM"],
+    "location": {
+      "name": "Mehrabad Airbase, Tehran",
+      "lat": 35.6892,
+      "lng": 51.3115,
+      "country": "IR"
+    },
+    "sources": [
+      "CENTCOM"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not disclosed"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not disclosed"
+    }
   },
   {
     "id": "evt-036",
@@ -461,11 +883,22 @@
     "subcategory": "displacement_order",
     "headline": "IDF issues displacement order for Qom — first inside Iran",
     "detail": "IDF issues civilian displacement order for the city of Qom. First such order issued for a location inside Iran proper.",
-    "location": {"name": "Qom", "lat": 34.6416, "lng": 50.8746, "country": "IR"},
-    "sources": ["IDF"],
+    "location": {
+      "name": "Qom",
+      "lat": 34.6416,
+      "lng": 50.8746,
+      "country": "IR"
+    },
+    "sources": [
+      "IDF"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-037",
@@ -474,11 +907,22 @@
     "subcategory": "school_strike",
     "headline": "Tehran elementary school (#4) struck",
     "detail": "Fourth school hit in the conflict. Tehran elementary school struck. Previous schools: Minab, Parand (x2).",
-    "location": {"name": "Tehran", "lat": 35.6892, "lng": 51.3890, "country": "IR"},
-    "sources": ["Iranian media"],
+    "location": {
+      "name": "Tehran",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian media"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Not yet reported"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Not yet reported"
+    }
   },
   {
     "id": "evt-038",
@@ -487,11 +931,24 @@
     "subcategory": "oil_price",
     "headline": "WTI hits $92; Qatar warns $150 in 2-3 weeks",
     "detail": "WTI crude spikes to $92 (from ~$79-81 pre-war). Brent at $87. Qatar warns of $150/bbl in 2-3 weeks if Hormuz stays closed.",
-    "location": {"name": "Global markets", "lat": 40.7128, "lng": -74.0060, "country": "US"},
-    "sources": ["Reuters", "Bloomberg", "Qatar Energy Ministry"],
+    "location": {
+      "name": "Global markets",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "country": "US"
+    },
+    "sources": [
+      "Reuters",
+      "Bloomberg",
+      "Qatar Energy Ministry"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-039",
@@ -500,11 +957,23 @@
     "subcategory": "naval_movement",
     "headline": "USS Gerald R. Ford enters Red Sea via Suez",
     "detail": "USS Gerald R. Ford carrier strike group transits Suez Canal into Red Sea.",
-    "location": {"name": "Red Sea (via Suez Canal)", "lat": 30.4500, "lng": 32.3500, "country": "EG"},
-    "sources": ["US Navy", "Reuters"],
+    "location": {
+      "name": "Red Sea (via Suez Canal)",
+      "lat": 30.45,
+      "lng": 32.35,
+      "country": "EG"
+    },
+    "sources": [
+      "US Navy",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-040",
@@ -513,11 +982,23 @@
     "subcategory": "regional_attack",
     "headline": "Baghdad Airport area struck by Iranian missiles",
     "detail": "Iranian missiles hit Baghdad Airport area. Iraq PM states will not allow territory used as attack platform. Total Iraq dead: 13.",
-    "location": {"name": "Baghdad International Airport", "lat": 33.2625, "lng": 44.2346, "country": "IQ"},
-    "sources": ["Iraqi PM office", "Reuters"],
+    "location": {
+      "name": "Baghdad International Airport",
+      "lat": 33.2625,
+      "lng": 44.2346,
+      "country": "IQ"
+    },
+    "sources": [
+      "Iraqi PM office",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 13, "reported_injured": null, "source": "Iraqi government (cumulative)"}
+    "casualties": {
+      "reported_killed": 13,
+      "reported_injured": null,
+      "source": "Iraqi government (cumulative)"
+    }
   },
   {
     "id": "evt-041",
@@ -526,11 +1007,23 @@
     "subcategory": "cultural_heritage",
     "headline": "Golestan Palace (UNESCO World Heritage) hit",
     "detail": "Golestan Palace in Tehran, a UNESCO World Heritage Site, damaged in strikes. Tel Aviv Bauhaus heritage also damaged.",
-    "location": {"name": "Golestan Palace, Tehran", "lat": 35.6762, "lng": 51.4215, "country": "IR"},
-    "sources": ["Iranian media", "UNESCO"],
+    "location": {
+      "name": "Golestan Palace, Tehran",
+      "lat": 35.6762,
+      "lng": 51.4215,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian media",
+      "UNESCO"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": null, "reported_injured": null, "source": "Unknown"}
+    "casualties": {
+      "reported_killed": null,
+      "reported_injured": null,
+      "source": "Unknown"
+    }
   },
   {
     "id": "evt-042",
@@ -539,11 +1032,24 @@
     "subcategory": "dahiya_strikes",
     "headline": "IDF Dahiya bombardment — 26 strikes, 123+ dead in Lebanon",
     "detail": "IDF conducts 26 strikes on Dahiya district of Beirut. IRGC Air Force command and Hezbollah naval HQ destroyed. Lebanon: 217 dead total, 798 wounded, 95,000 displaced. 700,000 affected by Beirut evacuation order.",
-    "location": {"name": "Dahiya, Beirut", "lat": 33.8400, "lng": 35.4800, "country": "LB"},
-    "sources": ["IDF", "Lebanese Red Cross", "Reuters"],
+    "location": {
+      "name": "Dahiya, Beirut",
+      "lat": 33.84,
+      "lng": 35.48,
+      "country": "LB"
+    },
+    "sources": [
+      "IDF",
+      "Lebanese Red Cross",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-05-2000",
-    "casualties": {"reported_killed": 217, "reported_injured": 798, "source": "Lebanese authorities (cumulative)"}
+    "casualties": {
+      "reported_killed": 217,
+      "reported_injured": 798,
+      "source": "Lebanese authorities (cumulative)"
+    }
   },
   {
     "id": "evt-043",
@@ -552,11 +1058,23 @@
     "subcategory": "coalition_defense",
     "headline": "Jordan actively shooting down Iranian drones — new defensive belligerent",
     "detail": "Jordan begins actively intercepting Iranian drones over Irbid. Becomes new defensive belligerent in conflict.",
-    "location": {"name": "Irbid, Jordan", "lat": 32.5568, "lng": 35.8469, "country": "JO"},
-    "sources": ["Jordanian military", "Reuters"],
+    "location": {
+      "name": "Irbid, Jordan",
+      "lat": 32.5568,
+      "lng": 35.8469,
+      "country": "JO"
+    },
+    "sources": [
+      "Jordanian military",
+      "Reuters"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-044",
@@ -565,11 +1083,24 @@
     "subcategory": "sanctions_waiver",
     "headline": "Maersk suspends all Gulf bookings; European naval coalition forms",
     "detail": "Maersk suspends Persian Gulf bookings. P&I insurance cancelled for Gulf region. European naval coalition (UK, France, Greece, Italy, Portugal, Spain) forms.",
-    "location": {"name": "Persian Gulf", "lat": 27.0000, "lng": 51.0000, "country": null},
-    "sources": ["Maersk", "Reuters", "EU"],
+    "location": {
+      "name": "Persian Gulf",
+      "lat": 27,
+      "lng": 51,
+      "country": null
+    },
+    "sources": [
+      "Maersk",
+      "Reuters",
+      "EU"
+    ],
     "confidence": "CONFIRMED",
     "briefingRef": "2026-03-05-0800",
-    "casualties": {"reported_killed": 0, "reported_injured": 0, "source": "N/A"}
+    "casualties": {
+      "reported_killed": 0,
+      "reported_injured": 0,
+      "source": "N/A"
+    }
   },
   {
     "id": "evt-045",
@@ -578,10 +1109,138 @@
     "subcategory": "casualty_milestone",
     "headline": "Iranian Red Crescent: 1,332 dead, 6,000+ wounded",
     "detail": "Running totals per Iranian Red Crescent: 1,332 dead, 6,000+ wounded. UNICEF: 181 children killed. 3,090 residential + 528 commercial units destroyed. 13 medical facilities hit (WHO). Internet blackout 144+ hours.",
-    "location": {"name": "Iran (nationwide)", "lat": 32.4279, "lng": 53.6880, "country": "IR"},
-    "sources": ["Iranian Red Crescent", "UNICEF", "WHO"],
+    "location": {
+      "name": "Iran (nationwide)",
+      "lat": 32.4279,
+      "lng": 53.688,
+      "country": "IR"
+    },
+    "sources": [
+      "Iranian Red Crescent",
+      "UNICEF",
+      "WHO"
+    ],
     "confidence": "REPORTED",
     "briefingRef": "2026-03-06-2000",
-    "casualties": {"reported_killed": 1332, "reported_injured": 6000, "source": "Iranian Red Crescent"}
+    "casualties": {
+      "reported_killed": 1332,
+      "reported_injured": 6000,
+      "source": "Iranian Red Crescent"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T07:00:00Z",
+    "category": "diplomatic",
+    "title": "Pezeshkian apologizes to Gulf neighbors",
+    "description": "Pre-recorded TV address. Military contradicts within hours.",
+    "sources": [
+      "Reuters",
+      "BBC Persian"
+    ],
+    "lat": 35.69,
+    "lon": 51.39
+  },
+  {
+    "timestamp": "2026-03-07T08:00:00Z",
+    "category": "strike",
+    "title": "IRGC claims Al Dhafra Air Base strike",
+    "description": "Drone swarm on Al Dhafra near Abu Dhabi. THAAD radar possibly destroyed.",
+    "sources": [
+      "Tasnim",
+      "UDN Taiwan"
+    ],
+    "lat": 24.25,
+    "lon": 54.55
+  },
+  {
+    "timestamp": "2026-03-07T06:00:00Z",
+    "category": "strike",
+    "title": "IDF 80-jet wave on Tehran",
+    "description": "80+ fighter jets struck Tehran and central Iran pre-dawn.",
+    "sources": [
+      "IDF"
+    ],
+    "lat": 35.69,
+    "lon": 51.39
+  },
+  {
+    "timestamp": "2026-03-07T09:00:00Z",
+    "category": "infrastructure",
+    "title": "Dubai airport suspends all operations",
+    "description": "Interception overhead forced shutdown. Partially resumed later.",
+    "sources": [
+      "AFP",
+      "Libération"
+    ],
+    "lat": 25.25,
+    "lon": 55.36
+  },
+  {
+    "timestamp": "2026-03-07T10:30:00Z",
+    "category": "strike",
+    "title": "Hejazi killed — Khamenei office deputy",
+    "description": "Ali-Asghar Hejazi confirmed killed in Israeli strike.",
+    "sources": [
+      "Iran International"
+    ],
+    "lat": 35.69,
+    "lon": 51.39
+  },
+  {
+    "timestamp": "2026-03-07T11:00:00Z",
+    "category": "military",
+    "title": "CENTCOM: 43 ships damaged/destroyed",
+    "description": "Week-1 data released. Up from 25.",
+    "sources": [
+      "CENTCOM",
+      "Fox News"
+    ],
+    "lat": 26.5,
+    "lon": 52
+  },
+  {
+    "timestamp": "2026-03-07T04:30:00Z",
+    "category": "strike",
+    "title": "IRGC strikes Kurdish positions",
+    "description": "3 positions in Erbil/Sulaymaniyah. ~30 drones.",
+    "sources": [
+      "RT Arabic"
+    ],
+    "lat": 36.19,
+    "lon": 44.01
+  },
+  {
+    "timestamp": "2026-03-07T10:00:00Z",
+    "category": "diplomatic",
+    "title": "Trump threatens complete destruction of new targets",
+    "description": "Truth Social post threatening areas and groups never before targeted.",
+    "sources": [
+      "Reuters",
+      "NYT"
+    ],
+    "lat": 38.9,
+    "lon": -77.04
+  },
+  {
+    "timestamp": "2026-03-07T12:00:00Z",
+    "category": "diplomatic",
+    "title": "Arab League emergency meeting announced",
+    "description": "Sunday meeting requested by Jordan and Saudi Arabia.",
+    "sources": [
+      "Al-Quds"
+    ],
+    "lat": 30.04,
+    "lon": 31.24
+  },
+  {
+    "timestamp": "2026-03-07T12:00:00Z",
+    "category": "diplomatic",
+    "title": "Lebanon orders IRGC arrests",
+    "description": "PM Salam orders arrest of IRGC-connected. Considering Hezbollah ban.",
+    "sources": [
+      "IMLebanon"
+    ],
+    "lat": 33.89,
+    "lon": 35.5
   }
 ]
