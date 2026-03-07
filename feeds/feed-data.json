@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T21:00:06.621376+00:00",
-    "total_items": 468,
-    "new_this_run": 10,
+    "last_updated": "2026-03-07T21:15:06.846030+00:00",
+    "total_items": 500,
+    "new_this_run": 113,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "7a146370aa24c9b4",
+      "title": "IRGC: Hundreds of US, Israeli targets struck in first week of retaliation",
+      "link": "https://presstv.ir/Detail/2026/03/07/765093/Iran-Israel-United-States-IRGC",
+      "summary": "The IRGC's spokesperson says Iran’s Armed Forces have carried out extensive missile and drone operations against the recently renewed Israeli-American aggression.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-07T21:15:04.853176+00:00",
+      "fetched": "2026-03-07T21:15:04.853195+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f3a791aabcf25660",
+      "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/doctors-try-to-save-girl-as-father-was-killed-in-gaza-israeli-attack?traffic_source=rss",
+      "summary": "Doctors in Gaza try to save a girl who sustained injuries in an Israeli attack that hit her and killed her father.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T20:56:45+00:00",
+      "fetched": "2026-03-07T21:15:04.356134+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "b1db8668651324d3",
       "title": "Iranian foreign minister sats Trump ‘killed’ Iran’s gesture towards its neighbours",
@@ -1088,6 +1112,18 @@
       "iran_specific": true
     },
     {
+      "id": "9da33f8857e43334",
+      "title": "Video: Satellite images reveal damage to several Iranian military bases",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss",
+      "summary": "Satellite imagery reveals extensive damage at several Iranian military sites following a wave of airstrikes.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T20:39:25+00:00",
+      "fetched": "2026-03-07T21:15:04.356196+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "e412952a1d3bc834",
       "title": "Displaced persons in Lebanon exceed 450,000 in five days of conflict — minister",
       "link": "https://tass.com/world/2098241",
@@ -1097,6 +1133,18 @@
       "published": "2026-03-07T20:36:19+00:00",
       "fetched": "2026-03-07T20:41:22.707718+00:00",
       "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "f51ffda4d44061f9",
+      "title": "Cuba says electricity plant successfully repaired after large blackout",
+      "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss",
+      "summary": "A US pressure campaign, including an oil blockade, has strained the Caribbean country&#039;s ageing energy infrastructure.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T20:34:18+00:00",
+      "fetched": "2026-03-07T21:15:04.356240+00:00",
+      "relevant": true,
       "iran_specific": false
     },
     {
@@ -1208,6 +1256,18 @@
       "iran_specific": true
     },
     {
+      "id": "62805a179b0587ee",
+      "title": "Live updates: Fighting continues across the Middle East as plane carrying fallen U.S. troops arrives at Dover - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmpPbGZuN3VObG8tWGJWMmtqOGdHQmtaX2dxSXlNX0h4eG1fM1hLZzk3eHliY0YtUDVmbHk1T2JkYzFjaEEyREVzbDF3ZlFhM3pSWFNfUGxiT1FNYm14ZGtPdlVkVm9SLUR6V3dwTkxLT1g1SDBmamtXZ0VTekRyZ2N0QjBwZFA1bE5QYXl0b3liSVNWeF9kdE1hSG9hLXZ5OTY4ZmNkT3ZrOXo1ZE5sbmFaamM?oc=5",
+      "summary": "Live updates: Fighting continues across the Middle East as plane carrying fallen U.S. troops arrives at Dover&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T20:05:12+00:00",
+      "fetched": "2026-03-07T21:15:06.606420+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
       "id": "840e1f43fa2efb2a",
       "title": "Mideast to see no calm as long as US bases remain — Iranian parliamentary speaker",
       "link": "https://tass.com/world/2098225",
@@ -1216,6 +1276,18 @@
       "category": "russian",
       "published": "2026-03-07T20:02:38+00:00",
       "fetched": "2026-03-07T20:41:22.707849+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0f9b231ef978d88d",
+      "title": "Stock Market Focused On Iran War. Oil's Next Move Could Be Big. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXN0cnNfRTZEeXRuSkVMY3hBXzlLTXBQaUFtMmNCM2RQbmFaU2hmSktpbkhnaWlIOGJiT2s0a2dGdnBjYUxTeHh6S2JHbXhLQk8tMHdLN2p4NEhvR2YxVkRIRThUWC1ScURXQzBLejJMbHRnZGdDbEU3RkU4Mnozb0VudnFxSFRkVmc0VVQzM2Y3WFFnOGI2WnBOT0d4dmVLSHdHa3NGUjlJdXFD?oc=5",
+      "summary": "Stock Market Focused On Iran War. Oil's Next Move Could Be Big.&nbsp;&nbsp;Investor's Business Daily",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T20:02:00+00:00",
+      "fetched": "2026-03-07T21:15:06.606819+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1568,6 +1640,18 @@
       "iran_specific": true
     },
     {
+      "id": "ffa705b5fad7a37c",
+      "title": "US intel assessment before war said assault on Iran unlikely to topple regime — report - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZk9XRFl6VWExVTJoUTZHaVNrdzNTd29yakRNQkpSQWYtMXNIVUpCWERHUWdRTnFjVnlDZWExeTAyRF90T01nWml4emN4N3FYTElyRlpBcVhaS3ZZMzg3bGxzUEMwNUx6NzdKMkxFZHdOdVJRaGVRanJVRnlmSDBYYXBTb0tIb19mbUNrRVRPR1lJdVpFcGduN3NnUTE4V1AwZEJ6M25xaXZIS0k0OEpobVdkb3ZPZ9IBuwFBVV95cUxNWUs1VlVTTExublA2V1Y2a05FaTlvZVhnVjJUMjhVQXBWQW5iMFhpREpqRnM4SVBTTDVjLUNTUF96ZFlDNnV6TVV4NjRCUE5QbHJYNEppSVFFVjdBRVE4ZUZJeDdaMUt2d3VGNmE5LVBTQk9JQkRFOFpzWmFzVWs5VjVkZzRVaWU5RGVvdXg3SnBuOFBNMmU0MUNodDIxUE53aDZoUXhzeEphNDVldm1kSVdGRnluX0NVdEdZ?oc=5",
+      "summary": "US intel assessment before war said assault on Iran unlikely to topple regime — report&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T18:13:51+00:00",
+      "fetched": "2026-03-07T21:15:06.606717+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "02efc395217e4f7e",
       "title": "Pakistan Praised Trump. Now It Risks Being Caught Up in His War With Iran - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0RKYnhLeHk3Zk9zTzlETHNpRGxDMnBETVExemNZeHZjT2FibEY1a2gyb3JRdm43ZE5BTXEybXByaFNDaDdxYXZMbG03a19UbWJscF9zbWh3QVUwS0JWREpfaW1UN204TEpjaTdyYVBGdGtSbUluY1AyaXhkcWxBem1adw?oc=5",
@@ -1708,6 +1792,18 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-07T21:00:06.424379+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "4e5093d59e11d6ce",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOSTlZd2g5Ynl3ZERSeFZCSXRYMzA5YmE0SVZKQm5zZzJiNFNraTJlNUtlSW9YQ3RZRXJVWmZ2VUV4a0xHWnN4ZGk0UEZxaGxMcHh6VHgzOEY5VUZUS29IMVpkR0pWMGtZeG1KenJmV3h0ekVsYWhabEpxWkJTTlhjeTl5UFE1WFdlQnhZM1pRNzlyd3c5UEwwdmtBMlFfdlB0bFg5bHIxcFFXNGR3T2dxSWwxQlZSWVhkbE1hcFd6MlJKLUU1ZldrZWVobC15WG0yZ0ZCYXJoOTZvV1hoSW92aTh5SnJIMVRHRjZsXzNkT0ZRNHlzZGlkbVVTUHN2TFVzN3QyMjRtUHlYa3pvLWlfYWc0Vk9GcDZWSUxkZzBwQk5vWVd3NkotVUlfeWxrVS12VEQyVVJnMlVHVS1SSFpQSXlRUk5BeHViSzNpRWN4cU5PdGxQNUtvdU9SM1VoVHZnSDViVFpJaXZXb0lFM1E0c0g5VjRNVUhiTGFhelRFeFhqVEM3dmNR?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T21:15:06.606542+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1976,6 +2072,18 @@
       "iran_specific": true
     },
     {
+      "id": "f74d5f66e122fec2",
+      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNajRFSmtqb2VlN0NIM2ROdDF5d215YUJLc1Byc3RMUjl5NjJ3c1V2dXhRRlUtcUJhOTl3UDJ6M1RNd0wxeDNmQVlwNmJVQ1Z6bGVIN3pxOUxsa21CUUVRM29UeTB2MkpCdmdjVnJOZzZFN0Z4YkVCZ3RwTUN6dEoxajBva1d4b3BDcHBXbDUxQkcwSllZbDR5VXJ3cTVIbnlISUpabEc1WlN5RnFvTnZJQzBac1dIbi1OMDFSckVyTmFCeklvNE5qcXVYZ3N0aldWcGF3LUhrVlpkSThJTXYyd0JOZWc1UVh2Q3hjU2xnN19fcjluWFBDbGUyX1BHSVRDVHQ2TGQ3Y0tOazJrLVZfN0lzQmJrU1JabDdxUkZRazJ6YmpWYy1MNWU4ZERRVDFQTmFVd09uUFU0QkEtOTNBWDJJamMwZ2t2aXJZM09mT01UemtETTQzSGJkaUt3ZEF4ZDl3TG1VOFZIWlp4TDBMVzdhVGJmeFJBNFBtYXRkYUg1Z0w5TzFCTWxaY2U3ek92di1HM2Ftc1pTZlRP?oc=5",
+      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:01:04+00:00",
+      "fetched": "2026-03-07T21:15:06.606873+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "4ea058eba06ac7aa",
       "title": "US is reshaping energy landscape to suit its own needs — Russian MFA",
       "link": "https://tass.com/economy/2098205",
@@ -2238,6 +2346,18 @@
       "fetched": "2026-03-07T20:47:33.082619+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "71ed74e0aa122986",
+      "title": "Iran war destabilizes Middle East politics - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1FlT1FlMk8zSWlpQlJHR2ptUUROOE1pRlQ5Q3AtaEpHZGRKZ3BCb2taTXhkRzRubVZMaHVQT29QbVgwMWFPeU9VZ25BZzZfbE01OFR6QWxNZ1dpalgzNE9INzg5VWFkbGJiR0JVWlVLd2RIZVpVZnBoWFVpYVEyRNIBgAFBVV95cUxORFhiNWdWYWdXX1ZXMmRjd3lodC1RNkljWnpBMk40TkdqU29NU2l0REFQSm92eVFpZDBQaE03SS1OMVlQQlZyNjRlc3ltMzFHNmp6YVg3UG5sdTdEbTRnYlFHdVFtcjFldGJwTG9EZGZ1WndzcGZNUWF5NHMzLXowSA?oc=5",
+      "summary": "Iran war destabilizes Middle East politics&nbsp;&nbsp;DW.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T14:01:35+00:00",
+      "fetched": "2026-03-07T21:15:06.606649+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "9e638c92f5e880d6",
@@ -2996,6 +3116,18 @@
       "iran_specific": true
     },
     {
+      "id": "4d37a0b591ebba99",
+      "title": "Iran war live: Trump vows ‘very hard’ strikes; Iran says will not surrender - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWoxdGhQZ1c3N1h4VEFZSjdFbnJzdDNDN3dwdGZYSi1ENkVfNEE3OXBlSWJldjRPUHVYemtqRnBDRHR5eFdKYWJjSFdSSmp5WGVzbDEzLUlEa2VMNXkxaG9iT0dXMktidFhyUXB4MXctQTgyTTR6WXlxanJHSXlCdFdNSlRkWkNUWnQ1NGVFUW1CLTlMVWIxSkR0WjZtNHFqTE12Tm5icmVEUC15NjBNX2xTcHZuRFc2a0djaUZB0gHDAUFVX3lxTFBOWXByTm1zeWpTMkVuMnpiRE81ZUZ3YUVwaXVqNjJqRktBRHdfM0dYT2ZuTXZMNE5acGx5dnpGakhIb0dtOTlBREdybjNmUHBBTk1xR0YybTRpUnpsa2xwajRkRHBJaVl3aFhESmVtbG9RM0NZd1Y2d0VTMG9ndVA4RjFCcW1wR0l6NXYwLTBWZ1VuQ1JTdHBSa05yMFpqNFZyWlE4Ri1jbi1pUkJ0Z2pqWklrQkVma1RXT2VBNUlGNmh6WQ?oc=5",
+      "summary": "Iran war live: Trump vows ‘very hard’ strikes; Iran says will not surrender&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T08:21:38+00:00",
+      "fetched": "2026-03-07T21:15:06.606252+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "bcfe933607d6f2fd",
       "title": "Moldova won’t settle Transnistria issue without considering its opinion — presidentt",
       "link": "https://tass.com/world/2098109",
@@ -3028,6 +3160,18 @@
       "category": "russian",
       "published": "2026-03-07T07:57:05+00:00",
       "fetched": "2026-03-07T20:41:22.709033+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e78b0093c3ff1ec8",
+      "title": "US lands bomber at UK air base after warning of surge in strikes on Iran - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpaF9FVWhkeTJQT0FnTVhNSkNRcmx3akxsdTRtMi1vczB5MWE1TDd1OXN1MkFZckdWd2M5RG9uMm8zekt1VVBlVHh3WWpTR3c3ZUYtYzY3bnRSdw?oc=5",
+      "summary": "US lands bomber at UK air base after warning of surge in strikes on Iran&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T07:54:55+00:00",
+      "fetched": "2026-03-07T21:15:06.606367+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3352,6 +3496,18 @@
       "category": "aggregator",
       "published": "2026-03-07T04:24:00+00:00",
       "fetched": "2026-03-07T20:47:34.882393+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "58f7cc3537274e06",
+      "title": "Iran Update Evening Special Report, March 6, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkhlQ3BZZDZfTEhqNHpNZmVXMGdtUVFCeV92ZFo4YUJWaXJXLUpZM3ZwYnFJd3BlQ1hvTkJoLUxBZDFUMDJoaTc0RTRQWWhlckVWWUwzY0UwVDhobm9kTmRFMjdsaHlUM0dMVjcxOS1qZ0NhdkthMTA5czhZUUE0U0VJV2ZPV01KVjdULUY3MldmdFBiakE1dnB2VDVfZU0?oc=5",
+      "summary": "Iran Update Evening Special Report, March 6, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T04:11:43+00:00",
+      "fetched": "2026-03-07T21:15:06.606599+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5620,6 +5776,234 @@
       "category": "defense",
       "published": "2026-01-20T08:15:33+00:00",
       "fetched": "2026-03-07T20:41:23.370284+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "02d3d4e6745bce66",
+      "title": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
+      "link": "https://tass.com/politics/1968329",
+      "summary": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T11:21:03+00:00",
+      "fetched": "2026-03-07T21:15:05.636302+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "f7fd4f5cc219dc50",
+      "title": "Russia, Ukraine to agree on date of new round of talks after memorandums are studied",
+      "link": "https://tass.com/politics/1968333",
+      "summary": "\"It will take some time to examine the draft memorandums that have been exchanged,\" Dmitry Peskov said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T11:20:34+00:00",
+      "fetched": "2026-03-07T21:15:05.636355+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "46f30b83a42b2505",
+      "title": "Belarus’ defense ministry expects to strengthen cooperation with Pakistan significantly",
+      "link": "https://tass.com/world/1968325",
+      "summary": "The ministers agreed to meet soon at an SCO event in China to discuss preliminary results of the agreements",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T11:13:52+00:00",
+      "fetched": "2026-03-07T21:15:05.636394+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "c6da39a388187967",
+      "title": "Frequency of meetings on Ukraine talks can’t be strictly standardized — Kremlin",
+      "link": "https://tass.com/politics/1968321",
+      "summary": "\"Contacts are underway and in the course of them suitable timeframes will be discussed,\" Dmitry Peskov added",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T11:12:19+00:00",
+      "fetched": "2026-03-07T21:15:05.636427+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "b938b826a15c582b",
+      "title": "Pakistani PM asks Putin to help resolve conflict with India — aide",
+      "link": "https://tass.com/world/1968319",
+      "summary": "Syed Tariq Fatemi said that Pakistan and India must sit down at the negotiating table",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T11:11:09+00:00",
+      "fetched": "2026-03-07T21:15:05.636477+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "ec7a8bbf85fcbcf1",
+      "title": "Russia to take all measures to solve crime related to attacks on airfields — Kremlin",
+      "link": "https://tass.com/politics/1968317",
+      "summary": "Dmitry Peskov said that everything that must be done to resolve this crime will be done",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T11:03:13+00:00",
+      "fetched": "2026-03-07T21:15:05.636508+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "4b3a9650777a2813",
+      "title": "France, Belgium oppose ban on gas imports from Russia to EU — Politico",
+      "link": "https://tass.com/economy/1968311",
+      "summary": "Representatives of French and Belgian governments said that they need “more reassurances on the economic and legal consequences of the move before making a decision”",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:57:48+00:00",
+      "fetched": "2026-03-07T21:15:05.636544+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "dd8de01e74ac9562",
+      "title": "Putin’s stance on death penalty moratorium remains firm — Kremlin spokesman",
+      "link": "https://tass.com/politics/1968307",
+      "summary": "President Vladimir Putin said in late 2024 that the Russian authorities had no plans to introduce capital punishment even amid the country’s special military operation",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:49:31+00:00",
+      "fetched": "2026-03-07T21:15:05.636581+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "a8c6f79209a5b5be",
+      "title": "Europe’s gas stocks replenishment slower than usual, situation becomes tense",
+      "link": "https://tass.com/economy/1968299",
+      "summary": "According to Gazprom, 8.9 bln cubic meters of gas were injected into European UGS facilities in May, which 1.1 bln cubic meters less than the average for that month over the past ten years",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:40:45+00:00",
+      "fetched": "2026-03-07T21:15:05.636622+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "9e93f94c6dd39df2",
+      "title": "Japan reports record-low birth rate in 2024, ministry reveals",
+      "link": "https://tass.com/society/1968297",
+      "summary": "Birth rates in Japan have been shrinking for a ninth consecutive year",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:40:28+00:00",
+      "fetched": "2026-03-07T21:15:05.636646+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "9f3697ec52c28c72",
+      "title": "Russia takes measures proceeding from Kiev’s attacks on peaceful facilities — Kremlin",
+      "link": "https://tass.com/politics/1968289",
+      "summary": "Having lost the initiative on the battlefield, Ukrainian servicemen resorted to terrorist tactics, attempting to attack deep within Russia with drones",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:34:27+00:00",
+      "fetched": "2026-03-07T21:15:05.636681+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "69b775547be9880c",
+      "title": "Diamond prices mixed in May — industry agency",
+      "link": "https://tass.com/economy/1968279",
+      "summary": "Prices for diamonds weighing from 0.5 to 0.7 carats fell due to tariff policy adjustments, and the desire to complete sales before the beginning of summer holidays, Rapaport said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:27:01+00:00",
+      "fetched": "2026-03-07T21:15:05.636716+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "f423a92205145857",
+      "title": "Crimean bridge unaffected by Kiev’s attack, Kremlin spokesman says",
+      "link": "https://tass.com/politics/1968275",
+      "summary": "According to Dmitry Peskov, the bridge is operational",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:26:52+00:00",
+      "fetched": "2026-03-07T21:15:05.636743+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "b6a5f8a3c184988c",
+      "title": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
+      "link": "https://tass.com/world/1968271",
+      "summary": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:22:26+00:00",
+      "fetched": "2026-03-07T21:15:05.636774+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "8ffb1fa8a0afe102",
+      "title": "Russia not interested in arms race with Europe, European Parliament member says",
+      "link": "https://tass.com/world/1968241",
+      "summary": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:02:43+00:00",
+      "fetched": "2026-03-07T21:15:05.636816+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "05e16ef1ed4655c0",
+      "title": "Moscow Exchange launches trade in Bitcoin futures for qualified investors",
+      "link": "https://tass.com/economy/1968239",
+      "summary": "The quote with IBIT ticker will be traded in US dollars per lot, with settlements processed in Russian rubles",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:01:29+00:00",
+      "fetched": "2026-03-07T21:15:05.636844+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "3627a52229f14486",
+      "title": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
+      "link": "https://tass.com/pressreview/1968153",
+      "summary": "Top stories from the Russian press on Wednesday, June 4th",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T10:00:01+00:00",
+      "fetched": "2026-03-07T21:15:05.636872+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "bdbdec916081c71f",
+      "title": "More than 20 children return to Lugansk People’s Republic from Ukraine in two years",
+      "link": "https://tass.com/politics/1968233",
+      "summary": "The LPR children’s rights commissioner Inna Shvenk noted that most commonly, children were separated from their legal representatives during evacuation from combat zones",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T09:48:56+00:00",
+      "fetched": "2026-03-07T21:15:05.636909+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "963ec0e3539b258e",
+      "title": "Dialogue with Russia crucial as West shuns it — retired French officer",
+      "link": "https://tass.com/world/1968229",
+      "summary": "Jacques Hogarde believes that it is necessary to maintain contacts of any kind",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2025-06-04T09:46:52+00:00",
+      "fetched": "2026-03-07T21:15:05.636938+00:00",
       "relevant": false,
       "iran_specific": false
     }
