@@ -1,11 +1,6 @@
 {
   "feeds": [
     {
-      "name": "Reuters World",
-      "url": "https://www.rss-bridge.org/bridge01/?action=display&bridge=Reuters&feed=world&format=Atom",
-      "category": "western"
-    },
-    {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "category": "regional"
@@ -17,22 +12,12 @@
     },
     {
       "name": "AP News",
-      "url": "https://rsshub.app/apnews/topics/world-news",
+      "url": "https://feedx.net/rss/ap.xml",
       "category": "western"
     },
     {
-      "name": "IRNA English",
-      "url": "https://en.irna.ir/rss",
-      "category": "iranian"
-    },
-    {
       "name": "Press TV",
-      "url": "https://www.presstv.ir/rss",
-      "category": "iranian"
-    },
-    {
-      "name": "Tehran Times",
-      "url": "https://www.tehrantimes.com/rss",
+      "url": "https://www.presstv.ir/rss.xml",
       "category": "iranian"
     },
     {
@@ -41,14 +26,24 @@
       "category": "russian"
     },
     {
-      "name": "Defense One",
-      "url": "https://www.defenseone.com/rss/",
-      "category": "defense"
-    },
-    {
       "name": "War on the Rocks",
       "url": "https://warontherocks.com/feed/",
       "category": "defense"
+    },
+    {
+      "name": "Google News Iran",
+      "url": "https://news.google.com/rss/search?q=iran+war&hl=en-US&gl=US&ceid=US:en",
+      "category": "aggregator"
+    },
+    {
+      "name": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/rss",
+      "category": "regional"
+    },
+    {
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "category": "western"
     }
   ],
   "keywords_iran": [
