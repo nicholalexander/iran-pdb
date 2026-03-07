@@ -1,0 +1,64 @@
+{
+  "feeds": [
+    {
+      "name": "Reuters World",
+      "url": "https://www.rss-bridge.org/bridge01/?action=display&bridge=Reuters&feed=world&format=Atom",
+      "category": "western"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "regional"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "category": "western"
+    },
+    {
+      "name": "AP News",
+      "url": "https://rsshub.app/apnews/topics/world-news",
+      "category": "western"
+    },
+    {
+      "name": "IRNA English",
+      "url": "https://en.irna.ir/rss",
+      "category": "iranian"
+    },
+    {
+      "name": "Press TV",
+      "url": "https://www.presstv.ir/rss",
+      "category": "iranian"
+    },
+    {
+      "name": "Tehran Times",
+      "url": "https://www.tehrantimes.com/rss",
+      "category": "iranian"
+    },
+    {
+      "name": "TASS",
+      "url": "https://tass.com/rss/v2.xml",
+      "category": "russian"
+    },
+    {
+      "name": "Defense One",
+      "url": "https://www.defenseone.com/rss/",
+      "category": "defense"
+    },
+    {
+      "name": "War on the Rocks",
+      "url": "https://warontherocks.com/feed/",
+      "category": "defense"
+    }
+  ],
+  "keywords_iran": [
+    "iran", "tehran", "khamenei", "pezeshkian", "irgc", "strait of hormuz",
+    "persian gulf", "bandar abbas", "kharg", "natanz", "isfahan", "bushehr",
+    "hezbollah", "houthi", "proxy", "sanctions", "nuclear", "centrifuge",
+    "quds force", "basij"
+  ],
+  "keywords_broad": [
+    "middle east", "gulf", "oil", "crude", "brent", "wti", "opec",
+    "carrier", "fifth fleet", "centcom", "pentagon", "state department"
+  ]
+}
