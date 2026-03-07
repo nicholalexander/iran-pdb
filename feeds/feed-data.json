@@ -1,12 +1,72 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T22:30:06.585169+00:00",
+    "last_updated": "2026-03-07T22:45:05.684522+00:00",
     "total_items": 500,
-    "new_this_run": 6,
+    "new_this_run": 12,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "676c7c2152e7681b",
+      "title": "Trump says doesn't want Kurds to launch offensive against Iran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-doesnt-want-kurds-launch-offensive-against-iran",
+      "summary": "\n\n  \n      \n      \nTrump says doesn't want Kurds to launch offensive against Iran\n\n    \n    \n\n        \n    \n                US President Donald Trump said Saturday that he did not want the Kurds to launch an offensive against Iran.\n\n\"We're not looking to the Kurds going in,\" he told reporters in a b",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T22:40:59+00:00",
+      "fetched": "2026-03-07T22:45:05.611292+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "535e661dffa52e78",
+      "title": "Trump administration denies reports that Iran captured US soldiers",
+      "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss",
+      "summary": "The head of Iran&#039;s National Security Council had claimed the US was misrepresenting the captures as combat deaths.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T22:37:00+00:00",
+      "fetched": "2026-03-07T22:45:03.527490+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c21035e33d502288",
+      "title": "US Central Command denies Iranian claim of captured American soldiers",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-central-command-denies-iranian-claim-captured-american-soldiers",
+      "summary": "\n\n  \n      \n      \nUS Central Command denies Iranian claim of captured American soldiers\n\n    \n    \n\n        \n    \n                The US Central Command denied on Saturday that any US service members had been captured by&nbsp;Iran.\n\nIn a post on X,&nbsp;Iranian security chief Ali Larijani said: \"It",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T22:33:56+00:00",
+      "fetched": "2026-03-07T22:45:05.611322+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "09eac68a0237f54b",
+      "title": "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
+      "link": "https://www.aljazeera.com/sports/2026/3/7/lamine-yamal-gives-barcelona-hard-fought-1-0-win-at-athletic-bilbao?traffic_source=rss",
+      "summary": "Yamal goal keeps ⁠the champions four points clear ​of Real Madrid at the top of ⁠the La Liga standings.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T22:27:43+00:00",
+      "fetched": "2026-03-07T22:45:03.527557+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "71b7c32ba85db305",
+      "title": "Trump oversees return of US troops killed in Iranian drone strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/trump-oversees-return-of-us-troops-killed-in-iranian-drone-strike?traffic_source=rss",
+      "summary": "US President Donald Trump attended the “dignified transfer” of six US Army soldiers killed in an Iranian drone strike.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T22:21:56+00:00",
+      "fetched": "2026-03-07T22:45:03.527583+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "dcaf4a08452ac9fb",
       "title": "About 454,000 registered as displaced in Lebanon, minister says",
@@ -196,6 +256,18 @@
       "category": "aggregator",
       "published": "2026-03-07T21:46:01+00:00",
       "fetched": "2026-03-07T22:00:06.295566+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "4f523ddc27cfb35b",
+      "title": "Trump Says He Ruled Out Having Kurdish Forces Join Iran Fight - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHJjMXI4emZZQXdFejBuRC1hd09pZEtETHliUkVWQV9VbkhfWk1WNGxhamczSmlDaVB0YTY2ZlJURGoxLUZIbWhYUEFZVWVjNWFhWkVYRFRvUVNHanZFcUJabXpaNVJCTHE1VGNMb3Vjekt6dG9UaDh0VHNSRUw1MG5lV0VISkRiUFROUlZpZVI2eFpsTEQ4NkJ4QWd2Tnc4LS14R2NqRzhPZlh4RFFVekJn?oc=5",
+      "summary": "Trump Says He Ruled Out Having Kurdish Forces Join Iran Fight&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T21:46:01+00:00",
+      "fetched": "2026-03-07T22:45:05.517911+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1736,6 +1808,18 @@
       "iran_specific": true
     },
     {
+      "id": "042353f9ab6c6c80",
+      "title": "US-Israel war on Iran - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
+      "summary": "US-Israel war on Iran&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:52:39+00:00",
+      "fetched": "2026-03-07T22:45:05.518008+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "d0e15a365ea299c8",
       "title": "Iran's president apologizes for strikes on neighboring countries even as its missiles and drones target their cities - PBS",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOFpBZ1h4TzEtMUptWG0wWTY0NV8tX3kwOWdWY185LWs2MC02aU5fUm14UDMzTGxLN1NHZUVJVHh4d1M0dHVINHZuaXh2dS1jT1g5WHRnOWtEc2E5dVVsM2NRNDByMDhVb2FnWXBUeWhvMlpIM1MwcXQxSnRGa2NkOVNXRjhIc3Jrbmx4REFRSmsxT0dWUUY4QVFZVk92emtMX3FjTW5rSTA4ZFcyMVlWbHBmbE1reXNlSlA5Zkt4QURXLUMyNUw3bER2OEZBRml4UzZ3c0I1cDAtWUR2MnByUnNxcnfSAeoBQVVfeXFMTW1yOWxfRWhJVU5oOG1TRGhwY3E2ZUFvMnJQRS1YUlctLVZoODhQRkotS0g3SkdnT3dxYVFxVU5mb0V4bXNxM2NGalVkeDRJYWlqNVZuVE1aanJNZFBwM0pfcHE1NkRBMEtGNkZRSzEwS0pBX3ZGeGlFcDVGY0VKT3F2dFh5TXNwWGtZbzA4TVhRZFZlVjJmUHlOZk1ua21YWDRyTW5XcVZYOHd1cmtKWldtdGpsbFlIdXo3T1N3b1dZSkxPaWZyX2dkVFVPdlNoLU5UcEktdzRTc3JKZENiWDNPa0VEOFNKcC1R?oc=5",
@@ -1972,6 +2056,18 @@
       "category": "aggregator",
       "published": "2026-03-07T19:00:00+00:00",
       "fetched": "2026-03-07T22:30:06.382265+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "93b1b8f8d6ebae01",
+      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQT2FrNEJZUDRfTkhtRzFwUS1yVEFqalcyTkY2MjRTYkpqWGxEN19QeWk3Q2NLU09ydXRqdzZ6dmhsMTJkdWJsTTlpSU5TMGNMWTJFOWRrQW8weEoxWUtrV0xUMG1MMWQyWkpNX3pGZGk4aWxBQ2lDWE9DSFNiNnJMQWYwNzV2OGJZUWxJejhjc3ZScG9LRTVRbXZDb3kyS0hEbE9YRGdseXhsaGVLYzNJUzFIQTRSUTNzd3hVV00xWmJEUjFQN1FVR3V5OXBDYU5mR2NNSzVQc19TSHktV0x5OG9wdEdJNWRNNUJBOGRvazNrclNMa3BvWnNReDBNaUpFc2lQdVdDLUV5bWVTbHh3RFFCNlhnVmtKeDhVN0RMam5CMVVrRlJaX0J3TkVjQXBpemxJdkt6R3J1S3NKR2N3dWVYV3huZVZSNzhCbE1kWVZqRFl1ZUFBNUtGTEY5ZTVIeUlfbHAtM1UzRVdmZkFVV0pSbkpJOGcxNkhiRVRZZnA?oc=5",
+      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:00:00+00:00",
+      "fetched": "2026-03-07T22:45:05.518312+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2216,6 +2312,18 @@
       "iran_specific": true
     },
     {
+      "id": "57658e0659fab69c",
+      "title": "Trump to Axios: \"Unconditional surrender\" is when Iran \"can't fight any longer\" - Axios",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZVkc1SXRLM0I1RU13T2U2V0NrcnJXMFJONDZmYjVDOVFObEE3ODJmVHVjLXFkNGVjVkQwekZjaC1tQWxDdXhiYzlTRm1xMXhkNUFmY0VKLTA5ZnhMOG9HUnJfVGpKMlB1bmNOVlVmOHRUdlRMMk9Jb0hnbw?oc=5",
+      "summary": "Trump to Axios: \"Unconditional surrender\" is when Iran \"can't fight any longer\"&nbsp;&nbsp;Axios",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:35:21+00:00",
+      "fetched": "2026-03-07T22:45:05.518267+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "466f701e2369c270",
       "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss",
@@ -2368,6 +2476,18 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-07T22:30:06.381896+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "255dea2d13e5289b",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQYVVqenl5a3FOV0VrQUtraHplTEpfSUdjQ1ZhcGtUNUhBamFrbU5GTzYtcnhlUUE4ZlNwU3pDWndKLTZEUHlZeTgwN2o1T0ltOWJFbHkwQnJKN21ITFBZd0NaakszZ19UQTF1Rk04NU1QYWkxQ1FXX3dSd1hrdGFjX3o2VzR3Ull1V042VkxEZnM0RmlvbC1RY0VHRHJ1OS1IbnlSYlVUS3k1M21NeDNaV0Z4bFdKclg0VGkteHdEZFo1dmt5SndJZ0FvakhBc1puRnN4TVhXUW03alU2M2tqb0xLMUgzZllCSWF1aHR6N09rLVUycVB2LUxpSGZNTklBUEgxeXdMUHJFSjVHNFQ5Snc5eldZMzdyV2JwYlp3cXRvUTBJbGpOaEhqcW5kSXo5N3d1bnRfeDhYVUhqVXpCYmplYUxkMllXZ0U4REFYQmpaZ1VOR3VzQkVxS1Z3U1ZielZQSmFwNks2N1FMeXpWaVpXekFPYUc1NnQybk15ZzFqR3JhOFRn?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T22:45:05.518042+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2716,6 +2836,18 @@
       "category": "aggregator",
       "published": "2026-03-07T16:01:04+00:00",
       "fetched": "2026-03-07T22:30:06.382303+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1fd5b28723cec681",
+      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPZVh0cmxoRTJYbWNjQVVOaXlGSS1GaDBhdVg5NlpxZW1XQWtrS2k4RVAtWTk1cmxfVzZpSWQzdVJsdk5lekVRV3AwWlpOUEdScHZGU3h0N2x5RGdXdFQ0TlI4WU83dUU0aFZ5RHdmS0VzbEJiUi10cHRKdFBsNm11NmM4VXUwYlN6XzZ3S01HNmtxNGh2VzBKS05wX2wyN0dONmRKRjFLRVdrdFhHZE5sdlQ2TmhOemQ3VFlnRWVhcUtOc083N2Z3NWJPZjAwOG90U2xTNXdfOUoyTjBKRkRMNXNRc0o5WEJWQ0tob1ByRFNucVo1a3U0RzNJRmFSVUpQTWdkNWUzUW9Ic1JUZFl5Rm1Tb2Y2dDdTem1HNWFqeU5uQ1Z0NklQbUVRaVdNbjVQeEx1NjJKVWpleTIwS2ZHaVRzcTdHMnR0dnM1azk2NVFfYTY3VFU1dGVlbzdEOFlLSTIzejFJdmRBY0c0TmM4aTdscWJ5T0VYblpFSzdVNWVVVGJqQUJtWnNvdlFtOGt0YkJnMF82X0ZjSkdy?oc=5",
+      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:01:04+00:00",
+      "fetched": "2026-03-07T22:45:05.518333+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3340,6 +3472,18 @@
       "category": "aggregator",
       "published": "2026-03-07T12:00:00+00:00",
       "fetched": "2026-03-07T20:47:34.881514+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6831c794641a6b3d",
+      "title": "What Iran Might Do When It Has Nothing to Lose - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQVdkdGlPR05XdzdXQVFROEV6NVY1MGsyeDBlVUJ1V3BtbmdMTkNnOFJuMGxnbGxvTC1lU3pJQXZUbjdERzAzdl80WDZsU2p3bFVQQzU5d3ZVZEdwSXJNNHotd3VZQUtmNlZScUF0Y1BWVUo1a1M3OW56dFREZw?oc=5",
+      "summary": "What Iran Might Do When It Has Nothing to Lose&nbsp;&nbsp;The Atlantic",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T12:00:00+00:00",
+      "fetched": "2026-03-07T22:45:05.518199+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5860,150 +6004,6 @@
       "category": "defense",
       "published": "2026-02-16T08:30:33+00:00",
       "fetched": "2026-03-07T20:41:23.368400+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "c1c19d0b4a2a375c",
-      "title": "Running to Stand Still: Russian Nuclear Modernization after New START",
-      "link": "https://warontherocks.com/2026/02/running-to-stand-still-russian-nuclear-modernization-after-new-start/",
-      "summary": "John Maynard Keynes once wrote, &#8220;The difficulty lies, not in the new ideas, but in escaping from the old ones&#8221;: an apt depiction of the current discourse and debate of what the world will look like now that the New Strategic Arms Reduction Treaty (START) treaty has expired. The passing o",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-13T08:30:28+00:00",
-      "fetched": "2026-03-07T20:41:23.368426+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "64dd2e0750040601",
-      "title": "Will These Four Defense Innovation Reforms Improve Industry’s Lot?",
-      "link": "https://warontherocks.com/2026/02/will-these-four-defense-innovation-reforms-improve-industrys-lot/",
-      "summary": "When everyone is accountable, who is actually responsible?I can&#8217;t help but think of this question as I consider the flurry of new top-down activity on acquisition reform and modernization. In January 2026, the Defense Department and White House released four new initiatives: two memorandums on",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-12T09:00:36+00:00",
-      "fetched": "2026-03-07T20:41:23.368483+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "38de0e81bd95e6e1",
-      "title": "Gilded Capability: Overinvestment and the Survivability Paradox",
-      "link": "https://warontherocks.com/2026/02/gilded-capability-overinvestment-and-the-survivability-paradox/",
-      "summary": "Infernos raged aboard Japanese aircraft carriers after U.S. Navy dive-bombers found their marks during the Battle of Midway. Many Japanese pilots were incinerated in ready rooms and in the cockpits of their aircraft while they sat idling on flight decks. Those who were airborne returned to find thei",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-12T08:30:02+00:00",
-      "fetched": "2026-03-07T20:41:23.368520+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "43bf3967c2b09b31",
-      "title": "Why Russia’s Export Failures Matter For India",
-      "link": "https://warontherocks.com/2026/02/why-russias-export-failures-matter-for-india/",
-      "summary": "In 2022, Vasabjit Banerjee and Benjamin Tkach wrote, &#8220;After Ukraine, Where Will India Buy Its Weapons,&#8221; where they explore India&#8217;s various defense systems acquisition relationships. Four years later, amid changing geopolitical dynamics and Russia&#8217;s ongoing war, we asked them ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-11T18:30:53+00:00",
-      "fetched": "2026-03-07T20:41:23.368564+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "330b4ae9b6fb2d10",
-      "title": "Pauses Without Peace: What Last Year’s Ceasefires Reveal About Global Conflict Management",
-      "link": "https://warontherocks.com/2026/02/pauses-without-peace-what-last-years-ceasefires-reveal-about-global-conflict-management/",
-      "summary": "What if the United States isn&#8217;t ending wars, just interrupting them?Since returning to the White House, President Donald Trump &#8212; who has repeatedly described himself as a &#8220;President of Peace&#8221; &#8212; has intervened to halt conflicts across multiple crisis theaters. From Gaza ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-11T08:30:08+00:00",
-      "fetched": "2026-03-07T20:41:23.368610+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "35c1aedbf87c19a2",
-      "title": "Sweet Nothings: Rutte’s Trump-Whispering Is Counterproductive",
-      "link": "https://warontherocks.com/2026/02/sweet-nothings-ruttes-trump-whispering-is-counterproductive/",
-      "summary": "NATO Secretary General Mark Rutte might have been the only European in the room who enjoyed President Donald Trump&#8217;s lengthy, meandering speech last month at the World Economic Forum at Davos. He was lavishly praised not once but twice by the president, who called him an &#8220;excellent Secre",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-11T08:15:28+00:00",
-      "fetched": "2026-03-07T20:41:23.368657+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "fbfecf2214c88c39",
-      "title": "Syria’s Post-Assad Pulse Check",
-      "link": "https://warontherocks.com/2026/02/syrias-post-assad-pulse-check/",
-      "summary": "In December 2024, forces led by Hayat Tahrir al-Sham defeated Assad regime forces, leading to the regime&#8217;s collapse and raising hopes for an end to Syria&#8217;s brutal civil war. Since then, President Ahmed al Sharaa has impressed many Syrians and foreign observers with his pragmatism and abi",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-10T19:00:08+00:00",
-      "fetched": "2026-03-07T20:41:23.368701+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "558ec9b8a84b7a40",
-      "title": "Does Guaranteeing Israel’s Qualitative Military Edge Still Serve U.S. Interests?",
-      "link": "https://warontherocks.com/2026/02/does-guaranteeing-israels-qualitative-military-edge-still-serve-u-s-interests/",
-      "summary": "In early January 2026, Israeli Prime Minister Benjamin Netanyahu dropped a bombshell. In an interview for the Economist, he claimed that he sought to &#8220;taper off&#8221; the $3.8 billion in military aid that Israel receives from the United States or even end this longstanding military assistance",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-10T08:30:47+00:00",
-      "fetched": "2026-03-07T20:41:23.368747+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "3108511abbdaf4d4",
-      "title": "Biodefense Blind Spot: Why Washington Confuses Pandemics with Bioweapons",
-      "link": "https://warontherocks.com/2026/02/biodefense-blind-spot-why-washington-confuses-pandemics-with-bioweapons/",
-      "summary": "The next great biological threat may not begin in a wet market, a jungle, or a laboratory accident. It may begin on a laptop with a commercially available AI model.In October 2025, AI researchers from Microsoft reported that generative AI tools could design dangerous proteins capable of evading bios",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-10T08:00:14+00:00",
-      "fetched": "2026-03-07T20:41:23.368783+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "fcb6624a9798b955",
-      "title": "Deterrence Won’t Fail in the Taiwan Strait — It Will Be Bypassed",
-      "link": "https://warontherocks.com/2026/02/deterrence-wont-fail-in-the-taiwan-strait-it-will-be-bypassed/",
-      "summary": "On Dec. 29, 2025, Taiwan&#8217;s Ministry of National Defense reported one of the most intense single-day episodes of Chinese military activity in recent years. Over 100 Chinese aircraft&#160;were detected operating around the island, not merely signaling but actively compressing Taiwan&#8217;s defe",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-09T08:30:38+00:00",
-      "fetched": "2026-03-07T20:41:23.368827+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "5737320f8c30f1af",
-      "title": "The Marines That Led the Evacuation of Afghanistan, Four Years Later",
-      "link": "https://warontherocks.com/2026/02/the-marines-that-led-the-evacuation-of-afghanistan-four-years-later/",
-      "summary": "On this special, free episode of Marine Pulse, Ian Brown sat down with two Marines who recount their mission at Hamid Karzai International Airport on the day of the suicide bombing attack at the Abbey gate during the United States withdrawal from Afghanistan. Aaron Reep and Lee Bowden share their pe",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-06T21:16:55+00:00",
-      "fetched": "2026-03-07T20:41:23.368864+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "abe16a26dd39650f",
-      "title": "Is the Age of Drones Really the Age of Poor Maneuver?",
-      "link": "https://warontherocks.com/2026/02/is-the-age-of-drones-really-the-age-of-poor-maneuver/",
-      "summary": "On today&#8217;s battlefields, drones are undeniably lethal. They kill with precision, shape movement across the battlespace, and impose a constant psychological presence. Their hum has become synonymous with modern combat, and combat footage from Ukraine appears to suggest that their sound is a def",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-06T08:30:16+00:00",
-      "fetched": "2026-03-07T20:41:23.368909+00:00",
       "relevant": false,
       "iran_specific": false
     }
