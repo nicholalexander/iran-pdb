@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T23:03:51.645160+00:00",
+    "last_updated": "2026-03-07T23:15:06.819777+00:00",
     "total_items": 500,
-    "new_this_run": 13,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "b3c06ae6537da503",
+      "title": "Trump claims deadly school strike 'done by Iran'",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-deadly-school-strike-done-iran",
+      "summary": "\n\n  \n      \n      \nTrump claims deadly school strike 'done by Iran'\n\n    \n    \n\n        \n    \n                US President Donald Trump on Saturday blamed&nbsp;Iran&nbsp;for a deadly strike on an elementary school in the southern Iranian town of Minab.\n\n\"We think it was done by&nbsp;Iran. Because th",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:07:56+00:00",
+      "fetched": "2026-03-07T23:15:06.746761+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "1f83b995e2f810a7",
       "title": "Israeli opposition leader says Israel must destroy all of Iran's oil fields",
@@ -30,6 +42,18 @@
       "fetched": "2026-03-07T23:03:51.548950+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "69ab999f66f7a002",
+      "title": "Live Updates: Strikes Across Iran With No Compromise in Sight - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYzVqeS00a1haZGNBUzdlbDVMMGdxWHVpN1F0blpRX2Jpb2FRR29iejB0cHE4LUxhdUR5LUhqcU5qV3NQVS0tdEJyZWRVVFhtSDBaQ2k4X2t0RFcta2FiRTZZWWY0bnFpeTJaOXVNNXN5UjNodGlud1o1emtLTmwtcw?oc=5",
+      "summary": "Live Updates: Strikes Across Iran With No Compromise in Sight&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:45:26+00:00",
+      "fetched": "2026-03-07T23:15:06.666219+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "d0cfc4a6de2d22d9",
@@ -102,6 +126,18 @@
       "fetched": "2026-03-07T22:45:03.527557+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "cbabc97c8f42efc3",
+      "title": "Video Retired Army colonel on next phase of war in Iran - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NWGE3cFBvTmpwcmVCSW9jal9vOVZnNHAtc211enp2d0xGSzhfZlZlSnphLUM5UzRIUkJ5MUVXQlBDQ2EwbXdQOHZnUzE?oc=5",
+      "summary": "Video Retired Army colonel on next phase of war in Iran&nbsp;&nbsp;ABC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:25:40+00:00",
+      "fetched": "2026-03-07T23:15:06.666581+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "71b7c32ba85db305",
@@ -2144,6 +2180,18 @@
       "iran_specific": true
     },
     {
+      "id": "9fa34bb1cb698ac0",
+      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPb1k2MEFHZ0JEYkdKdHhZd3FEU1pBOGtCY1JoTzhfdDJ0eG9TQm93RnkwaDVFcU9SYlVUdWZLNTg3Snpma3dWcEVwTWFkNlJWamVxNWl6bjVHMW9sMGtxd18yV0JscWV5NDVBOHF6ekprSHBaTlBnNnMzM2Z3dW9FWTVGUVh3QXptdG5BYkNUb0hya0ZORWowVlFCb25ZRDR4Vnd5bFlqdU1IUjRlU0tfT2c4OHVnZjQxSE9BY2x4QmQzZHdQM1dRWTIzbVFtUWhoOVR6UWVNR2tucWYyYXVLNV9ZV010eDZpeGtPaFlhV1pDUVctRlpGVm4tMjlaZkNLeE1oRzhZU0hVY0FYVGNjVHZyRmV6ak9MNnhKdkRiZ1RQZC10eHFUT1NnNHhGOUc2aUl0aWxKbG1EV3Rqc2VuVmE1VVp1Vy1DSlBWWGVMVTFGZWxfMUJfWTVMWFlpaGExNzgwNjM2Z0owUm55YW90eGZWQUQ1cTdBX2h6TXhNekQ?oc=5",
+      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:00:00+00:00",
+      "fetched": "2026-03-07T23:15:06.666685+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "30988ee5d7f3e2ae",
       "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
       "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
@@ -2576,6 +2624,18 @@
       "iran_specific": true
     },
     {
+      "id": "3537c0246b35879c",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVGNuLVgwSG1lNmNuNnFmV2VKQ2pPTWdBSkhKT3FmcjdFQmpieW90aTZSNEVIM25HSF9fSWFlZDNWSDE5Sll0Zm5Lem12ZVR1RjVoVW9yTzYtcXhETHZxdFVVUmNzRWhBWVpzckFWV3pzV2NXSWRxaHkwc1dCelREYWN6MXd4TjJSSGlNdW5QamhIbEFJX2JwNFdYWnAzRzEyU1hYV2x6MlY1UVlyOXpORFZBUEUwMGJzeUdrLTlab2hHeHQzcFE2NmZ6UllLUG5DdlpodDlhQmdVaWxMYU5HWUZta3VtcU5JdUEybXp6blRDWm5MR2N6aHRNYTlPSm9GNWtkaVJra3hxVTl1cjhQWG0wMXFTbDB0RDh5VS1NZmQ5UmRzel9lQjA3RGp4Qlludkp3bGkxYzZISklma3cyU19RUGhEb19RUzFzRDdqaTRWcTVfV2wxM2Nlbk15Zjg2LVRXWkhEOFRIWjhIMzNYX1lJeWhNZXlDbGI5NVJacnZTMDI1RFhV?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-07T23:15:06.666377+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -2956,6 +3016,18 @@
       "category": "aggregator",
       "published": "2026-03-07T16:01:04+00:00",
       "fetched": "2026-03-07T23:03:51.467209+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "51a7d5d61ecc64de",
+      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPWXZfUF9kd3NLdzhONkZlVkpwZkk2dWx1bmFnYnQ2M0VyaUxxb3pySEtnR21VRU9wVWFWbTNqVWpXM081NVpMTmY4ckpQNDJZbEljVFQwQ21ibFRvT2w1c0ZiaUxGTU1HRXQ1ZXNvZXd1YnhoN3JoZng0SW5LS2lrWUJTY3pDUDJhX21PS3ZDWTVhZV8tV0MyQzRNOGdfN0EwTXZCNFFHbFA3V1loRnREV2xBYUdDNnIwUktyeF9lOVRGdEc3eDNDX24yY3RUU1B0MzB5clZ6VW1qSllTVWRSc2hZeFl0LUNWcmtiMy00ejZwUnlRa0FJVXlpbGVmOXAwUTVTLWptcGU1YmZxaktoTUJyR2IxcnM1b0NsbGI4Q2ZlV3NDRW1VRHkxczE0QTMwWGpvcFhKT2Vmd2lqNGg3Z1ZXaFFhMURLTnByTk1rOUk1NWxlZXVEQ3VKMG90eHpuOEdnTmZDRHM2bV9ka052ellydlM4cmQ5LWxZNU5BRUg2RjN3MndfbUNscC1iNFNhMDRCb0RXY093OFFO?oc=5",
+      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T16:01:04+00:00",
+      "fetched": "2026-03-07T23:15:06.666721+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5660,6 +5732,18 @@
       "iran_specific": false
     },
     {
+      "id": "a0659bdf3eef802a",
+      "title": "Trump won’t rule out sending US troops into Iran ‘if necessary’— tells Post war is progressing ‘way ahead of schedule’ - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR2Rfb2RqWFFPSFpYTy1nYzY2STlxQjktRDZYX3Y2WjAtYmMxOGF3LXRiYzdGSk9rbVFDaUFRdjlPM2lqZldJajQ5N2VVa2tzUjhCcjNLTmZ6ZUdva0xEa1JWU3VTcVM5MURON2xtODZiWUJkY2s3eElNZFBXd3VWeWkzT1ZrcXRxeGU1Um9XTmQ4SXVLdHFkMk5sbzk3aUNmLXcxeDZFbGlhQkpWdl8zTGh5V1dEczFMTC10ZFVvSGxlNjlPb0Y0V09mNDJhb0FBWUJHUEFQNA?oc=5",
+      "summary": "Trump won’t rule out sending US troops into Iran ‘if necessary’— tells Post war is progressing ‘way ahead of schedule’&nbsp;&nbsp;New York Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-02T15:18:40+00:00",
+      "fetched": "2026-03-07T23:15:06.666526+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "2039ce14cae1daf3",
       "title": "Washington Built the AI Infrastructure AUKUS Needs — Then Locked Allies Out",
       "link": "https://warontherocks.com/2026/03/washington-built-the-ai-infrastructure-aukus-needs-then-locked-allies-out/",
@@ -5921,90 +6005,6 @@
       "published": "2026-02-24T09:00:33+00:00",
       "fetched": "2026-03-07T20:41:23.367621+00:00",
       "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "8eb2917a27bc9e35",
-      "title": "The Danger in the Middle: Will Xi’s Purges Increase the Risk of War?",
-      "link": "https://warontherocks.com/2026/02/the-danger-in-the-middle-will-xis-purges-increase-the-risk-of-war/",
-      "summary": "Chinese leader Xi Jinping has purged dozens of senior People&#8217;s Liberation Army officers since mid-2023, including two in January, but will this increase the risk of war? The loss of experienced officers could make Xi less confident in how his military would perform, but his increased power cou",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-24T08:30:13+00:00",
-      "fetched": "2026-03-07T20:41:23.367668+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "fb3552b8127ac7ce",
-      "title": "Breaking Europe’s Trans-Atlantic Habit: The End of the Senior Partner Myth",
-      "link": "https://warontherocks.com/2026/02/breaking-europes-transatlantic-habit-the-end-of-the-senior-partner-myth/",
-      "summary": "When U.S. President Donald Trump floated the possibility of taking Greenland by force, European leaders reacted with outrage &#8212; and then, almost immediately, with relief once he backed down. Wolfgang Ischinger, the doyen of the Munich Security Conference, expressed similar relief when he descri",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-24T08:15:39+00:00",
-      "fetched": "2026-03-07T20:41:23.367715+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a4a38db771bef6b7",
-      "title": "The Importance of St. Clair’s Defeat",
-      "link": "https://warontherocks.com/2026/02/the-importance-of-st-clairs-defeat/",
-      "summary": "In the fall of 1791, Gen. Arthur St. Clair pushed an unready, ill-trained, and poorly supplied American army of militia and regulars into the woods of central Ohio where it would experience the worst defeat in U.S. military history against Native Americans. The battle belongs to the broader Northwes",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-23T08:30:38+00:00",
-      "fetched": "2026-03-07T20:41:23.367768+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "531b75e7548865be",
-      "title": "Economic Statecraft and the Federal Institutional Architecture",
-      "link": "https://warontherocks.com/2026/02/economic-statecraft-and-the-federal-institutional-architecture/",
-      "summary": "Editor&#8217;s note: This article is the second in an 11-part series examining how the United States should organize, lead, and integrate economic statecraft into strategy, defense practice, and the broader national security ecosystem. This special series is brought to you by the&#160;Potomac Instit",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-23T08:00:24+00:00",
-      "fetched": "2026-03-07T20:41:23.367809+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "e3bc78066bad5020",
-      "title": "Talks, Plans, and Prison Breaks",
-      "link": "https://warontherocks.com/2026/02/the-adversarial-talks-plans-and-prison-breaks/",
-      "summary": "Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. and Iranian negotiators gathered in Geneva on Feb. 17 for their second round of talks ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-20T19:15:47+00:00",
-      "fetched": "2026-03-07T20:41:23.367826+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9c4c8bf27aaf0a5a",
-      "title": "Iran and the Gulf: Why Hedging Is No Longer Enough",
-      "link": "https://warontherocks.com/2026/02/iran-and-the-gulf-why-hedging-is-no-longer-enough/",
-      "summary": "During the recent protests in Iran, most Gulf states quietly but actively pushed back against calls in Washington for military strikes. Their judgment was simple: Escalation would almost certainly destabilize the region without producing meaningful political change inside Iran, while leaving Gulf ci",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-20T08:30:33+00:00",
-      "fetched": "2026-03-07T20:41:23.367842+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2f69f5b658330f10",
-      "title": "Three Short Tales on War Kori Schake Wants You to Read",
-      "link": "https://warontherocks.com/2026/02/three-short-tales-on-war-kori-schake-wants-you-to-read/",
-      "summary": "Editor&#8217;s Note: This is a new occasional series brought to you by War on the Rocks. If you would like to pitch your own version, please refer to the contact information and guidance on our submissions page.Wars very often inspire great American literature about the experience of war and its leg",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-02-20T08:15:47+00:00",
-      "fetched": "2026-03-07T20:41:23.367887+00:00",
-      "relevant": false,
       "iran_specific": false
     }
   ]
