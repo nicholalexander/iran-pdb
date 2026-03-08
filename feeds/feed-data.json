@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T19:00:07.261767+00:00",
+    "last_updated": "2026-03-08T19:15:05.700481+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "c6230a411b03538e",
+      "title": "True Promise 4: Iran and resistance axis ops. against US-Israeli assets on Mar. 8",
+      "link": "https://presstv.ir/Detail/2026/03/08/765135/true-promise-4-iran-resistance-axis-ops-us-israeli-assets-mar8",
+      "summary": "Iranian armed forces and resistance groups across the region continued to carry out retaliatory military operations against the US and the Israeli regime on Sunday, March 8.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T19:15:03.721943+00:00",
+      "fetched": "2026-03-08T19:15:03.721962+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "5c4708085b02c52a",
+      "title": "France's Macron says spoke with Iran's Pezeshkian",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/frances-macron-says-spoke-irans-pezeshkian",
+      "summary": "\n\n  \n      \n      \nFrance's Macron says spoke with Iran's Pezeshkian\n\n    \n    \n\n        \n    \n                French president Emmanuel Macron has spoken with Iranian President Masoud Pezeshkian, calling on Iran to halt strikes against other countries in the region and to end the closure of the Str",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T19:12:16+00:00",
+      "fetched": "2026-03-08T19:15:05.621096+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "763953027856e284",
+      "title": "Israeli strike kills three Palestinians in Gaza City, medics say",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-three-palestinians-gaza-city-medics-say",
+      "summary": "\n\n  \n      \n      \nIsraeli strike kills three Palestinians in Gaza City, medics say\n\n    \n    \n\n        \n    \n                An Israeli air strike killed three Palestinians in Gaza City on Sunday, said Mohamed Abu Selmia, head of the Al Shifa Hospital, the deadliest incident in Gaza since Israel an",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T19:05:47+00:00",
+      "fetched": "2026-03-08T19:15:05.621152+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "865b95698bd51b1d",
       "title": "US strike on Iran’s Frigate Dena kills 104, injures 32: Army",
@@ -16,6 +52,18 @@
       "category": "iranian",
       "published": "2026-03-08T19:00:04.760783+00:00",
       "fetched": "2026-03-08T19:00:04.760810+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1120b6767edf812a",
+      "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns",
+      "link": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
+      "summary": "Any new supreme leader will &#039;not last long&#039; without US approval, Trump says; officials say oil disruptions &#039;temporary&#039;.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T18:56:10+00:00",
+      "fetched": "2026-03-08T19:15:03.283867+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -76,6 +124,18 @@
       "category": "regional",
       "published": "2026-03-08T18:27:39+00:00",
       "fetched": "2026-03-08T18:30:07.524323+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "82ab9aa4d0110cdd",
+      "title": "U.S. Military Warns Civilians in Iran to Stay Home Amid Continuing Airstrikes - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2JlTDdQZjBsbnlvTV9kYlJkVnpzUTUwZk9uMDNPLUlYZ0N6Vm9aMEU3SjdJZ2lVZVN3VXY4WHVmTVc3amx2YktBNDhyT1NMLTBVZThfUGlrMG9RZUlPcWFRbnNqbmlxUXk4VG9CUmljbHJsWGViazhlYWVHS3dCTDVn?oc=5",
+      "summary": "U.S. Military Warns Civilians in Iran to Stay Home Amid Continuing Airstrikes&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:20:12+00:00",
+      "fetched": "2026-03-08T19:15:05.516529+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -784,6 +844,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T19:00:06.847291+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "47a9b2e3b7c77ea9",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQeWVvWVFDd2FZc0V6REFRRUl2Y3Y3NVVEZ1VPWm0tYy15UENzVW4xbGdjYWxabkhITndnd3pXaEZaTVRpcWhCSGhiQXVrOGowR01WVFdCa1lFUElyMHNoMC1aSlpYUTAtTUhWckp2T3NzN1JwLXl1OFNrODF5eXhtbGFjWXJwaWo3bUZ6aTFQSmJBTHlvT2syTnJyV1hyR1gwb3I2RWRjc3l4TzNmTHFra1R3TUNqZTRsZF9DQjY0c2RHb0VyOWlQVzN5bFNfLVVvN29BVFZSZU01YWZxSnBoWnpzbVV2QUlNTDR0eHlILUFQNk54TWZfdDBkVG1mTV9vZXk4dHFLblpFTElLZ2ltd1Vubnd5M25aX01vT1NDS3lRRHBwQlpEZDRGR3BwV0NxRmFZRnNTY3FDTVZfbXRaaFVyREVCa2ZxSFlnR0t6SXlhSjI0cFJOYVgyT0JRYjJtUGJsSmV6b3ZydU5yVUpXR3FoRQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T19:15:05.516645+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4880,6 +4952,18 @@
       "iran_specific": true
     },
     {
+      "id": "1b0a1f4aea71b446",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOQk5rSXQ2WGNZcUNHWFlVUl9xVVh1b19abGw1U1JGRDYtUEFGMmJKd0ZPZUlSZkJRNU9aRm1oLWVhREdvMGl1MVNyd2FYVGl1U3VLLVhqZmdfenVGczU3aHBFU3lLVk5xZ244ZVNra2RpRjZBS1ZZNzlmM3hrTkFocTZZc3lBVGlMNGMtTjBfZWNyYlZSaWlMRl85SWhRWTR6RnRJNUVGM1kydDJXd1pqMTF3Qnh1QzV5MVM3TmZnMUtSTjFpemhBZTZEZHRsZ3pyLXlqSnVmNWc4QkJvSlpsdC1scGh0Z0xzTW45VGpSY2YwLTg2RWtWUUZ2b3Q4UnhrQTNwV2F2UnRFeGU4QmRrWXktMk55czI2N0NqWXhoZG90S3U2ejhESFU2eHlPcUVRNFNjZU5KRzU5akxpRVpERnFkaHA0bDUxaExTVGM5YldXT1BvcFh6bkhpWC1xSXJwbExRV1JmRjAzNGVqQzkwS2FNZjMzMV83R0N2T2dOME55cDZYM0I1ekFMZUhIekJXVGJ1RHpzTTdvekpWOHN5d29OMG1Yb3ZWaF9fZlBod29Jb0xOd2Zr?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T19:15:05.516827+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5920,90 +6004,6 @@
       "category": "russian",
       "published": "2026-03-07T22:42:43+00:00",
       "fetched": "2026-03-07T23:03:50.547093+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "676c7c2152e7681b",
-      "title": "Trump says doesn't want Kurds to launch offensive against Iran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-doesnt-want-kurds-launch-offensive-against-iran",
-      "summary": "\n\n  \n      \n      \nTrump says doesn't want Kurds to launch offensive against Iran\n\n    \n    \n\n        \n    \n                US President Donald Trump said Saturday that he did not want the Kurds to launch an offensive against Iran.\n\n\"We're not looking to the Kurds going in,\" he told reporters in a b",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T22:40:59+00:00",
-      "fetched": "2026-03-07T22:45:05.611292+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "fcb0f40d31f10cb5",
-      "title": "Trump administration denies reports that Iran captured US soldiers - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTUzc1BMaGhNWmtQTTc5SWVGdkZLeXc1Y2ltd2UyZU9DRjFjX09KcFFJUVY0VV83b0l0eTJCeVdkWHpGdnVYc1NwaTR2aXh0eURVUjFNdXlxSG83bE9uX3dSRUJMcTlZQ2xmUDNqeEtYRUl2dU9fT3ZhNkh1bmc3MkJCdmw0MjZ6cHhXU2U4TDk0dnAxTjVXaklpUXNYbDlvM3pObmRjR2VuQdIBrwFBVV95cUxONDN2WWJwdmtmRWVfVU53ZzVaZmRfdmZaekVxWi1wOUh5SF9rSE93bUduSlEwbEhiMkdEZHNmeHZvLTdtOXkwY18zMk5KMzViUGxnYUhCSjhvNzdUOTVTUUtHeE02STI1QzNkT1lGbVhyZ2hsQUliRmxvT0JUMGRZX1FSUVBycVF5WXJNX2ZSM3pTcFJYTTlXaE84RVJmM0MzaG4wUUw5UmJCVGxLS01z?oc=5",
-      "summary": "Trump administration denies reports that Iran captured US soldiers&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:39:02+00:00",
-      "fetched": "2026-03-07T23:03:51.466936+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "535e661dffa52e78",
-      "title": "Trump administration denies reports that Iran captured US soldiers",
-      "link": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss",
-      "summary": "The head of Iran&#039;s National Security Council had claimed the US was misrepresenting the captures as combat deaths.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T22:37:00+00:00",
-      "fetched": "2026-03-07T22:45:03.527490+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "cdfc2c7b61949047",
-      "title": "Trump tells Starmer help not needed even as US uses UK bases for Iran strikes - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnJxbVN5eThSZFl4QTdPVWdwYWRmVW4ybHFYcHIxWUI1eVhiVmJ5ZEtISm1jTERkWHFiUDRfMDJpN2cyZGRJVWxGNnJjc1lod3A0cDg1bi1xQldxZVNaYVlSanNVRng5bDlRQXBBWnpDbHNhWFdyNGU4RGR4dFlqVENB?oc=5",
-      "summary": "Trump tells Starmer help not needed even as US uses UK bases for Iran strikes&nbsp;&nbsp;The Guardian",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:37:00+00:00",
-      "fetched": "2026-03-08T07:00:09.217987+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e2e0f0ba55b27708",
-      "title": "Families of US detainees in Iran fear they risk becoming collateral damage in war - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSm1lWlJmV1NOWGZubW5ULVIyUkhhQnlTWkJ3cXM4SW9EdENTOXM1cndLYlAwWDNFR084QXpkRWo4b1lKbHoyTHd6bEhTUUpwYkdabUNfS0wySjVKVkhDS2RNY2tQdEdMODBjZ3NzNGJncHZtV2JmOV9rb0podlR5cHZsWjR6QjFaeDlLZElvOEUwcUVXdHB2X3gwSl9RLUJsYUMzNXV0RHlvOUtNcG4tMU530gG3AUFVX3lxTE82YU9nYTM2dGhnV001N04zRUdtbjdDdWlURzRDVXl1MXY4RjRoUVcyZXQ4LTVBd3kyVXVuN1ExUXlCeU9BaEdFQkpuOS1uaXZYU0Z5MlpOQklka1VIQ3Vzd2s1SUdOUTNYZXlWMU9oQ09RNFA2d2hpR2VvX1AyOGsyanhhU0lZVWVzVGo0UHpfdXp0Rjh4cFpsUGM0N096cDM0cnRyQ0tPVDhkYkNqTEdzaUZDOHY4aw?oc=5",
-      "summary": "Families of US detainees in Iran fear they risk becoming collateral damage in war&nbsp;&nbsp;The Times of Israel",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:34:00+00:00",
-      "fetched": "2026-03-07T23:45:05.676426+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c21035e33d502288",
-      "title": "US Central Command denies Iranian claim of captured American soldiers",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-central-command-denies-iranian-claim-captured-american-soldiers",
-      "summary": "\n\n  \n      \n      \nUS Central Command denies Iranian claim of captured American soldiers\n\n    \n    \n\n        \n    \n                The US Central Command denied on Saturday that any US service members had been captured by&nbsp;Iran.\n\nIn a post on X,&nbsp;Iranian security chief Ali Larijani said: \"It",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T22:33:56+00:00",
-      "fetched": "2026-03-07T22:45:05.611322+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5dc43406a47cc159",
-      "title": "Sources: Trump Is Dangerously Close to Sending Troops to Iran - Zeteo | Substack",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kTTdNV1JZellxT0plamdQNUZCc0JXV3NkNmlrbm5raDJjX0RmbWNPWHBuSjhhLUVkZURqSTZiN1YyNmlsZDN3VHEwdzNia3ozTWRtcjN1TU43dE5rRVE?oc=5",
-      "summary": "Sources: Trump Is Dangerously Close to Sending Troops to Iran&nbsp;&nbsp;Zeteo | Substack",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:30:37+00:00",
-      "fetched": "2026-03-08T05:45:06.156129+00:00",
       "relevant": true,
       "iran_specific": true
     }
