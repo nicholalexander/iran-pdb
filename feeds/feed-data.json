@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T19:15:05.700481+00:00",
+    "last_updated": "2026-03-08T19:30:06.618537+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "e327476e1e60d547",
+      "title": "Israel military chief warns state of emergency could last 'much longer'",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-military-chief-warns-state-emergency-could-last-much-longer",
+      "summary": "\n\n  \n      \n      \nIsrael military chief warns state of emergency could last 'much longer'\n\n    \n    \n\n        \n    \n                Israel's military chief warned on Sunday that the state of emergency in the country could last \"much longer\" as war wracked the Middle East after the US-Israeli attack",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T19:28:17+00:00",
+      "fetched": "2026-03-08T19:30:06.496915+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
     {
       "id": "c6230a411b03538e",
       "title": "True Promise 4: Iran and resistance axis ops. against US-Israeli assets on Mar. 8",
@@ -128,6 +140,18 @@
       "iran_specific": true
     },
     {
+      "id": "04d4f53c875b238f",
+      "title": "Trump says doesn’t predict when operation against Iran will end",
+      "link": "https://tass.com/world/2098581",
+      "summary": "The US president said earlier that he expected the operation against Iran to last four or five weeks",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T18:21:50+00:00",
+      "fetched": "2026-03-08T19:30:05.379096+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "82ab9aa4d0110cdd",
       "title": "U.S. Military Warns Civilians in Iran to Stay Home Amid Continuing Airstrikes - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2JlTDdQZjBsbnlvTV9kYlJkVnpzUTUwZk9uMDNPLUlYZ0N6Vm9aMEU3SjdJZ2lVZVN3VXY4WHVmTVc3amx2YktBNDhyT1NMLTBVZThfUGlrMG9RZUlPcWFRbnNqbmlxUXk4VG9CUmljbHJsWGViazhlYWVHS3dCTDVn?oc=5",
@@ -136,6 +160,18 @@
       "category": "aggregator",
       "published": "2026-03-08T18:20:12+00:00",
       "fetched": "2026-03-08T19:15:05.516529+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ef9a8fb48c665d3d",
+      "title": "Economic reports to be overshadowed by escalating Iran war - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRWXBpRFREUzM2dVRwMjhsSlJTWUY1WnUxaUtxcFRfWXJ1N0Q2Skt1Zmg3bkRrLTQ3VlZ5bDA0REszYVZOTjd5RUZhQU5BcUtiMWVjaFB0NEkzM0ZOWlVCR0l6eTNjMGNNYUV5am4tQks?oc=5",
+      "summary": "Economic reports to be overshadowed by escalating Iran war&nbsp;&nbsp;Financial Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:15:08+00:00",
+      "fetched": "2026-03-08T19:30:06.342007+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -160,6 +196,18 @@
       "category": "aggregator",
       "published": "2026-03-08T18:15:00+00:00",
       "fetched": "2026-03-08T18:30:07.349676+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "cac101686bf71589",
+      "title": "Why is the conflict with Iran being framed as a ‘holy war’? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2ZGMk13c3YzNEtOeG1uQnVDdkQ0ZElNQnZvclktRlJOSU9Oa0dfbkgxRUxLQm9BQXlZcUwxd20tOTBYbUFiTWtBeGJuMHljSmNVT2k1bHZyZVBWQ20yVkN3aXhsLTZEUjBtS0sxa0dwUVVWOHdRckQwVTlTZ0VLd1k4YWJlRjRxMXBIa1haVmc2WmxWTWIxTlUzckR5QdIBowFBVV95cUxOU2RMdnlvZ0pOYXB5ZnJHaFItd2x4U3M3c1lNQ3FKeVBSWGxSbGxmU0FzNmFOVHFaemwtQWRjLU5KT3VTY0FlMEc3bnVYSkxyQlYzUzdrNGhEUEJHaEdpdkQyNmR5ZFRKamdHMmtxMTV6UDhBQm9rLWl5QlRvV3hjMXM4d3JMSXJjaDQwLXVlUTVZNVAzTURiUWs0QWVkZ1hZQmZn?oc=5",
+      "summary": "Why is the conflict with Iran being framed as a ‘holy war’?&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:12:36+00:00",
+      "fetched": "2026-03-08T19:30:06.342270+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -856,6 +904,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T19:15:05.516645+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d1190282927b6305",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPYkw4eTBGeERETHc5dGFvNEpEakctSEtMT0FVODRGZXJzNWlFZnkyWnVLR29Bbkt1VlNSSXo3N3k5S2U3aFJfdEVMMHNyQktPOW5nS2tqV0hSbVNYQklybGNhVjF5MkJsa1N3cktMRjgyN0xYYkJZVEhTRFRxZEJydjhudm9tSTBMOXhOXzJPcDhwSnJKSG1namVmYkkwY3BvaHBrWENjMnpxSWstVVhZSWJ0OXlIOTFwbGpUWDAyS29HQUVfLUo2Q28wNENTVkpjM0JxbFR0U3RWTEt3RG16b19JeVRtSFNlWmVkTkFyRWtiZ3V5ZTZLN3I3cmNyYmI1MmswdnczQnllWkJUZGpSdFRFVEpaTThWMm5haXVJTG9KamF6VGZVUllSTnFBR25XRnlUbXhNX2tnLVlXZ0tyQmZXYUFzb3N5b1h4OEkwWmlXQVhJTzlZZVRUWlRoSFVCcEFpRS1NSEphQjRDQ2NFZTBtUQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T19:30:06.342204+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4964,6 +5024,18 @@
       "iran_specific": true
     },
     {
+      "id": "d19726353fde53e7",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQUWV2ZVNuUVhjeURfYU95ZmIwWlFDekI2M1kwdnJ0WHFrenFiRXlCUFgtT3JEUjZDbzJkZ2dwaTNaWDBKdzhlLTR2VjBmYnZUcDVuaTBIWW95RFRBZ2cwNmZEWWNBNUd1T295R21uRzcyRk9odlZxMkFNTDJERGphRTFzbWZlQXNqc1A1bjlkNGhZSXJQTU5zalRLN01yZmJ3OXFxMzlaUUFDWmcwZmw2VGF0WEdWMndRdVNBZlVQQzEtby1GR0Vrb01XRXI3X3RXYkZJcVlhNzlPVzJudm1BM0E1Q2xaZGtCTmpMRC02dVBpMjNQMGRqeXl4RFdXdnNjdHpEb0ZDNFJ2cHFSLXZ0OFV4cEhUTEVwZ2p6LTY0YmRocGR1VzRYMXdOeWc2ZVRmZU5PLXdFalFOdFpaRVFRNENYTUppMnVFNzB6VzdRQ0xZY2d5aEY3c1E2TElCWUVGYkxEQmFaQ1QxdUxfbkI0bnVKQW1TcExsbnc5T3M0UHNGVTkwRDgzZXJTR1Z2V2c1cFpGSGlLTTdRTUZ0MmVqZU8zZ2NGcHpzbG9DQ2VoSHhqbjZ6ajk4?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T19:30:06.342604+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5932,78 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T22:59:13+00:00",
       "fetched": "2026-03-08T00:00:07.482025+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "586478214201fdd3",
-      "title": "Trump tells Britain he does not need its help to win Iran war - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?oc=5",
-      "summary": "Trump tells Britain he does not need its help to win Iran war&nbsp;&nbsp;Reuters",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:55:14+00:00",
-      "fetched": "2026-03-07T23:30:05.965458+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "204383589e5df87e",
-      "title": "Israeli strikes on south Lebanon kill eight, ministry says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-eight-ministry",
-      "summary": "\n\n  \n      \n      \nIsraeli strikes on south Lebanon kill eight, ministry says\n\n    \n    \n\n        \n    \n                Israeli air strikes on several targets in southern Lebanon Saturday killed eight people, according to a toll released by the health ministry.\n\nLebanon's state-run National News Age",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T22:52:51+00:00",
-      "fetched": "2026-03-07T23:03:51.548950+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "fb1c7251b1204587",
-      "title": "The US-Israeli war with Iran in maps, graphics and images - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWm1TOGdTSmpTb3FHRzJjeGNZTDR0Y2pNaTVCeVNnbG9GRS1SRy1mb19IcFNuWE9hR1hXSkc2N2dvZU1Pd29Pdi1nWXZTQm1hME5aMkp2ZFNXWDJmbHRUMHhmNVZuN0FaSjV3Sk1mRTU0cXpOM18xWW1PXzFYS0hMRUFoakM1ckZIMVM0cTRlbXJPMUk1M1lHRThiQjhUYl9HZ3VqTE93dU0wdw?oc=5",
-      "summary": "The US-Israeli war with Iran in maps, graphics and images&nbsp;&nbsp;AP News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:46:20+00:00",
-      "fetched": "2026-03-08T01:11:07.824156+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f294609b410a30b0",
-      "title": "Trump: ‘Today Iran will be hit very hard’ as war enters another week - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXhXcTBfMnlOcG1CcUZBQTh6cTdoWnpHUlNvQmJNUjZjYnNTSFhYOHZEQ2ZSVlNEYW0wTDdRMnZwTTZJRGtkalp5dVJUTnlnUHlQWlprbERuMW55azBKZXh1Qkp4cFczNm5FdXhPMFhJaHN3MEsyb1NlSkFqR0paTlRMUG3SAYoBQVVfeXFMTUpUUy1qTElOWWZjSzhlX0xodFVLOEV0NUNYQUFPaUlXNjRBRmh1TkxNTEtnemVZMmg5SEd2M2xsZ3E3ZVhNYk5vTDVBSUVyemhNRUV1Y1BJZ1F3TUtSZE9hd2c4cER6bldzRl9PaHlvVy1zTnB3cm1WMU41Y2VvWURKYWNtRnJfSjdR?oc=5",
-      "summary": "Trump: ‘Today Iran will be hit very hard’ as war enters another week&nbsp;&nbsp;NewsNation",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:45:46+00:00",
-      "fetched": "2026-03-07T23:45:05.676206+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "69ab999f66f7a002",
-      "title": "Live Updates: Strikes Across Iran With No Compromise in Sight - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYzVqeS00a1haZGNBUzdlbDVMMGdxWHVpN1F0blpRX2Jpb2FRR29iejB0cHE4LUxhdUR5LUhqcU5qV3NQVS0tdEJyZWRVVFhtSDBaQ2k4X2t0RFcta2FiRTZZWWY0bnFpeTJaOXVNNXN5UjNodGlud1o1emtLTmwtcw?oc=5",
-      "summary": "Live Updates: Strikes Across Iran With No Compromise in Sight&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:45:26+00:00",
-      "fetched": "2026-03-07T23:15:06.666219+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d0cfc4a6de2d22d9",
-      "title": "US needs to take part in choosing Iran’s leader not to start new war — Trump",
-      "link": "https://tass.com/world/2098269",
-      "summary": "The US president says \"We don’t want to come back every five years or every 10 years and do this\"",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T22:42:43+00:00",
-      "fetched": "2026-03-07T23:03:50.547093+00:00",
       "relevant": true,
       "iran_specific": true
     }
