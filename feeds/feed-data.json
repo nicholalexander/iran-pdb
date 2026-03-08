@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T01:30:06.280105+00:00",
+    "last_updated": "2026-03-08T01:45:07.378379+00:00",
     "total_items": 500,
-    "new_this_run": 4,
+    "new_this_run": 5,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "dd683460860ad42d",
+      "title": "Israeli strike on Beirut hotel kills four, Al Jazeera reports",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-beirut-hotel-kills-four-al-jazeera-reports",
+      "summary": "\n\n  \n      \n      \nIsraeli strike on Beirut hotel kills four, Al Jazeera reports\n\n    \n    \n\n        \n    \n                At least four people were killed and 10 others wounded in an Israeli attack on a hotel in the Lebanese capital, Beirut, according to the country’s Health Ministry.\n\nAuthorities ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T01:36:10+00:00",
+      "fetched": "2026-03-08T01:45:07.219987+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "05ae5bd4c6beb04a",
+      "title": "IRGC claims kamikaze drone strike on US-operated oil tanker",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-kamikaze-drone-strike-us-operated-oil-tanker",
+      "summary": "\n\n  \n      \n      \nIRGC claims kamikaze drone strike on US-operated oil tanker\n\n    \n    \n\n        \n    \n                Iran’s Islamic Revolutionary Guard Corps (IRGC) on Sunday said it targeted a US-operated oil tanker in the Persian Gulf with a kamikaze drone, Press TV reported.&nbsp;\n\nIn a state",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T01:33:14+00:00",
+      "fetched": "2026-03-08T01:45:07.220051+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a5020289edfd2e34",
+      "title": "Trump honors 'heroes' killed in Iran war - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk41c2l5MktWVHVVRXpDV21jNnM1Vkdya1RZUExIenB2bmxCX3pWMDhHbVRXSXpObG1uSURERWdxWmw4OFRjZ0JRT2M5Ni01VWw1QTBRc3V2VU11UnBNVFBMbTAycXZwa2RCQVY3QlpDVlA2VUhEZU9HVjBrVkt6aVZpdy1melNBOXNGbE9fZm5Jdw?oc=5",
+      "summary": "Trump honors 'heroes' killed in Iran war&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:31:48+00:00",
+      "fetched": "2026-03-08T01:45:07.094948+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ebd74997c4cc020f",
+      "title": "Lula da Silva postpones March visit to United States — minister",
+      "link": "https://tass.com/world/2098307",
+      "summary": "The president scheduled the trip for the second half of March. The sides could discuss  bilateral trade, including the possibility of reviewing current tariffs",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T01:21:43+00:00",
+      "fetched": "2026-03-08T01:45:06.060167+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "6e1dd597e33d3d45",
       "title": "Loud explosion heard near US embassy in Norway",
@@ -5948,62 +5996,14 @@
       "iran_specific": true
     },
     {
-      "id": "fb0c6c7e610c0925",
-      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
-      "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T23:13:57+00:00",
-      "fetched": "2026-03-07T20:41:04.876846+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "30d0a127c4057d07",
-      "title": "The Iran War Spreads to Lebanon - The New Yorker",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HcjZqdFV6eUJZdUtmSjZCRzBXZ2pKaWM5ZVJheEk5S1JyTmowYXY3aXJnTHg2ZXVIamtCLURsZFNhTG5ZeWdpM0xRbGlZaEtvVVRtSURZZnhNWVZqaGxxOE4wRWw5eGNLYTV5U3Jnb3Vzc0lhSDJDUUhNYw?oc=5",
-      "summary": "The Iran War Spreads to Lebanon&nbsp;&nbsp;The New Yorker",
+      "id": "7e87faf575421401",
+      "title": "Opinion | There’s Reason to Worry About the Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPVUJMR0lpQ296OGxxTlUyQzVXUDFGbHFDb0hGMnhqQXNld1NRNWtHeVJvc0RwcGJhVE9SVGtwWWk1Unp6U1V3YzVySHR0NVh0UGEtVzRodVl3a3FoWUJDTlFmU1VncHk1TUFZUEY1bkNOZWZTbzFfN3JXYXplYXNiUGhRWkNTQ1RXTi1FRjBUUHM3bjgtN1FLeGQ2aVkzdnJ1R1hTMWtkdEpSSkNQQ3M0SW9YQlJRRUQ2V1FGSkVrLXFfSlkwUVV2S1UzWV9MbGY0LUJQTHZhWU8xQWZkcGRyc2QxeUJQTTBBNlQzQXFoWGpVbFpGOEZXUzlXQ3BOTFJTcXlZZ0FBOUlrVFRRZTQ4SWczenZZQUU1bm53LUk4QzlBRWpfVmRTa0RrdzBfdlNya1RkWnczOUlndHlKS1ZGVWFHak5TbEhkTzVKUjh1SkVWRXBId0x6SnJ0dHB5bWUyUHZPMVBOU0FWZURKZ2Q5QnBHUnZpRDUzUnZTTXQzZEtDLXliWHRYQWpR?oc=5",
+      "summary": "Opinion | There’s Reason to Worry About the Iran War&nbsp;&nbsp;WSJ",
       "source": "Google News Iran",
       "category": "aggregator",
-      "published": "2026-03-05T22:17:01+00:00",
-      "fetched": "2026-03-07T20:47:34.883962+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "888bbcb806019784",
-      "title": "The Adversarial: War in Iran Shapes Adversaries’ Calculations",
-      "link": "https://warontherocks.com/2026/03/the-adversarial-war-in-iran-shapes-adversaries-calculations/",
-      "summary": "Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranSince the United States and Israel launched joint military strikes against Iran on Feb. 28,",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-05T21:25:59+00:00",
-      "fetched": "2026-03-07T20:41:23.366598+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d5ffd08841689cfe",
-      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
-      "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T21:20:49+00:00",
-      "fetched": "2026-03-07T20:41:04.876859+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "21f30f589c2e535a",
-      "title": "'This is war': BBC speaks to Iranians at Iran-Turkey border",
-      "link": "https://www.bbc.com/news/videos/c86yeqg86yvo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent James Waterhouse speaks to people at the border, after US-Israeli strikes on Iran.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T21:20:29+00:00",
-      "fetched": "2026-03-07T20:41:04.876872+00:00",
+      "published": "2026-03-05T23:16:00+00:00",
+      "fetched": "2026-03-08T01:45:07.095497+00:00",
       "relevant": true,
       "iran_specific": true
     }
