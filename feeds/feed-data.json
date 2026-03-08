@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T02:00:06.016603+00:00",
+    "last_updated": "2026-03-08T02:15:06.299523+00:00",
     "total_items": 500,
-    "new_this_run": 5,
+    "new_this_run": 6,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "4399c5b2b69c05bd",
+      "title": "Trump vows to 'take care of Cuba,' praises Venezuela cooperation at summit",
+      "link": "https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit",
+      "summary": "Trump made the promise in front of an assembled meeting of Latin American leaders.",
+      "source": "NPR World",
+      "category": "western",
+      "published": "2026-03-08T02:02:27+00:00",
+      "fetched": "2026-03-08T02:15:06.299371+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "82c375b8d20ec5d6",
       "title": "Video: Oil depots ablaze after Israeli strikes in Iran",
@@ -18,6 +30,18 @@
       "fetched": "2026-03-08T02:00:05.936097+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "a4d443eaf1d3dc93",
+      "title": "Three people died in strike against hotel in Beirut",
+      "link": "https://tass.com/world/2098303",
+      "summary": "Nine more were injured during the incident",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T01:55:06+00:00",
+      "fetched": "2026-03-08T02:15:05.125506+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "b4e84143fe208a28",
@@ -102,6 +126,18 @@
       "fetched": "2026-03-08T01:11:07.909647+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "672b1d49bc3fafaa",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQX3l2WmdHcGFVbXZBUHNxT0Q2emk1VTlnTjJoQ3BpVllBbGFlY0NqQjRFRkRuaXpFekFFOEQ4VGI4Vml0elFCV09hVjlHdlltMXVDNmxwN0pEUGRqN0F3SmNkckoyckN0R3F0T0o5MFV3OXFsdzRsTnJja2xKdUI3WXEwVEwtODh1cWtYbVhvM2FZRFFvYU1YX2lsWmdBYTBTT3pPSlNsdVdqNlNtYjhLZmFKTW9fY1JlZVFEWFVOanBEdEJraTBKTEJiaThIM2VHcmgzZy1jZlBLU2pQeThXd1o1R2hsX0xueHRpNVRFVTI4NURaemxQb05KSnR0ZUw1SzVFbkdnTzJHRURaRXRRdFJMMmJBUGZwV3h2bXRndnprNDVUbFBZMTZqbjhTdmJQM1NLRGpRbEt6ZExqY3N1RnA3YnpmaXRueVVoLWFrYkEwdERHOVIzRXZnOTl2OVF0OTRkQW40OUs3bFhqYnZSVHZPd0pvMVJ4XzJ3aGNRVjFLVGdlVG5WSmxVY1RHRDNlai1SdG85M3JSYnQ3MEZDbGkzYm1ncW54cDRjV2lEUnNLV0xEOWNB?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T02:15:06.134686+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "237221d7e6e32709",
@@ -352,6 +388,18 @@
       "category": "regional",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T01:11:04.482686+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8e1fabc4656f51fb",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlYbmMydTlkOUx2d2lPd3QyTFh6SnpBY0pfOFVPMC1JNDRLN0JNUVlXbG1jSDNpbnItT3dPS0FtanVSQTdSWWpqZ0dmNC1OTFJQT0ZMam83dlNlTDJVZzByUXh6RVp6cHc0SGlMMlpIWkhzVW1mRFd4dUl0S3RRYkJCLU4wSWNPVEJVbElIaFJzejVCTDZYOEVFTEhQa1BlRnRBMU9xYTVLX1JHaTB5Rl9mMEJSc0VUN2FxSU9iTndTNTVFd2xPelFDalFwZE9EbDlGbFNmWkdKVFh4ajFMUG5tR0dZWTkxS1ZBbE40YzNoZDFzS2hpcWdPQ3RFVjIxNGp3S2tiUnFrVnp1UTRWM3J0VlQyamFCN3JRYkZweUdJbnktOGZ2SGpUZ1NING8tSGhRM2JoSUNCaXBLaHZKZGRPT0lMLXppaGZKdmV6a0tudU5XbkMtRTl4eEZRNjAzVHhoXzRHc2JFN1lZYzZYdy1BYTVKMW8?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T02:15:06.135187+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3416,6 +3464,18 @@
       "iran_specific": true
     },
     {
+      "id": "9e342e8a7376f64c",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOQmhDQzZUWXliay1VMmxJM1BRNGJaM3M5TmlXMGdkcmo4QWozZ05Kbi1WcURQeERqcXdONlJ1ZGFFblZJSlk1emNRYk85R0lhTDh5S2F5VGlNY05YTGdBcHBDNWtkQldkMkVQWmFrQUI0aTRpU1pmeXlnVDFzZDd4V1RFbVdjY3ZuY3ZMSGdadGtic05HaWJMQTV0Q1RKQTZ6SVNCUDF0d2VpXzVqbXpSRHp2ck5TQzhscVZZZ05sZWlUc2hhajBKMUN3MGYxT0JlbnpIM0ttcGpIYy1PRXNZUVgyblBNVTJKUElzT1RwNTlUN0d6NUt4d3lTXzdZY0xpRk1WMk1Ic1lfTklfelRTaTBoUC1EN3RJRHQtcTJJbkFWMUVlT0Y0Ykg5YmpSR29iX3BBczhWVGxaNzZGLUw1WEJaUkVKLU9wUjd2MTJXRXBpdWZrSkJrZTFoZDhVTk90dVM5UExoRDItNTM4VHF5TXBjQ3BmX2YzQTM5RUJlVV9iVWJjZDVB?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T02:15:06.134934+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5946,66 +6006,6 @@
       "fetched": "2026-03-07T21:30:07.341545+00:00",
       "relevant": true,
       "iran_specific": false
-    },
-    {
-      "id": "dfd9bf4afcb5028a",
-      "title": "Why Washington’s Kurdish Gambit Could Backfire in Iran",
-      "link": "https://warontherocks.com/2026/03/why-washingtons-kurdish-gambit-could-backfire-in-iran/",
-      "summary": "The Trump administration should abandon any plans to arm Iranian Kurdish forces before the first fighter crosses the Iraqi-Iranian border. Not refine it. Not sequence it more carefully. Drop it entirely. The operation will not topple the Iranian regime, will inflame the Persian nationalism that is t",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-06T08:30:24+00:00",
-      "fetched": "2026-03-07T20:41:23.366525+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5ddaa3f5e94bf4d1",
-      "title": "Quenching the Nuclear Stockpile’s Thirst for Tritium",
-      "link": "https://warontherocks.com/2026/03/quenching-the-nuclear-stockpiles-thirst-for-tritium/",
-      "summary": "Most accounts of the Manhattan Project tell a familiar story: American scientists relentlessly racing to design and build the fission bombs that would ultimately fall on Japan. A neglected chapter of the saga was the obsessive advocacy of a handful of physicists who favored a far more potent weapon ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-06T08:15:51+00:00",
-      "fetched": "2026-03-07T20:41:23.366572+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1654434938e4d841",
-      "title": "Iran Update Evening Special Report, March 5, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWNwaXl0QW5GRlBvUTN0TFNrR0FQVW5fc0NxMzV2RnMwb25Gdk16YlJpZnQtZDUxYzNrLUwtZ3czUWU0ckpHVzdjbnAtSnBpeWUwaW1BaHlaQ0RGYTNYajBDcXNJbVpqU2QzY2VIM3d0d3c5WVZMZkRiTnJVRHQtck1OZWVUeVBaQTBjaVo5RTVsUFVFVFJBMXZHX2lFMFU?oc=5",
-      "summary": "Iran Update Evening Special Report, March 5, 2026&nbsp;&nbsp;Institute for the Study of War",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T05:06:32+00:00",
-      "fetched": "2026-03-07T20:47:34.883763+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "84f78a898585c578",
-      "title": "Israel strikes Beirut after evacuation warning sparks panic",
-      "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across Lebanon.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-06T04:08:48+00:00",
-      "fetched": "2026-03-07T20:41:04.876920+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5a20a3c44aba10bc",
-      "title": "What Does War with Iran Have to Do with Elections? - Brennan Center for Justice",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTRIVllKak1Rc2dlUnZ2dHFuUjZOWTRSSkNTelNEUEo3RE16NnY3T3RBT2lDTXVtVFFnMllKWlg3RVdXM1NhTkU2b3lDUHUzVmg0bFlMelB4Z0dWMGJ3TVVJTGtRZ3RMc1JCSVhsZkx4T29VaFh2N0Vkanl4RFcxa1dQM1BxNG5CRVl0VTE0SFc2WTNhUWJR?oc=5",
-      "summary": "What Does War with Iran Have to Do with Elections?&nbsp;&nbsp;Brennan Center for Justice",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T03:10:37+00:00",
-      "fetched": "2026-03-07T23:45:05.676622+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
