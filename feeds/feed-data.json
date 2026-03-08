@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T05:30:08.274407+00:00",
+    "last_updated": "2026-03-08T05:45:06.347946+00:00",
     "total_items": 500,
-    "new_this_run": 12,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "b55c91a9da27c034",
+      "title": "IRGC missile attacks target US base in Kuwait, separatist positions",
+      "link": "https://presstv.ir/Detail/2026/03/08/765099/IRGC-missile-attacks-target-US-base-in-Kuwait-separatist-positions",
+      "summary": "IRGC says that missile units of its ground forces have precisely hit the US terrorist base at Arifjan as well as separatist positions in northwestern Iran.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T05:45:04.540204+00:00",
+      "fetched": "2026-03-08T05:45:04.540233+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "705ef2ee69c14ae9",
       "title": "Video: Drone strike sets Kuwait social security headquarters ablaze",
@@ -632,6 +644,18 @@
       "iran_specific": true
     },
     {
+      "id": "25d212125ea647b7",
+      "title": "Trump accuses UK PM of seeking to 'join wars after we've already won' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uU0J6UV9fMG9Ndld6UmI0ZGdCY2s4Y0tLenlyMWVQaURFR2lXNms3dE16MEJEOHVsUVNZSjZaUDZxa3ZWVGp4QTRQYkJuTURaUExZdW1BVnpjUQ?oc=5",
+      "summary": "Trump accuses UK PM of seeking to 'join wars after we've already won'&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:31:10+00:00",
+      "fetched": "2026-03-08T05:45:06.156086+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
       "id": "409f9c00292a43ad",
       "title": "Cracks emerge in Iran’s leadership as it reels under a war seen as existential - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPem1HZ3hMM0hHMmRqV1hlV1VtbmJWVXBkb0hUOEllUUM0WUhOYkVrMGhJRmhBalRPZkRNR2tVMk4tSHR4Sm1rT2FPWThxeDRsNi0tVU5FWkZPS3VtNVB0TUc0ek4yeDNtWXdjX0JUbjZ0Skh2b1RsZ1dtWVFPMkdlU0RlOEFDSkF3WjE4UFVPeENJbC15UTRRbW51OFdiWGVfdjhzSnNVTnhKQnB50gGyAUFVX3lxTE85NTgyUi10REJXRkZSOEVhRlo0NWpnWGxlT0s5bjYyMzhOTDI4Z1dJaFB4aUZXWUpEUXJVeGJfbE0tN3k2YXNwQVRhSTE5ZTBMckFZY1VzRjRjZlNKaUxEaExNSzZwNDQ0MzJYSUwxS1I0TUk4SndFSlJaQkgzUXdBNGNLT2wxV2pNTFRHM3BsaVB0cFF1T0JDTDVKdEhqZjhtY3BDM0RYUlExcWs3dXZtREE?oc=5",
@@ -808,6 +832,18 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T05:30:08.112504+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9e5b5d02f8e3791a",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNbkhESEFIbWtlV285aGhmWjBTcEpMOXZGMV9WNEdMUXBlSzQxN0NONnVqWWVMUGVaZVU0LTB0TTJfdTNZYUUwdmZPcE85SG54X1k1Zk42M3VBaDJMZUllcEt4NjB1b3hHX2FvbWdvYnFqUFpHUmRMRUlpTDNMWXR3LWxoUFY1TkdkYm9qY3dkZGNwcXhnM0MwOTNCZlcyV3NiU1pVeXFqTFV3X2NXeTNmb29Ibms4VFV4SEVremtRRXN6VnRRaU52SndyNlNqbTI2UXdMVnNIM2RkLTFOdXFQR2lDUnNhNzNySVktQVVMUXgtdTY2akJjOTdQaE5rNWFkcFNiWnlmUDE4dkZQVzdMeUtYbkJFME5va3V1MVN1Y0NTcVRza1pCdlBKUG1uc2ZnbEZhbGNoTjE3Qi1kbWpVRFVsZ3ZsYzZfeUFtSjdKYV96UGtoZFhHbFFTdEZ0NkdHb0JQWmpKTmxnQjUxWUo4SUhjX2lQU3Utb2tZRGZQYXEwcDJqVktFdWxSSTV3T0pyWW83R2w3dzVaQ1pob2tkQXBhZVVqYWhYQ0tvYzd0NGIybXRvc1BZ?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T05:45:06.155985+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1000,6 +1036,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T05:30:08.112314+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "92767acde172ddc7",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQSmJSZ3E4ZnhNR3ZIaWw1QU1rOW0wM05MeE0tRkpEWHdJM0pVLWduYmJtRWRzbExPME1WclZYcVNpR2ZlNlRYNWxBRjdvSjhvUzhNZ09kdHlNenYwXzFhM3dLXzVudmJJUnNqMUdPQlowNDhQWEExdWVJaDhMb3hKN0gwVXlKTWRza3BZTzFxN0pBTWg5S1N0QjVOWnFCbWk0Uk93RGtIejNhNmxzZTVjRnVaUkRWekk5YTVhV3dkajRwTnZkdjVrT1RaeTdzOVp3eDFCSnNwRHBCaU9oM3oxWFEtVm1lRUlwOHNTUjdISWM5MFQ1blB5SDlGZXduWGl5R0tzUnNwNkljVjFaRnFXV2tWRm5LZm8yNlJyUS1LLVlNLU91aU5jTWIyeGlkdm9wNE1Za2llQ2RqU0QyOWhzVXcxeDd6NUo1ekNYUVAyeTJuRFg2NG53RnNxaW9OS3JJV19zdExpNW9uYzVPZTJaVFZ6Z0pRRXMyT21LR0dobTdjNW1hSk16cFJnTEZxOXZldjd6TkVtY1otWW0xQTNub2ViYmRtR0pnc2U3N3JYWQ?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T05:45:06.155800+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -1756,6 +1804,18 @@
       "category": "regional",
       "published": "2026-03-07T22:33:56+00:00",
       "fetched": "2026-03-07T22:45:05.611322+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "5dc43406a47cc159",
+      "title": "Sources: Trump Is Dangerously Close to Sending Troops to Iran - Zeteo | Substack",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kTTdNV1JZellxT0plamdQNUZCc0JXV3NkNmlrbm5raDJjX0RmbWNPWHBuSjhhLUVkZURqSTZiN1YyNmlsZDN3VHEwdzNia3ozTWRtcjN1TU43dE5rRVE?oc=5",
+      "summary": "Sources: Trump Is Dangerously Close to Sending Troops to Iran&nbsp;&nbsp;Zeteo | Substack",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:30:37+00:00",
+      "fetched": "2026-03-08T05:45:06.156129+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4628,6 +4688,18 @@
       "iran_specific": true
     },
     {
+      "id": "7dc76f9f5c51de11",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOR1N3UzR1eWRGa0dMU2U2aXBneGlSalg0V3dkYnVPbW1GbEFqa3R4MHlvZFlXUm11N2JDWS1HelY4MTQ5U0ZGWllwY2lKOFVvYklyRld1YXB2ODFrRXRCUG8tekxjdXdSUW1pZEdJZkJmUDQ4bnl3cU93RWxWUGJ5NmkwNmE0ay1CYktRcTAyYnhtZlliMkJMSjZtZFJ0MTZhX3RZT1N1X3FoYThrZ2Nxa2lJcUhKTWM4NVhTZUQ5cGRCVzl6V1d4aTVKdVZQbHdRZzB2ZnlpYm5sYjlqYmI1REEtcVltM3dvQzZPTFFPQTY1QTFhVDVuRExJanVieVdBWXRuQi1GeUVFQjc0M0VSREJ6aXdmVFo1TVE3akIyLXJtZVlpcjJUbkNjeDhESE1Hdnd6a1dJWHRFVzhZVlhNTWpPbjNZR0ZRa3lRVHM3N2NkY1ZydGl0S2tGMXViSHNvRmxCcjZ4WVR6Zk1OX1JPcGY0aVQxMldhbF83NFNzMW4tRlgyU3pj?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T05:45:06.155558+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:47:34.881909+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "7305bd1a2453a934",
-      "title": "Trump’s ever-changing rationale for war on Iran – how the story has shifted - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1RQNnQyZGk2OGM2ZFR5SnBvdGx0OW14dEZvMDlha0VjaTgwdnNFdFRheU9pNnB6TzJyUUpOcVJpN29veEdDSlNJRjFvOFRUVER5NUItRlJKcGEzeDdsVE1ncTQwR3g2bzJnbUZYTkUtem9NdllhMkw5eVZ5S3FHZHFIdkc?oc=5",
-      "summary": "Trump’s ever-changing rationale for war on Iran – how the story has shifted&nbsp;&nbsp;The Guardian",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T10:02:00+00:00",
-      "fetched": "2026-03-07T20:47:34.881703+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "237669cd8d8e7b58",
-      "title": "‘Designed to Wreak Havoc’: The Cheap Drones Shaping the War With Iran - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTJfNDFldDVxZlhwTnJRWHFXNXZnZml3N3g2OU12MkFaSGgycmJsUTAwbUNuZk5kOVJBMVFHdEV5WXkweDQ2QXhDRWFRdlpER0UyOTdFc1BMTmdYZWZJOXFaSVhDSXpVcjd3dnF6cFY1Wkc0VG1feWdOOHdqSXdBRzBR?oc=5",
-      "summary": "‘Designed to Wreak Havoc’: The Cheap Drones Shaping the War With Iran&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T10:01:12+00:00",
-      "fetched": "2026-03-07T20:47:34.882517+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2c5b5c3a1aa1c7e6",
-      "title": "Camouflage and crudites: Trump wages war and hosts parties at Mar-a-Lago - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzVmT0ZCeXktZmdwdUNSNEpzNmc4LVNiSkJleGNDWGt0NWpmdjVBYm5KM2pYSG9xRGRYbWgyM25DN3NKSkZrTHRDNGdJV0IxUFBHcVhOSmdoaTdvWVF0MC1LamZNdVRrQ0FNX1gzTjNicGI0QjV4S2YyaDZaNkFkWkVNWTJKclVHaW1oZVRyVktXRWlmQl9YWEJsR0tBVUhCVGJv?oc=5",
-      "summary": "Camouflage and crudites: Trump wages war and hosts parties at Mar-a-Lago&nbsp;&nbsp;NBC News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T10:00:00+00:00",
-      "fetched": "2026-03-07T20:47:34.881238+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "b2152ec906511f95",
-      "title": "Trump warns Iran 'will be hit very hard' as war enters its second week - NPR",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDQzVTNsaUo0UGdKNnZZM1BQNml0UURFcmRpWnFxcHB2TVVYX0ZPRVlKLW9ET0gxbVdQWHdaMlJBR2Etd0RiZTRWempUY0RqUU5LaTNFemVnaVV6Zm5qQUwwNVBiSVFQY0Mxd2NMTUI0RXBrRnJPVElFYVNSYlJXSUFyTWl6RkRpMGNtaXJubUdfSnZ1V3hGag?oc=5",
-      "summary": "Trump warns Iran 'will be hit very hard' as war enters its second week&nbsp;&nbsp;NPR",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T10:00:00+00:00",
-      "fetched": "2026-03-07T20:47:34.881349+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1d1e1661b631ec7b",
-      "title": "Trump warns Iran 'will be hit very hard' as war enters its second week",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
-      "summary": "Trump warned Saturday that Iran would soon \"be hit very hard,\" adding that the U.S. may expand its target list to \"new areas and groups of people.\"",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-07T10:00:00+00:00",
-      "fetched": "2026-03-07T20:47:35.134057+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "29a6e8c2aac5dd42",
-      "title": "Explosion and fire in Syria due to falling drone debris",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/explosion-and-fire-in-syria-due-to-falling-drone-debris?traffic_source=rss",
-      "summary": "Videos documented an explosion and fire in the countryside of Daraa, Syria, due to a falling drone.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T09:57:51+00:00",
-      "fetched": "2026-03-07T20:41:04.689262+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
