@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T03:15:05.768718+00:00",
+    "last_updated": "2026-03-08T03:30:05.576577+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "d2efbfe2eb60e6dd",
+      "title": "GCC: Stand with Bahrain and Kuwait in protecting their sovereignty",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-stand-bahrain-and-kuwait-protecting-their-sovereignty",
+      "summary": "\n\n  \n      \n      \nGCC: Stand with Bahrain and Kuwait in protecting their sovereignty\n\n    \n    \n\n        \n    \n                The Gulf Cooperation Council (GCC) condemned what it described as Iranian attacks on Bahrain and Kuwait, calling them dangerous acts that threaten regional security and sta",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T03:29:35+00:00",
+      "fetched": "2026-03-08T03:30:05.509136+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "849af73d3fddd210",
+      "title": "Battlegroup West destroyed 59 heavy Ukrainian drones in 24 hours",
+      "link": "https://tass.com/defense/2098331",
+      "summary": "The battlegroup also destroyed nine unmanned surface vehicles and 33 drone control stations of the Ukrainian army",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T03:19:06+00:00",
+      "fetched": "2026-03-08T03:30:04.418139+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "7acc78c8d226be48",
+      "title": "China urges to immediately stop hostilities in Middle East — Wang Yi",
+      "link": "https://tass.com/world/2098329",
+      "summary": "The foreign minister called for preventing further escalation, spread of the conflict outside the region",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T03:14:05+00:00",
+      "fetched": "2026-03-08T03:30:04.418219+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
     {
       "id": "75971a754f432870",
       "title": "US-Israel-Iran War Live Updates: Israel strikes Beirut targeting Iran Guards commanders; drones, missiles hit Kuwait airport, Saudi Arabia - The Times of India",
@@ -102,6 +138,18 @@
       "fetched": "2026-03-08T02:30:06.412577+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "a944a931e1faa5a8",
+      "title": "Middle East war live: Deadly strike on Ramada hotel in central Beirut - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjFIOWFQYzFKYzRfSzhqOU1YOEQtSjFDY1pNaGFUeGZCY2hsSFlkTGtqX2pyTF9ubXB2SGlrV3d1YlE1Z1hib2pIQzRhSVl5VVB4TWs0YktaRFM0QTc3S1lwWXhrWjhjdFhTcGxiNnM5NVh4QTU3S3RkM0dCODg3WXJlWk9rUElhM0VCQVdMWDMzTzdKUURublBndUM2b1NvMHF5bDUzNUdGNTNxcy1HSndQeXNqYlA2TTVJNDFvSzdvdlZrY21xWXJyd3ZYTER0ZkExWk0xRGtwWklEb09FLWtHVnU?oc=5",
+      "summary": "Middle East war live: Deadly strike on Ramada hotel in central Beirut&nbsp;&nbsp;France 24",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T02:20:54+00:00",
+      "fetched": "2026-03-08T03:30:05.409467+00:00",
+      "relevant": true,
+      "iran_specific": false
     },
     {
       "id": "f40b2d0a342d3834",
@@ -232,6 +280,18 @@
       "category": "aggregator",
       "published": "2026-03-08T01:31:48+00:00",
       "fetched": "2026-03-08T01:45:07.094948+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "409f9c00292a43ad",
+      "title": "Cracks emerge in Iran’s leadership as it reels under a war seen as existential - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPem1HZ3hMM0hHMmRqV1hlV1VtbmJWVXBkb0hUOEllUUM0WUhOYkVrMGhJRmhBalRPZkRNR2tVMk4tSHR4Sm1rT2FPWThxeDRsNi0tVU5FWkZPS3VtNVB0TUc0ek4yeDNtWXdjX0JUbjZ0Skh2b1RsZ1dtWVFPMkdlU0RlOEFDSkF3WjE4UFVPeENJbC15UTRRbW51OFdiWGVfdjhzSnNVTnhKQnB50gGyAUFVX3lxTE85NTgyUi10REJXRkZSOEVhRlo0NWpnWGxlT0s5bjYyMzhOTDI4Z1dJaFB4aUZXWUpEUXJVeGJfbE0tN3k2YXNwQVRhSTE5ZTBMckFZY1VzRjRjZlNKaUxEaExNSzZwNDQ0MzJYSUwxS1I0TUk4SndFSlJaQkgzUXdBNGNLT2wxV2pNTFRHM3BsaVB0cFF1T0JDTDVKdEhqZjhtY3BDM0RYUlExcWs3dXZtREE?oc=5",
+      "summary": "Cracks emerge in Iran’s leadership as it reels under a war seen as existential&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:26:37+00:00",
+      "fetched": "2026-03-08T03:30:05.410196+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -412,6 +472,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T03:15:05.469698+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "ed3559a5278229da",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOWjNPUjBLaFVtVy1EeUtqM3EwbXQ1ZXNnM1hZRGdnYzU4cWg2MDV2eDNEWnlJNkZ3dEQxOVhhc0ZYUmpxZThrT3Rqb2Noc0lfLTA5dm1YUDUzeEE4enB4Z0FrSklWT1VRQzlTazlYVTVYaHlONEdzWXhHa0NMaWlieG1nd0V0VDdWekhzWElXREdJY0VvcnIxZ0FncHJCSjJiUjZscG02R1BidExSYld2S3FTZjlSVU04bXhDZ0ZaNlk2YVZqYWZxaHFZX0xSTFY1N2N6OEJwbkE1Y3BpUlVPU1NkSk9FcmYxc1NoemZBNmRQUjdBcUNsWlVodUZFZl95R242cjQ0OWQtdHRBdER2bk9TSVhfQUozYXBiMElLLXg4dzhza1B2b2lDTXNYdVhfRWtzSkRsSnV6QnRGMWF1bGVYSXV0bXJ3NEhsUlZuQ0c1STVfVG9HQVFPcWIzN3VpZFl0cFoyemMwQzY4clQxeXFBMVB6TmhQakRrSFVXSllKRjZoX1BhbTgzb0lKeFNrRXdfZ3JYY3pGbTRJZkM4UEdMZEtHbmlfb1ZpLWltaw?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T03:30:05.409958+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -664,6 +736,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T03:15:05.469751+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b2e8fbc68ec55d1e",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNdElGRVczOHdlQS1MNE40NHZfbzBsclJEZE4wUGsxaFBEcjRNajdyTDN2SkxwVWEzWEgwY29RYmdGelJIVHR0Q245a08wTDV0bEpIUW1hamdvaGk0NHhrMUMwdng5dzRjWV8tM2FmRjF4YXplOG9yYUxmYjhKMjNxYmVGeWYtaVdKQkI1VG9yb2MyblFGLU1RQzVZV3NYbnA0WVlkVXZpTkRMd2NmNHFEeWgwaDllMGk2cVFoRkRZQlUtRTNNTUVJaTJpZ3JvTjVrMnhvbUgteThaY1kxTkVFbXE5bzJCUEprbm1JejBnZm53UGppUnpqenJCb1ZmVFpubnZjQnoxbGswaU5NMldrVFlUTlhneng0QmlHNFlOc3pKeC1VSkI3Y3FXV0tUVzZvby1yaHF3WVlMQWQ3R3pZTWl2dVdlc0JFTHdXU2xIdktKNy1ZejRBNzdkblk5bjRDeE1MM2ExYThvM0x0WmdURnZUeWdBXzQ?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T03:30:05.410098+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1300,6 +1384,18 @@
       "category": "aggregator",
       "published": "2026-03-07T22:00:00+00:00",
       "fetched": "2026-03-07T23:30:05.965210+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "50552558d7c33df9",
+      "title": "Iran war threatens Trump's affordability push as rising energy prices complicate Fed rate cuts - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjY3UlAwWERKVzE5WWFrZGlVNXg4Wk5DR1hSYUF2X2lsVjhxT3ZUSHRMcXNvYnRzRGRKSnNCUFlRZmF0SlE1X0gtSEhxczc3U1JxQllOdjYwWkpQcWI5bUJ5OGVzalhwRkVYWDB1QmlDcFAxVXRvN2RWUW5wU1NNbW0yQjgzcUxhTE13cm1ET0pRNFdfZXoyZkwzdEd5aGR3OElnNVc2cUI3ZVVnd0k0MHdvQVBXQ19IWkE?oc=5",
+      "summary": "Iran war threatens Trump's affordability push as rising energy prices complicate Fed rate cuts&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T21:58:01+00:00",
+      "fetched": "2026-03-08T03:30:05.409598+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3824,6 +3920,18 @@
       "iran_specific": true
     },
     {
+      "id": "62d965ac4ff290d8",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOQ29MbVVmZDFOZV9jMnRuTlQ4aUJEdGtiNlY2RzJJRzFiRUVHcE02S0E5dENxdUxuWTdTRXFfbTJKb0NRYVJUa19rQi03WHFMQmh5bDJGOXdpbnM3OVROTmFzOUR1a3pfdGI2Uzl4alAzWkpEc0RrQ2NQREVVRzJBRTZHbTZmX1RJZzBEczdobW84R3ozTnlBVmo0TDBEVEFxWUJOU0c5T0RvRmp2REV1OXdzam82RTdlRjk5d19MVmJhcVptRFFMSldieGJUakZFU1V3Y0Z6MWUxVkNvN3VSTl8wMkFRN3pObW9BcjY3LU5Kak9Ib0E1d1ptUS0yTmV1Q24wTnpGSEg1Vm54X1g1aHktSVVTc2lCa0U0NVJXb1ZMUVpzRnBnUnVQcWV1TW1zUjRLRVJDOFVMQ2dEMWRBYUF6WXY0Tld3Q2s1RnpTZlBCYVNvODlHYWxUNVJQY2ZjU0NsOU5mRk1HUFZId09lQVg0amRiQzRJeWNWTDBGS3JucUxwN0N3?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T03:30:05.409754+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5896,114 +6004,6 @@
       "category": "russian",
       "published": "2026-03-07T00:57:44+00:00",
       "fetched": "2026-03-07T20:41:22.709603+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "fa4e12d80288402c",
-      "title": "AI-generated Iran war videos surge as creators use new tech to cash in - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1idmNxU2UwOUxJYnFFZ2d4TzM3NDF1NTVXSy1UeEtHbFlUeU9JbVo1WVU0T0dCVFpqV1ZHcFRaSHJhRktxazBYVUZuSmVFTjdOMHpFODA5T3BvUQ?oc=5",
-      "summary": "AI-generated Iran war videos surge as creators use new tech to cash in&nbsp;&nbsp;BBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T00:32:35+00:00",
-      "fetched": "2026-03-07T20:47:34.883852+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3551eb57bfe0cb96",
-      "title": "Iran war is latest threat to a global economy rattled by Trump - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUVmbDVPQXIxLTRXaEJJdW9KeUxuSnh5Q3QtSnpudFo5VDRORFg3cGdka3FpaXo1elA0djhHVkRicm9wVE1NdWlpMEp0NkkyVms3ZkhfaGxJYWhsSjQ5M3oxcmJzN0owMHdpLU4tQUFDdUtFbFIzdHNJOXM3QWg1LVBLUHNwbDE2WDMycElxVXlJMXFoMW9lTk1Tb3JFVDZ1NGVKUjlRSGjSAa4BQVVfeXFMTTRVZ2FvMFhCMkZWeUdUQ2w3T3dDclBJWktHOFM4M0xMQ29zbjVtcm9WR2YwZnh3RjZ2UXlMWWZlMzdrTHZCUDFXc2NRenJkT09LVk9KSzI1TzR5Uy1tLUYxcUJqLXFIelZ5ZGZ2b0txM1p1YmFvaE9VNkpnTV9oalI4YmRaNm1Jc3B6b3d0dnBhWlUxOUhELV9sZXVLdXdIMmp4NUwtVENsUnFsbkNn?oc=5",
-      "summary": "Iran war is latest threat to a global economy rattled by Trump&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T00:28:39+00:00",
-      "fetched": "2026-03-07T20:47:34.882950+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d8e932f9485fc5c4",
-      "title": "Fire erupts at US chemical warehouse after drone strike in southern Iraq — TV",
-      "link": "https://tass.com/world/2098039",
-      "summary": "The types of chemicals stored at the Halliburton facility were not specified",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T00:23:00+00:00",
-      "fetched": "2026-03-07T20:41:22.709642+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "e86a3f5891532250",
-      "title": "Hegseth's remarks highlight the government's reluctance to show human costs of war - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTm9MNDZiZEFEaExGODlLSHZRNDYxSmtlX1dtWFZiM1lxc1gyLTgzVUJMWFBfTXBjV1VvR2kybUhybVFxZ1dXYlByTmtMdl9uU3JkYjNHOVNRLVpyN0tQazgycTNoall6VURDTTZvRjFyTXIzbmpZMWNYX3VleXhPYnFJWU1ZSm5TcEhPTHFMVkRrMVkyVWc1VGNVY2dTQWZvM0xYd1Z5R0pSZGFZZnRRdUVJUkdBNWFCeHfSAb8BQVVfeXFMT09LRlh0eTVJNWZOV0MybHFKaWp2QWRnVnVDTXVTYnR4dU5OSjd6ZHVrbUtuZDktM1dWTVRlNExLYU5RZk9La3VVSkxFSHgxbm55cGVPYmFCbUk5bS1uUVBISktva2V3QnlUVVVhVHduck9FWkw5QThFY1pIcTRyWnBOT3NILWdYRHhxajZRU1RfbkJjZm1FbHMxWjZqWDVrY2pqYlg5NUotWGtNTHo0WkJqanQ2dWt6VEU4S0RmRHM?oc=5",
-      "summary": "Hegseth's remarks highlight the government's reluctance to show human costs of war&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T23:57:02+00:00",
-      "fetched": "2026-03-07T20:47:34.883056+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "76fc816de8ba5592",
-      "title": "US soon to launch largest bombing of Iran — Treasury chief",
-      "link": "https://tass.com/world/2098037",
-      "summary": "Scott Bessent stressed that it will do the most damage to the Iranian missile launchers and the factories that build the missiles",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-06T23:56:51+00:00",
-      "fetched": "2026-03-07T20:41:22.709666+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f21afde97b57cb53",
-      "title": "Trump demands 'unconditional surrender' as war on Iran enters new phase - PBS",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEMzQVo0QTNoUTdwaUZNaVNRckNSeTJVUzlHYWp0OUN5S1pqb1V6WUsySFk3eFNoYjVvMFZ2S0NiaUtESjJPczVBUGR1Ym94SmJrYS0zSGc3MkxFaDVuZHg2UWt4QU1IR1dYSGx6Tmk0LVdwYnVLUm9SUXUyWHNSektRSE02bEVUSzlpcG9NU2dwVzEyQWVSSUNVUjlIa3NXOUNBaU5n?oc=5",
-      "summary": "Trump demands 'unconditional surrender' as war on Iran enters new phase&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T23:55:59+00:00",
-      "fetched": "2026-03-07T20:47:34.882239+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0b82ec555a386876",
-      "title": "U.S. economy shows signs of strain as Iran war brings more uncertainty - PBS",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV250Vzl4Yk5UdmF1bGkzd2lybnVacWFHeDc5Y2JnOFBmZXA2R3FXUUMtV3JBbk9oSzVhWURDRVFla3l2MGhDd2FpNFpYNzZZRjAzY3dRdU1QcUhBYjM2TjdTcjlfWUc5OXE3S0tuMVYyaG9tV3lBSm9faWVJcXU3ck9qQTVwU2lTcFhyc2pnTkJFMm10NHhlRHR3SXRfUmtQcktjbmNR?oc=5",
-      "summary": "U.S. economy shows signs of strain as Iran war brings more uncertainty&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T23:45:04+00:00",
-      "fetched": "2026-03-07T20:47:34.883470+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f6ae64ee8f8e7f88",
-      "title": "Iran War Poses Test for Justice Dept. After Firings Deplete National Security Ranks - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDVZMHUyTTk1ZzF6aDIwd2lxc1l6eHlXS3ExeHdOWHA4VXFwZmpxU0ppeGJlVkpDM1hfU0c4OGhRNG5iOFFxLWdleElMSzdid0N0c2N5UWtadTAweHhRU3FObFk3WHhlRTNiVURCYVUwTWJRZzFLMVYxZ3FGYUo4MGo3ZlRzcTgzV2c?oc=5",
-      "summary": "Iran War Poses Test for Justice Dept. After Firings Deplete National Security Ranks&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T23:35:51+00:00",
-      "fetched": "2026-03-07T21:00:06.424845+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9def005c6318d027",
-      "title": "Americans stranded abroad as Iran war erupted describe struggle to return home - PBS",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVlEeU5yU0F6ZVp2S3F6TEwwQU4tLWt0MzBjUkZ5elVjQ0pUbFdrazJaVl9BV1lzQ0JWSDgtYXZTRmlxd0l2LTVnZW56YUpIV0hzMFdScFkyUDhFY0k3RksybFlWQTg3MW1ZZW5uR0ljd0p5THJhZkNiVWlGUklxc1RNdDR6dU9fNkNPUlhoaURYVDJGY0dsaldWZ1daUmFMZVA4b0JCQXQ5dGhnY1hLQUt3?oc=5",
-      "summary": "Americans stranded abroad as Iran war erupted describe struggle to return home&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T23:30:08+00:00",
-      "fetched": "2026-03-07T23:03:51.467147+00:00",
       "relevant": true,
       "iran_specific": true
     }
