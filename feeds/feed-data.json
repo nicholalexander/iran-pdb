@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T15:00:42.023193+00:00",
+    "last_updated": "2026-03-08T15:15:10.513149+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 5,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "eee70196f68a1800",
+      "title": "Israeli warplanes attack Palestinian refugee camp in Lebanon",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-warplanes-attack-palestinian-refugee-camp-lebanon",
+      "summary": "\n\n  \n      \n      \nIsraeli warplanes attack Palestinian refugee camp in Lebanon\n\n    \n    \n\n        \n    \n                Israeli warplanes have attacked a Palestinian refugee camp in southern Lebanon, Ain al-Hilweh, according to local media.\n\nAin al-Hilweh is the largest Palestinian refugee camp in",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T15:08:02+00:00",
+      "fetched": "2026-03-08T15:15:07.774493+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "ae3cd6b251f03aee",
       "title": "US military orders Iranian civilians to stay indoors",
@@ -160,6 +172,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T14:45:06.953740+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "de6dd2aa1c210b16",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPN2Vhb2FjVUpZNjVTX0ZuU2lYUVk1SHlPRXZOYnJSZy1UUV9MNFhqbnhzR0g5VDZ1UGFZVEZCalJIYkFWcFlOS2dFWEo5Q2lPN21xTHdSSDB1VmdwbWFUXzRmcFhTVWV3QkQ3N1pRNlJEb0xKb2R4Ty02eGZ6TG40SWFHR2l6NXBVUVAtZHMwMnZwbUdqZnp0VzNVMm01SHVUcFpPd3luQURNQVVzakZqWVB3TkR1Y0oyWk5YRU9QNUVuczJtUDhlNG02bGROQXFGVFU2YVpxY1ZHWXNiWU8xLUxQb0tfelpxNWRiQ1duNEZwMW5weVAyZU5yalEzWUkyMWhNcnRpTnRYZDlvVEVXc1JKbE5EMFNXTjlvRWd5dnliN3M3bGxqNDRKajBOQUp4ZHh4aXN1Rm9waVRHVEJmU2FPd2tBV3lKNTcxQVFKYnYwUkpVcVFXWlFQM3pDQ2ZaMXFlUUxKd05Fckh0VXViTTVyRExDQzZ3REhPSjNBUExaUk9KQTJ5NFB1VkxuQnRVeFZoV3lrSEpHeHBaeXJYTGR3WVBnamdrOXJIekRDcm1qb0VBdXhraQ?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T15:15:07.591177+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5980,30 +6004,6 @@
       "category": "iranian",
       "published": "2026-03-07T20:47:33.639926+00:00",
       "fetched": "2026-03-07T20:47:33.639930+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ba770b509702e7e0",
-      "title": "US-Israeli attacks on Iran’s cultural heritage sites amount to war crime: Envoy",
-      "link": "https://presstv.ir/Detail/2026/03/06/765038/US-Israeli-attack-on-Iran-cultural-heritage-war-crime",
-      "summary": "An Iranian ambassador says the US-Israeli large-scale military aggression against Iran’s cultural heritage sites is amount to a grave violation of international law and war crimes.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639887+00:00",
-      "fetched": "2026-03-07T20:47:33.639891+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "264f1819436883b6",
-      "title": "As Hezbollah retaliates against Israel, Lebanese govt siding with aggressor: Expert",
-      "link": "https://presstv.ir/Detail/2026/03/06/765049/hezbollah-retaliates-against-israel-lebanese-govt-siding-with-aggressor-expert",
-      "summary": "As Hezbollah retaliates against the Israeli regime, the Lebanese government is aligning with the aggressor, signaling the terminal crisis of the country's political order, according to an expert.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639852+00:00",
-      "fetched": "2026-03-07T20:47:33.639855+00:00",
       "relevant": true,
       "iran_specific": true
     }
