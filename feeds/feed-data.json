@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T22:30:06.392152+00:00",
+    "last_updated": "2026-03-08T22:45:07.467107+00:00",
     "total_items": 500,
-    "new_this_run": 11,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "75d75442a1e144f3",
+      "title": "Bahrain says civilians injured, buildings damaged in Iran drone attack",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-civilians-injured-buildings-damaged-iran-drone-attack",
+      "summary": "\n\n  \n      \n      \nBahrain says civilians injured, buildings damaged in Iran drone attack\n\n    \n    \n\n        \n    \n                Several people were injured on Sunday in an Iranian drone attack on Bahrain's island of Sitra, the interior ministry said, as AFP journalists reported two loud explosio",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T22:42:18+00:00",
+      "fetched": "2026-03-08T22:45:06.009667+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f930507f47031279",
+      "title": "Qatar PM urges de‑escalation amid Iran war",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-pm-urges-de-escalation-amid-iran-conflict-sky-news-says",
+      "summary": "\n\n  \n      \n      \nQatar PM urges de‑escalation amid Iran war\n\n    \n    \n\n        \n    \n                Qatari prime minister Sheikh Mohammed bin Abdulrahman al-Thani in a Sky News interview aired on Sunday urged all sides involved in the Iran&nbsp;war to de-escalate.\n\n\"We will continue talking to t",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T22:39:24+00:00",
+      "fetched": "2026-03-08T22:45:06.009732+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "481b7b7a1fe770e9",
+      "title": "Video: Pentagon Announces Death of Seventh U.S. Service Member in War With Iran - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLXhIMFdJZ2dyek9rOEtfeUR1TjI2TVJvTG1iaUhjbDd4TVotbmNOUXBJak1WZFZnMUVlNm1CX1JJTXE3NDFvMVV1U3hXcDdaOEpHZGpfcDM4WjYtRFhwWkIyM1E5eVVDRnZFeEZWb1ZwamlOdWpsZVlTQ3ZLMlpfSWFnUjJRYnctalYwT3lLd0NhZWdLdDROMmdRNFdRSUF6UDNtU2JTenM0VWw3aTEtNTBqLVNDX2tLUW1iQXMwaDU4czd1Ymk0OVc1b0hRcExDam50Wg?oc=5",
+      "summary": "Video: Pentagon Announces Death of Seventh U.S. Service Member in War With Iran&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T22:39:03+00:00",
+      "fetched": "2026-03-08T22:45:05.889643+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "082d79c80f31ee4a",
       "title": "Iran Guards say 'ready for complete obedience' to Mojtaba Khamenei",
@@ -20,6 +56,30 @@
       "iran_specific": true
     },
     {
+      "id": "2e6fc7a31bc25d35",
+      "title": "Iran war drives oil price above $100 a barrel for first time since 2022 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX01BdXBsNUpLRWxVUUdoUVgzclhmaTlXMm9hV3phQWtSd2dIZVhuRHJudkg2cnpIWFUzSnQ3MmhfNVBDam1kd3JJakNDQ3J5TW1haHRvREQzSGJWQ0MyVlV6ekpsekxHRzhscGxOSmdMVGZxVXVaaHdoem40RHY3WUtwRFdLc1FhbDNEQWZGeXYzOTNaVElsTTIzZG1ZUGo4Z3FJeWt6TDNVSUZOVGZHSGpVb3FIN0R2WU1B?oc=5",
+      "summary": "Iran war drives oil price above $100 a barrel for first time since 2022&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T22:23:00+00:00",
+      "fetched": "2026-03-08T22:45:05.890264+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1d9aa66b21a9bd50",
+      "title": "Mojtaba Khamenei elected new Supreme Leader of Iran — Assembly of Experts",
+      "link": "https://tass.com/world/2098633",
+      "summary": "The assembly has issued a special statement",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T22:20:51+00:00",
+      "fetched": "2026-03-08T22:45:04.926584+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "ae87ef68f632f775",
       "title": "Office of Iraq’s top Shia cleric Sistani says attending pro-Iran rallies is 'collective duty'",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/office-iraqs-top-shia-cleric-sistani-says-attending-pro-iran-rallies",
@@ -28,6 +88,18 @@
       "category": "regional",
       "published": "2026-03-08T22:15:56+00:00",
       "fetched": "2026-03-08T22:30:06.272807+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e70afdb42f5ef267",
+      "title": "Iranian state TV says Mojtaba Khamenei named successor to the late supreme leader - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWlVTUl5UzNHcFMxSmlLekRpUEVWNHVvYjNKVWN6M0VaV2Q0UEhEQTRwUkpPVVBEdzhrQmpXdFgzN1FYWEtYaGpUM051OVkzSUJ1d0lrZkdZbHRicm1HVDJpTFlCM2xDazFLdTBDMThPZ1VqaW0wTGlKNnMtVHZEVGxjalc3TmViMS1pamViX3B0ci03UFBHQnZ1T1o3Q0dkYUl6TnJGRVdtczFtdWdJbU1qY2R4TGfSAbwBQVVfeXFMT3ZNVmh4TTEwYktsLS1iMUZpMjNwajN6anR2X2JxdFNUUTBnZWFjS1FlNnVRX0U3RjFxUHJYTXo0aHhMbnUxVmdIVjdtVmVuUmpxMG85MUgyYV8wWUY1b0s4UEVFZzNsRUFtOVBLMzYzU3BsRGx4RzU2bUlyWDZieDEwcjBuWUp5emhWMXo1RFVVNHJRRXU2ZG5SUmxWemhiY3J5b3hzNTItQUhlTTdVdlRBQVVidU0yMUVCSDg?oc=5",
+      "summary": "Iranian state TV says Mojtaba Khamenei named successor to the late supreme leader&nbsp;&nbsp;PBS",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T22:15:39+00:00",
+      "fetched": "2026-03-08T22:45:05.889934+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -916,6 +988,18 @@
       "category": "regional",
       "published": "2026-03-08T18:27:39+00:00",
       "fetched": "2026-03-08T18:30:07.524323+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d728b434fa677b94",
+      "title": "US strikes continue as Iran war enters its second week - Task & Purpose",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1laUFvREIyWEpxaTRKRnJ3MEhrSWFodHVkZHREVXhVX19OTVdMVFBuUWUtajRNOERxeWJLdlg5T05KQy1iY1pNVHJuVDZfeFJpa0Q0Sm01T1FRTnhaSEQtNE1fSDNVZDQ?oc=5",
+      "summary": "US strikes continue as Iran war enters its second week&nbsp;&nbsp;Task & Purpose",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:27:11+00:00",
+      "fetched": "2026-03-08T22:45:05.890212+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5920,90 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T08:00:05.954349+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "752887f05729212a",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPdnNIUjJUVHBrYXlaNjBtd1lMclI0ZlA2VGFUUGdKbGgzdlB0bFpUREFKdDFmamloMDMwV3RnM0lvcC0wbnFEZFgxeURyd1JFOGtqVjRycVlJNXoyRS14MDRWdFg4dy05aEVnblR3dng4N1R6ZnRfdFNkZEVnYm9PYVgzeVZMYUdfcTZkQUctSFdTX000ZERYY19BZTE3dGFiZ1pFSnJMNnZPeTk0QjlMZHFLLVZfcnpFV1BaMmlIdUw4ZVdHX2RtWlpFY3BrSnFUT1BxdURLTWQtdUpTd1Fib3BKWVFuTlN3UGNGdkg2LXo4SE9xUzAtam1ac0x6X012RF9qUk9kZ0FWQ0swbkhJTjVTX05yR09RMVphOWp1eUE0Tk5zWWt1azlBVkxJajZvTHAxdW9VWTllYmVZZ1BOQXBST2FmVlpPUjJ6OF9XdHh4MFlrZ1RvWUI0VlNlMlVFOTR5RE1IeHRQRVczMnVzSlgtb29oanlzSFBvc0ZNLWFNR3F3UE52UjFVOUVnTGVYeU93SlRrX3dOYkE4SWtOSGxWa0RTMHh6WWhBS3JjbTJLSFV1eVdF?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T08:15:06.761009+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f87d6ff6fe61386f",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNNS1uaTBQSlhia0hfa2V5d1l3T0xiOFFNR3JqSWV5UDlWR0R6RjVvUGZmZnA5VTlpTk9HZDl2d25kSThabW15OGtudWZDMjhFQjRjYnk1VlFRdl9nVjhod0dSY1Q4cmRVN2ZROUlKOS12cnJaMWV6UDI4T1Z4US1wQ2I5SlJtWVFfWXd5RjE3NnV3TkZSRjVheFF5RzRQcUk4SGZmV2V4TVh3bDBOWEViWno1LU5GeWJmNUVYLUppTERwNnA1RFRkX1BONUY4bmg0blhOcXpIX1liYldBRVBReWdHWDFSaGdhRlQwYzFoeEFjZUNEVUJ1dlRxc0NVUWxMU1I3YUhNSDFHaXVFYUIwOVIzc3VOUDJKelVpRDA4b1NBS2ZFQUFub05MN2NFdlhVTDNUSzFBdkJlVkxSRHgwc2dpM3NuR0ZoNXFvTXRZeXRSTTFaVVgwQ05aaXFiYm1GRUN6VE44U0Rpd3V6bGstMTlqNUFUZmdCc3J2S2M4X1J5bnoybW93b213cm5QNlZjeTByTlhPWGMxV3AyT0o4MG1INEl1cTBGaEwzb181ZGl0dnQ3TVkw?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T08:30:06.734670+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "bb2fcc2fc84c75ae",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPd0x2ZzJSVEVib085RkdSTkg2MjVnMlFjcEtsejEyRm9LdDNwY01BT1lsX0pfOV85T3M1YjRLZEZhZFN2cnJWang3eHBKUjNKYmhBdEhIOTlqc3JMelZVWFlsZnNZOGNmUWxSZno1LUk3UzRpS1BxME5ObmJMQ1Q1cHdlU0s3d3FmYkZSLWRiS0FRYUNTazBJSFY2VDlnamRuaWF1SERxZjM5YjhlWHA2bkF3TG81YXZweFVmUUZBSTJBOFQ3RVpKOGp1TU9TaWU1MGVKb2l4MFJ6RnIxdjRsM1ZLYmZwUjVWenhmeGktYkdTX05pVTZFOFJvdWJiZXktR1ZOZHM0WDh2RURwNkE1bDA3ck5oODlDQTJjY1JmTnpoNHNVZUxtbUYtWjlKS0ZrbkdURWI3Y0pDWnFiVXd5N1o5V2xMVGQ3WHMxMzkzekZTaU9JQzgwc0NfYTRHalItQVRyQmFaRGY1SXMxYU9rekJUY3Z5ZzB1aFFRRkpjcTdlVTktSHZmREVkaHNyMEE1U0dKRjFKQ18yUkFUQ0tudW42bXRnUE1NajhsWldsSWdkbzBvd3hN?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T09:45:06.097779+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "68793309a91af023",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOMWx6T1JJSnBDUFluY0JyWUd6bHFRY2kxZDdfVFRGRV9MeTVQWmFDR0FXbE9mREVXbkdxS2ZCZVpUY0dKbTlNSmREaFFXUmh3akx3YkRDVXN2bUlfS282MmpPS3l4ZXM2Ulk3YXkwWElKd0VkTjE0VXA5dHp6VEV1ckVRdnlPckpMVTBHTFlsQ3NJcmpSWjZVNGJpQ2V4WEVzQmlXUUlRTjFqNFNQcmxQSWI4N2tQUllvV0pZVDBoc1hHUU5DYlh3OHNkZW5Jel95ZHMzSDNrWXU4bGMzOXI3SUxncXRiMFh2Nkw4QzBCU3ZyS25jTzVxT3lPY2lzTWIyUGpTOVBZaHpicS15dU5BVXVBemZ6dXp4NS1qTmptbUowRTVrNDhoX2NZdUg4ZndwSUZqOWJVaUMwTC0tdWJnRmlxaldVLWR2Tld2bEtKMEgySDBpSDhUMWhKX19fMHc4em9IQ3Y0Q3pOQTRqYnRDMnpxWHgwaWlucFJTVGN4UTRJR3NBdUdMek44ZjUxdWNTbi1iNHlnZmRZVHlrMUFFcmg3Z1BpRDFQTmgwdkZlNmtydUxiWS1n?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T10:00:06.375640+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0c800665fb0bc009",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPX2tmMGczVkZIb2x4a09JQ29hOVJaUERNMTA5SGVfMU1nV1dZVFpldjBSeWRqdGUxUW9HTzJnaUpBSXpnX0txNWg3WkRXb182Wk43R1E4bWZRQV9MdHlOTlNSSVFKYmZJU2VwT1MwcGhUMUF1WGtPTkg4Ylp2S010bmZkNkt3ckVpSW9nUE1FdlBBLVVLdGpkRDQzcTlZQlJvSzBXeFR5bFh5Wl95aEg2ZVVCUU1xV1dhUWJLQmNTYXVfaWZBVFBYX2ViMV9uaXk2bVJIODM4RElFaV9NSVUwMEV2YVNINUdOUGtYb0RaejF4TVFtd0x5TTRKX2tsZFdDeGdiVk9PT21VM21nTEtZTll2WFFYQURiOTJjTjVFVnVJNW1aWnpCMGxoSmdLTU13SndGUFFuX0xQcHhReVlSb1dNWnlhZm5vSDRJaWpyYkR5NkRlN3duUmJpVkIxZl80ZzJlUXI1TGQ1TWJBeHN4R1ZpMFlYN3d1N3YxYWJ6SEdrNjRmMlpVQ1JKQzMwS3BZazB5ZkF4eHd2R243R1lOMEYwaVcyLXJXLVFvRkc3X29TZlg0dVBj?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T12:30:06.820166+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "fcfa36067acb22a8",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPNXR2aU1idnBTS1dqdk5QelNFaUtFWFhCYk1TZDJpSElDQ3p1d0FfdGE2Ri1EQlBvN2JSZ2N2dFM4N2VSUjVmcFIzSU1KckRQTzNRZkhTbS1WblBGclAwa2RMT3IyMnkxcTB1ejJNTWIwWm1JMTIyY2t2dFl1QzMzLUo2YTc1Rk01bThrLW85b2hXSzBkSGZvM3VzQjdUdG1TX25aZm56ZnlpTjQxeDQyYy1pNEJKVkg4TkttNWRvQXZScGxaMXBRZkJNYXNHTmwzYVdBY045TFJXUjVwMnM0elpQQWdHUUk2U24xZkJIcWVQd01MN1cxc0JUV2RCOExYR09kUks4MHczSlhtX0d3NDdUX2pXeXRwVFFVQUNrOU1DcUZLX3l3cXk0YUg3NEs3N2IzZ3ZZQmhyV2pPMzZ5dGN1T19NckU0MDFzVHRkQlYyQlNmRHhBMFhDallwa3FMeDRZb0RXdk0tamxJSlktSHNyTXB1SXJidlBMdTQ4STF3aVRVaFhHa3hSMldhendITjVpZzh0RTRtaVJsclozSDBQQXlpVVAtN29Eb29qTXVnZWV2Skdj?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T16:15:05.525369+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "46d03f41f952b7c1",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOLWg4SHZaeHZOTG5BN1VLYzRWUVJ4TXlRVmk5UkNWcE1vZTFySVlzN2hnLVVXWWpnNVRzTlNsQnQ0d2JycEEzVEY3UEdMeDU5Z1lHYWxWUjhuTzNtN2dwMldBNXRWcUJrckdySEs0SVFFZl9VRUY0XzVoNXc3WVZfeG5VYXdVcXdxZXd1RUlBeGhLV0Q4dnhfWXRKanRpTEowdmlITzQ5VnlMNWhCRzhjc3RBT3VsT3dXVUZNZmJrODFzVnFCZ0pYSjRIbVh0MzA2Z3hPc21ndmh2MnF4UHJyVjg4Uk40SFRDNDRrVW0wX3RKbjZBY2x4eU54eHdjQkwwWjVzWWs3TmVWVk54TFJwOGRXcEJrdUs1aTVhV09CcE55bklRcm1aeEc2OXU5Q01BM2QtZDdtNDV1dTZnSXBIWE9uc1ItYWpST2t2eDFIVURCajNpMkpiYm1uZlVmakNBV250dEJjNjcxQWxLcDdKbHRERnZhTVR5SUVneUk3VGFqQmt5YXpISEZxRk1FT2dSbjZUU18tRmt6X041bkZJaGVCSTFlVksxYjgwSms5VGZwV09uTEU4?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T16:30:06.639797+00:00",
       "relevant": true,
       "iran_specific": true
     }
