@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T21:15:07.695425+00:00",
+    "last_updated": "2026-03-08T21:30:08.492821+00:00",
     "total_items": 500,
-    "new_this_run": 12,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "f896cdada4186add",
+      "title": "Seventh American service member dies in Iran war, Pentagon says - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWV6c2dtTzB3QmpGY0Z5VUR2SzlKbTlEa0RXNzJvMV91SGlPV2pHeGV2dlJQckU1NWlaZnk1b01pQU12RTlMdXJkV0Zrc2phczl5UzlOVTlxNU5wNTF0V2REVUpYSTFRVjZ6U3VTYVZuTTUzTjhiLUVYTno0QnltU0gtU2dJX1p4bVpoYkNJNHluYkJZVUtkVFBXTWJMZw?oc=5",
+      "summary": "Seventh American service member dies in Iran war, Pentagon says&nbsp;&nbsp;USA Today",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T21:20:45+00:00",
+      "fetched": "2026-03-08T21:30:08.271548+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "2e9655a7bd5d7e8c",
       "title": "'Deter barbaric US-Israeli attacks on Iran's energy infrastructure or face retaliation'",
@@ -28,6 +40,18 @@
       "category": "regional",
       "published": "2026-03-08T21:14:36+00:00",
       "fetched": "2026-03-08T21:15:07.603525+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9525b33fb3e4aba8",
+      "title": "Iran Picks Khamenei’s Son as Next Supreme Leader, Fars Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUJob2RaRlhPZXNUU1NpM2xHYnlQR241YUNjV3ppMDBmSzRhYWpNbkpCNHFzZ1JPUnJtQUtuVzJVcU9DTFpiZjRYTVRSUk83TzhIWFpISDRqcm5lVE1pVHd1WGQzSXlYUEVxR0l6LVBnaGdpcWZNNUNhUkJ6YmRzSTlncnpzdUVxMVJHajlUd2Rram9qNnNFVnQ5eEdwUEhqcDdSVC1UYTU2TjVyNmc?oc=5",
+      "summary": "Iran Picks Khamenei’s Son as Next Supreme Leader, Fars Says&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T21:11:29+00:00",
+      "fetched": "2026-03-08T21:30:08.271593+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -210,6 +234,18 @@
       "fetched": "2026-03-08T20:45:08.381680+00:00",
       "relevant": true,
       "iran_specific": false
+    },
+    {
+      "id": "5ce5d7c8f030c560",
+      "title": "Iran war’s targets widen into civilian infrastructure and Saudi Arabia reports first deaths - Anchorage Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRmU2bXdEYlU2eXU3dm9FNnA3OV83bEhrTWE3VjhnRkNkVnZmX1NPVnRlSGkyQlZxcFJvZ3hSenZhc1BXcERyNWhkOE11dFB0OEVyU1paTTlFVFpfM3FqbVZWZng4V0hGdkJWRElqNTJsUHVJUXI5c2N2cHlEUWJDVFhxOTQzS3lKY3lEb3JTbDM4bjBZUDQ1RTBhejNBR2JyeHRjY3VucWh6bGpfTHlHdXB4T19wWEtLOUwybWtVQUc5N2czNmZoeGVXQkNPVHh3?oc=5",
+      "summary": "Iran war’s targets widen into civilian infrastructure and Saudi Arabia reports first deaths&nbsp;&nbsp;Anchorage Daily News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:29:22+00:00",
+      "fetched": "2026-03-08T21:30:08.272070+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "b7091c2141554362",
@@ -402,6 +438,18 @@
       "fetched": "2026-03-08T20:00:06.637622+00:00",
       "relevant": true,
       "iran_specific": false
+    },
+    {
+      "id": "e006abb10eb98007",
+      "title": "As war takes its toll in Iran, some still hope for regime change - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHZSVzR6TDNYeGx2d2g0NXo1R2IwcjI1SGdhcjlaMUhOc1NvWGlOQ1VKeDI5eVlBdEs1NTJOdW41NnJCM2VGSEdPR0laQWNra01jUnU3YnFxN0ZtcThVaWpWRk1yMXhHTlVRSHh4Y2ZvMzJnZFg1UklGeTRXU0hGZXdB?oc=5",
+      "summary": "As war takes its toll in Iran, some still hope for regime change&nbsp;&nbsp;CBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T19:26:20+00:00",
+      "fetched": "2026-03-08T21:30:08.271956+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "b11fbc3cc7d6295c",
@@ -1540,6 +1588,30 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T21:15:07.519193+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b4e9d7b45f6d7510",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOQ1RqYV9lVG82UnNVWnRpTXhBMXZFd25iTV9makZWdTVjVjE4cnRQMjdmbVljMlIxYy1hRE0tN1ZLbXpYQmpFaUdETHQ4NDZGbG5mbnJmTmVhZ1lfX1dTc0J0WmpFa1RqVTI0OGtUcGRVRlRaWVNSODRYdUx3RXpKWkVCVFhLMEROTGlTeTdrOTBObERxV2ZuVWRzY09OdjljemI3YTVEYTBWczBKTnFjak8yRGpyNHVJSGVQNjlFRXcyUVoxdHdtdTBmVUt1VUpNOWxZUEgzRHp4M2dZVTJXMFRtRzV6V2c3dTY1dTdMRFl3b1Y2cTRaLVgxbEhva3dqVkd5SEFvcV9wNTNiVUNTc1NNeXFMd3paRXJrQ0hXQWQ1a21wZG1zWTFZUk5wMDlmVm5FSGR2YXZQM2JnV1FxRTJtT1A1akRvWklxWk1oTFBPM2NmRktLREdZamtvSC0wMWJ4N1RzT0F5TTJCeTNqMkZHZw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T21:30:08.271776+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0b0ad58c95e7acd3",
+      "title": "Cardinal Cupich condemns White House video about Iran war - National Catholic Reporter",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3ZYQ1ZHWHAtV1U3MjhKamhnYWRiSktsX3VTM1BZbFBRVVVZZDB3SnA0VUV4eUp6bHpoNUJKakRpbnlhTFFBSWJMY1M3RktNTDloOWNSODF3ZXBZa29wdDd0WG82VjFISXRGVUJiREEybjI2VmluemtScnN4YW54RHdVb0ZyenZyRWVrWjhaWjdHQQ?oc=5",
+      "summary": "Cardinal Cupich condemns White House video about Iran war&nbsp;&nbsp;National Catholic Reporter",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:27:29+00:00",
+      "fetched": "2026-03-08T21:30:08.271821+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5780,6 +5852,18 @@
       "iran_specific": true
     },
     {
+      "id": "9db11586f75ccdc2",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQUW8yN0FvcHN5Z3pXb2dOaU5oNXIyYkhMTGg3S2JHVDA4LUJzMzB2MXZORjRXcGhNbjN6S1ZncDhlTzdVVjRSVVZMc25rVlJ3OUJpNllyUzQ3ZS1hbW5IS2NSV2tzWnljWksyWV9GS3czaXptQ3VtMHN1TWJTZXlBTi1Ic3dQQ25lM3BhNUJYOFhlekd0S1FkUV8zR1R3V3ByVHBybkloMnI1SkVvcVdZdEE0NjZxSEphT2pER0s5NlU3cFNoNlZScHMxd2Jyekg2a0t5cXJPV1VWN240OC1hWVFuOWUxaXhPYXZQRjBxS0J1Y3k5MTVOTWp3MVJ4Xy1ZTy1YbWFLcW9LNW5fN0NLaU5sRXpYNkNyNmZTaW9Nb0ZWX1NJVFFXX0EzR1c2dlBWQmtreUlrX3A5TEVBTWFpOFJkQWN4OGltZl9xcmQ3SzlId011eXpCS1MwV1dQMmFKOVQzUl9aRG80azROM0lCTjRQd1RPQmU0SHJ3a2hiNmNBajNiT3VPN3BoMDBxb0VtV2ktdXJmYXVxYUlJZV83MjBKM0xUUTduTElacU5henpLME9OLWxZ?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T21:30:08.272008+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5920,90 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T04:30:06.162321+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "542a1ecbb487d803",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQa3Fudm05dXEyeGEtNVVSZ25Od3RkbmZldTZxMmowSkJxQjRxbG03bk9hRW4za0EzVzl6QlFGeUlVNk5iZDhVRmZSR3BibmFaQkx5YnVuM1dtVXBBVGtUWU9hTGl5aWdsMEpuRG54cnZlOUVQbk00b3JrbW9GSFBuZWpfNkx1X3VYcW0yTFJhWEF6QkY4a0k4YkJERl8wUHNuVFE0V2RCRzZBV0xWc0pRYmw3NFhOSjFSSlVUS01lTXc3QUlNZWVOVmlEUkk4RTdOZzYtc3lDZEZ3NkprV3lKNDBzcGtzRUVWaW5XblNCRkxhQVpnMjh2anFNRi0wY3FwbE1WM2dqMWhTY0JEdnNfSFdSV2pQck9XajhCUUwtS0Y2VFFxSndpQWcyNmlqMlA1WTlwRl93a2NIMUZiV0hCdnMzQi1neWFhMU85RFE2NDk0RUUwc2x1X1RORGRsMzZ2ZVBkUEVxOThSLWVrNFlmejYtN0VFbGE3UF8wR19mUnFVdC1CalRIVGY5Qk5qZnhiMXJuSkhWWnlNOGRsSjBMQjJWZ0hCNHV4NjdLM0RLWQ?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T04:45:05.814416+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ef1c7255de3d8d13",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPZ1l5clo5QmxPb3F1aC1oZ0tKUTFsX3J5N1VfNl9MVEZpbkx1dzV3dmxmdDRPNGFhcEFQMUlJaFphQVZXYldaaVVqWjg2N3NkTXpycnI1WmYxNlpvRzUyTzBUVkF2dlN2SWFBMWhrNUZULTZGVUQ4RzNpcnpwVDRhZUFMY0lBTU41ZnhpWFdYUnRwZnIzcmZfcm9MWm9vdXQtaHNKbDVMV3p2ZElMZThvQmZicUZENDlkMnpkMHdfOEMzVy1STThFRC1KQmlEVk81VkVlWFJ1dGVGZkNiOS1WNmFKbTBHc1Jhc2FITFpLcldpS1FJTHlady1nRHZUVmhoY2ZMa2dLQzllZ3gwaW5FMDF2REY3VWJWa0wzanlFRGtYSTFNMjRaYk1OaU8xRUlLenI2N1BqU3c0M3lUN2ZCWnpDdHc3SjZURU5CNDJNenlIZ1F6OUFRSHN4V1dFNXR6Z2loYXVjNmdRWGFtZ285X1lCbENBMHlWbnVZWlNBWDZNR1RDZ243cUZlT0liTkZtX1B6NTJqejQyNjdLRW1PYklhNnhWQ2FiVzh3eHZTaw?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T05:00:05.895003+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "fc055f7520e48c57",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOREZsSU1GcjZEcnNxTVNvckhxaFRJVVNWNjEyMTVYcHVlYjJoc0E0RVk1RzNuZ3k3LXdmdEp1NFhYNTVyaUZtOXVHakhyOUU5Zm1oYVRfNlR5TUgwRE9QMENRZ3JOZi1QS0dnTDRfSUZ3VE1PQ0NqYkp2Vkd4aHcxT01YQUQ1WjU4THc3WDVyMDJxMGQ0d3F0NXdyd3Fxem9DU2hfdG1iV3hNMU5sR0xsOEU0R2x2Zk9VQkYyUDBaYS1RR3ZkdV9jSDBCVGVSbEJVRkV5WFM0NXhxcWZfeU1LNFhrT24wTTZoYkRtd3VsS2xiNnVUNUNFTjQxUzNoRElDMjJrRmNNR0QxemNfSlAwZGlWWUhITnhqRnpqLVY1aERZazlORkM5dlZ0ZFVMMl8yT0QxZDlXelc3MGZkbW9KTmdRd2lFN3Q1c0FmTWZSTVVtSWJGSGFlWWRZV0lHSUJQc1VrRklWWE5uQ25oZlhMYWtZTlRTcEh2eFF0UFRsVjhxTU1NUm5qRGl1TWdkY3lPRFhlelBBU25FRFZRTjdXeGVTam1Bd3NRU0dRR3hUbw?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T05:15:08.093827+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "144cd5209844623c",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNcTBqZ3dWelIyUzNDb0NnQWhnVTVjMXFiSnYwWFJQakVIcXI5YjliVjF1UFhibjZjc3F3eFJDOEJaUUctb25TSmlvMDBLVnRtb3NhWjRsZjRZZjFjVk5PeUdCcEd3TVo2ZUZmbzM3WXo0endxYk9GdUl1dWRmcUw5M2lHM2dUVTFLYVRjNHdvMTk5cU9fOGNNQXhoTjk3UFB1ZnJicXpuTUNlc0w3cGZoVm1vRTRSUHRIU3JGQk5sU1lfTVpqSWUydk56d3dvbWY3UFMwTm03U2pKdl81T1h3ZklBVHpwejUxMXEzTTBDLU5pY2FzTDBKYkxlVVBMZHljaU9ZdVZwVjVCZHJJRE52XzRiUnhyY3Q5VlBKenREazY0N29JbkVYcWRvU3dpNl9uVGhWS2V1UVhESS1Vb0pzbVVCWlY1Vnh6QkVPOU0wZmpDeHoxZjlLZVBxOWZpUVNjdWFmUVBBS1RMNXZWMkNHbTljVk5SUG0tc3pXQmlqRjBXSGotczNiOUl0Y1JsRFZqVUM3QlM3YnhxVUN3RjVHblI3TlVuT1QwcUt0TXVGaw?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T05:30:08.112314+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "92767acde172ddc7",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQSmJSZ3E4ZnhNR3ZIaWw1QU1rOW0wM05MeE0tRkpEWHdJM0pVLWduYmJtRWRzbExPME1WclZYcVNpR2ZlNlRYNWxBRjdvSjhvUzhNZ09kdHlNenYwXzFhM3dLXzVudmJJUnNqMUdPQlowNDhQWEExdWVJaDhMb3hKN0gwVXlKTWRza3BZTzFxN0pBTWg5S1N0QjVOWnFCbWk0Uk93RGtIejNhNmxzZTVjRnVaUkRWekk5YTVhV3dkajRwTnZkdjVrT1RaeTdzOVp3eDFCSnNwRHBCaU9oM3oxWFEtVm1lRUlwOHNTUjdISWM5MFQ1blB5SDlGZXduWGl5R0tzUnNwNkljVjFaRnFXV2tWRm5LZm8yNlJyUS1LLVlNLU91aU5jTWIyeGlkdm9wNE1Za2llQ2RqU0QyOWhzVXcxeDd6NUo1ekNYUVAyeTJuRFg2NG53RnNxaW9OS3JJV19zdExpNW9uYzVPZTJaVFZ6Z0pRRXMyT21LR0dobTdjNW1hSk16cFJnTEZxOXZldjd6TkVtY1otWW0xQTNub2ViYmRtR0pnc2U3N3JYWQ?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T05:45:06.155800+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "abafd7053e709127",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQaXpnWjZ5RXJ6dkNaeFZDQk90Nno5TW5qX3pIS0xlTzZ4YndBYVhqUHJFNzNWeTRkWWJ6bHpRODNvOWNJRGxON09UTzlnQnB3REppZ3JrT3cyLXdRZjhlRDlxazQ3RXRSOWJqM0JzVGM3aVJiUEZXbHc5Xy02N2ZtRzltd1Npb19DT1J4UU1veWJjTEY5NU1NV05yWnBkNHlBYjRMSkg4WGFHZHB1QVl3LXhUYmhqQXc1dFFkODZETXo1dG9TbmJfQkQwTnNDU19QdkYtUjJFZmNvQno0VFJUMVFTaFhqSFJaQWdDbXVTOHBXSENPODAwR1E0OWg3MUFhWVdDY0tKMzNKN2pTYnoxY2oyRVFHQkdBd093QVBzdS1HZzhma1dHbEpycGhjaHJUbElHRGt2bXd1bHRlbVp5V2ZKSGNJQ3haZnBPU0l5TURRUFROTE8wSV9Od1ZFM2NDV1hzRm5vNlVxNGE1SHQ5cG9RRGk5d3NBYWRWVDhTaS13N0NwT2JWc1VXNmpWbndTdE9BTWdnY3FzLTZfRjJ6RUNxRGRSM01VbVFBaUNHSQ?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T06:00:06.306913+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "d49c0a7f26a898c3",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQdnJhUGl0TDBnM2dXTTFVRDFKaVh5bzJuMkpGQV9XVzhERWdxcGdqSEpKTTBBYjRSRWVGS1hlMEctYS1UZXhkeXl1SG1wcVUwaVJUSUY0UTBEUS1Hczd6azl1cFNvY1VyVmQ3U2NTTjFYMFpzWGptZlItTmlFOWxYM2dJRENxZGl4eVRGRUZ3RVBsc1laRmgwUUFzMjRfS0doMUNCX3NCWVJLdkhtUE5qU1ZYZkpic25wYzJycjNNVEY5MjlnSmtyT3lSZVJ0ZDYycEU5OFByNUlkN3dQOVhDbUlRaVRRZ2p5WUl6NnVNMk1IZ0tBWlRZY19KTTNBLVdmb3RYbWwxNzBuLUJiWlhVbnl0d2FhMThqUnpKQW12bXN3M2NkSHVDV0xENjE3ZnpWQm9xU3o4c1NDOFJkOV92czVKSzZLc090a0poU2t5LXZxeEZ4ODF2R05aRmYzWXVNaUhVbVEyZHluQXFsWjdqSFN3cjR2N19xRTE0V0xkMkRyY25UbzZadUk2QTdUS3Zxc0s0MTQyQWFmckIzMlF6UF9sbGFfQXI3ZGpQZ3VTdw?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T06:15:06.518191+00:00",
       "relevant": false,
       "iran_specific": false
     }
