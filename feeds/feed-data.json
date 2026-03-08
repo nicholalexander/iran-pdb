@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T19:45:06.367681+00:00",
+    "last_updated": "2026-03-08T20:00:06.845454+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "50fd1b5c378b61d0",
+      "title": "US military announces death of 7th service member in Iran war",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-announces-death-7th-service-member-iran-war",
+      "summary": "\n\n  \n      \n      \nUS military announces death of 7th service member in Iran war\n\n    \n    \n\n        \n    \n                The US military on Sunday announced that a service member in Saudi Arabia had died after being wounded in an Iranian attack, the seventh American combat death since the war bega",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T19:56:26+00:00",
+      "fetched": "2026-03-08T20:00:06.755373+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8292b4982852c8ef",
+      "title": "Macron holds phone talks with Trump, Pezeshkian",
+      "link": "https://tass.com/world/2098591",
+      "summary": "Earlier, the french president held negotiations over the phone with Emir of Qatar Sheikh Tamim bin Hamad Al-Thani",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T19:50:48+00:00",
+      "fetched": "2026-03-08T20:00:05.481223+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0242f932b3c9490e",
+      "title": "Iran's parliament speaker says Tehran is not seeking a ceasefire",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-parliament-speaker-says-tehran-not-seeking-ceasefire",
+      "summary": "\n\n  \n      \n      \nIran's parliament speaker says Tehran is not seeking a ceasefire\n\n    \n    \n\n        \n    \n                Iran's parliament speaker Mohammad Baqer Qalibaf said on Sunday that Tehran is not seeking a ceasefire, adding that \"aggressors\" should be punished.\n\n\"If the enemy attacks us",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T19:49:59+00:00",
+      "fetched": "2026-03-08T20:00:06.755420+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "2538037df0bc29d0",
       "title": "Pentagon Announces Seventh U.S. Death in War With Iran - The New York Times",
@@ -32,6 +68,18 @@
       "iran_specific": false
     },
     {
+      "id": "cca94a5d76884e16",
+      "title": "How do you track a war in real time?",
+      "link": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss",
+      "summary": "US and Israel attack Iran: Information is power, and now everyone has it.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T19:30:00+00:00",
+      "fetched": "2026-03-08T20:00:04.250560+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "e327476e1e60d547",
       "title": "Israel military chief warns state of emergency could last 'much longer'",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-military-chief-warns-state-emergency-could-last-much-longer",
@@ -40,6 +88,18 @@
       "category": "regional",
       "published": "2026-03-08T19:28:17+00:00",
       "fetched": "2026-03-08T19:30:06.496915+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "885188c3b0d879e5",
+      "title": "War disruptions may send oil to $150 to $200 a barrel. Here's my advice for stock investors - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEExYy1tOFRQN1RTVlJjb0ZhUHJqRXN1Q3hTMjNYUkdULS13a3JrNHBMc0tYdE9XY0t6UUdCU00zc1JleGNsVndSTmJkRmhlUXR3eVZiTGJocm5wX01fbHQ1LTIwbjJ3clk1emxkdllJV0FJY1hBWmU1ZS1ZMVZ4Wk5EMzZnWEZtLUVfU0xHbHF3NTdCTDFwbk1BbmhGc1E?oc=5",
+      "summary": "War disruptions may send oil to $150 to $200 a barrel. Here's my advice for stock investors&nbsp;&nbsp;CNBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T19:27:51+00:00",
+      "fetched": "2026-03-08T20:00:06.637622+00:00",
       "relevant": true,
       "iran_specific": false
     },
@@ -104,6 +164,18 @@
       "iran_specific": false
     },
     {
+      "id": "cdf84b1e3fccbc95",
+      "title": "Iran war’s targets widen into civilian infrastructure and Saudi Arabia reports first deaths - WTOP",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEltT0szcEpEWlo5YXBWVGdKdnFfcnpKNmdtdEsyVml2TXBHOFNwbjFFWmZMUXdoa2xZb2g5TzktcG85UG1UX1g5dVF2aVlpd1VGeVdQRnBQeWNZTTZzekVwcm1kU2ZUMzNSSkJlNTVQSzdkTVpUalBtc1VYQU9JV0dfc3VTVEw5bHEw?oc=5",
+      "summary": "Iran war’s targets widen into civilian infrastructure and Saudi Arabia reports first deaths&nbsp;&nbsp;WTOP",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T19:02:36+00:00",
+      "fetched": "2026-03-08T20:00:06.638079+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "865b95698bd51b1d",
       "title": "US strike on Iran’s Frigate Dena kills 104, injures 32: Army",
       "link": "https://presstv.ir/Detail/2026/03/08/765134/US-strike-on-Iran%E2%80%99s-Frigate-Dena-kills-104,-injures-32--Army",
@@ -160,6 +232,18 @@
       "category": "regional",
       "published": "2026-03-08T18:52:04+00:00",
       "fetched": "2026-03-08T19:00:06.991754+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "61c18f54d2c7cd6d",
+      "title": "Ella Baron on Trump and Netanyahu’s war on Iran – cartoon - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ3MtOGZ1cWEtNk5lalNpOWZRYnpMb01ONTVTU2NFRTc2Y3ZSV2cxdjJBWUJ3SGFKZ0d1ZlpMbG1ucEFqMlR0ZzVxQzNmcm83ZGpya1RHOHZpS3Q3TWhHYW1BdFpPSEdsUWN6eUdYYno0cHJ3NG1yV0RZeW0wUGFkbzhxVnRESlVuSEMzWmthYjU0NHl4bThidEJvS3VkSmJqa0h3OUxqalBlSnNpeTUwNUVobjRCQ3pCbVQ1SUN0TXhOdU9kbnl2ZHAxNlg2bjRsRGdLUA?oc=5",
+      "summary": "Ella Baron on Trump and Netanyahu’s war on Iran – cartoon&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:47:00+00:00",
+      "fetched": "2026-03-08T20:00:06.637681+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1000,6 +1084,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T19:45:06.191168+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "995318c7f8b96565",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNNDkyUzUwMU1rOVU5YTVGeDdFVUpaN05PUS1WWG9OTFVkdXBlS0hUQ0I2dC1xZVV0bjNhNXlpYk5pbkpDWmVSdE1sVHcwYXg0Uk1DOUpTcmZHVzNFenBVckxnTEpNRkZKZjduU05ka1FKVm9wUmQ1cWh1V0hNckdMRU9mNG1iTGpPSEVRb0xfUVkzQXI3Rm1DbURoT0tsbEEzUjV5VDVyOUZfMnlxREFLSEpCcXoxUHpJZzl3LXIyYnlMWmdjR01uWWFpT2IxNVpLWDI2SV9HMFF1YkdCblhBeHVQR01HcWpBVnVtYnd4MnZpSEJxek1QUFdxVkFOUmJqSzF0bTVYYmZaZk9fOHRSWlkxaXI1dzVQRUoyN1JyMUhHbnQzRVhLaFZiQVp2UmRMUjc0dm1IdkFGVU9HYVY2OWM5ajZUV0JjYWVqRURKWnBCTENsSW1PcVBEUjZUODFpYjluak1mc081QzZ5QXhrUF9iTQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T20:00:06.637871+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5132,6 +5228,18 @@
       "iran_specific": true
     },
     {
+      "id": "9f92caf631e62714",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNSzEzMk1Wc2cwZlZlQ2c3S1YxYmhXenhUWEJkVHBPRjhscVdYSzNWcWJWSzRUd1h4VHJaREVMNjBmMUxEeHVES1FTdzc1c3FBd0NtWlJfemJ3QTY3SjdDUmlxanBmZ0xJQldvUmRLZnJTNlJWaGJzX3hGc1paSTBHa21wdHZaOURDel9fZUFLaGxuVkc4eXVuU0l0aUZWY0cxbHpLVzVobXBHWFNXS1FORkl3Z0dJUy15bVZZemhXMTRZeklQN0JXQU5CZXVaRG43el9rV1NMYmxxVDZyMUNxbGpTWUhuU3k1Ym4zcmhBTWZGNWp2QVpqSmJsV2tZMnpZeklDTXplYmpaV0l4czBnV29oMXphRGNMVWhSMXE1UnR0eTduVU93MUNpQWtPcDZUQ0gwcGRSazBpQTFKRkRnQklMLWRwODE3XzFKNW9jc2kzekRET3E1RmVCdDdoVDVGZUU5MXp1SzJWSzY0WE9mSkFsdXpvOXpTLWx6aDJvVHkwcU1oMnVONzVma0Q5dTRhN1VhemM3RllSUVZtWFdUdGQzckMzMFg4UEwyckgyNGQxRFMxRkpJ?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T20:00:06.638125+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5896,114 +6004,6 @@
       "category": "regional",
       "published": "2026-03-07T23:53:33+00:00",
       "fetched": "2026-03-08T00:00:07.746663+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "dc5c159f65f8cb1b",
-      "title": "Israeli Air Force hit fuel storages in Tehran — IDF",
-      "link": "https://tass.com/world/2098283",
-      "summary": "The authority says the fuel depots were used by the Armed Forces of Iran",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T23:43:18+00:00",
-      "fetched": "2026-03-08T00:00:06.250376+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "478d3952646e6034",
-      "title": "Saudi Arabia says eight drones intercepted",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-eight-drones-intercepted",
-      "summary": "\n\n  \n      \n      \nSaudi Arabia says eight drones intercepted\n\n    \n    \n\n        \n    \n                Saudi Arabia’s ministry of defence says eight drones were intercepted and destroyed after entering the country’s airspace.\n\nIn a statement on X, the ministry’s spokesperson Fahad Nazer said the dr",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:38:23+00:00",
-      "fetched": "2026-03-07T23:45:05.762238+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "7c8c46a01e517fb6",
-      "title": "At least ten people wounded in Ukrainian attack against residential building",
-      "link": "https://tass.com/politics/2098277",
-      "summary": "Governor Evgeny Balitsky says there were fatalities",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T23:34:26+00:00",
-      "fetched": "2026-03-07T23:45:04.670017+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "b0107e197ac28372",
-      "title": "Qatar says targeted by 12 Iranian missiles on Saturday",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-targeted-12-iranian-missiles-saturday",
-      "summary": "\n\n  \n      \n      \nQatar says targeted by 12 Iranian missiles on Saturday\n\n    \n    \n\n        \n    \n                Qatar's defence ministry said on Sunday that&nbsp;Iran&nbsp;had fired a dozen missiles at the country a day earlier, as Tehran continued its strikes across the Gulf.\n\n\"Qatar's Ministry",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:32:11+00:00",
-      "fetched": "2026-03-07T23:45:05.762271+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e52330bfd0fd1a8d",
-      "title": "Australia may offer military support to Gulf nations facing Iran strikes but won’t participate in a ground war, Wong says - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSmF3SFFFM01kb1hzdnhIbkhfSzN6ZWpmYWVNYzN0QjFBWVI0UDBPT3VQYXdnei1QaXhndVNzc0tUQkh6X1FkSWdidldKLW9UZGRkV190bG1pWmQzdmR3MHNSaTBEencwTVBWNHlnOGZzYWQ4aGtVbDBOX0xTY1E5SHNOdFc1N0xiYWdmekx2TFZwRU55TExiT2ZuaVpteGs4Z3hrODRFTG8yVXI2amo1LWJqSkVGUzZkNHVDUmRyM2RzVlBMQ19XYTFRYkM0eEZ2RWdNR2NJZmxXdGhHRnRJMVVBbko2NmJWc2MwaGlkb0FZMjJ2dGhoWkliSGhpNkEyaVE?oc=5",
-      "summary": "Australia may offer military support to Gulf nations facing Iran strikes but won’t participate in a ground war, Wong says&nbsp;&nbsp;The Guardian",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:31:00+00:00",
-      "fetched": "2026-03-08T00:15:05.583850+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "114770926da5eb81",
-      "title": "Trump rejects settling war with Iran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-rejects-settling-war-iran",
-      "summary": "\n\n  \n      \n      \nTrump rejects settling war with Iran\n\n    \n    \n\n        \n    \n                US President Donald Trump on Saturday raised the possibility of the war against&nbsp;Iran&nbsp;ending only once that country no longer has a functioning military or any remaining leadership in power.\n\nS",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:30:03+00:00",
-      "fetched": "2026-03-07T23:30:06.081267+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e273dd3d82b12423",
-      "title": "UAE is in state of war — President",
-      "link": "https://tass.com/world/2098275",
-      "summary": "Mohammed bin Zayed Al Nahyan thanked the armed forces for an outstanding role in time of combat actions",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T23:29:29+00:00",
-      "fetched": "2026-03-07T23:45:04.670089+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1cedb0159e401be2",
-      "title": "Huge fire rages at Tehran oil depot after Israeli attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack?traffic_source=rss",
-      "summary": "Footage captured a massive fire raging at the Shahran oil depot in northern Tehran following an Israeli strike.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T23:26:45+00:00",
-      "fetched": "2026-03-08T00:00:04.455643+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "405dbfb3ae575705",
-      "title": "Trump says Iran's map will 'probably' not look the same after the war",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-irans-map-will-probably-not-look-same-after-war",
-      "summary": "\n\n  \n      \n      \nTrump says Iran's map will 'probably' not look the same after the war\n\n    \n    \n\n        \n    \n                The US president Donald Trump said that Iran's map will 'probably' change after the war.\n\nAnswering a reporter's question whether Iran's map will look the same after thi",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:22:49+00:00",
-      "fetched": "2026-03-07T23:30:06.081323+00:00",
       "relevant": true,
       "iran_specific": true
     }
