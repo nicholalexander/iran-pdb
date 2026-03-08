@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T07:00:09.433988+00:00",
+    "last_updated": "2026-03-08T07:15:05.975239+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 12,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "578b8886f6720c1f",
+      "title": "Araghchi: Iran’s gesture to neighbors immediately killed by Trump",
+      "link": "https://presstv.ir/Detail/2026/03/08/765101/President-Pezeshkian-s-gesture-to-neighbors-immediately-killed-by-Trump-Iran-FM",
+      "summary": "Iran’s foreign minister has blasted Washington’s reaction to President Pezeshkian’s extension of the hand of friendship to neighbors, saying President Trump immediately killed the gesture.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T07:15:03.936232+00:00",
+      "fetched": "2026-03-08T07:15:03.936251+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f2f0622b4bef5e98",
+      "title": "Video: Iranian attack drone hitting radar tower at US base in Gulf",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-iranian-attack-drone-hitting-radar-tower-us-base-gulf",
+      "summary": "\n\n  \n      \n      \nVideo: Iranian attack drone hitting radar tower at US base in Gulf\n\n    \n    \n\n        \n    \n                Footage filmed by US soldiers appears to show an Iranian attack drone flying directly into a radar tower at a US military base in the Gulf during the escalating US-Israeli ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T07:13:17+00:00",
+      "fetched": "2026-03-08T07:15:05.866703+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "fbc6db8e8a30b5a7",
+      "title": "Iran cleric says leadership choice nearing announcement",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-cleric-says-leadership-choice-nearing-announcement",
+      "summary": "\n\n  \n      \n      \nIran cleric says leadership choice nearing announcement\n\n    \n    \n\n        \n    \n                Member of Iran’s Assembly of Experts, Ayatollah Mohammad-Mahdi Mirbagheri, on Sunday said “great efforts to determine the leadership” have been made and that “a decisive and unanimous",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T07:09:29+00:00",
+      "fetched": "2026-03-08T07:15:05.866769+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "2afe560efa2c1ae0",
+      "title": "'This is a moment of grave peril' - UN humanitarian chief",
+      "link": "https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "UN Humanitarian Affairs Lead Tom Fletcher speaks to the BBC about the conflict in the Middle East.",
+      "source": "BBC News",
+      "category": "western",
+      "published": "2026-03-08T07:05:27+00:00",
+      "fetched": "2026-03-08T07:15:03.649889+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
     {
       "id": "8b57078e47427ee2",
       "title": "Blinded giant: How Iran crippled America’s multi-billion dollar THAAD network in days",
@@ -148,6 +196,18 @@
       "category": "iranian",
       "published": "2026-03-08T06:00:04.531269+00:00",
       "fetched": "2026-03-08T06:00:04.531300+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a69515f6bfc84afe",
+      "title": "Two Iranian vessels depart Chinese port with suspected rocket fuel precursor - WP - ایران اینترنشنال",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VbjFOamJxLUZvTlVkUVdldWVxT3h5WjZ0b1QxYUI5dktyVTJJRXBGSWstMHE2bGV5Ull4QTFIdU8xS0RBcE5NMF8wQUUtY2daSWc?oc=5",
+      "summary": "Two Iranian vessels depart Chinese port with suspected rocket fuel precursor - WP&nbsp;&nbsp;ایران اینترنشنال",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T05:51:33+00:00",
+      "fetched": "2026-03-08T07:15:05.768960+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -812,6 +872,18 @@
       "iran_specific": false
     },
     {
+      "id": "fb06e37cec9512d8",
+      "title": "Watch: Huge flames in Tehran after Israeli strikes on oil refineries",
+      "link": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
+      "source": "BBC News",
+      "category": "western",
+      "published": "2026-03-08T01:42:48+00:00",
+      "fetched": "2026-03-08T07:15:03.649846+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "dd683460860ad42d",
       "title": "Israeli strike on Beirut hotel kills four, Al Jazeera reports",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-beirut-hotel-kills-four-al-jazeera-reports",
@@ -1136,6 +1208,18 @@
       "iran_specific": true
     },
     {
+      "id": "b7861202a168649d",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNaE5TSlNOaFN0eUtDbTJVcGplek12MV9vYlVHc21HX0RJREZFTFU2WUtnV1Q0TGtfMnVRd0JUdnJ4SVl1WW1pQS1SNUhSSWFpZ1ZFOVFkUjhmQ25OTGt1eWcxaUJlNGZnVFZOS0VkeGFfRnkyS1FyMmtnWDJWa1lDcmw5bWJ4c0o2aWNJTVBMeUtKblNFTnFUbzd4NlQ5Z0JfS0h4Q2ZnbFFjLW0wMS1QaEFSMTB1bmRkMkw4bWoybWhHWTZUcERDM0NIQ3lkZk9Cc3dfVWk4U2FTb0ZUM3Ria3hwZjNwM1M2TUFCdnN2bjBQVkZpNWVybnB4bFpsSG9mX2tpbHJqZGJLOHhmVTRfX0poazdrQ09ncHhZMnZxRWV6R3RGTmxsS1ExOWJsRVo1TXZjS0p6MkhWVGU3bUtyT2d6Z1R5Q1dHd1VWVnN4bElQUndUSDdHeDQ0VjFKakxPOGU2YmUxZ0JzOG50ZjlmSUZiYXh4eUwzWDN1YTctcXVlV1psYmJwdTdpTThhQUlaMGJuOEM0dENFUzhuVkJ5Z2xfTjZES2NUaFlmdmhlem15cTl5XzZB?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T07:15:05.768892+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1396,6 +1480,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T07:00:09.218275+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "96c697f8ef3e2a1c",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNY0stV3l6dlpyLXNtYnc1R0c0TnR3dXhZd0NOVWYyV3pjamgzMk95OVM1a2tVVlMtRl9oMERIdUlMQ3h2ZHJoMFFMNDZpanE3MWtFZE9TSFRMUmtlWHdtU0pkcGpSZHJybTZ6R0lzd2JyOFQ0eEllTGdtbmp6ZGh0c1VCRURXdnR5X3MzS29PcTB3Tk9qMzA2T2I2anI0T2luQjV6b3JwU1pBNnBjLTFiM2NBTHhtSWQycmxYRnNiS1VhSXk5QWxUb2xndkxYeElmcE9yQ2dKd2pid3FyZUVZVTVmbG1VOEY2dDVBeVZqYU5SY0FDazA4Z3FUaHB3dWNhOW5wU01aR3o3dkdEc2gxOTBDQjFhc1UydGJKNS1tajFKczdTVmVKME96dHgyNVlhQnp2YjN2T0dEMWpybWp1WjlDQmdkeTNla0hfMGpiZW4wNVJ6WTd4V3hGU0dwclJ1VElENGRSQ1JhTDBPMk1Qa0FXaThMb01Ud3RwODRkNFFTQ25YVmV3SXpGbXhLdWNwQ19xckZaN0hmMHFXR0Q4VFg1T0s4NUhMRDRFYVc0OA?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T07:15:05.768695+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -5120,6 +5216,18 @@
       "iran_specific": true
     },
     {
+      "id": "922917c8dd942c43",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQTThTX2ZtUWNlNU5VbjBaVTZZdDFCTHpxX0xRalBHVG9QdUhUMHBLQ1JyUHkzVVJ4Q2RGUUFHOWN3bmR3eFdIUGJ1bi11RDhybHVuSzJSQnJrR2pzRDRXOVhhaVpBQ3lhSGtycEF6UXFiMld2UEU1RXlNSVd6VDM0Q3NqZms1MUpNU0MwcXJMX081RUktUF9OYUNaNFQtbk1HQlNVcE0zb0dRM0RwSUFvOFJnVU9YbUFUMEwtR2lrRkZ4SGdhdkswemRTMXNpVEIzN1RVdFYzTElvTUN2UGFjamY3N09DZFdkb0haYmc0aEtjWFRyS0pVQjN0ZU1uTkY2OHJPcC1vTnJvWEFfNWpQNGoxbUlJUmFBWGg2M3p4b3BQaTRmSTEySnFtVEdqRkwzNVhJWnNiUVVKTk5pMFhyN1prdUVxMXJnR0psWm5jMVhrM05vNmZRYUNOVVJURkVCbGZIT09iOUxhcE1tR25JaEZERTctbm1TRFQtZnZmYURwR043Yjd3?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T07:15:05.768408+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5898,114 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.082676+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "8123238d410fe528",
-      "title": "Death toll from Israel’s operation in eastern Lebanon up to 41 — ministry",
-      "link": "https://tass.com/world/2098179",
-      "summary": "According to the country's Health Ministry, another 40 people were injured",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T13:07:09+00:00",
-      "fetched": "2026-03-07T20:41:22.708517+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "9bdfe0c0cecd477c",
-      "title": "India vs New Zealand: Fans hope for World Cup final redemption in Ahmedabad",
-      "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-fans-hope-for-world-cup-final-redemption-in-ahmedabad?traffic_source=rss",
-      "summary": "At the T20 World Cup final, the cricket-crazy nation hopes to bury the ghosts of 2023 and walk away with happy memories.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T13:04:52+00:00",
-      "fetched": "2026-03-07T20:41:04.688871+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "eb335e53bacc1c01",
-      "title": "Iranian authorities warn against ‘fifth column’, as no signs of war abating - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWxqV3lWTFVSdExTRmVpWGpCclZTeDNmeU90QVhsNkd3dlpId0ZRN1Raa3BNQnlRVmw0aWo3b09oaVFvYW4tS1pMdFVQMTlxNC1rY0xjWlVSSjk0Q2pzRmlGRV9hRGhYT2lVSjU2TjZmU1B2TktvaWp1VndlN2pUVDN4cnd6djZ5UlVpX3BvdGtjc2ViaGtOMUY4YWlCa0ppOGxDS2JZUTNYMmVSQzJrZlJR0gG3AUFVX3lxTE0tSmg3RGttOVBNcXNXUTZrenFuTW56bnNwaHRZdjdsZ3Y0akdsei15Nko3WHVDTTBHVU83VnVLV0s0U3U3OGRzT2JYWWRHU3o2UGRYMkZNemFDVERtQjhuekl4Szd0aUtKMTFRS0FoN0t6MUJaZ2wxcWRuc0tFNDdqX3h4cU45ZC1IQnVEMGh5ODNBbk14aG85My0za0wtdHZ3TV9zN1pYakhBWWRtMkg1QjlYeGF0aw?oc=5",
-      "summary": "Iranian authorities warn against ‘fifth column’, as no signs of war abating&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T13:04:26+00:00",
-      "fetched": "2026-03-07T20:47:34.881079+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "28131c0340837ceb",
-      "title": "Trump says Iran ‘will be hit very hard’ despite apology for striking neighbors - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWXhhUjUtaGsxYXRXOWROemQ0ZDFTcm9pUnJBTy1JY1NwMEZUSnNzUTN5NjRNZmdXTGlpVG9qbkRGV2dTT0lFdWZMczhIMFN4OGRIRWN5UUtzN1ZpMXNEYl9qVGkxd0RHMm1wTFhPVzJjSEloRVZOaTIwRjNlUzIzVtIBhgFBVV95cUxNTl9QWkN1UGY2cDZHa1VDYllhcmwwOTQwTWd1dHAtb0JsancyRlJrRXJud2hFSlZSMm12XzlnNGlKSG14N2JfektWRVJpSDF3WjllRENfaS1mNmlGS3lhb1pvVXpkNnJEeU9iR0JnQm9SWFdFci0zcG44V01oeE1UbkF0alNfQQ?oc=5",
-      "summary": "Trump says Iran ‘will be hit very hard’ despite apology for striking neighbors&nbsp;&nbsp;The Hill",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T13:03:00+00:00",
-      "fetched": "2026-03-07T20:47:34.882479+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "6d47d6e0c16e0f3b",
-      "title": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
-      "link": "https://www.aljazeera.com/news/2026/3/7/iranian-authorities-warn-against-fifth-column-as-no-signs-of-war-abating?traffic_source=rss",
-      "summary": "Intelligence Ministry renews call to report any suspicious activity through phone calls, messaging services.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T13:00:59+00:00",
-      "fetched": "2026-03-07T20:41:04.688904+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "dfcbd6e370d5a13c",
-      "title": "Iran war could make affordability bigger issue in 2026 elections - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5elNkME9SVThQLUtPV2xFSFg5VWdFWHhFZGZuc0tlRVdrNklqOElIRVRXM0tQbDY1ay1ZQ081MFBqZjBIRE9nc3FGNG1pd3VLM2g1UEJXSFl5cXpjS1lMcjByWkxKcHV6d3N6TGxoR2gxY3ctckHSAXtBVV95cUxQbTNreHZYSzJPMHdCVl91X3REZHktMWNleDktOUNGd3UwdW1kNnpYa0xPR08xcUNUb2FYWG52bGw2LUUzdGVYbm1xU0pqNTB6X1ktMm5qWEZFdUhiZzRWY0xzSmFuUkd0Ni1pZzN3a21xbzdLV3R1VEdNWmc?oc=5",
-      "summary": "Iran war could make affordability bigger issue in 2026 elections&nbsp;&nbsp;CNBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T13:00:01+00:00",
-      "fetched": "2026-03-07T20:47:34.881963+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e1a637694c917760",
-      "title": "NFL teams are becoming more willing to trade two first-round picks for elite defensive players",
-      "link": "https://apnews.com/article/crosby-gardner-parsons-nfl-trades-74332fcdede1ec5acfae34aa3c9945e9",
-      "summary": "Las Vegas Raiders defensive end Maxx Crosby (98) looks on during the first half of an NFL football game against the Houston Texans, Dec. 21, 2025, in Houston. (AP Photo/Maria Lysaker, File)2026-03-07T11:00:06Z\n                                        Defense wins championships.That’s why NFL teams ar",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T12:53:02+00:00",
-      "fetched": "2026-03-07T20:47:33.082745+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "bc24a7041b619e61",
-      "title": "Trump will join grieving families for the return of soldiers killed in war in the Middle East",
-      "link": "https://apnews.com/article/dignified-transfer-trump-iran-american-soldiers-killed-c6ca32cc5deaf90e1a5c1805dbde807b",
-      "summary": "This combination of images provided by the U.S. Army taken on May 16, 2025 shows, from left, Sgt. Declan Coady, 20, of Des Moines, Iowa, Sgt. 1st Class Nicole Amor, 39, of White Bear Lake, Minn., Capt. Cody Khork, 35, of Lakeland, Fla., and Sgt. 1st Class Noah Tietjens, 42, of Bellevue, Neb. (Sgt. B",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T12:53:02+00:00",
-      "fetched": "2026-03-07T20:47:33.082809+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "85022714ad79fb5d",
-      "title": "Jordanian air defenses detect launch of 119 missiles",
-      "link": "https://tass.com/world/2098175",
-      "summary": "108 were intercepted and shot down",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T12:49:29+00:00",
-      "fetched": "2026-03-07T20:41:22.708544+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
