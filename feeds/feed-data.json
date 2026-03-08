@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T09:30:08.181009+00:00",
+    "last_updated": "2026-03-08T09:45:06.320006+00:00",
     "total_items": 500,
-    "new_this_run": 5,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "d03209fa1703e472",
+      "title": "Report: Double-tap missile attack kills 20 in Iran's Najafabad",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-double-tap-missile-attack-kills-20-irans-najafabad",
+      "summary": "\n\n  \n      \n      \nReport: Double-tap missile attack kills 20 in Iran's Najafabad\n\n    \n    \n\n        \n    \n                A US-Israeli double-tap missile strike on Iran's central city of Najafabad has killed more than 20 people and injured 50 others, according to local media.\n\nLocal police told Fa",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T09:42:49+00:00",
+      "fetched": "2026-03-08T09:45:06.238651+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7bf90ea197018ec4",
+      "title": "198 women killed in Iran, says health ministry",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/198-women-killed-iran-says-health-ministry",
+      "summary": "\n\n  \n      \n      \n198 women killed in Iran, says health ministry\n\n    \n    \n\n        \n    \n                Iran's health ministry has said that 198 women have been killed since the start of the US-Israeli attack on Iran.\n\nOfficials said more than 1,300 people have been killed, with thousands more w",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T09:31:01+00:00",
+      "fetched": "2026-03-08T09:45:06.238680+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9124d7914b181a92",
+      "title": "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor",
+      "link": "https://www.aljazeera.com/news/2026/3/8/irans-assembly-of-experts-says-consensus-reached-on-khameneis-successor?traffic_source=rss",
+      "summary": "Officials say a candidate has been picked based ⁠on late supreme leader&#039;s advice that he should be &#039;hated by the enemy&#039;.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T09:24:21+00:00",
+      "fetched": "2026-03-08T09:45:03.830050+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "28b65e5ee0c2d98e",
       "title": "Israel kills 19 in attack on southern Lebanese village",
@@ -40,6 +76,18 @@
       "category": "aggregator",
       "published": "2026-03-08T09:08:55+00:00",
       "fetched": "2026-03-08T09:15:05.828412+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9d18dfdfa4e1ed0c",
+      "title": "A Republican’s Stand Against the Iran War Stirs Up a Heated Kentucky Primary - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2kyeTNGOUJ0RWtnYi1PQ0ZpWWsxSTNncGtpMFFqMEpQZkczR25lZE84RlVKU1djZjR3bEtHSkxyYlZQLUhTQ29ncVlhYkxTME1SN0k3d2F2aTBnX25pMnRvdDdpNFZwZ25hY01qeDVjQTNJdEhDVmlVRUI0YVVlNFNiLUk4OWJVLTdhMU1SQldqcWtnSzlaU2Fn?oc=5",
+      "summary": "A Republican’s Stand Against the Iran War Stirs Up a Heated Kentucky Primary&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:08:55+00:00",
+      "fetched": "2026-03-08T09:45:06.097729+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1816,6 +1864,18 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T08:30:06.734670+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "bb2fcc2fc84c75ae",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPd0x2ZzJSVEVib085RkdSTkg2MjVnMlFjcEtsejEyRm9LdDNwY01BT1lsX0pfOV85T3M1YjRLZEZhZFN2cnJWang3eHBKUjNKYmhBdEhIOTlqc3JMelZVWFlsZnNZOGNmUWxSZno1LUk3UzRpS1BxME5ObmJMQ1Q1cHdlU0s3d3FmYkZSLWRiS0FRYUNTazBJSFY2VDlnamRuaWF1SERxZjM5YjhlWHA2bkF3TG81YXZweFVmUUZBSTJBOFQ3RVpKOGp1TU9TaWU1MGVKb2l4MFJ6RnIxdjRsM1ZLYmZwUjVWenhmeGktYkdTX05pVTZFOFJvdWJiZXktR1ZOZHM0WDh2RURwNkE1bDA3ck5oODlDQTJjY1JmTnpoNHNVZUxtbUYtWjlKS0ZrbkdURWI3Y0pDWnFiVXd5N1o5V2xMVGQ3WHMxMzkzekZTaU9JQzgwc0NfYTRHalItQVRyQmFaRGY1SXMxYU9rekJUY3Z5ZzB1aFFRRkpjcTdlVTktSHZmREVkaHNyMEE1U0dKRjFKQ18yUkFUQ0tudW42bXRnUE1NajhsWldsSWdkbzBvd3hN?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T09:45:06.097779+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5944,66 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-08T08:15:06.760551+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "48603c53dfa04f64",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOU05ScHd1alE1dWlNMUZ6WXdhX29RMUJ4SjUyekJER1Z0MFFYRVZhTEtDWXlaazRENnR2V0dsU1NlWmVvT1ppbDA0RlA4cmtMWGMwR05aUHQ5M2JOLXpFeUdFN0lfNXdhRmtEUGZSdmViemdORlVtTmhSRmNKRXZfdmxWc2h4Vl9MTFlaVU1DNlM3VUV3dm1vQWxqZVJyMldoWXM3dDRDblZJZEVVbERmZ2tNSWFQUlYxdDJaN3pEbkNkTnFIM01DYTJsZEUwd1NxUzdHWG40VEJFVWs3QVFTZEtjeTAyaEpJVzFsbFBvMmo5di1RTkRmeklSM01VMVZaclNQanBpWk5zbVA0M3ZXTlpwaGlZdkN5VG05UFEtaHEwMjFOZkdZQVlFQlhCMDZXYTVqUFJDQmdmX2poUXliUHlucG8zSFpJNElTVEk1Z1VQNEJUdzg3Wmw0Y0ZodkkzdXlrMHJfVlk1YXNfZzZtS0o5eDYtR2JNNk5XeUZFejl6NWVyX2FZ?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T08:30:06.734201+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e6a8cc5e1702a4d2",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPYXB0cWxGajBINWhLNVFGM25VT3VYUFB3RmRoS1d6Z19XY2hpS1NidVpPazI4djV2eS1HeGUySGlfNm5TV0ZXWml1eTFodGt0VVV0d2QwaktFaXZqNFE1RVExaWVZdS1tWFMtZHZfeTQ1aVBra1ZLdjdtcW00cE9RaU5kWTNUWlZmYkRQcWo5YmpJTFo2ampCajZjYVR6VWc5bndIS1UtRXFYMmpIYTFzckpLN0g0U2YyT0pvT1dvNmhFTHVwNE5FSGFwNFJxWnZVTXlqdVNpa2xBUWVyTXRiRF9jVnFzU3plVHh5NmcwM1NpN2JQblZnY1VfcGF6czZwdjNfeHJzdXJDOTdYRG83OHFWS2dtaWpzTllYb0oyenFjcm83N292ZktteF84LVpubll3ajRBVkJSOFV0eDRNMEJjSG9fYmNhcHdHeVJQUkU5LUxxUXRxbkFPUG9VaHVYdktZdFlDa3JTeWtHc2tIRE4zRGozTzB3bXgtdmtyLWVNUGJydHdz?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T08:45:05.662193+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8bff698051665c5c",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxORTUyMzNNZEZPd3JMT1pYVXdQcENhc1FVZWVvcFFUUjZDWlpJQ2hkLWxhUUh2NUNsODB5OTdsQV83ZDlhaTY0bjJ5NVlwbXAtYlAtSDNuUGxrMmJhWnBkdFEzM3NvR192cmo4Mlo1MjZpazl0cVpxaHJYaWFuNVBZMnZlem5rS016ajFFOVQtdmhBZEFNRHgtMWhUZkxOVjNfanlkanJuamVPZGdMU3NTSTBXMHdkbzRyZ1dfa1BBUEdqTmE3NlJoLTZrSzdLN1Nic1o2ZHdpd1FUZlVsNTlDb3FJZWdvcHp1YXV3TlFtYk5ISEtNVzdsdV9wOFo5UXZJZF9uLXVncmIxZnpEWm8xdlRhWEJQMnJtQTgta0MzdFVTdVdRVk1IeUlJNGR3ZXpjYmoydmctNk5mMVVMOGh4amlWcDZJSE9Lc2tPVGpvTUJuUVRUQk1sbzUtbVZUcWhTZmxVNEhXWm52c2pFUTFlYjJOWmZPR3JKRThqOVpySXAzaUhUYTVn?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T09:00:08.071418+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a92c5a78b62c7f2d",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNNy12Wjd2aFUtUERZRjJTQURzcmNPc2Y4Qi1uelJNMUNtb3ZLUkV0Xy1JQkRfU3BHVDRQRW9IVWxxLXQxa29NOTBwUEhIMEdnMVQzZ1A3RUVsZDhoMUFnSG90YVVpSVZWUXZ6TFdBenhLZzBtMkF0R1JxWndqWHQ1M203V0JtN1lNeGdRMjlmSlJMVmdYbTNsWk9XeXJWUk1lNWtESVQxTDhkZmgtWlV3RGZueWtJRnRMRU5hanRsODZLU0RTQnByNDBCbEFDRmlzV2x1dTVwM0RNTU1jY3BKbmZaX2ZiNmNFd01OWHJwX2FNekZZNTZPNml0ZWIxVkZ6NUd6TVJvLXJLUFZ3VXF1T0M1UFhXMURmMEJnSUl6ZHp3VlhxOVRMbEFNTTVaVDFXaWhudDdfZzU4LWhhT2Exc1FNQ3RrUVhNbmZ6VmkzbjdlQUNtU1V3WjF6ZXFCV1piaDNWWm5hR3JFdjlyeXg4NENCUnRnTV9iRkdxbnpXTlJMOGZUNXNz?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T09:15:05.828680+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "91af728abc82c410",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNb3haaXNaYWVwenZwb2hXV3VnX3hiZjQ1X1hvanMwMlpnZmFhbDBCMk9yenJUTHZ3V1RvSmk2Y0RFdDM1U3lRTnBNV0ZSMVFtZDNUUzNiTmY0Nm5Ka0wxT1huT0NWX0ZIaGt5ZzNET2k4S0FEWFYxMkI5NkhuMDNyV0ZDRjZNTUo1TzV2RjdUVGZjVEppdWFmNUxDV2NiYTZSR2VjM1E3X3hhaEtBTVotS1BIZ1VxcWc4WlJxZjY5RGZBTlozQkhtQTIzWW5Xa19qSXNDNHM4NGJjak4zSVRHdnEwMnRnYWZWeTJaaGhidVdOQ1BiaHdoaWYtbHlidk1qcGhpZzF5dVpCUFpuU2prQU5QWG5waW9yUE15c2FfMWFIeF92aDlFcnVjdGtYVjlnWlQzd1Z4cVJ5eEJ4Ykx1XzVuMzNRMmFWMXFvVkRRRFN0Smp5bVpIdEVBbzFyLXJ5Q1R0RW50X3N5UVNSNEI3ZVZSM2t1SjlFeUdZZVpTaWNPWHE1TWpv?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T09:30:07.936201+00:00",
       "relevant": true,
       "iran_specific": true
     }
