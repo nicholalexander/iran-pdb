@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T18:15:06.521722+00:00",
+    "last_updated": "2026-03-08T18:30:07.621687+00:00",
     "total_items": 500,
-    "new_this_run": 11,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "725d4c7a8d0124e1",
+      "title": "Tehran indicates Khamenei's son will be named supreme leader as Israel expands Iran strikes",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-indicates-khameneis-son-will-be-named-supreme-leader-israel",
+      "summary": "\n\n  \n      \n      \nTehran indicates Khamenei's son will be named supreme leader as Israel expands Iran strikes\n\n    \n    \n\n        \n    \n                Iran on Sunday indicated it had chosen Ayatollah Ali Khamenei's son Mojtaba as his successor, after Israel struck fuel depots in Tehran overnight a",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T18:27:39+00:00",
+      "fetched": "2026-03-08T18:30:07.524323+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "2be29ccd9af37690",
       "title": "Iran will confiscate assets of overseas nationals guilty of cooperating with enemy",
@@ -16,6 +28,18 @@
       "category": "iranian",
       "published": "2026-03-08T18:15:04.372325+00:00",
       "fetched": "2026-03-08T18:15:04.372343+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3e2a871fd77dccc8",
+      "title": "Great Britain has only two days of gas stored, as Iran war disrupts supplies - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZkd4cjFQSHM2dzhweVFKTl9XT3Nic2RUVEFUM2RQN2RlMkJMX05CMklsTklHNWtIeUt3V2thS2NJVExQT2NlZGlqRkM5TzJoOVY3X2gtMG42RlRhNGt3TUozcnRwY3NZWU1vUmVpVldOSDZvNG9QNnFPNVJ5Q25CNkw1a3lTdGxkSnhUOHhzRVVxY05jTnNpeGlvajVwakNqUmFyRUpvcHljQmpaTTBIR0QxY29QcGFqbFl5QUU3SkRvZw?oc=5",
+      "summary": "Great Britain has only two days of gas stored, as Iran war disrupts supplies&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:15:00+00:00",
+      "fetched": "2026-03-08T18:30:07.349676+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -30,6 +54,18 @@
       "fetched": "2026-03-08T18:15:06.379819+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "79300409d0ccc36a",
+      "title": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZUlvMjE3bHRaS2lFZzhJNFBfaktFX2h2YmhhMDcwd2hJWGRkTmhRM25BZFFDU1VyMm5JTmQ5NXBjR2o2eDFVa01adUFqdV9IeGt4WnU2Yi1SbVBQbGF2ZnZWYnhfT3pqbTNEZjZBaHZOcUVLMkhQRDZkR2JQdmNFWGVTSGtJMHlTazZPbHVEZVo2aldpazRHeGE5d2U1OUJuWlJod2p0LTZTLUxnUmM4ZHFwONIBuAFBVV95cUxPSWhGMmtlbm55bVMyaXJZd19uVDlnQTUyNjFBMmNXZk9wN0YxNXZRbXpITXprTldqdEdvdDBnaGE2dmR3SWpxVWtKd0h2b2ppNy0xNlFQc2NKRFlfZkRRUzVuUzFhMjVqdEdBSFIxMWMxQUJkU0gxenphN0cwN3pZZ21Ea0c3UjZFSDAyN3h3cUo1dnpzUEFiSVlLYi1LeWxVT2NvZS1rMXQxRlBReGEwOFZabXdQeHJz?oc=5",
+      "summary": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:03:17+00:00",
+      "fetched": "2026-03-08T18:30:07.350264+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "2bc98aeb2549acf9",
@@ -596,6 +632,18 @@
       "iran_specific": true
     },
     {
+      "id": "dacc386b251fd902",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOeUtKVDZKZmlGYWJ4emFXVjNWczdDVFJveDI1ejJ6RGhDb2lBZ2N4N2x2UTBuSVNUMmJrOWdWdWFabFUxVHRpdDdJNXFpbHBLTjBVUkw1T2FOeUpvTElQa1lFLWRIMnFWVjlOZk05YTlNdUFxcUxmREp1LVZseFVJYlM0LUE4UEVVa0xRT1FpUEYxMmdLbVlOcnNPOXVkWmtyRnlidllTWkdnWkUzZTJ2amdrM24wUmd5eVR5OTFtNG1EaHRZT0NhdV8wNUpSMDV2OTZGWkgyZ09wc3MzbHYxVElDcG9BeEthOE9pMFppdHo5c2ZBTmpGR0RDb2pTQ1lJdjVubURMOGtBWTl0WFNDc3RIcGFQemxaa1M1OEsxU1BHR09MSnAyNVRsU2xwVGhxaVpPWXVTdUNkTVdQSVdyQ2w3dk16N1NPWEdmb0x4ZTZFamtDZXg2T0t3cE8wQk5VZmJvMjN0NGlGWWtVMUxjd21SVQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T18:30:07.349914+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "dfb83f605ff9a08b",
       "title": "Iran war: Bahrain says Tehran hit a desalination plant; Israel reports 2 of its soldiers killed - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFVoejlTSjBKTlRPTWJCQjhUa1hDOUpJM09UQ3lMaTE0cGRzNnJ2QWl1Smk1SDJEcndHak0wa3ZRc3JoUkhJT1pycEhFaFRBNWF4YmgtNV9XNXNKTUgzUmxPRDhuSjl6TUpqcDdkeGZzWnByQXY0M2pIT0hub3Brbi0zWHJRdlh5TUhWcHdiaVNVa2c4UUJFZlBManRQWDkwTDR1M1VBeG1MYjBoTzdLY1l1TVY0YXFCZEgwNzFOcnFOR1NnUHFlRE1mTQ?oc=5",
@@ -652,6 +700,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:05:55+00:00",
       "fetched": "2026-03-08T15:30:07.404017+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a09e04056946b6dc",
+      "title": "Opportunities, perils and pitfalls: how UK parties have responded to war in Iran - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZnBZSG9VQlhiRDRSSEE4NmFKbEpnVDFKc1pjWE9jdmJ2aG12RVVON3dsazhHU1RXY2tSVEsxZk1JeHg1WjNteVJSV1Jfc0V1S1VFbkFHTXR4bzRJMll2VkJQMVhBMTZuZkxiM2NHblVJRnVDcmwwdGl1NE5qYWNXVmpmaURwUnBhRHc?oc=5",
+      "summary": "Opportunities, perils and pitfalls: how UK parties have responded to war in Iran&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:02:00+00:00",
+      "fetched": "2026-03-08T18:30:07.350306+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -988,6 +1048,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T18:15:06.246662+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6d6fd6738ffff436",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNeDFQcHI4Smw2ME9qRHpsMUd1d25ua3dReGw5ZGFZTmUzWFo0c2FPZW04S2xmLWZTZHlVdGdMVHZ1S0xjQVkxWWJsYXVRdVBlQWwwUVZBc3BBc0l5dFQyX2FtaGJ6akdhWEFRa19mbmgtaGFmeGtYM3pUX2pva0g0b3h6TVJlMUpkWHQ4Q0hPNGV0MVhIYlV5Q2RpbkZsOUhOUEJ0MkJhTXJhM2gwMVNjalp4Vldma2JUcC01a3RGXzg4dHdDOVFCTmN5UVkwMDFyRk0tVjhTTF9QTl9mUXhwbm1Yc3FUTGJsSnAtWC1BN3M3enBvZzkzY3gtMGFyWWdySFFFREtfZmkzZ1JhRDN0bTkzZjZtak51QzFWU0ZCbnA1dTA1UVdMcWtkSFltSmNwSW4zQnMtM05USk9MdkZ6Ul9lWEtwdzV1U0FCWVd3QkE5SmFSNmN5a1kyaldQZGF2dXQ4NG1SZUNxbUQxaG8xa1BObnN2RXlXQ3VLN3dxYzRwOUZQOUl0M0ZSeHFic2c4Wk5qdC0xMllaYkNjSWpPbUxLdjg5dEh0ZlN6MFRZTDVMR3otbzhYYw?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T18:30:07.349866+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4616,6 +4688,18 @@
       "iran_specific": true
     },
     {
+      "id": "d04e4b710abdd3c2",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPcjlVZ0pQTXU4Ylk4VTVCR01uRWxDc0Z2RXpCb0ZIcHRSQThIT20wTEpCUjRfUVNsMlBaSHU3MWs4djJTMVdhSzkzc3VnQUNWY1dxREZTVUxfNDhVNHVxMFVISWRGMXBQa0FjZWNqYWF4ZkI5Sy0wRF9ka2FhUjlha3pTY0h1ZjhzRVROQ3JaTEcxaVFTSjhYbjF6WEZBRHpGWDZYSmF0M2dxUGc4ZFdfaFhYTnJ4S0xEOXotNXNZVW5nbWlRbkJvVnhNZFA1RUsydXZ6eW1velVMZ2VTdWMwRy1nWnhVV2ZqM0IwQUdnbTA5Z01Bd0NnbGdDOWY0ZVVScDV0akotN0JRaHBNYzVIcUh2akNwQ0E3bGlzTG5JUk90dld5VGZjN0dDOE9DMHRPSTJRSHY4X0JBTS1MX2xYRDhqbElObkpNUVo2NkdKSHhNMDBqLXdHejRBN1NsTUFtY3FXdVFsNDJYZmFZVGJRRzVKUE92ZndoWklpSU5kM21jTzlyT3p4WmJ4YUFPVnJqRk9sQ1VNeGpqUGFfLXpYZThLTnpxTnZzcXpPZVBXd2xiUldzWWhJ?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T18:30:07.350130+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5920,90 +6004,6 @@
       "category": "regional",
       "published": "2026-03-07T22:02:38+00:00",
       "fetched": "2026-03-07T22:15:06.654063+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e84498cdacdaa2eb",
-      "title": "With Iran, Trump Takes the U.S. to War Without the Public’s Support - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGVhSGlBdFNBZThUREZyWnBUbUh0ZmFPc3dFOUNSYVhvSFpnTDYyN2VhX1ZZM2dBUmNQaHZFOGNKZTVacDY1NGVWQ2pDU2tGbV83cklQVTFKY2NwdXZmSHhjSVpiTjZsMFZtb1VxNU5LeUwyTnJxcERpQTNiYWlfMDluR0pHeDZa?oc=5",
-      "summary": "With Iran, Trump Takes the U.S. to War Without the Public’s Support&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:01:00+00:00",
-      "fetched": "2026-03-08T02:30:06.276292+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "944f28a0b001c439",
-      "title": "'Iran won't loosen its grip on Americans': Security chief says US insolence won't go unanswered",
-      "link": "https://presstv.ir/Detail/2026/03/07/765095/Iran-warning-United-States-Trump-Larijani",
-      "summary": "Iran’s top security official warns that the US’s hostile actions against the Islamic Republic will be met with a firm response.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T22:00:04.503218+00:00",
-      "fetched": "2026-03-07T22:00:04.503243+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "59632875132aa831",
-      "title": "America’s military has an Iranian drone problem - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQUx2bE90VHRLaklfTy1rakx5cTA2aDNRTTQtelN3X3ViRkZFbWcwQlFQbVZxb2huaFBiZ29adC1NRTV5YUpYai1iQU9MQndmdEZCa0RhWGJVZFhyc0U0V3ViU3RQQV9XM2FyUGxLb2FpSjVBYzR6NVlaa9IBgAFBVV95cUxPX054ZFRFVVBxMkJYUU1udUhRUC1aWkZzZ3FlWXJPM1o5VHhsLWJqdnVpM1FMM0llOG91WXZudGNycjFOZ1pQN2FwdUhGTXduWUEyZWl3clcyLWdXM3dYVnkzRGg5VjJlV2tjenhUcHQ3RDV5R0VFbFJFemU1Nl9yTg?oc=5",
-      "summary": "America’s military has an Iranian drone problem&nbsp;&nbsp;The Hill",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:00:00+00:00",
-      "fetched": "2026-03-07T23:30:05.965210+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "50552558d7c33df9",
-      "title": "Iran war threatens Trump's affordability push as rising energy prices complicate Fed rate cuts - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjY3UlAwWERKVzE5WWFrZGlVNXg4Wk5DR1hSYUF2X2lsVjhxT3ZUSHRMcXNvYnRzRGRKSnNCUFlRZmF0SlE1X0gtSEhxczc3U1JxQllOdjYwWkpQcWI5bUJ5OGVzalhwRkVYWDB1QmlDcFAxVXRvN2RWUW5wU1NNbW0yQjgzcUxhTE13cm1ET0pRNFdfZXoyZkwzdEd5aGR3OElnNVc2cUI3ZVVnd0k0MHdvQVBXQ19IWkE?oc=5",
-      "summary": "Iran war threatens Trump's affordability push as rising energy prices complicate Fed rate cuts&nbsp;&nbsp;NBC News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:58:01+00:00",
-      "fetched": "2026-03-08T03:30:05.409598+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "69171f8f13c9e20f",
-      "title": "Trump tells UK's Starmer he doesn't need aircraft carrier help in Iran war",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-tells-uks-starmer-he-doesnt-need-aircraft-carrier-help-iran-war",
-      "summary": "\n\n  \n      \n      \nTrump tells UK's Starmer he doesn't need aircraft carrier help in Iran war\n\n    \n    \n\n        \n    \n                US President Donald Trump said on Saturday that Britain is giving serious thought to sending two aircraft carriers to the Middle East but that he does not need them",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T21:55:25+00:00",
-      "fetched": "2026-03-07T22:00:06.412777+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "6a6382a65a0a50c4",
-      "title": "Trump attends return of first US troops killed in Iran war - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDJ1QnhjUUhwWk1DUno1ZWFCaEk3ZWJJa2dDbUpKWGpReHZwUTlGcUtYRUNYd21uUGVFM2xnRVl1Q3NRcTNOYmFFTDhoSHdjSnNFcndoMlVYWE9BZ1VMQXlVaGdTMnc1TFdTVlBxb0FIdUFEZGc4RVpZdHUtYmpnWThSN3IzSGV5VW5JSnIxUHZLNk9ZVlhUeHBwYjhrOXUxNUxieUVDVTk?oc=5",
-      "summary": "Trump attends return of first US troops killed in Iran war&nbsp;&nbsp;France 24",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:55:13+00:00",
-      "fetched": "2026-03-07T22:30:06.382188+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9737703cddf1beb9",
-      "title": "How far will the Iran war spillover? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE14enladHU1REhYT3BsZGU0LUN0YU96TGNYZXZHN29YS2pLa1p1cDdZSjlPQWZ6UHhYeWVFcFdlY1BFeFB3WUxRM0d6QWItY0hIREx4SmlWZlZ2NHhFZ1hmem5QWlZsMzZwcmRiMXNFM3kyUUtDWEZYczFXV1Y0ZTZEclZxVlRQa0g0UGJGSDhuLTA?oc=5",
-      "summary": "How far will the Iran war spillover?&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:54:38+00:00",
-      "fetched": "2026-03-07T23:03:51.466999+00:00",
       "relevant": true,
       "iran_specific": true
     }
