@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T11:05:29.248119+00:00",
+    "last_updated": "2026-03-08T11:15:06.082306+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 6,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "5b426e595bc6e9ac",
+      "title": "Pezeshkian visits hospitals treating victims of US-Israeli war crimes",
+      "link": "https://presstv.ir/Detail/2026/03/08/765114/Pezeshkian-visits-hospitals-treating-victims-of-US-Israeli-war-crimes",
+      "summary": "Iran’s President Masoud Pezeshkian visits several hospitals and specialized treatment centers to inspect those who have been injured during the US-Israeli aggression.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T11:15:04.387084+00:00",
+      "fetched": "2026-03-08T11:15:04.387087+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ee9e6730ee24b316",
+      "title": "Factbox: Civilian infrastructure in the crosshairs of US-Israeli aggression on Iran",
+      "link": "https://presstv.ir/Detail/2026/03/08/765115/factbox-civilian-infrastcruture-crosshairs-us-israeli-aggression-iran",
+      "summary": "US-Israeli strikes have targeted hospitals, schools, heritage sites and residential areas across Iran in recent days in horrendous acts of war crimes.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T11:15:04.386947+00:00",
+      "fetched": "2026-03-08T11:15:04.386971+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9c623cc4d7c2abec",
+      "title": "Bahrain air defenses intercept, destroy 95 Iranian missiles, 164 drones since escalation",
+      "link": "https://tass.com/world/2098409",
+      "summary": "The General Command of Bahrain’s armed forces urged citizens to \"remain at home and leave only in cases of extreme necessity",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T11:08:19+00:00",
+      "fetched": "2026-03-08T11:15:04.915432+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "29d2d59f64ce66b7",
       "title": "The Iran War Is Heightening Stock Market Volatility -- but This $7.8 Trillion Figure Is an Objectively Bigger Worry for Wall Street - Yahoo Finance",
@@ -388,6 +424,18 @@
       "category": "aggregator",
       "published": "2026-03-08T09:02:00+00:00",
       "fetched": "2026-03-08T09:30:07.935969+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "deb94727d76cf268",
+      "title": "Trump’s Iran War Is As Unpopular As He Is - New York Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1JsNm9jdzBZOTJiU202LWlkazBwaUgyTG1rcVFUamlmMVAwc05BT21iRWtQNk1pRDVFZGxQNVhTdzZCLTM4RHRlYTBCb0FxLThfdmpyYjE3M1N1a3BBY00wZTdpZU1ZZzh1aVZXMUU5V19Fb0lYeFA0OUNzMVFyQjRZaDZvZlNhQ0VvTVNDOA?oc=5",
+      "summary": "Trump’s Iran War Is As Unpopular As He Is&nbsp;&nbsp;New York Magazine",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:00:38+00:00",
+      "fetched": "2026-03-08T11:15:05.908743+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5956,54 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-08T00:00:07.481532+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c233828f128d2b0a",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNSk81a3NkYTItOGdla1dBTXVYMjJWSEVvMGE3QTI5WjA0UGNpTHpKTjRBZUxVMWNsN0dkajRaS2E4RnRuSWU0bHI5cjMwaXQwYWdWNnRzd3Z3a2Z6a01UMDBDRm8yUU90ck9ETWNiRDJQVm5iOEt6aUtObXhCSWhUeGpLMkthX05sNDJvbXhveG1NZE85Z21Vby1wYmxqNWM1X0VGT2xQVHh3NkVWUTFkVVlEVGVFZTZ5b1gxSFg3MVZzaFBZaTZGOVk1VnFUTmN5VUJjTnFnaGZwTE1MTldnaWl5MmpsRmo4WXFaSVJ5dXhrdFFKZUE4S0FPdUJkYVZkejFLeTV3V0hPMlBzVEdOdXdkR3BJQUwyNW8zMXZpWHhpR3VMNy02cXA0Vjg0Rm5HeGZ5RzRUZGhXazNGQTM2a2trOXcyTTNtN2xkNGJBV0t2UENvWmlvSXQwZUNXRHlWTXVFVFNWaTBVbkg1XzN4OEQzNzZnM19iVWNwTTkzR1lfbTJfOWFZ?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T00:15:05.583987+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "03722958c158bb38",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQZkUtV1hoc3VXOUxyT3UwaWVMNDRWazNLNER1Qnd2Q1hTandSOXcwX1lGYmhRNnJKLXB4R09QeWR5VGZmWnl2bWtnM2JfNWlSY0FwMDRMbXlkclBFN3FOcklmZnJ0UzFTOFI3ZW5zMG53dmN1ck1NUV9fMVZtS191MDF6dVN0d2JQTk5tZVhhRVlOV29tby1wRTc3Rnc4SExGVGdsa1ItVkhsUEVfcXlvLVZONzFVRmxHdFdFcHdsZ0MxbkFxVWtzc2ktdjd0a0E5eGVrc01YdDRlRDVOZHRrcnJZVm1CQ0hWVjlKX2RpVnV3VnJLc2hSR0h3dHN0ZGVrMk14TU1tZ0EwZi1jbjJFckFCbmtyZUdBOGJOa0ZEVGtHcjdqbl92YjFiVjVkT05nbmRlc2Y5ZEg0XzJ0OGdBQVFKbUdPVjQxSkQyS3BNbnZqU3VfNUFLalk4NkgwNGFsWHZiUkhGcy1YZmZHTTRYUlpENV9nZFlkUHJCYUY3TFZlcExJUXBz?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T00:30:05.941233+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9e342e8a7376f64c",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOQmhDQzZUWXliay1VMmxJM1BRNGJaM3M5TmlXMGdkcmo4QWozZ05Kbi1WcURQeERqcXdONlJ1ZGFFblZJSlk1emNRYk85R0lhTDh5S2F5VGlNY05YTGdBcHBDNWtkQldkMkVQWmFrQUI0aTRpU1pmeXlnVDFzZDd4V1RFbVdjY3ZuY3ZMSGdadGtic05HaWJMQTV0Q1RKQTZ6SVNCUDF0d2VpXzVqbXpSRHp2ck5TQzhscVZZZ05sZWlUc2hhajBKMUN3MGYxT0JlbnpIM0ttcGpIYy1PRXNZUVgyblBNVTJKUElzT1RwNTlUN0d6NUt4d3lTXzdZY0xpRk1WMk1Ic1lfTklfelRTaTBoUC1EN3RJRHQtcTJJbkFWMUVlT0Y0Ykg5YmpSR29iX3BBczhWVGxaNzZGLUw1WEJaUkVKLU9wUjd2MTJXRXBpdWZrSkJrZTFoZDhVTk90dVM5UExoRDItNTM4VHF5TXBjQ3BmX2YzQTM5RUJlVV9iVWJjZDVB?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T02:15:06.134934+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "298f916d0a1b48bd",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOZUpETXhfN0hvZlg3NG1mck5jTTItUVZyOUQ4a0NqWTZTZkJWTERXS0pkcHRCdlpkMFh1TXZPVXlYQWlVX0s4bVktZDl4RUNxODhRVE5OUk9jc0NEN1djTkMxN1U0Tk41VTZDWF9iZmZuRmhJNnp6bi15cnhfNDdqU3R1TnlOdWxJbzlzQzlmVHRtbjVZMGFCZW90ZGRNRnlZRVFPd3JOSWpFa0ZmSlVPSXMwRmVLa2ZPeUZNUlhoRHNfbFRtWkd1c3FZRldBWXdPbzRfcU9yNWU4bVVfLXFaSWstT2pXSE84ald3UFhIeGhuTUU1c3lPdTgySUQ2cEE0d0tPY19TNndkblZVM0tQa2NhWGZyR25sdG5SMUZZWk5GUnZ4R0hIbXYxRGtpdDdZU2czT2tVY0dnUUpmMDlrWHFLRVd4UzFybnNBREcyRGFTVG56d0ZnQWRWeUcxUXFSc2YwQXZGV3B6bk5oYlV5bDNid3hYMTZ1T0h1NElXSFhUWFZNTmRZ?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T02:30:06.276399+00:00",
       "relevant": true,
       "iran_specific": true
     }
