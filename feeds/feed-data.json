@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T13:45:06.369185+00:00",
+    "last_updated": "2026-03-08T14:00:06.762659+00:00",
     "total_items": 500,
-    "new_this_run": 12,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "0e887ff1a519b2f0",
+      "title": "Arab League ministerial meeting discusses Iranian attacks",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-league-ministerial-meeting-discusses-iranian-attacks",
+      "summary": "\n\n  \n      \n      \nArab League ministerial meeting discusses Iranian attacks\n\n    \n    \n\n        \n    \n                The Arab League council has held a session for ministers of its member states to discuss Iranian attacks.\n\nThe Qatari foreign ministry said foreign affairs minister Sultan bin Saad ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T13:59:15+00:00",
+      "fetched": "2026-03-08T14:00:06.690670+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6f86e214d69fef52",
+      "title": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXRSSXE3UmVvNGxfRTBHeVlSbUgxNHV1NDZ0cnZJQzA5VGYyc1MwTTdsdlQ2M2xDaWlHMmJCcjVsQjJtd3JlUHh5LU8tRU9WRXM1aTdzSVNOZW15ZGsxMjRSSVBmczNwQ1diTnVhU0hXYTQ1NnRTS0lhb3lWZjdaLVhHMXlWd1FBbFk3cXhmbTdqbEhWVUZmLWVPQXBOd0hzSWZWeGtrc2JrOGtpLXJsNGtLNDVDQXNyVkNTSE1B0gHDAUFVX3lxTFB0cDRsWDM1cnJDTVFsWnc1UFItN0x0bDVwU29iYk1ENVFtTlIxOVNBMnhNejhiajh4NXFpSlYyQW4tZHBhUXBSOUExblhKYUZHTXRhS2JlbGlDbGxuRXNVSFdjMElBVGRVLXJsdXFma2ZkU056SnFZSmJGOFNRYkVLRHJSRW1DbnNiV0lMYzJWel93LTZOdDRQVDFfRmxxa1VkSVlUeWhCN0ZXbEYzRl9SbEg2VnFFSDBPSlRxang3ZlJTNA?oc=5",
+      "summary": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T13:54:51+00:00",
+      "fetched": "2026-03-08T14:00:06.521458+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "74cda54a29e25cd0",
+      "title": "Attacks on fuel storage facilities in Iran amount to chemical warfare — diplomat",
+      "link": "https://tass.com/world/2098529",
+      "summary": "The U.S.-Israeli criminal war against the Iranian nation has entered a dangerous new phase with deliberate strikes on Iran's energy infrastructure, told Iranian foreign ministry spokesman Esmail Baghaei",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T13:53:59+00:00",
+      "fetched": "2026-03-08T14:00:05.386674+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a27660aa066f80ac",
+      "title": "Europe's mixed response to Iran war draws Trump's fury toward U.S. allies - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktYNHZwZnVCYVhERnc5N1RGUW43T1NxNEx2VVEya2Nlc3V2RG40c1gxZWZkb1FwTmxqT0dDVi1MLVJPSmVHRDc5elZiWTRWQkVzeUxNWEpEU2VZbFFyVGI0Mm5Hby1ha1VEX0ZFQW1KWUdnTjR4NXNIUGdIeFk1WEh0UTg5ZV9ETEVRU0lpdnVVZzRNa1JhdHBoLTVxR3Y0c3Q3QVVRQ2I3cTQ?oc=5",
+      "summary": "Europe's mixed response to Iran war draws Trump's fury toward U.S. allies&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T13:45:23+00:00",
+      "fetched": "2026-03-08T14:00:06.521650+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "3faa55bf767c6924",
       "title": "How Israeli feminism is used to justify genocidal wars",
@@ -5958,54 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.638900+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "33d2624db647b0e3",
-      "title": "US intelligence says ‘regime change’ not possible in Iran even with broader war",
-      "link": "https://presstv.ir/Detail/2026/03/07/765087/US-intelligence-says-regime-change-not-possible-in-Iran-even-with-broader-war",
-      "summary": "A classified assessment by the National Intelligence Council has concluded that even a large-scale military offensive against Iran would be unlikely to topple the country’s political and security establishment.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.638857+00:00",
-      "fetched": "2026-03-07T20:47:33.638862+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8373f75c5828326c",
-      "title": "220 US forces killed or wounded in Iranian strikes in 24 hours",
-      "link": "https://presstv.ir/Detail/2026/03/07/765077/220-US-forces-killed-or-wounded-in-Iranian-strikes-in-24-hours",
-      "summary": "An Iranian Army spokesman says 220 American soldiers and commanders have been killed or wounded and significant damage has been inflicted on American assets in the region in retaliatory attacks by the Iranian Armed Forces over the past 24 hours.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.638784+00:00",
-      "fetched": "2026-03-07T20:47:33.638806+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9da33f8857e43334",
-      "title": "Video: Satellite images reveal damage to several Iranian military bases",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss",
-      "summary": "Satellite imagery reveals extensive damage at several Iranian military sites following a wave of airstrikes.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T20:39:25+00:00",
-      "fetched": "2026-03-07T21:15:04.356196+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e412952a1d3bc834",
-      "title": "Displaced persons in Lebanon exceed 450,000 in five days of conflict — minister",
-      "link": "https://tass.com/world/2098241",
-      "summary": "Social Affairs Minister Haneen Sayed says that 514 refugee reception centers are open, but many people remain without shelter",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T20:36:19+00:00",
-      "fetched": "2026-03-07T20:41:22.707718+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
