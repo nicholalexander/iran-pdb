@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T12:14:35.739883+00:00",
+    "last_updated": "2026-03-08T12:30:07.050112+00:00",
     "total_items": 500,
-    "new_this_run": 26,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "67d87ec40ac5679a",
+      "title": "Iranian missile attack wounds three in Tel Aviv",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-attack-wounds-three-tel-aviv",
+      "summary": "\n\n  \n      \n      \nIranian missile attack wounds three in Tel Aviv\n\n    \n    \n\n        \n    \n                An Iranian missile attack has wounded three people in northern Tel Aviv, according to Israeli emergency services.\n\nShrapnel reportedly fell in Tel Aviv and in Petah Tikva in central Israel af",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T12:17:30+00:00",
+      "fetched": "2026-03-08T12:30:06.964757+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "703e4b335289622b",
       "title": "In Numbers: Civilian toll of US-Israeli aggression on Iran as war enters 9th day",
@@ -20,6 +32,30 @@
       "iran_specific": true
     },
     {
+      "id": "5c4b030f10352c9d",
+      "title": "On ‘S.N.L.’, Pete Hegseth Says Iran ‘Isn’t a War, It’s a Situationship’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmt0VERGa3dIU281Zi1uM3BCMXhoYWk2TWNjQzRYMU1zWVVEQVFmMlJIS0xpZGsycjRCLU5fd1lvaFVGcUFXeTRrcGc4QTBFSUhTOERRVmlyVzdIeTJKQWtnVV8xY0xOWVlKcW1TeW5wQXczbFB3TXRDY1hwRGVuOWhSRnpLd3p4dS1RVWlxdzlJOF9HTFhpczlB?oc=5",
+      "summary": "On ‘S.N.L.’, Pete Hegseth Says Iran ‘Isn’t a War, It’s a Situationship’&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:11:43+00:00",
+      "fetched": "2026-03-08T12:30:06.820038+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "5524f33babafa62a",
+      "title": "White House worries as gas prices jump amid ongoing US-Israel war on Iran - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LeHhEeGJ2SEkwZi1hSF8yZDRmVjNCMU9xUTcwVW01MERCTlkxcGFPcHhkOGE3N3dBMDR6Q2s2T1YzazdqWE50SlhMR0tWc2VlMFNTUXlRTDFmQkdpT1ppcElSOVh4OXRhYll5Rnp0SUs3RUMzQ1hxLXZpeE4?oc=5",
+      "summary": "White House worries as gas prices jump amid ongoing US-Israel war on Iran&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:02:00+00:00",
+      "fetched": "2026-03-08T12:30:06.820093+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "5351c439abea5e7e",
       "title": "The Iran War Is Giving Democrats a Chance. Will They Take It? - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdElrcGRiVDRyVkctbTRCRk1wcjJMbFpFcTJkZUpZdE1yaC1NU25sa1V4aVJYZ19POGhRd2JFV0RtczZqT0dsamhXeXAyOVM2M3cyLTVkSERSbEhQRUNzcENmdVNYV3plTlVEQ2NyZ09vckYyNlpDTGpjTnRYamtXQzJETVBjdnZzV19jUFU2Xzg4YTdpNHU3ODFYTHI2VnI2SHJRWWdoUmFNRjdlZUpWbF9GTQ?oc=5",
@@ -28,6 +64,18 @@
       "category": "aggregator",
       "published": "2026-03-08T12:00:04+00:00",
       "fetched": "2026-03-08T12:14:35.546142+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "761fa7107e13362f",
+      "title": "Iran War Is Showing America’s Strengths — and Weaknesses - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWNYUFE4WlA4WUhISnF2M2gtTW5ENmRrc1BwcWdmZUdrTEM3aTFBVTZJc0F4STBSQ2lSLUUzaUZpaTRWbHNUaWNMT3NJR2dhOEJCTXE1LXZKRUR1bEhLTVFGQ3l5MjYxWElvNDUyNDRFbExlblRqcXN6MzhNNW43azZNZUp6WTlIVmd1UjhvOWpJNVhFdGpZWHFpckhnWjBoTzYxbWRn?oc=5",
+      "summary": "Iran War Is Showing America’s Strengths — and Weaknesses&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:00:02+00:00",
+      "fetched": "2026-03-08T12:30:06.820386+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1048,6 +1096,18 @@
       "category": "iranian",
       "published": "2026-03-08T08:15:04.883008+00:00",
       "fetched": "2026-03-08T08:15:04.883040+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "56a9213c844711de",
+      "title": "Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGdyamNYQWctYzRmVndZcklLY3VQUy14WGM5OVM1NVRPNE9GTTVQM0NjMmFFUmVCMmkwcVBZbDhLYm1pUEdxaFNnT3lZZFhuN1A0X21abmYxV0JKQ1pKOVg1eUMwS2R5T2hkbElyb2JYQmprRFBlLWktOWdHWC1aRlVGYVIyTmE1X2lQYVBOVGdhdVFyRjZ4Z01HZW1QOGE4?oc=5",
+      "summary": "Trump says Starmer seeking to join Iran war ‘after we’ve already won’&nbsp;&nbsp;politico.eu",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:02:00+00:00",
+      "fetched": "2026-03-08T12:30:06.820597+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2632,6 +2692,18 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T10:00:06.375640+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0c800665fb0bc009",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPX2tmMGczVkZIb2x4a09JQ29hOVJaUERNMTA5SGVfMU1nV1dZVFpldjBSeWRqdGUxUW9HTzJnaUpBSXpnX0txNWg3WkRXb182Wk43R1E4bWZRQV9MdHlOTlNSSVFKYmZJU2VwT1MwcGhUMUF1WGtPTkg4Ylp2S010bmZkNkt3ckVpSW9nUE1FdlBBLVVLdGpkRDQzcTlZQlJvSzBXeFR5bFh5Wl95aEg2ZVVCUU1xV1dhUWJLQmNTYXVfaWZBVFBYX2ViMV9uaXk2bVJIODM4RElFaV9NSVUwMEV2YVNINUdOUGtYb0RaejF4TVFtd0x5TTRKX2tsZFdDeGdiVk9PT21VM21nTEtZTll2WFFYQURiOTJjTjVFVnVJNW1aWnpCMGxoSmdLTU13SndGUFFuX0xQcHhReVlSb1dNWnlhZm5vSDRJaWpyYkR5NkRlN3duUmJpVkIxZl80ZzJlUXI1TGQ1TWJBeHN4R1ZpMFlYN3d1N3YxYWJ6SEdrNjRmMlpVQ1JKQzMwS3BZazB5ZkF4eHd2R243R1lOMEYwaVcyLXJXLVFvRkc3X29TZlg0dVBj?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T12:30:06.820166+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T23:30:05.965765+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "30988ee5d7f3e2ae",
-      "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
-      "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
-      "summary": "The president offered to launch missiles in Latin America to combat criminal violence in a call to &#039;eradicate&#039; cartels.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T18:56:30+00:00",
-      "fetched": "2026-03-07T20:41:04.688533+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "5c28d20816cdbada",
-      "title": "New Airstrikes Batter Tehran - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1g3R1BzbnlTOFhCRmNuWTI3dzBlbXBBMUN1ckN0cjBDNmVPeG5EV21ERzNmLVFUcWVOaG5BUFl4ME11b21DT2ExbUljQlNCdFdTSzBWUHA5UTkzREhmdTFCWnkwQXlkRWowSlNIdzU4b2YzTUVRTk1rS1V0U0J4Sw?oc=5",
-      "summary": "New Airstrikes Batter Tehran&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T18:54:00+00:00",
-      "fetched": "2026-03-08T01:30:06.110818+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "30096639df572f46",
-      "title": "More than 70 Ukrainian militants sentenced to life imprisonment for killing civilians",
-      "link": "https://tass.com/politics/2098221",
-      "summary": "The judicial authorities of Donbass have issued sentences against 1,084 militants, said head of the Russian Investigative Committee Alexander Bastrykin",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T18:46:03+00:00",
-      "fetched": "2026-03-07T20:41:22.707941+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "23ca8e32607d87be",
-      "title": "In 2025, Investigative Committee received approval to prosecute 23 judges",
-      "link": "https://tass.com/politics/2098219",
-      "summary": "IC chief Alexander Bastrykin also noted that criminal cases against 12 judges have already been submitted to courts",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T18:44:58+00:00",
-      "fetched": "2026-03-07T20:41:22.707976+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "27abffaccadd9b26",
-      "title": "Israeli settler fatally shoots Palestinian in West Bank, health ministry says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-fatally-shoots-palestinian-west-bank-health-ministry",
-      "summary": "\n\n  \n      \n      \nIsraeli settler fatally shoots Palestinian in West Bank, health ministry says\n\n    \n    \n\n        \n    \n                An&nbsp;Israeli settler shot dead a 27-year-old Palestinian man in the occupied West Bank on Saturday, the Palestinian Health Ministry said.\n\nThe man was killed ",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T18:43:02+00:00",
-      "fetched": "2026-03-07T20:47:35.014830+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "f3e3d63b7c392d87",
-      "title": "Investigative Committee prosecuted over 1.5 million in 15 years — IC chief tells Putin",
-      "link": "https://tass.com/politics/2098217",
-      "summary": "Damages totaling 561 billion rubles have been recovered for tax crimes during this period",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T18:30:59+00:00",
-      "fetched": "2026-03-07T20:41:22.708018+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
