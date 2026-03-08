@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T08:45:05.891679+00:00",
+    "last_updated": "2026-03-08T09:00:08.252800+00:00",
     "total_items": 500,
-    "new_this_run": 11,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "99cefec040847b79",
+      "title": "Inside the secret US-led talks to solve the Western Sahara conflict",
+      "link": "https://www.middleeasteye.net/news/inside-secret-us-led-talks-solve-western-sahara-conflict",
+      "summary": "\n\n  \n      \n      \nInside the secret US-led talks to solve the Western Sahara conflict\n\n    \n    \n\n          \n      \n      \n        Submitted by \nIgnacio Cembrero\n on \nFri, 03/06/2026 - 15:07\n\n        \n      \n    \n      \n    \n                Back-door diplomatic efforts between Morocco and pro-indep",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T08:54:57+00:00",
+      "fetched": "2026-03-08T09:00:08.184528+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "2c6d0787ed3414b4",
       "title": "Qalibaf: Continuation of anti-Iran war will choke off oil sales, production in region",
@@ -32,6 +44,30 @@
       "iran_specific": true
     },
     {
+      "id": "a5a405b2eefe17ae",
+      "title": "‘No popular support’: China warns against government change in Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSThyd1JuNFc4NHk1a1BaUmVJdGNldl9VbkQxcHdmdGNEM0dLbjM3OVR1TW9UNUtMc1BoRU9yZUFPNVFwZlJEZ3VlUlYwaHk2aEZoQ21GbUJUb0daZk93YU5XX3NBTUU0Rm5zcXhheWN4dlZEVnR2Mk9CMEZnRXdqTDNXMWNYTjBaTmREY2pjMEV2SmVSNlV0VERyb0djN1J2U2t1b0tab9IBrAFBVV95cUxNYlk1Y18xalRSc0VUendVN2JoV19zTjZkWENIT3luR3VTTjl0SEFWVWhwWVNjQVRvcG0tV3VLdGF2aTFwV2hEUDN6SC1zT2xZNU1TcDd3ZjJQVnZMaFNsdnZjT0c0WjItLTljZWlRMnZINVg0VzlhVWxsLWlOMDRnZXFzY0RTajl4aDFSVVpUTDZpVDlfX0xqRTd4V1prU1hES21DNmdlWWw4bkRU?oc=5",
+      "summary": "‘No popular support’: China warns against government change in Iran&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:37:23+00:00",
+      "fetched": "2026-03-08T09:00:08.071243+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0e762e4875a35d58",
+      "title": "‘No popular support’: China warns against government change in Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/8/no-popular-support-china-warns-against-government-change-in-iran?traffic_source=rss",
+      "summary": "Beijing calls for Iran&#039;s sovereignty to be respected and demands &#039;immediate stop to military operations&#039; in Middle East.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T08:33:16+00:00",
+      "fetched": "2026-03-08T09:00:04.781503+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "0dad217097016981",
       "title": "Iran War Latest: Israel May Target Iranian Refineries, Power Stations - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTR2M2dUWnNBaVhUekFSZElWMXlzS2ZJcVJLb0dnVjZWdmp2Y0ZnSzRSWmpPbGQyN3pJeWduenR5dEZQWXR0VDVvUElmZWxQZmFyRUQzLXhDMWJnNllTb0pPTTg5RklxV284MUEzZlo4RFB2SXBoaGkwNTlxdFVHczhvdjg3WldCeXJSa3dNSVNzdEhwM2VueGlyb2RaU3RLdWJOMldBTDI3WFNSall4eA?oc=5",
@@ -40,6 +76,42 @@
       "category": "aggregator",
       "published": "2026-03-08T08:32:00+00:00",
       "fetched": "2026-03-08T08:45:05.661847+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7519b585b887780a",
+      "title": "Iran War Latest: Israel May Target Iranian Refineries, Power Stations - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YZDVzWTdHSjdhSW5YNlphNFluMWpVYjJYMnBHTlJ1Q012R1lBNTVQZnlBbEpqUUoyeERsclFsdURmck9tYWNzNHFYLVU0d1BtOXBCTm9wZ1g3aUYyQVV2OC1tQTNNcnNtaFp6MHIzWGU?oc=5",
+      "summary": "Iran War Latest: Israel May Target Iranian Refineries, Power Stations&nbsp;&nbsp;Bloomberg",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:32:00+00:00",
+      "fetched": "2026-03-08T09:00:08.071117+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "93515ed4bf66eff9",
+      "title": "LIVE: India vs New Zealand – T20 World Cup final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/8/live-india-vs-new-zealand-t20-world-cup-final?traffic_source=rss",
+      "summary": "Follow our live build-up, with full toss and team news coverage, before our text commentary stream of the 2026 final.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T08:30:00+00:00",
+      "fetched": "2026-03-08T09:00:04.781587+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "e133daf5ac0499cb",
+      "title": "Children wounded in the US-Israeli strikes receive treatment in Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/children-wounded-in-the-us-israeli-strikes-receive-treatment-in-tehran?traffic_source=rss",
+      "summary": "Children wounded in US-Israeli strikes on Iran are being treated at a children’s hospital in Tehran.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T08:29:30+00:00",
+      "fetched": "2026-03-08T09:00:04.781627+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -78,6 +150,18 @@
       "fetched": "2026-03-08T07:45:06.025864+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "fa8a75553ac42a38",
+      "title": "Israel strikes Iran’s oil facilities for first time as war enters ninth day",
+      "link": "https://www.aljazeera.com/news/2026/3/8/israel-strikes-irans-oil-facilities-for-first-time-as-war-enters-ninth-day?traffic_source=rss",
+      "summary": "Attacks spark huge fires as they hit four storage facilities and an oil production transfer centre in Tehran and Alborz.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T08:17:48+00:00",
+      "fetched": "2026-03-08T09:00:04.781661+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "55904b4e0d5f34c3",
@@ -978,6 +1062,18 @@
       "fetched": "2026-03-08T03:30:04.418219+00:00",
       "relevant": true,
       "iran_specific": false
+    },
+    {
+      "id": "77d329450034927e",
+      "title": "Trump's shifting Iran goals highlight war's weak legal basis - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzdydk5WeHFWVUdoNWRCUklRejJ1d2k1TWZ3S2tJa2lTeGF0alBfVTg0eW16ZUtLUjdyZlNqNG9UM1ZaMWtPcm42VzhMdXBVQ08yenJtZlVySzVIQTQwZWhLT1IzRXRIVHJCZmhzTzJuZnVJcVhHZm5YSmEtSnhxaFdpdUpHTEtyelZKWWxGSEpWdnZBT05rVkVRVQ?oc=5",
+      "summary": "Trump's shifting Iran goals highlight war's weak legal basis&nbsp;&nbsp;dw.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T03:09:19+00:00",
+      "fetched": "2026-03-08T09:00:08.071482+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "8e96534cab53fa8b",
@@ -5780,6 +5876,18 @@
       "iran_specific": true
     },
     {
+      "id": "8bff698051665c5c",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxORTUyMzNNZEZPd3JMT1pYVXdQcENhc1FVZWVvcFFUUjZDWlpJQ2hkLWxhUUh2NUNsODB5OTdsQV83ZDlhaTY0bjJ5NVlwbXAtYlAtSDNuUGxrMmJhWnBkdFEzM3NvR192cmo4Mlo1MjZpazl0cVpxaHJYaWFuNVBZMnZlem5rS016ajFFOVQtdmhBZEFNRHgtMWhUZkxOVjNfanlkanJuamVPZGdMU3NTSTBXMHdkbzRyZ1dfa1BBUEdqTmE3NlJoLTZrSzdLN1Nic1o2ZHdpd1FUZlVsNTlDb3FJZWdvcHp1YXV3TlFtYk5ISEtNVzdsdV9wOFo5UXZJZF9uLXVncmIxZnpEWm8xdlRhWEJQMnJtQTgta0MzdFVTdVdRVk1IeUlJNGR3ZXpjYmoydmctNk5mMVVMOGh4amlWcDZJSE9Lc2tPVGpvTUJuUVRUQk1sbzUtbVZUcWhTZmxVNEhXWm52c2pFUTFlYjJOWmZPR3JKRThqOVpySXAzaUhUYTVn?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T09:00:08.071418+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5898,114 +6006,6 @@
       "fetched": "2026-03-07T20:41:04.688724+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "f0871b733c8fcfde",
-      "title": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmtEVzFQZWtSY1JIRnJxczdtd0p5R0Q5MnlDRlRUTDJrT2U1Z2hjWC1WdWZJQl80ZXcyei14dGhrTkh2OWt4V2lCNkFMN2ZIVnBTaTA3NUxmTFRjM3B4V1UtazJxRTFxSF9QdzZkOGh5YXh4ZjVtYVRNY3V3VmNvdDZwNUM5Z1djS3REQ3doRVBCTFdIbWlFN2MySDRhUFg1UEFVdF9WN21idnVGN0U3edIBtgFBVV95cUxNZnV1eWJQRjMyS2MzS1didWJGampMeTRLZ015YzhISjc4MWtuRjI0Zm5aamZId2poQlh1aF9sSXpZTFJvR1kxZkFQOHpoVmpKUENJenlnQUFfLUlrRUVOODg4MWtNZGUtZGV3VzBqWHZQZlRyN0FiWmFwQ1A0dlhiN1dCcUZSX2lpd05RT05TcjFQR2k1WmtlZ3ZnLW5sR2N4NjNEZ3dqUEdQa29Sc0UyX1hSOTVkUQ?oc=5",
-      "summary": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:45:23+00:00",
-      "fetched": "2026-03-07T20:47:34.881487+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "50187e823d2127ac",
-      "title": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmtEVzFQZWtSY1JIRnJxczdtd0p5R0Q5MnlDRlRUTDJrT2U1Z2hjWC1WdWZJQl80ZXcyei14dGhrTkh2OWt4V2lCNkFMN2ZIVnBTaTA3NUxmTFRjM3B4V1UtazJxRTFxSF9QdzZkOGh5YXh4ZjVtYVRNY3V3VmNvdDZwNUM5Z1djS3REQ3doRVBCTFdIbWlFN2MySDRhUFg1UEFVdF9WN21idnVGN0U3eQ?oc=5",
-      "summary": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:45:23+00:00",
-      "fetched": "2026-03-07T22:00:06.295720+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "71bce27fb0648ad9",
-      "title": "Israeli army orders forced evacuation of residents in Beirut’s southern suburbs",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-orders-forced-evacuation-order-remaining-residents-beiruts",
-      "summary": "\n\n  \n      \n      \nIsraeli army orders forced evacuation of residents in Beirut’s southern suburbs\n\n    \n    \n\n        \n    \n                The Israeli military on Saturday reiterated its forced evacuation order to the remaining residents of Beirut's southern suburbs.\n\n\"Urgent warning to residents ",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T16:44:55+00:00",
-      "fetched": "2026-03-07T20:47:35.015263+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "2be84e5544849bde",
-      "title": "Germany announces nearly more than $100m in regional aid",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-announces-nearly-more-100m-regional-aid",
-      "summary": "\n\n  \n      \n      \nGermany announces nearly more than $100m in regional aid\n\n    \n    \n\n        \n    \n                Germany announced it will provide nearly 100 million euros ($108m) additional humanitarian aid for the region as the situation in Lebanon worsens amid ongoing Israeli strikes.\n\nIn a ",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T16:31:04+00:00",
-      "fetched": "2026-03-07T20:47:35.015330+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "86fef67ac56e6314",
-      "title": "Iranian President’s Apology to Neighboring Gulf States Showcases Leadership Rifts - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXRyRUVXVS1kQlk2cDVPdXltSjVNRk5uNGp3UkVVQ2Mzc2Z6Zzd4SEQ3bHhUQ0RIOXZvZkFieXlrMFZVZVR3QXFtenlUek1pV0RZbG1QMFJlRndyOXpZb1pxdUdWR25nNFVuMVE4ZzlMQng1QmkzRFhLTm9rZXdGMTUtSkpSZjdGWnhVejJValE1Mzg4UUhPTXZtWGVhZ3ls?oc=5",
-      "summary": "Iranian President’s Apology to Neighboring Gulf States Showcases Leadership Rifts&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:28:39+00:00",
-      "fetched": "2026-03-07T20:47:34.881133+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "27e2ad93e2ba64aa",
-      "title": "UAE president: Nation is in a 'time of war'",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-president-nation-time-war",
-      "summary": "\n\n  \n      \n      \nUAE president: Nation is in a 'time of war'\n\n    \n    \n\n        \n    \n                UAE President Mohammed bin Zayed Al Nahyan has declared that the nation is in a \"time of war\".\n\nThe statement marks his first public comments since the US-Israeli attack on Iran began last week.\n",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T16:27:54+00:00",
-      "fetched": "2026-03-07T20:47:35.015365+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e8e5c9ff2426c57f",
-      "title": "Saudi Arabia intensifies engagement with Iran to defuse war - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemNLNVVDRmlWbjFMSzdWQzFHQ0FFV1FxUkw1TkJQYngteWctN1JUS3JES2dBeWNNYXlhZjJEUEJwZmtjSUVnOVF2OXBkOWZZbjRERnd3c1pZVXp6YjNOcnNZdW41SUFxV0lrZkxYUkFzUEdjR29OTmRkQ1F4RjdaTEIwNHU1NFRrN3RDUEd3WmNXcEdsRzRUTkxNelFRZXVl?oc=5",
-      "summary": "Saudi Arabia intensifies engagement with Iran to defuse war&nbsp;&nbsp;Fortune",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:26:00+00:00",
-      "fetched": "2026-03-07T23:30:05.965505+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "cd5485c5990ff31f",
-      "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHJjN1FpcUx2b2hEZGhMUEZOb3VxYmQ2UWFtV3FQT0FiTTJXQzBKY2RfWTRHU2V6WENWT3BEWGJELS1QVDh2QXhHbDZqdkljWHBpMWVoZDRvN292akFZSnZCX1JGWUkyREdzeHhnTjY4RGJiSjIxQXpUa2RqSGJFRE1zMkkzUmF2czBNVUdsdHFwa042ZVE?oc=5",
-      "summary": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up&nbsp;&nbsp;AP News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:18:00+00:00",
-      "fetched": "2026-03-07T20:47:34.882140+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3cf0f44766a0e0ed",
-      "title": "Trump says U.S. may target new parts of Iran in escalating war - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWxCVGRjaHlPLUtLMmpLbkNKZzY1VjVBLWhTb1NPcHI4NEFuSG1hUEdZOXpLMF9kYURJSUd1V1hxWUdoOHBrWnVmTmgwdUZwRmJyZlFOVnFRbXNUaWpTNUg2T2dycXBrczI1NFRwZFVqYXdCTVItQ2psRno3a2Q3MlNmSjlORzE4?oc=5",
-      "summary": "Trump says U.S. may target new parts of Iran in escalating war&nbsp;&nbsp;Fortune",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:14:00+00:00",
-      "fetched": "2026-03-07T20:47:34.881567+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
