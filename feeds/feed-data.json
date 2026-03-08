@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T17:30:07.067560+00:00",
+    "last_updated": "2026-03-08T17:45:07.088042+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 12,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "7600b31b3beaeb49",
+      "title": "US doesn’t target Iran’s oil, gas infrastructure — Energy Secretary",
+      "link": "https://tass.com/world/2098571",
+      "summary": "The US is targeting zero energy infrastructure, US Energy Secretary Chris Wright said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T17:38:07+00:00",
+      "fetched": "2026-03-08T17:45:05.751823+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "fd32ed180bf966dd",
+      "title": "Trump says Iran’s new supreme leader will not ‘last long’ without US’s approval",
+      "link": "https://tass.com/world/2098569",
+      "summary": "Iranian Foreign Minister Abbas Araghchi said that it is up to the Iranians to elect their new supreme leader and no one can interfere in this matter",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T17:37:13+00:00",
+      "fetched": "2026-03-08T17:45:05.751868+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1c6caa3d6ac92cfb",
+      "title": "Iran military warns will target region's oil sites if Israel hits energy infrastructure",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-warns-will-target-regions-oil-sites-if-israel-hits-energy",
+      "summary": "\n\n  \n      \n      \nIran military warns will target region's oil sites if Israel hits energy infrastructure\n\n    \n    \n\n        \n    \n                Iran's military warned on Sunday that it would target oil sites in the region if Israel continued to strike energy infrastructure in the Islamic Republ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T17:36:56+00:00",
+      "fetched": "2026-03-08T17:45:06.965825+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "5bc1b3a45de0f50e",
+      "title": "Amb. Mike Waltz: 'Iran has been at war with us' and 'Trump is ending it' - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFJ3NGg2SEQwcFh3bVdBM2pLOXlsNlVBNHl3bjYxMVdJY2xTcEItWC1JQVBmem5xenVrRTZ2Qjh4QVlzRVFJbGxSS2Y5Zk41RmROT0FHWjlTWUFxZWZxcGtHRDVEU1pLbzQ2eTFEY2p1MVlLcWFiVmxkU2d4ZG1SZ3dFQmdEXzFMYlNLOGhFcmQ1RVBuX2RkZkpNVTJXYW8tT1pKb3dHOGZhWEJwYl96YVVFSVh6aFU?oc=5",
+      "summary": "Amb. Mike Waltz: 'Iran has been at war with us' and 'Trump is ending it'&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T17:34:56+00:00",
+      "fetched": "2026-03-08T17:45:06.818196+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "4dd69cf7f83cc3b6",
       "title": "Lebanon registers more than half a million displaced by Israeli attacks",
@@ -30,6 +78,18 @@
       "fetched": "2026-03-08T17:15:07.454338+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "e2bf73967a3f5e76",
+      "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
+      "link": "https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss",
+      "summary": "The Israeli intelligence agency counts on unconditional US cover and adversary lapses for its assassination policy.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T17:06:37+00:00",
+      "fetched": "2026-03-08T17:45:04.383663+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "47098965408c5d3b",
@@ -68,6 +128,18 @@
       "iran_specific": true
     },
     {
+      "id": "c02ecfd737c87a13",
+      "title": "Putin signs law on refusing extradition of foreigners who fought in Russian army",
+      "link": "https://tass.com/politics/2098567",
+      "summary": "The bill, introduced by the Russian government in November 2025 and passed by the lower house of Russia’s parliament in February 2026",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T16:50:14+00:00",
+      "fetched": "2026-03-08T17:45:05.751927+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
       "id": "e6935a6c13ee2a4c",
       "title": "Iran rejects calls for ceasefire, seeks ‘permanent end’ to war",
       "link": "https://presstv.ir/Detail/2026/03/08/765127/Araghchi-says-Iran-rejects-calls-for-ceasefire,-seeks-%E2%80%98permanent-end%E2%80%99-to-war",
@@ -88,6 +160,18 @@
       "category": "regional",
       "published": "2026-03-08T16:42:08+00:00",
       "fetched": "2026-03-08T16:45:06.260013+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c1ef9e5ce9090b41",
+      "title": "Spain’s Sánchez doubles down on rejection of Trump’s war with Iran - CNN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY2tBMGN2RGUxZndoMVlGaE5XbDQzWkF5Z3VzVmFCZ2JuRzgzN0NSZnNSN1QzY0hLemNKWnY0NDhhUnRNS1ZjTVF4ODZ5SnJLaHY4Mm1hcVdwODlaN3lFZHFLd2dpc0ZXTUZPTmVmYzM1TlFnT01kTkFIQnVRbFJVeEoxdHJjOHdqcWRJMER3?oc=5",
+      "summary": "Spain’s Sánchez doubles down on rejection of Trump’s war with Iran&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:36:46+00:00",
+      "fetched": "2026-03-08T17:45:06.818612+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -138,6 +222,18 @@
       "fetched": "2026-03-08T16:45:06.120102+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "f22dd3fb92d7e9c1",
+      "title": "For Israel’s Netanyahu, Trump grants wishes, but his support carries risks - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVZpbWZHczdzYmJUY3hiSGo3MUVMbXV5eUlzaENyX3QtS0QyLUFUVjFqVGMwa1lKVTQ1N2U0RGdnOUpXSVpDMkg5cW9xTnBHMmpOa0pGZWEydmtRWUtEYzIwemlCYk1VYW5qOXA5RVBfcWN2Y3c2bHl0bXJvcVhVOEdmVlVlTUk?oc=5",
+      "summary": "For Israel’s Netanyahu, Trump grants wishes, but his support carries risks&nbsp;&nbsp;The Washington Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:32:32+00:00",
+      "fetched": "2026-03-08T17:45:06.818747+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "296e5bc67e2768cb",
@@ -364,6 +460,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T17:30:06.147104+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "29ccb8a62fda9338",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQQnFrWmszdmx6NkJ5VFRveGJzNzh1TlFtcFdEbzkwQlRvY2Y2Y1RrWGg0TFA5RFRUSmxXTTlQdG9ackRQZUxDcTlZN0hhWThSeXdQemtoRVNlcmhCdHhHQmJPTWQ2SUFlMnhuZmM5VFo4TV9HRXZScU5YZFQ5NkM1SU1Ycm5KdVVwbW1ZNXZrbHplWTJKeEhKS3lsZzQ3MW04NUhobXNvd0V0cXdMTVdub1NaZ2wxS2dIeFFOLXh5MFh4dzhpbEIwczlSUDNIMzczTzdZUmVuY1JLNWo0STZfNTBpTE1pSEhTUUdGcUo2UHNGemhYWHBtVDVRbnBrSDE4Q0lLY0pMek85cVVtR05YWFVRNmIwSV8tWXh0Rm5nVEVxZXVIWU5sU2otN3JnUkxxTnRDcUg4bVMwM09QODRTQ0diMU8zWWtCY0ZYYXlpVzZlWU94X0hrN0JxbVpoVi1nYnV3VWhnWlFNSk1oT2w3NkhDSQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T17:45:06.818361+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -724,6 +832,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T17:30:06.147147+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "07f5cc8a371012de",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOTW1wQlZ0aElxUkJEMlV1WWtSejFtVG5XZDRxVWxOV3JCd3RhUmxRM2RCeU4zLXVJb210SUVJLWd0aG5RcklYVVJMZVhnZnJMMzktOXJhd0R3SHI0TFFrT3g3MVotVHA4TkV3YWpvNndjdFFtMDlrOGxrQm0ycjFCLVRJRDNUZkM1ZGs0M0hwTkVrQU9XQml1WWwyUU1Rd3lNMTZkN285UXJabVF2bDByUmh1S2g1cHNabDJfZWtYQ2Rnd2tFZzhNYXpsYXUtZzZYRWRiNWZNOFpoeTJzUzloUjNuM2gzTG1XemtMQ2c0MFBBLTEwNUlZRGNOdjBVZUNQVlhLUXNVSUZjSFNIMWZyeGpKTVByak5odEh3UXN6eUFuVzdYOU5DeV81d1VtRkdkNkZyb2h4Ui1wcnZkNE9IVUlCODRqSy1iUHRJc2xmdmo3Qm1VRWcxcW5reE0wc2duR2UwUjZlVVJDRGRnbWx6VXZTM0VsRTh2eV81cGszSmxOWEhlX1MxYmZKNFFkVU9VcXRObTFrRU1rbXRuRGFER1Vrdkt5ZFJkTThpWUR4dGZmUW02aHczVg?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T17:45:06.818393+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4304,6 +4424,18 @@
       "iran_specific": true
     },
     {
+      "id": "2d6f286fb9700ab8",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNbFoyQ3RHa3pQQkk2Tjd1ZlRXWDgzWjZXS2lacFFzRWlVWUxwQ1Yyd2oxZU9zdHVpUlFpVU9LX0ZnSGY4aThlNUlnMlEzVTdtRWlmRjBWOGljRW9Hd042Rnl5SjNoYWtqeVByeTNUTlE0ZERYNk90Z253Y2NtMGNwaGlHc0lPM0ZRTFI5R3I5X19JdDM0MndNNHhfYlM1dTlnVE5SaEV6RjU0cWNNYmRvUlhnRDBqYndBOV93c2FaOXNhZ2MzTl9TQlFlZG9kMkl5Vk4yYjVHTXpFOG9ndW5UeEFQUmRLQUFTU1VKR2ZSNm1oMkFlNXVCZE9nc2pneVMzU0RMOUwySHlRUi1raFZhYUlBakN1VGYwdldfZHhVRF9qbGhQVENiRE5abTBScXdZWHB4V1hfNF9nanZEUmtZM25lS29nM083N3R3SDRCanZ5cDFmbF9FV0xUeWxuUDN3VjNXY1BuYzVnamJ3YmhscFpHNUgwSG5ZbGZneFhVYjgyenk3YnpLV0VtNF9nOGJvOFFxdEFvWWFDcG0wYnFYaWJGVGg3X01hSGNwLXJBY0FIdGh3REtn?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T17:45:06.818581+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5872,138 +6004,6 @@
       "category": "iranian",
       "published": "2026-03-07T21:15:04.853176+00:00",
       "fetched": "2026-03-07T21:15:04.853195+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a2baa549c4943a89",
-      "title": "Trump Pays Respects to Six US Army Members Killed in Iran War - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjhaLVA3UDQ3Nld5ZEFXXzFIdDhaNlBidDdaMk9BRVF0UkJHeG9TSi0xekxUMi02bUFKU2lBN2N6OEFKckpxd2NRTUxPRGUyOHlSR0ZYUlZMb21mMkd4bnZ0QVl5UXZScUMzRGJaOGhpMjkyc3lrM2JXWXNsSjNqcllEaXRiRUdwcFMtbzdIQk84amZ2RTE3ZXNqNl9MTFg5QWRJSmdoUkUzbUI3R3dIQVVR?oc=5",
-      "summary": "Trump Pays Respects to Six US Army Members Killed in Iran War&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:10:08+00:00",
-      "fetched": "2026-03-07T21:30:07.341210+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "00c55e9d41ab81f0",
-      "title": "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
-      "link": "https://www.aljazeera.com/news/2026/3/7/florida-bar-denies-investigation-into-trump-lawyer-lindsey-halligan?traffic_source=rss",
-      "summary": "The statement from the Florida Bar appears to contradict a letter it issued in February, suggesting a probe.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T21:09:53+00:00",
-      "fetched": "2026-03-07T21:30:04.908006+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "827021373ff20d9b",
-      "title": "Six US troops killed in Iran war brought home in dignified transfer - CNN",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnRHZ2lPczlENkRDaV92eXpsSUlXaHZYRURiOUFfcVRYeERIa0FNREk5NFBUXzREXzZSbjNTYmg3SDdaN0VPNmd1Y0Z6b1ZqTS14YlJ3Y01DTGZzTTdwNXdXT0wwZWIyTVBGdjRrMDhOVDA2NVVvaUJmY1YwZGgxUE15UU12OEctdWhaQm4zTQ?oc=5",
-      "summary": "Six US troops killed in Iran war brought home in dignified transfer&nbsp;&nbsp;CNN",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:01:15+00:00",
-      "fetched": "2026-03-07T21:30:07.341678+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "bf8d1dde29907792",
-      "title": "Video: Satellite images reveal damage to several Iranian military bases - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXZiWnFGczREa3l3blZtODUtUVNDV1Uxc3Nha09ZZjlBMDB4RllZVkQwanBaeWVuYy1lWV9BQmp3OGNyQWVER2FIaWxzY1R1TXF5aFg3V3ppVXVpdUxIZEFiZ3Y4Qm9FWE5iS2I0RkYyOUNvSktCZ1dVaHF5c01NZWItVzliRi1nNHRuT0JGVlhTUGFDMVFiM0I0V3c4am5fMFdYcVpmT20yRW9WZzNycFNjOXMtd0RjazByUdIBwgFBVV95cUxOVXBMeXFVbjduWDd3VjU4MmV4ODNoN0ZFTTJnNnNBamU3Z285clpvRU0wRVJRcjNnUmtHUHp6WEtCM3UtSXZmMjVPdU5NTkFndmpRN29CQWtvTFdORlZoYks3ZzNvQ1dBc0dEcklKOFhoV2tPNUJuN2thLUhnNHY4T0RUblppRzRxanZIY1IycmJiV2J1YWRNeWhxNnp4MThTTmJLbFdrWGJLeDNLV1BLcWJQZ3M0eld2UnRkUllDMUVOdw?oc=5",
-      "summary": "Video: Satellite images reveal damage to several Iranian military bases&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T20:58:31+00:00",
-      "fetched": "2026-03-07T23:30:05.965693+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f3a791aabcf25660",
-      "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/doctors-try-to-save-girl-as-father-was-killed-in-gaza-israeli-attack?traffic_source=rss",
-      "summary": "Doctors in Gaza try to save a girl who sustained injuries in an Israeli attack that hit her and killed her father.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T20:56:45+00:00",
-      "fetched": "2026-03-07T21:15:04.356134+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "b1db8668651324d3",
-      "title": "Iranian foreign minister sats Trump ‘killed’ Iran’s gesture towards its neighbours",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-sats-trump-killed-irans-gesture-towards-its",
-      "summary": "\n\n  \n      \n      \nIranian foreign minister sats Trump ‘killed’ Iran’s gesture towards its neighbours\n\n    \n    \n\n        \n    \n                “President Pezeshkian expressed openness to de-escalation within our region, provided that our neighbors’ airspace, territory, and waters are not used to at",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T20:54:17+00:00",
-      "fetched": "2026-03-07T21:00:06.531397+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "117088cc5379d87e",
-      "title": "Historic gold for Iran as teen fencer wins World Cup title",
-      "link": "https://presstv.ir/Detail/2026/02/13/763971/Historic-gold-for-Iran-as-teen-sabreur-wins-World-Cup-title",
-      "summary": "Young Iranian fencer wins historic gold in 2026 World Cup.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642547+00:00",
-      "fetched": "2026-03-07T20:47:33.642551+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e1eacaec94eeb227",
-      "title": "$50m sportwashing: After turning blind eye to genocide for two years, FIFA funds Gaza stadiums",
-      "link": "https://presstv.ir/Detail/2026/02/22/764510/50m-sportwashing-after-turning-blind-eye-genocide-two-years-fifa-funds-stadiums-gaza",
-      "summary": "After more than two years of refusing calls to suspend Israel over genocide in Gaza, FIFA is now sportwashing the crisis by pledging $50 million for football infrastructure in the war-torn territory.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642521+00:00",
-      "fetched": "2026-03-07T20:47:33.642525+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ed5331c1ece960fe",
-      "title": "Iran’s three-man team captures triple gold at UWW ranking series in Tirana",
-      "link": "https://presstv.ir/Detail/2026/02/26/764767/Iran-three-man-team-captures-triple-gold-at-Tirana-ranking",
-      "summary": "Iran clinches three gold medals at the Muhamet Malo 2026 United World Wrestling (UWW) Ranking Series in Tirana, Albania, on Thursday.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642473+00:00",
-      "fetched": "2026-03-07T20:47:33.642476+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9af9af75710dbae6",
-      "title": "Iran does not rule out pulling out of 2026 World Cup as 'spiteful' US launches aggression",
-      "link": "https://presstv.ir/Detail/2026/03/05/764975/Iran-does-not-rule-out-pulling-out-of-2026-World-Cup",
-      "summary": "Iran’s football chief says the country will reassess its participation in the 2026 World Cup as US-led aggression continues, warning the tournament is set to be hosted by a “spiteful” government.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642424+00:00",
-      "fetched": "2026-03-07T20:47:33.642431+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a357ccc80b53880c",
-      "title": "Iran slams US-Israeli attack on Tehran's 12,000-seat Azadi sports complex as war crime",
-      "link": "https://presstv.ir/Detail/2026/03/05/764996/Iran-slams-US%E2%80%93Israeli-strike-on-Azadi-sports-complex-a-war-crime",
-      "summary": "Iranian sports officials have condemned the US-Israeli attack on Tehran’s Azadi Sports Complex, calling it a violation of international law and a war crime.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642388+00:00",
-      "fetched": "2026-03-07T20:47:33.642392+00:00",
       "relevant": true,
       "iran_specific": true
     }
