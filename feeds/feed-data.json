@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T16:00:06.894418+00:00",
+    "last_updated": "2026-03-08T16:15:05.745126+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "e1220f3d06befc59",
+      "title": "US sticks to its policy of anti-Russian sanctions, despite easing for India — official",
+      "link": "https://tass.com/world/2098557",
+      "summary": "This step was geared to \"tamp this fear of shortage of oil, tamp the price breaks and the concerns we see in the marketplace, US Energy Secretary Chris Wright said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T16:07:42+00:00",
+      "fetched": "2026-03-08T16:15:04.600092+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "549f48300bc5eea8",
       "title": "US says it will not attack Iran's energy sector",
@@ -16,6 +28,18 @@
       "category": "regional",
       "published": "2026-03-08T15:53:26+00:00",
       "fetched": "2026-03-08T16:00:06.797714+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f39f8e384ca8da2c",
+      "title": "Trump says he's not interested in negotiations. Iran war live updates. - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXhObV9NRkc3amp1Mlo0MlNVMGlYcjJQMk1qQWV2T19KTjE0bkhSUjBKMGNuWm9vT1NLZXRMcDZSTk81ZmxCYzF6WGZPX1pMSnQ5MUI5akgtbTZDTzBjY1NDWnNyU0NoTElZVDNTNERRQlFGQ2NZVXNTVW5leUNTOGN0Qlp3Z0Y2SGJWLVJVU2h4N0MzUU0wMVBaWVRhUF95Rk4xUVh5bzF6V2FhYmtySg?oc=5",
+      "summary": "Trump says he's not interested in negotiations. Iran war live updates.&nbsp;&nbsp;USA Today",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:52:08+00:00",
+      "fetched": "2026-03-08T16:15:05.525174+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -88,6 +112,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T16:00:06.632156+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1b318855ab997ecc",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNWlp6VXJxaVNPMUxJdGRZOUc1ME5NaGo1N1I5akJKT2hZRnFJVkhibGtRckZWam5lVFVvV2UzU2oxdXdBaExYY0FiczhaY0h0anV1X3N2enhfYzFQQlhLNmFIVVFtVGRwNXFvdy1ZSHJXUW9lY3VvSTNKVTh6RWdoZkhhWmwySXJKVkZzT1FhaDFtTDdGaElla0ZvTC02S1JKWnktTDBEbTNuYzVBTVdhWmF5Y0FEblNrZjBaRGpuRWJTTmJQcTNnd19Xb1FpaVk2cEFoQWxnU01mMUFMOF8wdjlEWE16djNiWlpFWWlZNEJ5VDJaeHNwa0VSdmZsamNkRDBKdUdBM3B2Q1N2RF9ST2FJa25WcHM0VGZON2Q3TjU5SHBuTVN5X2QwOVdUN0o5cHEzZkJRczJ1NFU0THRHTk95Zk5jRmFOMVBlZ3NZcGRWWC01bktPRUo4ZWM1cVc4bVJ3ejJVUVRKQ3R4TmJ5N1kwTQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T16:15:05.525140+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -184,6 +220,18 @@
       "category": "regional",
       "published": "2026-03-08T14:34:51+00:00",
       "fetched": "2026-03-08T15:00:39.524404+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "4db133aef11abe2d",
+      "title": "Iran foreign minister says 'we have a very good partnership with Russia’ amid Iran war - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSkRlQjhRaEgwbUwtYjc1UDJRSG8wLVNQbTNnT2lFUHJCTGhFbktfVXpNbUEyWGU1SDJXbnI1QnQwbExubmc2cl9DdnBXQU5sY1NNeGpKLS1pWEN4d1RpV3lRTURBdFkyXzN6NWZrMnZRaXNxbWlMY2xYMlNDTmkteTRTODhHSC1WdG11aDVmaGdzN1JwNU9wRWlOYXY1X3N4VHROTWU2ckxDTmVwaFFLWG43dHBiOGRkRXR5VGpzUllMX2lvTnBjX1Y3R3d0dHFOUWs2YTBhZGVRdw?oc=5",
+      "summary": "Iran foreign minister says 'we have a very good partnership with Russia’ amid Iran war&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:33:37+00:00",
+      "fetched": "2026-03-08T16:15:05.525640+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -340,6 +388,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T16:00:06.632541+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ada76a43e9e9b124",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPQ3d1VUZ1Y1JSLXBGb1E5aXVuOFE4SHBXSEJYNEE1SERvUmN3Z0luamxRZkc5eU1YN1dyZkZiTERKMFVZWEtNZlloNy10OC1xal83QzVjRVg1Wl9WaE9yTG5fTGljQzNSUW5ZeExRWUl4S29GdmhTZUh2UkNkUWpJOXlFQlJqRnROQ3ljLVc4bnFzZUdncWVhWXZYZWF1WHRDN2tFdWMtdkQwRUhZdWIzZjBCZWFvTTQwWHVTaFhrbHJKRDFWdWE2YUxLbHpxdTZzOEpOaFR1X1BZdkZ6YlFma3NEaWh1Qkx4VUswQU14YUtjM3N1cnNsZlNSX0cxN0xyUWx0SHdoYktUSFdVaVdIUmVSRThhQVFneXN1ZzBBZjlQbktBYk5naUg0b0hpdm9HVUxodXZ6dkZWOHV0SDZYZ1FmYnAtRFhEZWdzajgtQTM3WEo2SjNUd0xNbDdOVFdqZHFXX0l3QnNkNWpRQ0p0a3VQdldoSEtrLVBVTGJLQ28tTkVtTVliSzhXbzI1MHdLNXpXdkZoZ3A4TkVOZWNNckw5eVdKQ08yMmpheU83NEhYT1AxZGN1UQ?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T16:15:05.525389+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1024,6 +1084,18 @@
       "category": "aggregator",
       "published": "2026-03-08T12:11:43+00:00",
       "fetched": "2026-03-08T12:30:06.820038+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b2dfb5e5841db8a8",
+      "title": "US inflation gauges likely diverged before war in Iran - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ09WT21JYUF1Mi1YeTR5UlR1eW1iME90VU1kQTFIVDZpSVVqdzRFUVFzT25VR0RkSl9WMUNUVUhPbTFoWkdOME10X1E5aTBDSTNIaXctWEo0c3ItMXp3b3V1bHBnd0FnTk5LQ1h0Y2JITmJYR3prVW1iS3ZMMXJXeURPTEVtN2ho?oc=5",
+      "summary": "US inflation gauges likely diverged before war in Iran&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:10:22+00:00",
+      "fetched": "2026-03-08T16:15:05.525466+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3812,6 +3884,18 @@
       "iran_specific": true
     },
     {
+      "id": "fcfa36067acb22a8",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPNXR2aU1idnBTS1dqdk5QelNFaUtFWFhCYk1TZDJpSElDQ3p1d0FfdGE2Ri1EQlBvN2JSZ2N2dFM4N2VSUjVmcFIzSU1KckRQTzNRZkhTbS1WblBGclAwa2RMT3IyMnkxcTB1ejJNTWIwWm1JMTIyY2t2dFl1QzMzLUo2YTc1Rk01bThrLW85b2hXSzBkSGZvM3VzQjdUdG1TX25aZm56ZnlpTjQxeDQyYy1pNEJKVkg4TkttNWRvQXZScGxaMXBRZkJNYXNHTmwzYVdBY045TFJXUjVwMnM0elpQQWdHUUk2U24xZkJIcWVQd01MN1cxc0JUV2RCOExYR09kUks4MHczSlhtX0d3NDdUX2pXeXRwVFFVQUNrOU1DcUZLX3l3cXk0YUg3NEs3N2IzZ3ZZQmhyV2pPMzZ5dGN1T19NckU0MDFzVHRkQlYyQlNmRHhBMFhDallwa3FMeDRZb0RXdk0tamxJSlktSHNyTXB1SXJidlBMdTQ4STF3aVRVaFhHa3hSMldhendITjVpZzh0RTRtaVJsclozSDBQQXlpVVAtN29Eb29qTXVnZWV2Skdj?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T16:15:05.525369+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5922,90 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.640870+00:00",
       "relevant": true,
       "iran_specific": false
-    },
-    {
-      "id": "86b0862ede573cd1",
-      "title": "Early retirement of US admiral Holsey paves way for warmongering: Analyst",
-      "link": "https://presstv.ir/Detail/2025/12/13/760567/US-admiral-early-retirement-Alvin-Holsey-Caribbean-Latin-America-warmongering-",
-      "summary": "Political commentator Greg Simons says the sudden early retirement of the US admiral Alvin Holsey removes the obstacles for the US warmongering.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640811+00:00",
-      "fetched": "2026-03-07T20:47:33.640815+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "80a3a31030f2cab0",
-      "title": "Foreign interference would worsen situation in Thailand-Cambodia conflict: Analyst",
-      "link": "https://presstv.ir/Detail/2025/12/13/760580/foreign-interference-Cambodia-Thailand-conflict-",
-      "summary": "Barry Grossman believes the interference of external actors in the conflict between Thailand and Cambodia would only worsen the situation.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640759+00:00",
-      "fetched": "2026-03-07T20:47:33.640763+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "efdad3a35a0e9c1c",
-      "title": "Iran seeking ouster of US forces from West Asia region: Analyst",
-      "link": "https://presstv.ir/Detail/2025/12/14/760621/Iran-US-forces-ouster-West-Asia-region-US-policies-",
-      "summary": "Reza Vedadi, a London-based researcher and author says the Islamic Republic of Iran is determined to drive US forces out of the West Asia region.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640714+00:00",
-      "fetched": "2026-03-07T20:47:33.640718+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7095de1cc9c1d0e2",
-      "title": "Venezuela's interim president will continue same policies: Analyst",
-      "link": "https://presstv.ir/Detail/2026/01/04/761849/Venezuela-interim-president-policy-Delcy-Rodriguez-",
-      "summary": "Podcaster and Journalist Esha Krishnaswamy says she doesn’t see Venezuela’s policies changing with the current interim president Delcy Rodriguez.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640679+00:00",
-      "fetched": "2026-03-07T20:47:33.640683+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "455cd0878fcd6776",
-      "title": "IRGC is part of Iran’s national army: Pundit",
-      "link": "https://presstv.ir/Detail/2026/01/31/763288/Mohammad-Bazargan-IRGC--",
-      "summary": "Iranian academician states that Europe is not genuinely committed to labeling the IRGC as a “terrorist organization” and is facing significant pressure from the Israeli regime.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640622+00:00",
-      "fetched": "2026-03-07T20:47:33.640626+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "cd9b70394ca0a1f3",
-      "title": "Silenced in France: The unjust detention of a pro-Palestine Iranian activist",
-      "link": "https://presstv.ir/Detail/2025/08/04/752474/Silenced-in-France-unjust-detention-of-a-pro-Palestine-Iranian-activist",
-      "summary": "Mahdieh Esfandiari, an Iranian academic who lived in France for eight years, has been unjustly detained for condemning Israel’s actions in Gaza on social media.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640589+00:00",
-      "fetched": "2026-03-07T20:47:33.640592+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ff235fa621edace9",
-      "title": "Right to defend: Lebanon rises against US-backed plan to disarm Hezbollah",
-      "link": "https://presstv.ir/Detail/2025/08/08/752727/Right-to-defend--Lebanon-rises-against-US-backed-plan-to-disarm-Hezbollah",
-      "summary": "Massive protests erupt across Lebanon as citizens reject a US-backed plan to disarm Hezbollah, warning it would expose the country—especially its southern border—to increased Israeli aggression and undermine national security.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640554+00:00",
-      "fetched": "2026-03-07T20:47:33.640558+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
