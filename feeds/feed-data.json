@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T12:30:07.050112+00:00",
+    "last_updated": "2026-03-08T12:45:07.857884+00:00",
     "total_items": 500,
     "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "4143b10f871a6229",
+      "title": "UK must be prepared for a price shock from the Iran war | Heather Stewart - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUpnS3lzRUlqXzFGOVV4eGdDSlo4X3JTQkRQMldsend5MFBvN01ZMTRuZWRoMkFpT1BsSFVhSGJ1X1VKRnZ2Vm1PaFEtbGNOcU9hUmd6M0FqZ0tBUmp3MjkyYzZhMnZEXzJreTNJc3RaczhNc2c2YVNpZkM0R1UxWGVSTkxXYUdBNnpEQkY2VU1DS1hJR0NWak1XTWpUX3d6bDRpdmJWSQ?oc=5",
+      "summary": "UK must be prepared for a price shock from the Iran war | Heather Stewart&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:34:00+00:00",
+      "fetched": "2026-03-08T12:45:07.641913+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "67d87ec40ac5679a",
       "title": "Iranian missile attack wounds three in Tel Aviv",
@@ -16,6 +28,18 @@
       "category": "regional",
       "published": "2026-03-08T12:17:30+00:00",
       "fetched": "2026-03-08T12:30:06.964757+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ef4fc966aef4950b",
+      "title": "Iran will not ‘bow’ to US and Israeli pressure, Pezeshkian says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-will-not-bow-to-us-and-israeli-pressure-pezeshkian-says?traffic_source=rss",
+      "summary": "Iranian President Masoud Pezeshkian says Iran will not ‘bow’ to pressure from the United States and Israel.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T12:16:22+00:00",
+      "fetched": "2026-03-08T12:45:04.885967+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -42,6 +66,18 @@
       "fetched": "2026-03-08T12:30:06.820038+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "3b262b20ee1cb695",
+      "title": "Honouring Gaza’s women who refused to let the world look away",
+      "link": "https://www.aljazeera.com/opinions/2026/3/8/honouring-gazas-women-who-refused-to-let-the-world-look-away?traffic_source=rss",
+      "summary": "Women journalists in Gaza have paid a heavy price for refusing to stay silent and continuing to expose Israel’s crimes.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T12:10:20+00:00",
+      "fetched": "2026-03-08T12:45:04.886053+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "5524f33babafa62a",
@@ -76,6 +112,18 @@
       "category": "aggregator",
       "published": "2026-03-08T12:00:02+00:00",
       "fetched": "2026-03-08T12:30:06.820386+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "185763a011899465",
+      "title": "Gas, Diesel, Jet Fuel Prices Climb as Iran War Chokes Supplies - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHVEeG01SFVyNWpfSF9UQVNUUUdhdkp3S0F0amJ6YkRhVVg3aEVqWDhabHc1cmU2MFRId2luSmMyUFRpLTNqZFFjYjB5d2JMS3daNmUtZGlTQ1ZCU3pfNFVUc0kyeWZJT21ocExNSnFNOWFZOWtBVUFhaWNfeVE4bXc1Q0pWNXhhZmlaa0FmNGNUdmNsc19pVnZJNWpKbUFhLXVvSVhEVkV6WTZJRXVpSQ?oc=5",
+      "summary": "Gas, Diesel, Jet Fuel Prices Climb as Iran War Chokes Supplies&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:00:00+00:00",
+      "fetched": "2026-03-08T12:45:07.641874+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -256,6 +304,18 @@
       "category": "iranian",
       "published": "2026-03-08T11:30:04.539157+00:00",
       "fetched": "2026-03-08T11:30:04.539174+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "062c263b4dcefbd4",
+      "title": "Photos: US-Israeli strikes on Iranian oil storage facilities - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW52eEtobDZnSGlvZ0tEdnZnYkc2RlFOZE9CU185dENyUmRLSEZtZE5BRWtHbDFjSnhVdmh5dkFYUWRBcDJyNDhtelBYVnFRMUdURFdQSkFKUXVILVdvWWZ6UzFzSDJqY29yMF9zRVRtemVxZ2hRX3plSmd4V05CWjlwWXFULXhtVjhFaFlCOHR4QlhjOUpYMVhMeTl0MGVLMjN2ank0TWZ1anN4Rm5oM08waw?oc=5",
+      "summary": "Photos: US-Israeli strikes on Iranian oil storage facilities&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T11:27:28+00:00",
+      "fetched": "2026-03-08T12:45:07.642232+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -652,6 +712,18 @@
       "category": "aggregator",
       "published": "2026-03-08T10:03:18+00:00",
       "fetched": "2026-03-08T10:15:05.866559+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "01d57f26473c39f7",
+      "title": "Vance, Rubio and others in Trump’s inner circle preached caution on Iran. Now they’re on board - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9INUE1b3VPVEtWQUZRREhpMFVsOGtrT2xIa0M5MHRPaWRJQ1hraTZBd01VdW1IOTdUMXNWV2hBQTBLNHpfckxISlRqbzR5cnNqU0F0X0ZfOUNiczdFZ001VXV1RUxNR0FLSm9uTzdWeE92aUJWWW9LWWhTc3I?oc=5",
+      "summary": "Vance, Rubio and others in Trump’s inner circle preached caution on Iran. Now they’re on board&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T10:00:35+00:00",
+      "fetched": "2026-03-08T12:45:07.642543+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5932,78 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T19:00:00+00:00",
       "fetched": "2026-03-07T22:00:06.296111+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b3112b4566d1b2d9",
-      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZTJlNlh3WWNlc1JlbEdiZnV3NUxDNGpOVmY2ZFFwNE5pSDF2OU5tcTZCeEF4bzQ5U25PNXpFbzRTWGc0SFRvN1dERHJNNUFJTzJ2dlRKTGRzd2x1S2gwS3ZWRTEyVzN5UXlXM2kwS0RGbE12VmN6VXJaTVhZWlNFOUtvZU5BdFJBQzRHdkN3V3pwTllTa0NFb2VhTFdobXgxaWVqZDdKdjdpVHBMV0FObXVZbWlUTndkSmhsaHdPTGt0T3F5eWlGazk1aTFCX2VZRGNSM0EtV1l5a3NUVUQ1c3pVc0FTSDIwVUlxSEZQZUFxbWF1QmNwX1phSnBBX0Q1UHAtZHY1RmpNR3NCeEM3Z0pJekpZQk9LR01fMlY2WUJBVXU3TG9YLUtpVjJvVWRaalc1TjdIeUJJQmNKdzJGWlVaeG04OWktQnROZ1hyMm41NllzVVhFd0ZFOVo2bURyZDRlQjdzY05sY250eEU1UlhNVFZnMGlFaG9Oa3B5Szg?oc=5",
-      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:00:00+00:00",
-      "fetched": "2026-03-07T22:15:06.543591+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ed82b916b2507fde",
-      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPOV9rWWhmY1M1NDFfN2lzY2IxT3ZGTXh5RFV4dHB6LXFqemFiam8xUVpvTjZ0SUdCeWFMeWhtUk1Dd09wYW1Ia3pYNnlhQzFQSFZiaENxRXpYU2ZWaC1aYXFEUUJKWkFNTDY3a2tvRm0yMmxSMDNTQ0pWMFR6NmpsbHgxT0NJS195X1dJMTBwRjZtanMzUUFtMUhDOHZFV29pRUxUOTFZSWFBdkgyMmNTNlFUNHR5Vl9VXy1GZ2VoaHZ4dEFUMXZSa1RielBBNWtLUEg5aW9fWWJEMFphNFB6ekRNanlJaDl4bzRzc1NISms3X1NpdnFvQWdWNDhzV1hJQm9uT1BmUGZqQjNTNGJEVXlCSHJyb0p5MnM0NDVYZTV0WGNaUndjVUpxOWVmNG5SeGpBeVRScDVzLVY5Z3VzazkxOE5jclU1ZXM4WGJBdXVwYnpSQlNWWXMxdlhKX0RGT3pYQkZKWmlMSlI3UU1fWUdlRXpJWjk1VXFnUDhPRHA?oc=5",
-      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:00:00+00:00",
-      "fetched": "2026-03-07T22:30:06.382265+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "93b1b8f8d6ebae01",
-      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQT2FrNEJZUDRfTkhtRzFwUS1yVEFqalcyTkY2MjRTYkpqWGxEN19QeWk3Q2NLU09ydXRqdzZ6dmhsMTJkdWJsTTlpSU5TMGNMWTJFOWRrQW8weEoxWUtrV0xUMG1MMWQyWkpNX3pGZGk4aWxBQ2lDWE9DSFNiNnJMQWYwNzV2OGJZUWxJejhjc3ZScG9LRTVRbXZDb3kyS0hEbE9YRGdseXhsaGVLYzNJUzFIQTRSUTNzd3hVV00xWmJEUjFQN1FVR3V5OXBDYU5mR2NNSzVQc19TSHktV0x5OG9wdEdJNWRNNUJBOGRvazNrclNMa3BvWnNReDBNaUpFc2lQdVdDLUV5bWVTbHh3RFFCNlhnVmtKeDhVN0RMam5CMVVrRlJaX0J3TkVjQXBpemxJdkt6R3J1S3NKR2N3dWVYV3huZVZSNzhCbE1kWVZqRFl1ZUFBNUtGTEY5ZTVIeUlfbHAtM1UzRVdmZkFVV0pSbkpJOGcxNkhiRVRZZnA?oc=5",
-      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:00:00+00:00",
-      "fetched": "2026-03-07T22:45:05.518312+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4a933d62f7a031ec",
-      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQLV9LQ3RvV0NYeDBVSUZyd0pPUHMwTjkxb3dzSkZkejBnczJ0RmJZNjZ5V056Q0xHWlZ2TWpOQ2l0MktIbU0wSGZwaDdBSDdvRzAwWmJrNTFBV2wzbk4zNXNmcmdQZml0Ync1TVozNVBpQ3M2TW5ZQW5WclVuaW9WYnlYTHlrZ3BNbUZxZVYteXRqbUJIakEwS3hfeEdhQ0x0YlF2ajRtaFdoelA1QzF1eXNtd2c0djhPTFVCSFBwY2FPQXRGdGoxRzBNX2kwWUh5T2F4Z01KWU1ia2JsaG1mSmtmSUpabGNoR2czSHFhQTR5dU5BMVkwTHpkLUxmRWJTYk12LXkzY1pPaElLSWJSLVp2b0RqcE56YW96ZDNoXzQ4SmJ4cS1BS3pmV21RQ3Nhb2hJTVN1Z3R6Sm5mYWU1TkJ2cWoxZ2JDQ1VsUzZ0RVBLS092WHNoQ3F6X2wxRGZidUY0WmptZ0c0U0YxcWg0U29QMXhIYks4REgwQy1kcGI?oc=5",
-      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:00:00+00:00",
-      "fetched": "2026-03-07T23:03:51.467187+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9fa34bb1cb698ac0",
-      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPb1k2MEFHZ0JEYkdKdHhZd3FEU1pBOGtCY1JoTzhfdDJ0eG9TQm93RnkwaDVFcU9SYlVUdWZLNTg3Snpma3dWcEVwTWFkNlJWamVxNWl6bjVHMW9sMGtxd18yV0JscWV5NDVBOHF6ekprSHBaTlBnNnMzM2Z3dW9FWTVGUVh3QXptdG5BYkNUb0hya0ZORWowVlFCb25ZRDR4Vnd5bFlqdU1IUjRlU0tfT2c4OHVnZjQxSE9BY2x4QmQzZHdQM1dRWTIzbVFtUWhoOVR6UWVNR2tucWYyYXVLNV9ZV010eDZpeGtPaFlhV1pDUVctRlpGVm4tMjlaZkNLeE1oRzhZU0hVY0FYVGNjVHZyRmV6ak9MNnhKdkRiZ1RQZC10eHFUT1NnNHhGOUc2aUl0aWxKbG1EV3Rqc2VuVmE1VVp1Vy1DSlBWWGVMVTFGZWxfMUJfWTVMWFlpaGExNzgwNjM2Z0owUm55YW90eGZWQUQ1cTdBX2h6TXhNekQ?oc=5",
-      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:00:00+00:00",
-      "fetched": "2026-03-07T23:15:06.666685+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7996edb7a983299a",
-      "title": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRzdKNEZ2NkRteTZXOXpvNkJyR2pBNVd5UlNwTGczUlpWazF1ejA0MWc5bVZmQ1duUmxINTFueURtcGpxRzM3R0pZQXZRc283VnF2QUlQMWRmc3JKQ21uTDhQWkhad0FEZjFidkJqWXBoU2Z4RThxc1JSd2Fydm5Fb0s0SzhJY2pfaEFHdC05ZTY5Zm1lcklJNHVYVEFQZGpxUnJ1S1Z5SzFOeWNpc0NBdlZHTjA1R0tkcl9fUnRwRF9BZVhJTXZ2NHJDRE5OaXpzbkc0YVFiVGdFdmFoUmhOeVZEQklQWGk1aWYtSk81OWF1RExTb3h2SHpIMFh1X1RDbWppYnIzZGxXVEZZQWxDOFRheVpqQ0V6RUVZNldNcEJJa1NiZW1aQVk4X29LOVNQbVVIbkc2R2c4UjEwaTRtdTJ1RmJzZHVzVUZNWlZ4Uk5iRUZlbXRXLXRIOW9YQjNaeVFuY1FmcnVycC1DQXlhS2tGT1dhNzFzc01UVUhQaXM?oc=5",
-      "summary": "Gas Prices Could Top $5 a Gallon Again Amid Iran War. Here’s When and Why.&nbsp;&nbsp;Barron's",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:00:00+00:00",
-      "fetched": "2026-03-07T23:30:05.965765+00:00",
       "relevant": true,
       "iran_specific": true
     }
