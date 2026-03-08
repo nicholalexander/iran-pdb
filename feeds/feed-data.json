@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T04:45:06.006610+00:00",
+    "last_updated": "2026-03-08T05:00:06.128638+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "b79ce18e8217f88d",
+      "title": "Fire outbreak contained at oil depot in Krasnodar Region — emergency services",
+      "link": "https://tass.com/emergencies/2098347",
+      "summary": "The burned area reached 700 square meters",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T04:56:32+00:00",
+      "fetched": "2026-03-08T05:00:04.862423+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "2f30494486aef04b",
+      "title": "Investigation finds US-sanctioned Kinahan cartel leaders 'living openly' in Dubai",
+      "link": "https://www.middleeasteye.net/news/investigation-finds-kinahan-cartel-leaders-living-openly-dubai",
+      "summary": "\n\n  \n      \n      \nInvestigation finds US-sanctioned Kinahan cartel leaders 'living openly' in Dubai\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSun, 03/08/2026 - 00:44\n\n        \n      \n    \n      \n    \n                Video shows Christy Kinahan at Dubai’s Coca-Cola Ar",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T04:53:14+00:00",
+      "fetched": "2026-03-08T05:00:06.027205+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "ebe3ec5b475ce4a2",
       "title": "IRGC says it launched missile attack against US forces in Kuwait",
@@ -596,6 +620,18 @@
       "iran_specific": true
     },
     {
+      "id": "dfc94c6023cdf442",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPMS05TzMzTVRZR1hydmZpZHhob0xDd25DM0dFZnlBLW5YOTZuR19zNi0zTzR0MTJYMGFPM1ZUTjBuQTE1NWR6bFNNMEo0TjNwRlpzel9DOXdIRGJhcGNENnpYNTBxdjBGWC11VnVlQV9VVy11d1NOUUpfR29BZmhCTUNlQVBqZFlkenhUMHd6LW5aRC00OF9CQ1JaZjhPZl92RUxfM1NXY3lDNXAyVVVIeXVPaWRFTExFbmZOV3AweHlKTGhwWW5vNGxmWGU0VzZsWk5mdWZBX3Jnc2hXT0s1SEx3dzIwR01fOEJjdjJ3ODZjckc0U0hOMmhLMklMbzl0UDNtRzFTQjVBTjkwWVpxc3RVTXNZZ1htcUwwQmxTN0pyOEJTMi12Vm1uTTN5aUJjQUZCYmhGb0xWYWhKVzFDd3U1SmF1XzVwU3hPNnF1aTVib1lfTm54Q0MydkRtOEFNSUt4ajY2OXpzQnlZRDFLNVB3SnRvbE50MVE5ekUxZUJKZmZvVFY4ZExhbE1NTGg0alA5dV8yOVdpZFE4S2xEMndjNDVmMzh0WHN3RWlMSmNBRTRwRGk4?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T05:00:05.895152+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -748,6 +784,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T04:45:05.814416+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "ef1c7255de3d8d13",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPZ1l5clo5QmxPb3F1aC1oZ0tKUTFsX3J5N1VfNl9MVEZpbkx1dzV3dmxmdDRPNGFhcEFQMUlJaFphQVZXYldaaVVqWjg2N3NkTXpycnI1WmYxNlpvRzUyTzBUVkF2dlN2SWFBMWhrNUZULTZGVUQ4RzNpcnpwVDRhZUFMY0lBTU41ZnhpWFdYUnRwZnIzcmZfcm9MWm9vdXQtaHNKbDVMV3p2ZElMZThvQmZicUZENDlkMnpkMHdfOEMzVy1STThFRC1KQmlEVk81VkVlWFJ1dGVGZkNiOS1WNmFKbTBHc1Jhc2FITFpLcldpS1FJTHlady1nRHZUVmhoY2ZMa2dLQzllZ3gwaW5FMDF2REY3VWJWa0wzanlFRGtYSTFNMjRaYk1OaU8xRUlLenI2N1BqU3c0M3lUN2ZCWnpDdHc3SjZURU5CNDJNenlIZ1F6OUFRSHN4V1dFNXR6Z2loYXVjNmdRWGFtZ285X1lCbENBMHlWbnVZWlNBWDZNR1RDZ243cUZlT0liTkZtX1B6NTJqejQyNjdLRW1PYklhNnhWQ2FiVzh3eHZTaw?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T05:00:05.895003+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -1060,6 +1108,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T04:45:05.814345+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6d8c02a750d1532d",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQQUhLZEhZZGFYVG90MzgzVlUwd1hyQjVJQ3daWXB6MnRQelBnRjFsbGdMLVlRS3VXajVPZFpwdmFsT1F0bXloY1ROTkdDcjhza2lFdGJQRDZ0LUtPanF3d1A4R3h2eHNiVGJva1FnMFM2dDhFb1RPMlBlNmVENGstX21MQWZPdnZxODJXNXNyWTkza2RQUTNKclY4eFhvOTkxWXNWc3JqUTdibnVQWVRycnhlbTVQSUVBc0ZBX19pUTBjaTlqV2lpd0U2Tl9ONEhrLVRSRmxfWmNSQzkzWklQc2NhWWwyMU1ZMWVhMEluajZ3REZ1VFJMZWd4b0d2SmdiWVZiY1JPWV9XNWRXbnN1YXBiRDFLc0pFNm5Tc1JGVTZBX1o4Vkc2RjVFTWdCQlJzNzJaU0ZTV2NmNlJZeUtwWmZ6YkNBTVdOZnpvNmlFWnp4RUhObFlFMkJzNnMxQWdzTWxldzVEamtuVmNYbVVoaERfQ3ZTcjQ?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T05:00:05.894898+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4316,6 +4376,18 @@
       "iran_specific": true
     },
     {
+      "id": "55d23ba4c4c47928",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOLWtLbXVEc1pSdXhxMlVSMC1NbXh1WUU2aUl0ejVVTG5XYy1wbm92ZTNUUzYzdjN4elF0WWk1bktPM3ZIT1VjcTZaZVloUVdYaFZObEtzQUNyMkhUQ1o5ZWRub3F5Wm9FZWwtaVExR1ZqRHp5SEwzNjJlam1FTS0yOVA4bkhJcU9jam1Zdno2WXVMblBDRG9LejBVTmRSb25DUzdKRGd6U1d4dG5ycUNBUmNqUDBoYk1RQW0wMTI3TVhjaGtiSDd6TWZIN3NsVHBlYlRwdVZpV1BKbFZ0SDV3LUdlT1ozVE9TM1BzWU1lcDZFdDluQk9Ndi1JNGtWSTgxR1BjUS04MHRvODhjMTJuUm4tdXhpWWFFaTY5cFY2eDVjQ0ZRTDhaRDItN1NBWUJpVzVfS09OWHB4b1ZuWWs3Ti15UHdndGhNazBiREhHaURVU1hMWnNWNW5OQzZ5MWNXWkZCUUoteGF2cGpzNFVLQ2VwVm1YeGV1SmFUR0JWcG81aWNkREt3?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T05:00:05.894762+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:41:22.709161+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "579bfc18ce17dc46",
-      "title": "Biden boasts forgetting more about Putin, Xi Jinping than most people know",
-      "link": "https://tass.com/world/2098083",
-      "summary": "The former US president  said that he knows more heads of state in person than any other president in US history",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:25:02+00:00",
-      "fetched": "2026-03-07T20:41:22.709197+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "6d1ddd025f47d0df",
-      "title": "What the Trump administration says about why it went to war with Iran - NPR",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXloVUFlWk54OUFqajNLN3czSFRINktXRUlUYnZJSnVKSkl0akVIdmRNcTQzRXhaRVRDTDFrZWFwWXhRd1BKZXFCYTloblRiV3MyMWxwSlVnUjE1OXhvLUEwYU9RNG1qZmF4WGZ0cWVuWFF6WEZld1d4b0dQd0htcUdxQWlCczdfN2NUZUFR?oc=5",
-      "summary": "What the Trump administration says about why it went to war with Iran&nbsp;&nbsp;NPR",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T07:23:13+00:00",
-      "fetched": "2026-03-07T20:47:34.881191+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "75d62ae61b82e581",
-      "title": "State actors are behind much of the visual misinformation about the Iran war",
-      "link": "https://apnews.com/article/iran-war-images-misinformation-russia-israel-9e495017dc5c4bf24a0b6152863dbfb1",
-      "summary": "Plumes of smoke rise as strikes hit the city during the U.S.–Israeli military campaign in Tehran, Iran, Thursday, March 5, 2026. (AP Photo/Vahid Salemi)2026-03-07T05:05:11Z\n                                        As attacks spread after the bombing of Iran by U.S. and Israeli forces, a video circula",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T07:23:02+00:00",
-      "fetched": "2026-03-07T20:47:33.082978+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2fbf2ea6a2950c3f",
-      "title": "Ex-rapper’s political party leads early results in Nepal’s first election since 2025 youth revolt",
-      "link": "https://apnews.com/article/nepal-parliament-election-results-balendra-shah-aac242077d2dd052e7e9bdd7c088ccc9",
-      "summary": "A supporter of Rastriya Swatantra Party celebrates the victory of Ranju Darshana, a candidate for a seat in the House of Representatives in Kathmandu, Nepal, Friday, March 6, 2026. (AP Photo/Niranjan Shrestha)2026-03-07T05:17:34Z\n                                        KATHMANDU, Nepal (AP) — Prelim",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T07:23:02+00:00",
-      "fetched": "2026-03-07T20:47:33.083028+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "02e11bf801431732",
-      "title": "Ecuadorian military hit training camp belonging to drug gang with US assistance",
-      "link": "https://tass.com/world/2098081",
-      "summary": "According to the Defense Ministry, the training camp could accommodate 50 people",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:20:00+00:00",
-      "fetched": "2026-03-07T20:41:22.709229+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "adc9a49d1b6d4199",
-      "title": "Russian air defenses down 124 Ukrainian drones overnight",
-      "link": "https://tass.com/defense/2098077",
-      "summary": "29 of them were destroyed over the Bryansk Region, Russia’s Defense Ministry reported",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:18:43+00:00",
-      "fetched": "2026-03-07T20:41:22.709268+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
