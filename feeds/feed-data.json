@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T09:15:06.041671+00:00",
+    "last_updated": "2026-03-08T09:30:08.181009+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 5,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "28b65e5ee0c2d98e",
+      "title": "Israel kills 19 in attack on southern Lebanese village",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-19-attack-southern-lebanese-village",
+      "summary": "\n\n  \n      \n      \nIsrael kills 19 in attack on southern Lebanese village\n\n    \n    \n\n        \n    \n                The Israeli military has killed at least 19 people, including children, in a strike on a building in the village of Sir el Gharbiyeh in southern Lebanon, according to the country's Nat",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T09:23:09+00:00",
+      "fetched": "2026-03-08T09:30:08.080894+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "2212389d618d6e43",
       "title": "IRGC drone, missile strikes target US Al‑Udairi helicopter base in Kuwait",
@@ -54,6 +66,30 @@
       "fetched": "2026-03-08T09:15:05.965007+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "3b5218740aa71f2f",
+      "title": "Iran war spreading economic damage far beyond oil and gas markets - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEcyb2ppMDBwU1UzRFpTY2djeG5yQ2IwOUhZTUI2SDAzYUg2d01wS3ZHVEtOYXoxU0JxZ2gya0lzZXJ5Ml9pTUNENjFQdk9fWnRaOWkxenhGZVh0d2lnc0Y5RnhVT1dWcUVRUEpaTGR4WUZFVUlZUzJINTRfUE1MM094bW5nemM?oc=5",
+      "summary": "Iran war spreading economic damage far beyond oil and gas markets&nbsp;&nbsp;The Washington Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:02:20+00:00",
+      "fetched": "2026-03-08T09:30:07.936127+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3db646bd1ebf7084",
+      "title": "‘A very dangerous person’: alarm as Pete Hegseth revels in carnage of Iran war - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2JFU2FrUmZGZzBrMXhXTGRtZnIwTU1XZzU3Tm01bEYxMUxDQjdFUjlyY245TUE1QkkzVVkzVzBMZWpsTFdBQWt3MHV2SFNDdFBOTmRtU2QyZ1JKcFBkNjJDdTRWZWQ2UU41Z0pnQlNwTzRCMnE0UmFKWmc2elFsNlh1V1dkamM?oc=5",
+      "summary": "‘A very dangerous person’: alarm as Pete Hegseth revels in carnage of Iran war&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:02:00+00:00",
+      "fetched": "2026-03-08T09:30:07.935969+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "99cefec040847b79",
@@ -5960,52 +5996,16 @@
       "iran_specific": true
     },
     {
-      "id": "13f10d85383dcdea",
-      "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
-      "summary": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times&nbsp;&nbsp;Los Angeles Times",
+      "id": "91af728abc82c410",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNb3haaXNaYWVwenZwb2hXV3VnX3hiZjQ1X1hvanMwMlpnZmFhbDBCMk9yenJUTHZ3V1RvSmk2Y0RFdDM1U3lRTnBNV0ZSMVFtZDNUUzNiTmY0Nm5Ka0wxT1huT0NWX0ZIaGt5ZzNET2k4S0FEWFYxMkI5NkhuMDNyV0ZDRjZNTUo1TzV2RjdUVGZjVEppdWFmNUxDV2NiYTZSR2VjM1E3X3hhaEtBTVotS1BIZ1VxcWc4WlJxZjY5RGZBTlozQkhtQTIzWW5Xa19qSXNDNHM4NGJjak4zSVRHdnEwMnRnYWZWeTJaaGhidVdOQ1BiaHdoaWYtbHlidk1qcGhpZzF5dVpCUFpuU2prQU5QWG5waW9yUE15c2FfMWFIeF92aDlFcnVjdGtYVjlnWlQzd1Z4cVJ5eEJ4Ykx1XzVuMzNRMmFWMXFvVkRRRFN0Smp5bVpIdEVBbzFyLXJ5Q1R0RW50X3N5UVNSNEI3ZVZSM2t1SjlFeUdZZVpTaWNPWHE1TWpv?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
       "source": "Google News Iran",
       "category": "aggregator",
-      "published": "2026-03-07T16:59:41+00:00",
-      "fetched": "2026-03-07T20:47:34.882860+00:00",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T09:30:07.936201+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "298581c1e6c66923",
-      "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - WIS News 10",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRnJzZWJxNG90YlFaVTlYdDdNdHhZRzRuYkxZM25SNFg1bWtxWGNCQlB1cHo3RlJ0M1VxZ28xWFMxM3B1SXNrWXc3eDlXSFJJcGJQM3VORmRhSDVWcmdVSVJETC14c3RLODRBcnI5cjNUa0o2N2tLQnBMSTEwZTFzanZHQjg3Z0M1ZVJXa2Fpcm9jc3VycHV5blZ2M1LSAbABQVVfeXFMTi1UR1hQYWdTNjV3RDNmTFZsVG5xMEVPd2xXaVNUQmlUZ3RLZHdRZmFhUmFRdEltVnpLcU13WlNKM3o3UXlNWHQxdWVPckE5V1FmbEotemxxSENUY2p5R3lmMUNNcHROR1RxcWItb0R1UjVKQW1meDdESDJZNUFieV9HMUN0RTV3bE5yZXhmS0lzd2FDM1I3RTk2T29xTlF6UU1MMjRKMktjVl9YbkRfS1M?oc=5",
-      "summary": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up&nbsp;&nbsp;WIS News 10",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:58:00+00:00",
-      "fetched": "2026-03-07T20:47:34.883384+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5e2f911fc0549103",
-      "title": "Strike hits Iraqi Popular Mobilisation Forces base near Mosul, report says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strike-hits-iraqi-popular-mobilisation-forces-base-near-mosul-pmf",
-      "summary": "\n\n  \n      \n      \nStrike hits Iraqi Popular Mobilisation Forces base near Mosul, report says\n\n    \n    \n\n        \n    \n                A strike targeted a military base belonging to the former paramilitary coalition Hashed al-Shaabi in northern Iraq on Saturday, two Hashed sources told AFP.\n\n\"An ai",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T16:56:54+00:00",
-      "fetched": "2026-03-07T20:47:35.015145+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "4f60849325bda2d8",
-      "title": "What people in Gaza are saying about the closure of the Rafah crossing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/what-people-in-gaza-are-saying-about-the-closure-of-the-rafah-crossing?traffic_source=rss",
-      "summary": "Palestinians express how their families have been affected by the closure of the Rafah crossing.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T16:56:01+00:00",
-      "fetched": "2026-03-07T20:41:04.688682+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
