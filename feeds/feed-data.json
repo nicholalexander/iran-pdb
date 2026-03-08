@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T08:15:07.020970+00:00",
+    "last_updated": "2026-03-08T08:30:06.935798+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 13,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "e44b56fcf384eaf6",
+      "title": "Iran war: Morning update",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-morning-update",
+      "summary": "\n\n  \n      \n      \nIran war: Morning update\n\n    \n    \n\n        \n    \n                Good morning Middle East Eye readers,\n\nHere are the latest updates from the US-Israeli war on Iran, now in its ninth day:\n\n\n\t\n\tIsraeli air strikes hit Iranian oil storage facilities on Saturday, triggering fires an",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T08:26:50+00:00",
+      "fetched": "2026-03-08T08:30:06.851023+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f07dc81e8d13509f",
+      "title": "Israel strikes Iran’s oil facilities for first time as war enters ninth day - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQU5OV3JNY1VGS29QS2tYNk1RX3RwdEdVcmJ2QW5obGVLN1JzcUkyNHdiVHZibXFMX0RlX253MkZ5LVdXWVBvSHVKWU8wNUpVV1puZmFNaWlXTVY4STdqSmhHRHhaQVp4ZGljLU5SYm1UdzFQZExkcFItbkhEXy1mVGdzQXFHbFM2VzkyQ0Z0MUxxb3dvcTU2ZnVVZUQxM1ZlUGJaTzd0SU5fWnIwaksyR1VwN1LSAboBQVVfeXFMTUJCYWU5NHFNckFUckhMck55U3V6QVJkZ2EteloyOEdadkJpN2VkajNvNmhWYW1Dclk5VWY4N3BtVlh1Z0huWDVDS01Jb3JLNWdYZ256UnVDZ0tPV1BZQ1Y4eS1lcGtKdmtNNlhjNG5iaFZXUEVjemxzU29yZnNUVVByUlliZTRidXJkdE1OeHRiTXM4VVBtOHd4SHFxUmV1U1FGTjBjVk5mTkdNSjRpOVJKeG1kUGM1amNn?oc=5",
+      "summary": "Israel strikes Iran’s oil facilities for first time as war enters ninth day&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:22:43+00:00",
+      "fetched": "2026-03-08T08:30:06.734611+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "18136805b6865146",
       "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
@@ -18,6 +42,18 @@
       "fetched": "2026-03-08T07:45:06.025864+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "55904b4e0d5f34c3",
+      "title": "Netanyahu’s Iran War Is Also the War of Global Neocon Elites - Jacobin",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10azhHQm0yS0hUSTlrVHJzcUNwaDBvQWtFZ3VUOWItd1Y1R1g2Snc4TEVxdW4zS0F6amg3M1JPTkE5UVMyS0JtSjZuWnBLWF9JLWV3TDd4WDZGSU5oWE55RjJ1TWZLd0FacTRZWA?oc=5",
+      "summary": "Netanyahu’s Iran War Is Also the War of Global Neocon Elites&nbsp;&nbsp;Jacobin",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:17:30+00:00",
+      "fetched": "2026-03-08T08:30:06.734055+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "dbee64ec67318351",
@@ -44,6 +80,30 @@
       "iran_specific": true
     },
     {
+      "id": "16a9be1e9248a741",
+      "title": "Iran War: Three Ways the Conflict Could End - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcS1NT0o2QWJrTTVmczBXal9FcnBlc29pa2VlczBoS1Z2ZmlTQi1ZRWhLSGVUejFmdnk2Q3hFU0Q5R3Ywb2NZQ1c2REtuZEFDaTVOUERYRE9YN2k4Nmh6N1hmLXpwOHN5aGVTLWQ5ZlN0UTJFNEUyVDlmT1dtaVFzNGp4dGpjWkdLSlBTX1d1SWxRVmN3MGlQazJ5SnM?oc=5",
+      "summary": "Iran War: Three Ways the Conflict Could End&nbsp;&nbsp;Bloomberg",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:00:03+00:00",
+      "fetched": "2026-03-08T08:30:06.733877+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "cbb2a766df024206",
+      "title": "Why an Iran war inflation shock could wreck global economic recovery - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkZCeXVJMUl1Q25lb2NleHQweEgxbEJzZDJreUNaVXRfeEFZUkUxOUw0X2hETXFMVF9yWWRqTzdIZGN4aG41Y2o5ekp3NkFfVVVreTl5WjNDdUg5NG1ST3l4NVotT0w4TWJxNUhFZnkzTERmOVlEejlnMnQxQzZUYVB0OHBhOEhFcUNCb2JTUkMxandEY0hlRHg0TDhFWEtxMWxYV2pqZjFUSzZRWDJIYjhFemhVcmd6X1BJ?oc=5",
+      "summary": "Why an Iran war inflation shock could wreck global economic recovery&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:00:00+00:00",
+      "fetched": "2026-03-08T08:30:06.733835+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "dc87eb06ec81e148",
       "title": "Iran war: What is happening on day nine of US-Israel attacks? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFJkeTNPZWl1R2RaTVJLd1pqbjRnUlJLSlJ0Q2h3Y1BEcGxrLUUtWFhwUm5RN2R2SzRfcFh6QVUtcDRvRVh6OTJGODJ4cGl6WUxsWXNNSnVPM3M3SWdtVnRwTnRpOG02YU1wa1hmRlUzMVNjSmxiWk9aQzdlM3pfNnREUEIzQWFsWUdCTFZQbzc5dWZ2bFJwX1JxS0JxRkM10gGmAUFVX3lxTE5PbUhKQUh1MTRLOHVCZ1FBNlBRMnp0eGpFUkxIUk1oajRPUkQwVlpTS3dtS2d3ZE1qOTVMaUxvMGFobmVhdFRaUFRTQ3NGQzhJRnNxVHVDWlVjdnBEbTYwdHhfRVVDb21Sd29VZWxXdjNRaFVzeG5BNlhQZ25oZW5RbTJ1TDBIZENlamZsNzNyTTR5azJsdng1V2QzcjFUYnlSeTMyRkE?oc=5",
@@ -56,6 +116,18 @@
       "iran_specific": true
     },
     {
+      "id": "42dfc0ab949d3216",
+      "title": "Iran war: What is happening on day nine of US-Israel attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks?traffic_source=rss",
+      "summary": "The US and Israel continue to strike Iran, hitting oil storage depots and refining facilities for the first time.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T07:55:11+00:00",
+      "fetched": "2026-03-08T08:30:04.335643+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "a586b33663f7a7ae",
       "title": "Israel warns it will target those naming Iran’s next leader",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-warns-it-will-target-those-naming-irans-next-leader",
@@ -64,6 +136,18 @@
       "category": "regional",
       "published": "2026-03-08T07:42:28+00:00",
       "fetched": "2026-03-08T07:45:05.951090+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "73a71b7a16ab3c03",
+      "title": "\"Not Helping Them\": Trump On Russia Reportedly Sharing Intel With Iran Amid War - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTF6NXFkV3VYc1REajZzNmlYaUN6aGktTW5zaDN2cjYzeWhxSDhxOERtVndaaUFCb19rNHN1OVVtNDVkQ2RhdHE5dFhXRExJT2JsRjNOMVlaSlV0ODRRN1FKRGwxY016WWpTVkphSDBheXc0MlBrS0RtcGQydjIxcVJXOXdIZ01tRkJUbGNkbkVBbHljQjRnY0xzUGk1V3JNOUVKT0FfRnJoSTItMnEySFZqbE12YVFj0gHAAUFVX3lxTE91cEdadkphYm5XVnl1RW42cVEzYmNsQ0FPcV83eF8zcUE5T2pfYjlnZEgxWFJJNDFXNS1ydzh4eWV2ZngxOGN0ZGU5aEExZGRYdU1lQzVjM042a21XQWcyb1pZLWd4TG9EeWtZdjF3eHhBcnd1Y3JuNDlZVF9jclp2WlZubWdWZDlzdnJQMjdleVB0Ymp4ZXRFNFNJY3ZaanZiTXpnMWhRZU51V2FQTk9rb1ZrYm5SRkJYNzNTeDdVXw?oc=5",
+      "summary": "\"Not Helping Them\": Trump On Russia Reportedly Sharing Intel With Iran Amid War&nbsp;&nbsp;NDTV",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T07:41:09+00:00",
+      "fetched": "2026-03-08T08:30:06.733910+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -88,6 +172,18 @@
       "category": "aggregator",
       "published": "2026-03-08T07:17:53+00:00",
       "fetched": "2026-03-08T07:45:05.856413+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7a4e7c6a7c6408f1",
+      "title": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZVeTRRNjNRSDZUQjFIV2FIbEJYMXE5dVJkV1RRQ1V1WWU5NzF2VXM0MHE1TkptYnZaMy1PQW9fa0xmbnB1NWVyMDEySWFXdkh4RWdITEhoVWJRTFhLVWs0WDB5TGJ6Q0JHeWFUUXI1dWNWMkJxWGNNRTE4NFdzNzVhSG9wQTRNZ3JFaWZ6dEVXWFpYaUpxZm1iZmw0WnJ4eU56cDFyc3hRT1BzbG5jMVZOcw?oc=5",
+      "summary": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran&nbsp;&nbsp;Reuters",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T07:17:00+00:00",
+      "fetched": "2026-03-08T08:30:06.734142+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -342,6 +438,18 @@
       "fetched": "2026-03-08T06:00:04.531300+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "bd66c5c24e14bc86",
+      "title": "From Bush Sr to Trump: the risks, lessons and legacy of US interference in the Middle East - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYU5Wam1iMElyWWE3SjlvVUQ5TlBZdEJaYmYzT1JkSmlQTWdMM3RHbFU2bm5FRzk5WGRrc3puaWtZVExJQi1udWctZGFhZ3NTQm1YMUduVUhRQnd4YUJ1YWJTNVJ1Vkk5bEFXN2tVeFFCaEctVGE4Yzh4b0g2LTloenIxaFM0QWpnanNqUXlCZnJXTlBtMFRSZjdDaVlad2l6VGgycmVtOW5pN3JxckZ2MXpjUDFDTWQ3a3dibE5pNA?oc=5",
+      "summary": "From Bush Sr to Trump: the risks, lessons and legacy of US interference in the Middle East&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T06:00:00+00:00",
+      "fetched": "2026-03-08T08:30:06.734537+00:00",
+      "relevant": true,
+      "iran_specific": false
     },
     {
       "id": "a69515f6bfc84afe",
@@ -1436,6 +1544,18 @@
       "iran_specific": true
     },
     {
+      "id": "f87d6ff6fe61386f",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNNS1uaTBQSlhia0hfa2V5d1l3T0xiOFFNR3JqSWV5UDlWR0R6RjVvUGZmZnA5VTlpTk9HZDl2d25kSThabW15OGtudWZDMjhFQjRjYnk1VlFRdl9nVjhod0dSY1Q4cmRVN2ZROUlKOS12cnJaMWV6UDI4T1Z4US1wQ2I5SlJtWVFfWXd5RjE3NnV3TkZSRjVheFF5RzRQcUk4SGZmV2V4TVh3bDBOWEViWno1LU5GeWJmNUVYLUppTERwNnA1RFRkX1BONUY4bmg0blhOcXpIX1liYldBRVBReWdHWDFSaGdhRlQwYzFoeEFjZUNEVUJ1dlRxc0NVUWxMU1I3YUhNSDFHaXVFYUIwOVIzc3VOUDJKelVpRDA4b1NBS2ZFQUFub05MN2NFdlhVTDNUSzFBdkJlVkxSRHgwc2dpM3NuR0ZoNXFvTXRZeXRSTTFaVVgwQ05aaXFiYm1GRUN6VE44U0Rpd3V6bGstMTlqNUFUZmdCc3J2S2M4X1J5bnoybW93b213cm5QNlZjeTByTlhPWGMxV3AyT0o4MG1INEl1cTBGaEwzb181ZGl0dnQ3TVkw?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T08:30:06.734670+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1756,6 +1876,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T08:15:06.760833+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "eb265ae7f1f12526",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPQWVRRGZMS1FVZTdvWEtKYWNLNEhRSm5BT0pYZmFTN3FzWWRrbmZTUGtiRjlPaXRTRFN5NmY0aXE0WDBDOW9UcXpXUUxpczRHVnQwNjFLWnFPRUZTbVVWRUhBWExvQVJVMkxVUnpWZUNGZ1VROE9YdDd5ZUlNaXJtT1NzSEJhclBkOUs1aGd3WFpHb2k5WUNsaXlmdXJrRUVRU21DZDMzNlUxVHhSQ1FEejN3UkVvTVhfM0ViTEJQM1hpUjBtTFhqMmNzcmZaWHVfZVY1MnJaVmt0dnQwQ3ZiczFlX0Z4ZERJTFpoYXNhOHpLcGo3d2FhU3dtalh1TEZCbkprblRrTndVMGhuMWdpY1FJTFZDbnd6eW5ZV2RoSGZmY0JjbDdLWHhCMEF1ZFpZUGs4bVRRNnRjTjlWYzFLUUlndTd0T09VRDg3NVdpdmtpa0RwYzhhS04tZnVJM2tLUnVjUzF6QnVJR0xGYmxVNzZpcVJEZGNBemk0Q05vNC11Vm1iN25RekZGdF8yNFFqOW03NDdUNk1ISzF1RWEyWm1ERG5mTVV6SnN2eVl3VQ?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T08:30:06.734494+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -5540,6 +5672,18 @@
       "iran_specific": true
     },
     {
+      "id": "48603c53dfa04f64",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOU05ScHd1alE1dWlNMUZ6WXdhX29RMUJ4SjUyekJER1Z0MFFYRVZhTEtDWXlaazRENnR2V0dsU1NlWmVvT1ppbDA0RlA4cmtMWGMwR05aUHQ5M2JOLXpFeUdFN0lfNXdhRmtEUGZSdmViemdORlVtTmhSRmNKRXZfdmxWc2h4Vl9MTFlaVU1DNlM3VUV3dm1vQWxqZVJyMldoWXM3dDRDblZJZEVVbERmZ2tNSWFQUlYxdDJaN3pEbkNkTnFIM01DYTJsZEUwd1NxUzdHWG40VEJFVWs3QVFTZEtjeTAyaEpJVzFsbFBvMmo5di1RTkRmeklSM01VMVZaclNQanBpWk5zbVA0M3ZXTlpwaGlZdkN5VG05UFEtaHEwMjFOZkdZQVlFQlhCMDZXYTVqUFJDQmdmX2poUXliUHlucG8zSFpJNElTVEk1Z1VQNEJUdzg3Wmw0Y0ZodkkzdXlrMHJfVlk1YXNfZzZtS0o5eDYtR2JNNk5XeUZFejl6NWVyX2FZ?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T08:30:06.734201+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5860,150 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T16:01:04+00:00",
       "fetched": "2026-03-07T21:30:07.341718+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "81160a55aee568f5",
-      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNcWFvQ0xMTWdXMmo1ZTd3TnBjd2tlWGNSRzFXa0hvY2RBV0RkbTZaSlJwVFdCdVpYNWI1UjVfQzR0UndGRDJlLVlWSHBOZ3oxN3RIVUFKUVJHVkVGQ2dzSzU2aGNEcU9oSFpLOVRTRndTQ0l2Q1h6U2tqWTFnOVZnT2twMDZUQjBZMS1ERXlrQkkyRkNiV0lpcWpSYmtYNTc0NmVhbmxETzhuNzZJTHBRMkctSkw4UXhCSml0QWtCNzE3X1lyak5KcTFxS0tRTFp4Uy04WUJ0dlZUQlZISGJwYmx5YnFqRms4U0VOU1FmZ25ub1lXVS1sVjRMWXplQTNINDBDU0dtU3gxVk9vNUhIM0tNV2Jid0tma3FHV3EyM1FRV014TGRkbUlzd1ZHSXBxZE9TY29rckNtZmcwU3lnY3I5ZjdJc3d1MS1kSzJYUGhHVUVHMlV0WHgxaVdxS2g5SlJJR1RQaV9CelNjaDA5WXdlMS1JdExRREZPV2EyQmhxWDVlUEhTR0thUGxDTTJZTTEtcVE2MlhBTDFH?oc=5",
-      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:01:04+00:00",
-      "fetched": "2026-03-07T21:45:06.289019+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "72232ce820a4db31",
-      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNZFlOSVlYLVFzaEF3ZEJJdUVSV09pZy1JajFJNS00WTNxRUx1Qjh6WWpCb1JPT3ZtWjViUy1ya3JLcUlsaWVIM1pQQ2xPUi12d3lGV2ZHNkpYWUZNZXJFTWl1YldaVmY0Yl9CRHpOS1EzdFluNVQ0b0hUVE43Z2I0d2ljWVNKa0V6STBYS05HdnZXQmRIam5KZkFEZTFVcGpUTW4yQmdiLXVMRWpkb2EtYVl4YmJTMWNDbnNqMXlkdUlRdHl6R1ZYWS1HdU43WTBadnVIWTlObC1sY0QzZzNmRW0xRWVTSnhOVmZhV0VSUHo0b3M0ZnRQQzdwckZwZFBtcUZmMlBocFNQYThfUEw5UGhKZmc1T3YxSGJHRkVUaTB2dTctRjN0NDZYNjE1RWdydmw2YjBYTlI4UmlEOExqQkszNzkxdktVX0pnQTRsYk1NbmxwR2M0Tk1QU3VqOVliY0F1RzZ1QklINGtRUUppQ2JCSmVhT21zTThWcnQzQUR6d3Zhb1NKamNDanJFRzhpNUhiWHkteFZ0SmdE?oc=5",
-      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:01:04+00:00",
-      "fetched": "2026-03-07T22:00:06.296143+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f35b7ad715afcbaf",
-      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQbzdEejhDeUdQZUtxUjZUWnRkLUQ4ZE81Q3BoZW5IN1UtVEMxNUNXMjZCTWQxdm14YXdJU3JhUjlCZ3lVdEpMNlNoZmpyUUZVbDZ6S0tuVWtvQ05aTTRFZE1NaDZKUmhpNEh5SlVBdURiLV9DZTBXTXd2bDRSNGZ1elYzZy1LczNJSGtiUnJndGk1LTAxYmlYXy1vZ0o5U0ZLNGJhcWRvTHNnWms2Rndia0hoN0xtaDRiemF3cFYxODhfbUZpUGVDNTJlU2l2Z0VQT2xQV1I5RTBmNElDQjVNWjQtdDhJV2lka0ZZYU5acGhIcUhfMzVBZFIzdHdJUDQzYklJYnhIeWtwUzRvY2JiZk1UazZST1ZYYU5QY1BqTHBfUkEyUWlMQmxDZFkzenNsU09nbEpSX0xXclhfaTJKSXlFODJpZVNJeXhCbS1hZnlGSjZGdG4yS2lzX01qV1lKU2U0NnRqM2d4QWtMRFUxZnVrZlVJSWV1MHBWQWd4YkIxZnFrYjg4X0QxNlp0Q3RnYTNNRkRVMW43WjJy?oc=5",
-      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:01:04+00:00",
-      "fetched": "2026-03-07T22:15:06.543620+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a8c13300694b5231",
-      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTI3S2huVlNTMEV6ZHdHVEdvYWhiMW91dHNPV1hpTzRIZm8zNmpnc0xKZHFWUFRiUGVQSm0zMXhzQ25VRVV3bENyNF9CN1BaeFJHdEhBOEU5ZHUzbjB6S2xrdkE1Qm5DV0tXbVNpTk1CQ2xRc2pMdTUxN2JrX3J0blRiajJKcnY2eENuRU5yWDREaGl2VVJEZkhtazQ4cC0tR3ZtRWROdDlHMjJEYUR0VnhMSjNZUzllSEg1R1hlc29YVHZDd2xDLU9FaDZUdlpvMUVfdzZhZC1adTUzVHJrbDhGTUwzTmhMeWRNcWxIUXNCT0VBUGpyOVNJN0hVaklucDRYSnZEYjZwaGJsV3JKTWlUYS1TR19XMG9mNEs5aUM2eWZqOXNSeHZYWnJvSmtyVkFJakk2Z1hnZ3kzSU1oYXRTR09RQ3R4VWdVcEItVmM2b19QWmdoNWEtUEQyRGloNXp1UmNLcEVKQkdveE55SXFLbGZGN3dQZkU5ekNrN2x1c01ZZkQ1RlFSUnZGVEdLekJoTkxtWXJ1V2tt?oc=5",
-      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:01:04+00:00",
-      "fetched": "2026-03-07T22:30:06.382303+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1fd5b28723cec681",
-      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPZVh0cmxoRTJYbWNjQVVOaXlGSS1GaDBhdVg5NlpxZW1XQWtrS2k4RVAtWTk1cmxfVzZpSWQzdVJsdk5lekVRV3AwWlpOUEdScHZGU3h0N2x5RGdXdFQ0TlI4WU83dUU0aFZ5RHdmS0VzbEJiUi10cHRKdFBsNm11NmM4VXUwYlN6XzZ3S01HNmtxNGh2VzBKS05wX2wyN0dONmRKRjFLRVdrdFhHZE5sdlQ2TmhOemQ3VFlnRWVhcUtOc083N2Z3NWJPZjAwOG90U2xTNXdfOUoyTjBKRkRMNXNRc0o5WEJWQ0tob1ByRFNucVo1a3U0RzNJRmFSVUpQTWdkNWUzUW9Ic1JUZFl5Rm1Tb2Y2dDdTem1HNWFqeU5uQ1Z0NklQbUVRaVdNbjVQeEx1NjJKVWpleTIwS2ZHaVRzcTdHMnR0dnM1azk2NVFfYTY3VFU1dGVlbzdEOFlLSTIzejFJdmRBY0c0TmM4aTdscWJ5T0VYblpFSzdVNWVVVGJqQUJtWnNvdlFtOGt0YkJnMF82X0ZjSkdy?oc=5",
-      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:01:04+00:00",
-      "fetched": "2026-03-07T22:45:05.518333+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a6062acaf1148ec5",
-      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMlZrclVKWmNoUnpQUVJVNm5GaUVwaEdoRmZWcnUzSVlKQWxXQmxmMGZKWEFfa2ZmOUNGcDZpZEpHaDRGeWpUQTg0UURqR2lIUFNkSUN3bFlMOC01dExEbV82R1dXaS1vSy1oU252TWVEQmlRRnNrUnc3dU9WM1lVTlRtamk0Uk9jWUtMMTdhLVdWOGVSWGhHWWVIbFdoYmU1X0ZaOGRHZUYyWFJGTFVnc19acXJzeE5CZHJUOUs3dElUTXQwcUQ4RnBjT2NLako0RGk4QkdGUzN6cTNWT21yWmZNTVlNVzJSVmd2a3Q4NTRvazE2YjVpYWN3bXNrdUpCUmF1N2NEVXhoY1hyQTFTcjZiWDJ4TjdNRjU4cXBibTBObWFUNFI0cHA3VVk5dVh3U0JmWTNZS255SVU2TURCVmh0RmZkamZiNTVvaWNlM3FZd0RRNDBCcTg5U0lLTTBuelFVZXN1TUp5U1N4WHhmSkRJTzRQR2c1Tjlub2RJYzdxZnkwZlduMkdOLTc0dlBrSmFpeEo0ODd6RWFR?oc=5",
-      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:01:04+00:00",
-      "fetched": "2026-03-07T23:03:51.467209+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "51a7d5d61ecc64de",
-      "title": "Rushing to call the Iran conflict World War Three misses the point - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPWXZfUF9kd3NLdzhONkZlVkpwZkk2dWx1bmFnYnQ2M0VyaUxxb3pySEtnR21VRU9wVWFWbTNqVWpXM081NVpMTmY4ckpQNDJZbEljVFQwQ21ibFRvT2w1c0ZiaUxGTU1HRXQ1ZXNvZXd1YnhoN3JoZng0SW5LS2lrWUJTY3pDUDJhX21PS3ZDWTVhZV8tV0MyQzRNOGdfN0EwTXZCNFFHbFA3V1loRnREV2xBYUdDNnIwUktyeF9lOVRGdEc3eDNDX24yY3RUU1B0MzB5clZ6VW1qSllTVWRSc2hZeFl0LUNWcmtiMy00ejZwUnlRa0FJVXlpbGVmOXAwUTVTLWptcGU1YmZxaktoTUJyR2IxcnM1b0NsbGI4Q2ZlV3NDRW1VRHkxczE0QTMwWGpvcFhKT2Vmd2lqNGg3Z1ZXaFFhMURLTnByTk1rOUk1NWxlZXVEQ3VKMG90eHpuOEdnTmZDRHM2bV9ka052ellydlM4cmQ5LWxZNU5BRUg2RjN3MndfbUNscC1iNFNhMDRCb0RXY093OFFO?oc=5",
-      "summary": "Rushing to call the Iran conflict World War Three misses the point&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:01:04+00:00",
-      "fetched": "2026-03-07T23:15:06.666721+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4ea058eba06ac7aa",
-      "title": "US is reshaping energy landscape to suit its own needs — Russian MFA",
-      "link": "https://tass.com/economy/2098205",
-      "summary": "The United States of America is essentially bankrupt, Maria Zakharova said",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T15:51:30+00:00",
-      "fetched": "2026-03-07T20:41:22.708208+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "9bcaea38aff37912",
-      "title": "IRGC says it launched attack on US base in Bahrain",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-launched-attack-us-base-bahrain",
-      "summary": "\n\n  \n      \n      \nIRGC says it launched attack on US base in Bahrain\n\n    \n    \n\n        \n    \n                The Islamic Revolutionary Guard Corps (IRGC)&nbsp;said it had launched an attack on the \"US base in Juffair, Bahrain, with solid- and liquid-fueled missiles\".\n\nThe IRGC said the strike was",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T15:48:27+00:00",
-      "fetched": "2026-03-07T20:47:35.015431+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7d74e38b17ab46d1",
-      "title": "In maps: Eight days of strikes across the Middle East",
-      "link": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war enters its eighth day.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-07T15:47:40+00:00",
-      "fetched": "2026-03-07T20:41:04.877045+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f91e1dfe07877c10",
-      "title": "More than 50,000 march in London against US-Israeli attack on Iran",
-      "link": "https://www.middleeasteye.net/news/more-50000-march-london-against-us-israeli-attack-iran",
-      "summary": "\n\n  \n      \n      \nMore than 50,000 march in London against US-Israeli attack on Iran\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nSat, 03/07/2026 - 15:13\n\n        \n      \n    \n      \n    \n                Protest comes as US&nbsp;Air Force B-1 Lancer bombers land at Ro",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T15:45:31+00:00",
-      "fetched": "2026-03-07T20:47:35.015561+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "53c2f41f08634167",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conflict has spread across the Middle East since the US and Israel launched wide-ranging strikes on Iran on 28 February.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-07T15:43:35+00:00",
-      "fetched": "2026-03-07T20:41:04.877187+00:00",
       "relevant": true,
       "iran_specific": true
     }
