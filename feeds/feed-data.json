@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T00:15:05.809168+00:00",
+    "last_updated": "2026-03-08T00:30:06.165543+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 4,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "665831654414dc8e",
+      "title": "Saudi military downs wave of drones near capital",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-military-downs-wave-drones-near-capital",
+      "summary": "\n\n  \n      \n      \nSaudi military downs wave of drones near capital\n\n    \n    \n\n        \n    \n                Saudi Arabia’s Defence Ministry said its air defences intercepted seven drones east of the capital, Riyadh, within the past hour.\n\nThe announcement came shortly after officials reported that",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T00:28:25+00:00",
+      "fetched": "2026-03-08T00:30:06.084382+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "0b8784fa8e1cb42e",
+      "title": "Video: Israeli warplanes strike oil and fuel storage facilities in Iran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vide-israeli-warplanes-strike-oil-and-fuel-storage-facilities-iran",
+      "summary": "\n\n  \n      \n      \nVideo: Israeli warplanes strike oil and fuel storage facilities in Iran\n\n    \n    \n\n        \n    \n                Israeli warplanes struck Iran’s oil and fuel storage facilities in Shahran, Fardis, and Karaj, marking a major escalation by targeting the country’s energy infrastruct",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T00:24:12+00:00",
+      "fetched": "2026-03-08T00:30:06.084474+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8ae0b3912486dbfc",
+      "title": "Report: Israeli strike hits ambulance in Tehran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-strike-hits-ambulance-tehran",
+      "summary": "\n\n  \n      \n      \nReport: Israeli strike hits ambulance in Tehran\n\n    \n    \n\n        \n    \n                An ambulance was hit and destroyed in a reported Israeli strike in the Iranian capital, Tehran, Fars news agency said.&nbsp;\n\nVideo shared by the outlet showed the vehicle engulfed in flames ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T00:21:12+00:00",
+      "fetched": "2026-03-08T00:30:06.084516+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "54f2136b7a790f5d",
       "title": "Iran Navy announces wave of fresh drone strikes on US bases, strategic Israeli sites",
@@ -3080,6 +3116,18 @@
       "iran_specific": true
     },
     {
+      "id": "03722958c158bb38",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQZkUtV1hoc3VXOUxyT3UwaWVMNDRWazNLNER1Qnd2Q1hTandSOXcwX1lGYmhRNnJKLXB4R09QeWR5VGZmWnl2bWtnM2JfNWlSY0FwMDRMbXlkclBFN3FOcklmZnJ0UzFTOFI3ZW5zMG53dmN1ck1NUV9fMVZtS191MDF6dVN0d2JQTk5tZVhhRVlOV29tby1wRTc3Rnc4SExGVGdsa1ItVkhsUEVfcXlvLVZONzFVRmxHdFdFcHdsZ0MxbkFxVWtzc2ktdjd0a0E5eGVrc01YdDRlRDVOZHRrcnJZVm1CQ0hWVjlKX2RpVnV3VnJLc2hSR0h3dHN0ZGVrMk14TU1tZ0EwZi1jbjJFckFCbmtyZUdBOGJOa0ZEVGtHcjdqbl92YjFiVjVkT05nbmRlc2Y5ZEg0XzJ0OGdBQVFKbUdPVjQxSkQyS3BNbnZqU3VfNUFLalk4NkgwNGFsWHZiUkhGcy1YZmZHTTRYUlpENV9nZFlkUHJCYUY3TFZlcExJUXBz?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T00:30:05.941233+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5956,54 +6004,6 @@
       "category": "western",
       "published": "2026-03-05T06:52:36+00:00",
       "fetched": "2026-03-07T20:41:04.876951+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ac19aa98a6077b50",
-      "title": "U.S. says it will strike deeper into Iran, saying war has 'only just begun' - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczVlNExyWE5KMFJLd2R4dFdpWG44ZV9WRkhxcG9FaDAyOTY1TnpjVXlOcUlYT05QNXZQeU5xeFhXV2t3RjRPaTY4T2JGYkF3Zm5idldCdmh0U1lPTXN1R25PZHg5QndTLWxueVlRTU9mbXRnQWFwSUVpblJYc0M5N3FVN0tWZkZOMkhISWFWOVVjaTFfajExaUVVWU1pME5jX1BDOWE1NEQ?oc=5",
-      "summary": "U.S. says it will strike deeper into Iran, saying war has 'only just begun'&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-04T23:55:16+00:00",
-      "fetched": "2026-03-07T20:47:34.883936+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "192b9f7b51202064",
-      "title": "US Senate vote fails to rein in Trump war powers on Iran",
-      "link": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-04T23:42:08+00:00",
-      "fetched": "2026-03-07T20:41:04.876976+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f40c6186e960d6c7",
-      "title": "How depleted weapons stockpiles could affect the Iran conflict",
-      "link": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Weapons stocks will not alone decide the outcome of this conflict, but it's certainly a significant factor, writes the BBC's Jonathan Beale.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-04T20:57:50+00:00",
-      "fetched": "2026-03-07T20:41:04.876964+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7326230fe4e5d09f",
-      "title": "Bonus In Brief: Global Reaction to the War in Iran",
-      "link": "https://warontherocks.com/2026/03/bonus-in-brief-global-reaction-to-the-war-in-iran/",
-      "summary": "On Feb. 28, the United States and Israel launched major, ongoing strikes against Iran &#8212; including killing Supreme Leader Ali Khamenei and many other senior officials. In response, Iran has launched strikes against U.S. military sites, Israel, and economic and civilian targets in Arab Gulf stat",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-04T20:05:11+00:00",
-      "fetched": "2026-03-07T20:41:23.366752+00:00",
       "relevant": true,
       "iran_specific": true
     }
