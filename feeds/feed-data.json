@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T18:30:07.621687+00:00",
+    "last_updated": "2026-03-08T18:45:06.176650+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "89dfd0888f6a55f9",
+      "title": "Trump’s Strait of Hormuz rhetoric aims to control oil prices; Iran has ‘major surprises’: Source",
+      "link": "https://presstv.ir/Detail/2026/03/08/765132/trump-strait-hormuz-rhetoric-aims-control-oil-prices-iran-major-surprises-source",
+      "summary": "Donald Trump’s threats to reopen the Strait of Hormuz and launch more attacks on Iran aim to control the soaring oil prices after the weekend closure in the US, a knowledgeable military source told Press TV.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T18:45:04.309659+00:00",
+      "fetched": "2026-03-08T18:45:04.309688+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "725d4c7a8d0124e1",
       "title": "Tehran indicates Khamenei's son will be named supreme leader as Israel expands Iran strikes",
@@ -66,6 +78,18 @@
       "fetched": "2026-03-08T18:30:07.350264+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "293368d55df4240e",
+      "title": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building",
+      "link": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss",
+      "summary": "Iran&#039;s IRGC had earlier said it targeted radar systems in locations including Al-Kharj, home to Prince Sultan base.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T18:02:44+00:00",
+      "fetched": "2026-03-08T18:45:03.865409+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "2bc98aeb2549acf9",
@@ -328,6 +352,18 @@
       "category": "regional",
       "published": "2026-03-08T16:35:17+00:00",
       "fetched": "2026-03-08T17:15:04.720141+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e4b7c85501e72c18",
+      "title": "'Night turned into day': Iranians tell of strikes on oil depots - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0VlczWHhsR1MyY1F6el9SeEJJU1RyTTlnV0pickltV2tlT1BLajlOZUM5bHhTdkVWZXJMTzlwa3JUd1pJUnBrLVZhd1kzUjdFYjVYNVlINE5Kdw?oc=5",
+      "summary": "'Night turned into day': Iranians tell of strikes on oil depots&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:32:57+00:00",
+      "fetched": "2026-03-08T18:45:05.996781+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -640,6 +676,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T18:30:07.349914+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "97fbadd1e59d01a5",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQQ0w1UVpzU2UzRmNZenBianpvOHZkTTJlb1ZhU3pRY2lrWlVwQ19ldzBWSnEzQ2QxT1ppa3JDbUxaUU1RQVBKcjF3NGQ3UTBQMEVnTUZIOFhOdTRTQWpxbDVwRUNob1dqS1ZyTkxENXFjXzYzSUh1b3JzUFNqb2I1UXZwQmp6M2lRalZCU0VYaGFmLVhGMG4wWFhHNy1ra2NVLXhJbTFvdGg1ZTZFcmE0NWUzMmJSMTZCZE9WeEkxcDg2aDY3b0NRZjhYdUtQTG1EdUIyVWVIS3JxQ1hySlFJYXMtWlBfV2VabEI1Rm1vNk1uaEdGQWE0Vkt5dm9FX28tcFB0UXdEbDhFSGttVktDSjMzYy0xNWRjSHFId1ZpYXdzNXlqMFlKQlQ2dHpXRHJLeFBlN3Atc3ZCWGxMbjFoSFFkdmxQMHRhT0I2djNmYURHTWNMR2dDZTB2T0NFWUlkd01obFJ1YkhxZFJESlREdEtCVQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T18:45:05.996476+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1060,6 +1108,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T18:30:07.349866+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d3684b5f5af9af25",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxObjE5cFZnbzcxWldpVDBPNnJqamVwN3M2N3JrV0ltb0k2c19KM2RsLVA0Zks5N0hUb2lBV2lYajdaMS1UMjhLa1RXWWhiaWVmcXotSnlTc2dHYldZbDFSZS12MGphLWxSWG9WMExEZlBvRGNrNm9fNnZQNVd0cEowWEJ3NzdQSDBKSk1kM3ozN3ZLUmtWOGQtaDdWNFRGN2pkM3d0ZmVsYUNRWlZiMWkxNHQ2X0ZXWkVmdEE5ZjY3aDA2bUdiVGRmNHpwR1BHT0F5cjg3QkNMaDdzLVlGTmVCcTNuMFRXZGRTUmx2Zm1IemZiY045eUNFbjdZaXZnVWI2M18tSExwU0FVOW5EZDNhUHFEWmdKbWc2OTN6eUNMbFBpU3Y3cU9pcVlSX2pDS1ktQXRTeTEyWTZocXZqbHhUNkxULTBrbWNoU09EOXJoeTZvMDY2N3VkVkh6Tl9hSjREcVVIXzgzMzlyZXFCeUFWRXQzYWlZMnVIVHlkR19lWW9YVlprd0NENXAzMkZYNFFlNjdWX2pzWVBINWVhS2RRRXFIM1diZVVmOUtwNUZPY0VpMDFBQzZEWA?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T18:45:05.996507+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4700,6 +4760,18 @@
       "iran_specific": true
     },
     {
+      "id": "2d9edeef494281f4",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNTmMtOTBKMmNOYlV5bnlYVi1TZVNZOGdpUmdpX05qbS1Mal9aZ1Z3cXhORmJubTNCZmhNM2MwclZBb3cyc3ozQ3M2bi1VOVlsYV9mQW9EV1AwYnFqeUF2RlFMODNYMUViU2ZnTDlrMzdLajJweTFxdzBmQXFDZ0c4dFJiNU9tMGFCeWJqQUJhcHpreHlkbGxMekNsbS0wcGJtQXZldU44d25yYXlZRTVabmk0N0d2QWdCcEx1cXZlZFZDY3NDOGxmdGtyV3pCWFc3ZnpNelJWb1lXNTMybFNxVFVSbVphWkFJY2s1V1l6cW93Z2g0dTNydi1oT29QRlJ3VG13NGcwTjFieG5lczVBZUJ5dk9mb2dtOHB2Vmc2WlNDY09XV1hBMk80Zmh4OGw5SlgyU1J1MVBqbDh2SUpiemJjY0NvVUxQNjBZXzhTaC1NNFZsZV9vLTlyTmlrbzViWS02Z184VDlLbkpyam5PWUxOZTVlVTlkdkd2aFNyMEZOMWpQeG40WGdITnpQV1VDWFFFeHBFWXpPZnpaM0ktNHhFRF9wcnJkSVRoSFloUmFTT1EtXy1J?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T18:45:05.996691+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5932,78 +6004,6 @@
       "category": "western",
       "published": "2026-03-07T22:08:05+00:00",
       "fetched": "2026-03-07T22:15:06.803091+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "fc3898e5d5600917",
-      "title": "Middle East war enters its 8th day",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5739735/middle-east-war-enters-its-8th-day",
-      "summary": "The U.S. and Israeli war with Iran has entered a second week, with drones and missiles crisscrossing much of the Middle East and death tolls rising.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-07T22:08:04+00:00",
-      "fetched": "2026-03-07T22:15:06.803130+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f748806f2d1ae0ea",
-      "title": "British Columbia moves to permanent daylight saving time",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5736183/british-columbia-moves-to-permanent-daylight-saving-time",
-      "summary": "The premier of the Canadian province of British Columbia, David Eby, explains why this Sunday is the beginning of a new era of permanent daylight saving time there.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-07T22:08:03+00:00",
-      "fetched": "2026-03-07T22:15:06.803182+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "c9253792c62a92cc",
-      "title": "How the U.S. and Israel's war with Iran is realigning the politics of the Middle East",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5736194/how-the-u-s-and-israels-war-with-iran-is-realigning-the-politics-of-the-middle-east",
-      "summary": "Kim Ghattas, author Black Wave: Saudi Arabia, Iran, and the Forty-Year Rivalry That Unraveled Culture, Religion, and Collective Memory in the Middle East,\" talks about the impact of the widening war with Iran on life in Lebanon, and the impact on the geopolitics of the gulf region.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-07T22:08:02+00:00",
-      "fetched": "2026-03-07T22:15:06.803854+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7f517d153cbb2840",
-      "title": "Daughters of Donbas band sings songs of stolen Ukrainian children",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5711428/daughters-of-donbas-band-sings-songs-of-stolen-ukrainian-children",
-      "summary": "A group of Ukrainian musicians is touring the world to remind people that thousands of Ukrainian children have been kidnapped by Russia.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-07T22:07:59+00:00",
-      "fetched": "2026-03-07T22:15:06.803958+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "5aef5ea383acc092",
-      "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
-      "link": "https://www.aljazeera.com/news/2026/3/7/us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates?traffic_source=rss",
-      "summary": "Iraq did not want to be dragged into war, but Iran and its aligned paramilitary forces are attacking US hubs there.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T22:06:16+00:00",
-      "fetched": "2026-03-07T22:15:04.154397+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5cd932073da350fe",
-      "title": "Iran’s Larijani says US soldiers have been taken prisoner",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-larijani-says-us-soldiers-have-been-taken-prisoner",
-      "summary": "\n\n  \n      \n      \nIran’s Larijani says US soldiers have been taken prisoner\n\n    \n    \n\n        \n    \n                The head of Iran’s National Security Council says that a number of US soldiers have been captured&nbsp;since the start of the war a week ago.\n\n\"The Americans claim that they have be",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T22:02:38+00:00",
-      "fetched": "2026-03-07T22:15:06.654063+00:00",
       "relevant": true,
       "iran_specific": true
     }
