@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T16:45:06.737848+00:00",
+    "last_updated": "2026-03-08T17:00:06.816649+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "47098965408c5d3b",
+      "title": "IRGC forces ready for USS Gerald Ford to reach ‘designated perimeter’: Cmdr.",
+      "link": "https://presstv.ir/Detail/2026/03/08/765128/IRGC-forces-ready-for-USS-Gerald-Ford-to-reach-%E2%80%98designated-perimeter%E2%80%99--Cmdr-",
+      "summary": "The commander of the Islamic Revolution Guards Corps (IRGC) Aerospace Force has reacted to reports that a new US aircraft carrier is headed to the region, saying Iranian forces are monitoring the situation closely.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T17:00:04.766200+00:00",
+      "fetched": "2026-03-08T17:00:04.766228+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c1482405e41a73d9",
+      "title": "'Mind boggles' at doubts over legality of Iran war, Israeli president says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UeUtIN1FVUFRRWVRKcERhLUx3UDF1cWVJRUs2d2tzQzIxLXdtMVpUWV81Y1pHdTNxRE96X0ZmRExodTVhOUFYYUo3WVZ1YVBIelZwS1JTVnc4UQ?oc=5",
+      "summary": "'Mind boggles' at doubts over legality of Iran war, Israeli president says&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:53:30+00:00",
+      "fetched": "2026-03-08T17:00:06.537819+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "e6935a6c13ee2a4c",
       "title": "Iran rejects calls for ceasefire, seeks ‘permanent end’ to war",
@@ -236,6 +260,30 @@
       "iran_specific": true
     },
     {
+      "id": "21599362c5552424",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNUU91UXBRUUdfazBHT2VOVXhYN3lrQlRYRTJSQXdzUVN5R0xCa0JZUWdqRHU4Mi1vTmxLZENBS2ppSW1QOG1ldVFOOTc2WFo2UGIwYnV2aG9PV1BCSFZTd3R0U3VsaFFpOEVxYXpxRDJyZ2R1UlpKV041OVRCV21sc2JKd3NGRmNVbnRsUkV0dEs3ZjdxcHJvblVHNFMybmJ2dHZDSHkxTDZXR0x3LUpwUmtackpoUkhRSExRVDZvRU1XR0RELWdCT1VFM25QNUJCeHRKTExGeHNnV1J2SlRabTlrVkxQd01nZ1BucE0ycmtnMkNkdEdaVWtJTGhyLTU5b08xQWsxS3I5dGRmZjdOTDN1anhrYWJFanVrcElqZkRwR21hRWs2TDZmZGo1Rjd0aHJwSEZjVUtfalU3ekREbm5ZU2Q1SW5ZMGVZWXJyUU9ZS0piV2VoRXVMZ1BicE9nOTI1VE5XaTBvbDJHVHNhTXpCbw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T17:00:06.538073+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "dfb83f605ff9a08b",
+      "title": "Iran war: Bahrain says Tehran hit a desalination plant; Israel reports 2 of its soldiers killed - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFVoejlTSjBKTlRPTWJCQjhUa1hDOUpJM09UQ3lMaTE0cGRzNnJ2QWl1Smk1SDJEcndHak0wa3ZRc3JoUkhJT1pycEhFaFRBNWF4YmgtNV9XNXNKTUgzUmxPRDhuSjl6TUpqcDdkeGZzWnByQXY0M2pIT0hub3Brbi0zWHJRdlh5TUhWcHdiaVNVa2c4UUJFZlBManRQWDkwTDR1M1VBeG1MYjBoTzdLY1l1TVY0YXFCZEgwNzFOcnFOR1NnUHFlRE1mTQ?oc=5",
+      "summary": "Iran war: Bahrain says Tehran hit a desalination plant; Israel reports 2 of its soldiers killed&nbsp;&nbsp;Los Angeles Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:20:01+00:00",
+      "fetched": "2026-03-08T17:00:06.538352+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "f2daf53a44eeb718",
       "title": "Iran war highlights local news decline and necessity - The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0Z0RWxFRWJPQ2gyUHRWclpiaUJLTnlHdjZzY25Rb2xIMndHeWV0VVdBc3dBb0xOZHdoOW5DUGk3M1NJdzB6dDNYNkE3VExfV1Y2OHVqREVnUFJ1WDFKMjNqd3RQeE1WOEJTaFV2b0V1cW5lTzJJUmg3RmdjZWFKSUdsN1ZEemFsNk02dDJKbHBrMlQy?oc=5",
@@ -304,6 +352,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:41:37+00:00",
       "fetched": "2026-03-08T15:00:41.767033+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "42a968b5c8adff4c",
+      "title": "Three Calculations, One War: Inside the Minds of the United States, Israel, and Iran - Gulf International Forum",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpJWFloYUJHU05FMXRjanVvX3l4S0ZSdlE4TVhqV3ZUZms4bnVZeThPb2NHcmZ5ZW9LaWNkNzkyUGpkTTY1RlBqeUtfWDR4cTMyVF9ncDAzRVQtNG9TZWFTdkxPOWREZ0c4NlpscWdzN19LX2ZCUWV2M3FxTzdYVnZ3WTFJaEhkSmdpQnd5T0pvZFhRazV2cE95ODhYZ0hCSXc?oc=5",
+      "summary": "Three Calculations, One War: Inside the Minds of the United States, Israel, and Iran&nbsp;&nbsp;Gulf International Forum",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:39:42+00:00",
+      "fetched": "2026-03-08T17:00:06.538113+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -532,6 +592,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T16:45:06.120353+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "52c86a1f02868a54",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQV3E2U2cxQTFGRnBiN2RLazJMdXlkSzBYVzg5RDN6MWJaMFpmNS11M3BjR0JScUh4V0tvamVoR0ZRNXN3cHpib2JXNlBzWEtBaUROQnl6c3ZHeFdyal9OQVZjMXhQdFZuOXc4MkpLSDVNbm5qSHRiaVUwNDJPalJyLWFqX1hRRlZMSTk2ZXplcGxSNDY1NHVCdWtMY3czRFVtVXZoVktScGxsdk1Ub1VrbXF2WGtES1YxRXJLcXFsTUs2U1Z0Y1NkbHhDWTF0OGxGcjZrVGZQb2VUZ3psOVNtWVZjZDBTTl9SUzg2ZFhicUFfOTZjZ0pUSVdhMGFHNkdxc1pJUGUwWjVZUzNKS1NlRE9vcFpYaldKcVR6bWFWd2Y3TWFCd3UybmlHMFRuZ2tfUWNlc3BfOWltZkFrYTRWWlhVNWF5VVVQc2F4eTJhdUZycmhKTi1zVk0zek5FelBZb0hKS2RWdkIzc1VVcXM3TFpsc0lxZV9xRGR3Z0VKdUpKQ0Ffa3FqZXBPeUt5MEpkbzVFdjZjM1h1RlY4VWdyckd6bFlKX0c4M2xNYnFwSlJweHdybDlHYQ?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T17:00:06.537973+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4064,6 +4136,18 @@
       "iran_specific": true
     },
     {
+      "id": "8b77c86427fffe27",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPN0hoQ1VZVV9QOGgxZ24zS3pPUldheWdVeTFZejZoOW1zdTNUNklzMGQwMVA2NFp5bHBqbERMRG9PQ2Q0UnVsY0VpWVcwZU9PMDBZWXR1aEt1RmJIc2UzRkFVWHhTc2tvdjlrSjBGYi04cTVkUnMwSWdKVHpBNjBtU3dmeDUzelhhX0VlV3RpLV9Femg1Qk1OM1FlWXhqWGo4Z18wRDJLSFljbDJ0ajFkOWRLZ2hKaGNKSjl6TURUbDBxNVA4NTU1NHZ4VkdlTHRVemszR3ZMemJSVXhqSkNaRXRkQzg5SzltSmtoYk1RU2M2OUZQZ2dYVFFkV2pYQmg1QUpHckVlcHdsVGMyMHVjdUI4ekhhOFk2OXk0dWN4NTJxeVk0dXdseVd1QkdBU1VERjBHNUJNTUNEMzhEMnlrRkN1SXBrbk9hV201T2ljSEx2WG5BREp1ZHo1blRBTnZCS1NsZHJncE5VQmVmVnNvdW93ZVMtZWIxNDFFVUo4ejhwT3cxbjNWMmk4X0V4N0RlVHo3YTRGRGtuUkJYTHplUlRpZ0FhOFBsZERmV0NZajNoS1NISXBj?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T17:00:06.538251+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5922,90 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.641781+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "a4f5c0ecbc14a091",
-      "title": "Plan for US-pegged digital currency in Gaza raises sovereignty fears",
-      "link": "https://presstv.ir/Detail/2026/02/28/764827/Gaza-board-of-peace-digital-currency-sovereignty-stablecoin-",
-      "summary": "Officials working with Trump’s so-called ‘Board of Peace’ are exploring launching a stablecoin for Gaza.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641723+00:00",
-      "fetched": "2026-03-07T20:47:33.641727+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "30f09af0c09d338d",
-      "title": "Iranian flotilla returns after BRICS naval drill in S Africa",
-      "link": "https://presstv.ir/Detail/2026/02/28/764826/Iran-flotilla-BRICS-naval-drill-South-Africa-",
-      "summary": "After 100 days at sea and nearly 13,000 nautical miles traveled, the Iranian naval flotilla has returned home, completing its mission in the BRICS \"Will for Peace 2026\" joint exercise off the coast of South Africa.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641667+00:00",
-      "fetched": "2026-03-07T20:47:33.641671+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d040d145de2acdb7",
-      "title": "'We will crush you': Iran Armed Forces warn Iraqi Kurdistan against cooperation with US, Israel",
-      "link": "https://presstv.ir/Detail/2026/03/06/765052/Iran-Israel-United-States-warning-Kurdistan-Region-war",
-      "summary": "Armed Forces spokesman warns the semi-autonomous Kurdistan Region in northern Iraq against cooperating with the US and the Israeli regime.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641640+00:00",
-      "fetched": "2026-03-07T20:47:33.641644+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "78a4800b7fab231f",
-      "title": "Iran warns strikes will expand as air defenses down more Israeli, US drones",
-      "link": "https://presstv.ir/Detail/2026/03/06/765019/Iran-warns-strikes-expand-downs-more-US-Israeli-drone",
-      "summary": "Iran says its retaliatory campaign will intensify in the coming days, with military officials vowing expanded strikes while air defenses continue to intercept Israeli and US aircraft and drones across the country.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641605+00:00",
-      "fetched": "2026-03-07T20:47:33.641609+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "834cf9818068ae17",
-      "title": "US-Israel attack on a premier Tehran hospital targeted newborns, destroyed IVF center",
-      "link": "https://presstv.ir/Detail/2026/03/05/764980/us-israel-attack-tehran-hospital-targeted-newborns-destroyed-ivf-center",
-      "summary": "US-Israeli strikes on Tehran hospitals, including the prominent Gandhi Hospital, critically endangered newborn lives and destroyed a specialized IVF center.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641578+00:00",
-      "fetched": "2026-03-07T20:47:33.641582+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e76fec0f7443d1ea",
-      "title": "Iran welcomes, awaits US escort of oil tankers through Strait of Hormuz: IRGC spox",
-      "link": "https://presstv.ir/Detail/2026/03/06/765051/iran-welcomes-awaits-us-scort-tankers-strait-hormuz-irgc-spox-press-tv",
-      "summary": "​​​​​​​Iran welcomes the escorting of oil tankers by US forces through the Strait of Hormuz and waits for it, a spokesperson for the IRGC said on Thursday.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641548+00:00",
-      "fetched": "2026-03-07T20:47:33.641552+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "814d5f3ccab41a26",
-      "title": "US to 'bitterly regret' torpedoing Iran's Frigate Dena in international waters: FM",
-      "link": "https://presstv.ir/Detail/2026/03/05/764978/US-to-bitterly-regret-torpedoing-Iranian-warship-Iran-FM",
-      "summary": "The Iranian foreign minister vows that the US will ‘bitterly regret’ sinking Frigate Dena in international waters that led to the killing of dozens of sailors.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641514+00:00",
-      "fetched": "2026-03-07T20:47:33.641518+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
