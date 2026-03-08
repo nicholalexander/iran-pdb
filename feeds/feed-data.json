@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T05:00:06.128638+00:00",
+    "last_updated": "2026-03-08T05:15:08.266654+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "a76ed6e59a377de2",
+      "title": "Beirut hotel damaged in Israeli strike sheltered displaced people",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/beirut-hotel-damaged-israeli-strike-sheltered-displaced-people",
+      "summary": "\n\n  \n      \n      \nBeirut hotel damaged in Israeli strike sheltered displaced people\n\n    \n    \n\n        \n    \n                An Israeli strike hit a hotel in central Beirut housing displaced families, forcing families to evacuate the building, Al Jazeera reported.\n\nThe strike appeared to target a ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T05:08:12+00:00",
+      "fetched": "2026-03-08T05:15:08.193710+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "8a8f19c61e2c26b3",
+      "title": "Even 'large-scale' US war unlikely to topple Iran government, says intel report",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/even-large-scale-us-war-unlikely-topple-iran-government-says-intel",
+      "summary": "\n\n  \n      \n      \nEven 'large-scale' US war unlikely to topple Iran government, says intel report\n\n    \n    \n\n        \n    \n                A US National Intelligence Council assessment found that even a \"large-scale\" American-led war against Iran would be unlikely to topple the country’s governmen",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T05:01:47+00:00",
+      "fetched": "2026-03-08T05:15:08.193768+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "b79ce18e8217f88d",
       "title": "Fire outbreak contained at oil depot in Krasnodar Region — emergency services",
@@ -18,6 +42,18 @@
       "fetched": "2026-03-08T05:00:04.862423+00:00",
       "relevant": true,
       "iran_specific": false
+    },
+    {
+      "id": "32d6d0aaf73e95de",
+      "title": "Flames engulf Kuwaiti high-rise amid Iranian drone strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/flames-engulf-kuwaiti-high-rise-amid-iranian-drone-strikes?traffic_source=rss",
+      "summary": "Flames engulfed Kuwait’s Public Institution for Social Security high-rise headquarters amid a wave of Iranian strikes.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T04:55:43+00:00",
+      "fetched": "2026-03-08T05:15:03.775319+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "2f30494486aef04b",
@@ -44,6 +80,18 @@
       "iran_specific": true
     },
     {
+      "id": "f83a6b32fcb3fbf7",
+      "title": "War with Iran enters 2nd week; experts warn of economic impact | Team coverage - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHdDV3c1LV8zRXIwREV0NU9SUjExOHZRUHJrQU90M3VVbWdvZ0FGZEFsNTIxMEpQaExNTGtuQ3lnN1h6X2dKOXZ1Mm9oMW03QWl1czlOOW9FZG5maWMwd3Zmd1dCN251dEVnc2hkeW5wN1U2dmtuSW5oNVdERHJwNUtkR01uS0dMcE9oVHgwTGpkYmd6SEdnRWJiS08yS0VXQWFUU19uZk05Y1plRWxOTGtYS2k?oc=5",
+      "summary": "War with Iran enters 2nd week; experts warn of economic impact | Team coverage&nbsp;&nbsp;CBS News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T04:28:00+00:00",
+      "fetched": "2026-03-08T05:15:08.093508+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "06cb02f45e9929f4",
       "title": "Middle East crisis live: China warns world cannot return to ‘law of the jungle’; Trump says Iran being ‘decimated’ - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeDhEeWhPVGlvazhqeWdKYldOcjJ5MUtybXVKeVktSEtlbzk5MFJjSkQzNjB1WkY0N2tEeXdsVTJMX01VWWhiLUE4T3RWaUJ3Q0hSdlMweVNQNnh4TUNaTmJVVW1VTmZkSGZFZ0lld0VJeXEtUDRWMXFPTW4zWThLajk3bmNhNDZyb2lqSksxS0s3VFR6X3dDdE8ycVRacjFya3QyWmJZc1lfWWhiaU9ubWVVaHl1YzkzTlBwMF8xdWVjUUx1V1dXYkVGSmtkeW5lZDRZenZPVE5mNGIxbjJQMUNBQ3lNX09KdXZrdV9JTm0?oc=5",
@@ -52,6 +100,18 @@
       "category": "aggregator",
       "published": "2026-03-08T04:13:23+00:00",
       "fetched": "2026-03-08T04:45:05.813963+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "574b4fccd8d302db",
+      "title": "Iran-US war latest: Trump says ‘we don’t need’ UK aircraft carriers amid Starmer row - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWdjOC1HNWdoNWNpUWwzRnp5SU9qRm1hVUpkTTJ6aWpjVUZJRDJFbW5aaDhFd1F4UHE5MVhMSkZJVGVpR1ltOGJ0YmhuMW8zNy15NDZvU1VmOXBNYi14S1dTMXdabnN6MzFxREJLdlgtNDdSUTFfV1RtODZUb2FUcGdzNEplZm9CcnI0SjB2U1NLLUlTS0cyTjRLUUlMVjJybUxPRWlDUms0QW5Lajh3MDNfSnFhOW8?oc=5",
+      "summary": "Iran-US war latest: Trump says ‘we don’t need’ UK aircraft carriers amid Starmer row&nbsp;&nbsp;The Independent",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T04:02:52+00:00",
+      "fetched": "2026-03-08T05:15:08.093478+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -632,6 +692,18 @@
       "iran_specific": true
     },
     {
+      "id": "8428d85bf1ff5b83",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOdk5aQ3FRbFVwR2l2anE0ckNFb0UyNHdsemQtSkUwWU5qeDdiN00yM0V1elJDOGVTaEtrblk0Szd6aWttXzJNUm51a1Rtdy1ZeWJsazVidFJkSlZFOEhubER6MzFWcWdydUJ0bU5YLTl0SDhsamFkTUFxQ0xpU1VZTjV2M2I2QzRLUTVtanB0Rm0wQURCSzdMdUhGT0JULWlqcktFNGdwbmUwd3V4SmZVazM4azFaNXo3M2Z4T05sLUxLRkw1T0ZrSFFMSkc2VHI4d0d5X3hhcU1hOTNwV016NnJWcFlBUWd2alFoX1AyTnM3MV9TR2l0T0N6bE5GeHMtWnk4aXlyYk9STHlwamJ6WDhkZkdYVXVaank3NTZLWEFrOERpVU1ucWFBSks3RXp0RUR6V2QtdDJMZTdGcGVaTjZLeEJqRTBDT3l2WlZNc3EzTVBwU0d1ckd1Sy1XNXdlZGVZRUVfX0U4WmU0Q1BsNjhtNzJVTC1xSmR5MjZBRHY0VWgxaTFVT2lvTnZ3ZFpYVWVhWHA3emNKTTVJTW8yMnlLcjRHZ2V6SFdBbWZRREdnN2VIUHJn?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T05:15:08.093536+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -796,6 +868,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T05:00:05.895003+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "fc055f7520e48c57",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOREZsSU1GcjZEcnNxTVNvckhxaFRJVVNWNjEyMTVYcHVlYjJoc0E0RVk1RzNuZ3k3LXdmdEp1NFhYNTVyaUZtOXVHakhyOUU5Zm1oYVRfNlR5TUgwRE9QMENRZ3JOZi1QS0dnTDRfSUZ3VE1PQ0NqYkp2Vkd4aHcxT01YQUQ1WjU4THc3WDVyMDJxMGQ0d3F0NXdyd3Fxem9DU2hfdG1iV3hNMU5sR0xsOEU0R2x2Zk9VQkYyUDBaYS1RR3ZkdV9jSDBCVGVSbEJVRkV5WFM0NXhxcWZfeU1LNFhrT24wTTZoYkRtd3VsS2xiNnVUNUNFTjQxUzNoRElDMjJrRmNNR0QxemNfSlAwZGlWWUhITnhqRnpqLVY1aERZazlORkM5dlZ0ZFVMMl8yT0QxZDlXelc3MGZkbW9KTmdRd2lFN3Q1c0FmTWZSTVVtSWJGSGFlWWRZV0lHSUJQc1VrRklWWE5uQ25oZlhMYWtZTlRTcEh2eFF0UFRsVjhxTU1NUm5qRGl1TWdkY3lPRFhlelBBU25FRFZRTjdXeGVTam1Bd3NRU0dRR3hUbw?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T05:15:08.093827+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -1120,6 +1204,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T05:00:05.894898+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "90aa4d95b67c50f1",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPLUVHSjlZY3dhSGxtX0ZKbjlxeDMyOThrVC1MUDVYNjZZdi04dmMwbnhCeEZGd21sWThWNkdBUExBbTJPVG1ZWmtfM25EWElRd3lzWG1HSGdhS2llSXNKdUUwSk8tZFAzcXJONHFSazZ0TURXZklVT1o0SEJYS2pNdXZnT2s1UW9kRmJpUnZxeG80dENfdHpsLWVlYkZlVzYxWVZtYWxJcE4wcVpTVGtGOG9UT3hDN1FQWlVoc3RsWnc2aHI1YkRVZVVxb2dCUmJrMUxDSXlnRUJMSXJEMGtsRmhvUjY5aWdnaVJNd2xVVWJmZnpaYWgtWFAxRmtfUmlrdWkyS2JLMDRwVzQyNGxSbGgwcjNWb0t0V0YyYUVDNFZuUFFzT2FRcHFZNlg5cVZtRFJxRnZFU1cyZUVmV2FkbG0yMXNHbEdJbDNoQmFlb1BXVXRMMjM1WHRJUzJXdWxiQ3JqX3YtUUxwVDhMMFVpUkJkSEVFLUk?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T05:15:08.093739+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4388,6 +4484,18 @@
       "iran_specific": true
     },
     {
+      "id": "52b50f3f9ad7d95b",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPbWlqc1FDRGZIcXFMV01CcTZqczQ3WUhyY21DOU9RMUVEU2VWckc1b1NMS2tNMjhrYmZEeTNIdU9XV2dWU1hPT2Zwc2lpX3g1Tm1kbmhJYWFEZzBqWHFURVlMWVZ4ZmdzQnlQZ0p0T3dXWDlBdjR2d3NiVUFKN3owdkhxeG9ZM0ZMZWlpTV92WEVPTmpRWTRHV0lkLU9UQklIMGwyenYwN2NHTmtoZVdKZTRGTV9hY091M25XRUN0ZDV5ZGwwSVdOblA4SGE3TjFZRWhidmxBSFdaazJPeWhQY1RiZGQ2WUd1dGZfYVBVTEtwMjZrMXUxVHVyUWd5d1gxT0pJMXAxOV9hWjEwVm5HZ0VhN05rSUlXMENVTmIxQk9kMnZTUVY5SlRZX0V2VFdFaFpfR3h6U0pwZmdUYS1XdkZNUUF4ZVVqYmg4SHpYelJVaHNGd0NubU00Yldha1dSTC1LNGRKaDg0Ym9DNnZQMFRDTkhfUS1rbnY1NllCZGVqVFdkRFpZ?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T05:15:08.093666+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5896,114 +6004,6 @@
       "category": "western",
       "published": "2026-03-07T08:35:00+00:00",
       "fetched": "2026-03-07T20:47:35.134081+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4d37a0b591ebba99",
-      "title": "Iran war live: Trump vows ‘very hard’ strikes; Iran says will not surrender - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWoxdGhQZ1c3N1h4VEFZSjdFbnJzdDNDN3dwdGZYSi1ENkVfNEE3OXBlSWJldjRPUHVYemtqRnBDRHR5eFdKYWJjSFdSSmp5WGVzbDEzLUlEa2VMNXkxaG9iT0dXMktidFhyUXB4MXctQTgyTTR6WXlxanJHSXlCdFdNSlRkWkNUWnQ1NGVFUW1CLTlMVWIxSkR0WjZtNHFqTE12Tm5icmVEUC15NjBNX2xTcHZuRFc2a0djaUZB0gHDAUFVX3lxTFBOWXByTm1zeWpTMkVuMnpiRE81ZUZ3YUVwaXVqNjJqRktBRHdfM0dYT2ZuTXZMNE5acGx5dnpGakhIb0dtOTlBREdybjNmUHBBTk1xR0YybTRpUnpsa2xwajRkRHBJaVl3aFhESmVtbG9RM0NZd1Y2d0VTMG9ndVA4RjFCcW1wR0l6NXYwLTBWZ1VuQ1JTdHBSa05yMFpqNFZyWlE4Ri1jbi1pUkJ0Z2pqWklrQkVma1RXT2VBNUlGNmh6WQ?oc=5",
-      "summary": "Iran war live: Trump vows ‘very hard’ strikes; Iran says will not surrender&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T08:21:38+00:00",
-      "fetched": "2026-03-07T21:15:06.606252+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "bcfe933607d6f2fd",
-      "title": "Moldova won’t settle Transnistria issue without considering its opinion — presidentt",
-      "link": "https://tass.com/world/2098109",
-      "summary": "A settlement is only possible on the basis of equal and civilized dialogue, Vadim Krasnoselsky said",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T08:04:52+00:00",
-      "fetched": "2026-03-07T20:41:22.709010+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "cca40761e64c9a53",
-      "title": "Trump’s demands for ending Iran war shift as US military works through its target list - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNzRoaXNnRk91S05RZFVDTndGS1VNN1JBZFZWeUowQzZXRXNGX2YxOHExRXRPMmIwY19UcHlpV3ZrVUxIVzhRNlZsbHJlZUFwVHRENEhydzhzeXU1VENSSFRYNGRNejBzNS12d3FUV2paRmFSUmpxVmUyQ29jek8tQkVLZw?oc=5",
-      "summary": "Trump’s demands for ending Iran war shift as US military works through its target list&nbsp;&nbsp;CNN",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T08:00:34+00:00",
-      "fetched": "2026-03-07T20:47:34.882814+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "16fa1c30fdbb3536",
-      "title": "Eight people killed in strikes on Iran’s Isfahan — state broadcaster",
-      "link": "https://tass.com/world/2098093",
-      "summary": "The Iranian state broadcaster reported that 80 residential buildings were damaged in the province",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:57:05+00:00",
-      "fetched": "2026-03-07T20:41:22.709033+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e78b0093c3ff1ec8",
-      "title": "US lands bomber at UK air base after warning of surge in strikes on Iran - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpaF9FVWhkeTJQT0FnTVhNSkNRcmx3akxsdTRtMi1vczB5MWE1TDd1OXN1MkFZckdWd2M5RG9uMm8zekt1VVBlVHh3WWpTR3c3ZUYtYzY3bnRSdw?oc=5",
-      "summary": "US lands bomber at UK air base after warning of surge in strikes on Iran&nbsp;&nbsp;BBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T07:54:55+00:00",
-      "fetched": "2026-03-07T21:15:06.606367+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "95114f17c7e2f81d",
-      "title": "Explosions rock Tehran — news agency",
-      "link": "https://tass.com/world/2098097",
-      "summary": "No details were provided",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:51:59+00:00",
-      "fetched": "2026-03-07T20:41:22.709054+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "34ef4fa1505add00",
-      "title": "Saudi Arabia destroys two drones, one of them in eastern Riyadh — top brass",
-      "link": "https://tass.com/world/2098099",
-      "summary": "According to Defense Ministry Spokesman Turki al-Maliki, the Saudi military destroyed a drone in the Rub' al-Khali desert area",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:50:46+00:00",
-      "fetched": "2026-03-07T20:41:22.709096+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "2db9df94011c5b91",
-      "title": "UAE air defenses repel Iranian missile attack — top brass",
-      "link": "https://tass.com/world/2098091",
-      "summary": "According to the Defense Ministry, the explosions heard \"are the result of the interception of missiles and drones",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:41:06+00:00",
-      "fetched": "2026-03-07T20:41:22.709133+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c708cfcb02cc4cb1",
-      "title": "Third US Navy aircraft carrier prepares to deploy to Middle East — TV channel",
-      "link": "https://tass.com/world/2098089",
-      "summary": "The US Navy aircraft carrier USS Abraham Lincoln is already in the area of the US-Israeli military operation against Iran, the second aircraft carrier, the USS Gerald R. Ford, is currently in the Red Sea",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T07:27:16+00:00",
-      "fetched": "2026-03-07T20:41:22.709161+00:00",
       "relevant": true,
       "iran_specific": true
     }
