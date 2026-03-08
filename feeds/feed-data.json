@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T18:00:10.794280+00:00",
+    "last_updated": "2026-03-08T18:15:06.521722+00:00",
     "total_items": 500,
-    "new_this_run": 6,
+    "new_this_run": 11,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "2be29ccd9af37690",
+      "title": "Iran will confiscate assets of overseas nationals guilty of cooperating with enemy",
+      "link": "https://presstv.ir/Detail/2026/03/08/765130/Iran-will-confiscate-assets-of-nationals-guilty-of-cooperating-with-enemy-abroad",
+      "summary": "Iran will confiscate assets and properties of those Iranian nationals living abroad who are guilty of collaborating with the enemy amid the US-Israeli war of aggression against the Islamic Republic, according to the Attorney General's Office.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T18:15:04.372325+00:00",
+      "fetched": "2026-03-08T18:15:04.372343+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "4ca4cd1e468e7ce6",
+      "title": "UK forces successfully engage drone fired from Iran towards Iraq",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-forces-successfully-engage-drone-fired-iran-towards-iraq",
+      "summary": "\n\n  \n      \n      \nUK forces successfully engage drone fired from Iran towards Iraq\n\n    \n    \n\n        \n    \n                British forces successfully engaged a one-way drone fired from&nbsp;Iran&nbsp;towards Iraq last night, the UK Ministry of Defence said in an X post on Sunday.\n\n\"UK forces suc",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T18:09:59+00:00",
+      "fetched": "2026-03-08T18:15:06.379819+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "2bc98aeb2549acf9",
+      "title": "Why is the conflict with Iran being framed as a ‘holy war’?",
+      "link": "https://www.aljazeera.com/video/2026/3/8/aje-onl-nf_dnrexp-260306-warrinera-us_holy_war-07-080326?traffic_source=rss",
+      "summary": "US troops reportedly told the war in Iran is intended to bring about biblical end times, Armageddon.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T17:56:50+00:00",
+      "fetched": "2026-03-08T18:15:03.847572+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "df4b3ddcb3e2d229",
       "title": "The Iran war has put Asia on the brink of an energy panic - The Economist",
@@ -30,6 +66,18 @@
       "fetched": "2026-03-08T18:00:10.794119+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "ed224fcb37e2b3fd",
+      "title": "T20 World Cup final: India defeat New Zealand by 96 runs for third title",
+      "link": "https://www.aljazeera.com/sports/2026/3/8/t20-world-cup-final-india-defeat-new-zealand-by-96-runs-for-third-title?traffic_source=rss",
+      "summary": "Bumrah&#039;s stunning bowling sealed India&#039;s record-breaking win at home after Samson and Abhishek&#039;s batting fireworks.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T17:42:30+00:00",
+      "fetched": "2026-03-08T18:15:03.847624+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "7600b31b3beaeb49",
@@ -172,6 +220,18 @@
       "category": "iranian",
       "published": "2026-03-08T16:45:04.472168+00:00",
       "fetched": "2026-03-08T16:45:04.472188+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d1a9a62dabd64926",
+      "title": "Daily Report: The Second Iran War – March 8, 2026 (18:00) - Alma Research and Education Center",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ1VRSEF5T2FmcFdjSHNVR0tGcFA4dXMxbkQtWklWRldJTlBKVUYtZ09SRF8zUG53R1dxUmktajZZcnVWZllmXzBOV3pTc1FYTTR4aU5ZVUdYWFpqLUxWN1labi1jMzNLZ2xOenNnWEpvNG9hTHdMek5iT0FfSHJDTg?oc=5",
+      "summary": "Daily Report: The Second Iran War – March 8, 2026 (18:00)&nbsp;&nbsp;Alma Research and Education Center",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:44:26+00:00",
+      "fetched": "2026-03-08T18:15:06.246623+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -368,6 +428,18 @@
       "iran_specific": true
     },
     {
+      "id": "faa7752bd9941112",
+      "title": "Mideast's water supply at risk as Bahrain and Iran say their desalination plants were attacked amid expanding war - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakdUQW5qaFpnUFJmZ2Z3SklJOHdSZnNmaURCazNjOXRRbHhZSFM3bTdHWEFQSHRQYXJpTFRULTUyTHJ4bnI5dGtULVBjTGlUSm9PVGRPMlFFV2MwdTZ6TnhHUWhRQ3paUGdCRTA0SmhFN3UyMkVwTEZUYk1fZE1tbE1FZmI2bmVzellFdTJZMVpadURRX0FJS21SR1JIMVZkWG8ydHpNU0FIVnc?oc=5",
+      "summary": "Mideast's water supply at risk as Bahrain and Iran say their desalination plants were attacked amid expanding war&nbsp;&nbsp;Fortune",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:35:00+00:00",
+      "fetched": "2026-03-08T18:15:06.246898+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "ac33ec996a2e7462",
       "title": "US not planning to send land troops to Iran so far — White House",
       "link": "https://tass.com/world/2098553",
@@ -508,6 +580,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T18:00:09.944957+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e6c29c998b85b8ac",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNaHZXSDhaX083WnpUNnd2bkpDc3Z3ZUViQXhjeXlMY0lzWmUxTGVURG9Bb3NlaVNCYWpnUG40MVI2Zm43cXdqcTFaaE5FUTdDLVZ2b3o4TlZ4NHgzRVExMzAwd0IwdjBJcUJFTk9qeDNFa29uVzhEUWc4RnpxY3VULWxrcmVKckd2R3o1aTctT1lLd1NlTHFaTTA0XzBrbENXb0Fnd21yUENfRTJQT0dGNEpYaW9ZRVZkYU9PRjk5bDRnTF9KRW9xVjRreDBtazQ5MEdVblNyNi1VSTYtTUxTMlplMGtKMWQ2ZGZpR29na1NFXzFJQTNBWnFmLUZoYUw5dDJPaFZUZ3JvZWkwYzJ2UE9KQ1NsVWNXcFc0MkRnNjJkX0hqMXBJNkNCMDRWT1k1dFlnM21meGdmR3hqOFNibERmdzJ1SHpYNDRGeENKRVlDeUdZQnVhcFlOVVd1cU5VWkNKXzk0SXhfVWJMREtFTjNNYw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T18:15:06.246693+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -892,6 +976,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T18:00:09.944910+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "61a07f8419c9c8b4",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNMzBGWk5CbndvOE1MTDU2MHFaMEpvSWM0T3JaT3l6YXlDZjRrdU5vRTV0czFKcUNpRUVENkRPV1dwUU41c2YzNm1sNi1JekR2TkpBWDN0Q3RnOVZ3MzhGV0RKVTg5WHpyY2N0OGNkTGt4MGpsNWV1akJabTlEY3FQVjJYcW5VbGExSFQwWk9FR2FCczdYTWdfaThmcjlvbVBhQ3hwU1RmV2o2OERqcE83Y2ZFcWQxRjJpYV9GZE9qdlk5X25xTWc1Y2dIRUJQT1NNYncyNWQ4dmFhLWJFa2EwRTJlQmVuajE5ekVJRVZfT05GUl9TRlA3NEJCQXZMWVBlY1l0allobWtGbTRuSHdFQUwwRUhHTzFfbjNuaGkwUFVxRTNJZFk4UWtHVkdwZ2M5UW9jZ0EtMEhwZGdITWN0WlZZaG1wc3dybmQ0V1d4b183SEd3Y3psMUFzQkxHYXB5YVNVT2lpN21FeUJQQXFmWEp5SWlTZ0U0aWctOFY4d2lINXhFS3EtWlRSNTZHZHFtY2czMzMwQVhkY2VaTjhwaEV3TkxRakgzNGR6OW44OU5kRGo2SENaUg?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T18:15:06.246662+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2320,6 +2416,18 @@
       "category": "aggregator",
       "published": "2026-03-08T10:00:00+00:00",
       "fetched": "2026-03-08T10:15:05.867010+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "34d06d4800c3375d",
+      "title": "Iran and Israel trade strikes as Tehran chooses new supreme leader - NBC4 Washington",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3V3WlYxYVhyZVE4ZHlVNnd4dllJQ3BJaDhtcW81RGNpMEgyQTRMWG00N0NJYWx2dzNaZmI0NHFDYWdFU1BVbUlJQUlpRkhsMXlPcG1PRGd3bkJoZEphaFVBREw1X0Q3Yzh4NTBJV1hSSFFYN3JBNW90RWFIU3c1WFhPZWVYVDlzRGU5WjZjWlZzMnkzZjVKX2JLcVZRNWRsUE94VDdtX3VDQWJucmFJ0gG3AUFVX3lxTE9tY2FmVU1YYzRfX3pPbU9fRW9zVUprY3UzZmdLdzhzalNZUGxjYUp4UjFRSGRKRzk4SWVtaTJaNEdyU3VlRjNrS2hxUm42bjd6Q0hYTUNEOGtGNHQ2Tm9PZnlIcHlSeTFlTGdsVWRZRDN6MzBfdnc2QVlfSVhKa2V3SnZmcThsOEU5MTlfR19ULW5TVkZKUENPcTBnME9EOENBN3lnenE5a3FhY09fWlp3aGE4V05EUQ?oc=5",
+      "summary": "Iran and Israel trade strikes as Tehran chooses new supreme leader&nbsp;&nbsp;NBC4 Washington",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:56:04+00:00",
+      "fetched": "2026-03-08T18:15:06.247106+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4496,6 +4604,18 @@
       "iran_specific": true
     },
     {
+      "id": "3c7640f31952b9f5",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQWXFVdWRuMHhpdFhYQmN0RTRGNnFHMzJVWVdsZGp4cVJvQUZ2YTVCWnlPb19GNFRESm5rUEs5SDlKdWRMSEFxWkp3M1pnQmZ2SGxrNVhPUHQwRThBVWRIWDJOX0NuV2E5cngxSHVCTTI5Y0ZDcFhwdDdFWmt4UkYwSnJHcGVFNy1yQkxqS0oyUmNfWGpieF9yTnFES3J0YzJBRHRrdTdJVTkwVjc5TVJCVWFvZnFtZ0w2S1pQMWdXb0VIclJ1VTl3QVBweEVyLTVfcVFvOThncVI2MUh3aFN5VDZPTHdDUmxaUm9JSHN0anZscGxzWVc2RHhmblJjT3NvMzhpdGJwTkozdE9tSVllbEk0WGJ0dXloNU93X3AzbnlWQU0zdlpKWC1EdE1SYW8yMHh4b3NuaXFqV2VWejZIQm9jRjBxV295Y0ZwTXdLSUhNNUFfZlBIVFAzTnZkTXotN2ZHZlNaa3RFb0ZGRXl4Y2JZUlhSUVNDZU85eWdJUHcyMVRJbmZCbVhuVWYzYXUyUUlxa2k0V2tKRGhrbGlPXzJXNjV2bWlxS1RYNlJKc1E4YVVGR09r?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T18:15:06.246973+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5884,126 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T21:54:38+00:00",
       "fetched": "2026-03-07T23:03:51.466999+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a651107b28505ea6",
-      "title": "US detainees in Iran risk becoming collateral damage in war, families and supporters fear",
-      "link": "https://apnews.com/article/iran-war-american-detainees-0e804fa13d80a27bed63409e2f17390a",
-      "summary": "This undated photo provided by the Hekmati family shows Kamran Hekmati. (Hekmati Family via AP)2026-03-07T05:05:30Z\n                                        NEW YORK (AP) — Families and supporters of Americans detained in Iran say their loved ones face new dangers during the intensifying war, includi",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T21:53:02+00:00",
-      "fetched": "2026-03-07T22:00:04.124751+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1fdd8497472d8d8f",
-      "title": "Trump Says He Ruled Out Having Kurdish Forces Join Iran Fight - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVGpQaUVUQ3lOcENqT0szMjQ2U09DcGlQUWpBVGVzOTRyY1hmQURLazZ0bExyNUZsMDRkQkpac1FSLUlTMFFWY013YlF6LVR0ekJkRE41UWJ4Z2kzYVlnU3RnOUJEXzYxa1c5bTlQS3h3SEx1ZUJXcHN5eU1ZWjJoaDc3M1BzYU53U3RpTE5kaUNLdmVsMG1DUWxsZ0JETGwtbzFPalZQeS1iVzVRNW1uMEtMeVlOaVdHU0JKNXRNQXFIVHBmZHc?oc=5",
-      "summary": "Trump Says He Ruled Out Having Kurdish Forces Join Iran Fight&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:46:01+00:00",
-      "fetched": "2026-03-07T22:00:06.295566+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4f523ddc27cfb35b",
-      "title": "Trump Says He Ruled Out Having Kurdish Forces Join Iran Fight - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHJjMXI4emZZQXdFejBuRC1hd09pZEtETHliUkVWQV9VbkhfWk1WNGxhamczSmlDaVB0YTY2ZlJURGoxLUZIbWhYUEFZVWVjNWFhWkVYRFRvUVNHanZFcUJabXpaNVJCTHE1VGNMb3Vjekt6dG9UaDh0VHNSRUw1MG5lV0VISkRiUFROUlZpZVI2eFpsTEQ4NkJ4QWd2Tnc4LS14R2NqRzhPZlh4RFFVekJn?oc=5",
-      "summary": "Trump Says He Ruled Out Having Kurdish Forces Join Iran Fight&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:46:01+00:00",
-      "fetched": "2026-03-07T22:45:05.517911+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "33151855d238cba8",
-      "title": "How far will the Iran war spillover?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss",
-      "summary": "As the war between Iran, Israel and the US enters week 2, concerns rise over a potential regional spillover.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T21:45:43+00:00",
-      "fetched": "2026-03-07T22:15:04.154478+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c9fcda122d31d921",
-      "title": "Trump says he’s ruled out having Kurds join the Iran war - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDJydV90WC1USUt1QnU5ZHdIZzZkdU1EWXdrZUdYamlGbFhHbERWaWZZTVJIc2E2dEhnQS02TlQwalFqOWZDd2VabFhGb3VINmdvM25JWF9GbVcwQnlCSjQ2dFBuQTAyRVlDSHRLV0lUVmNjMWJocWpBTmkzYjlxdjMyWmFNOXV2OElvT1NCTTk?oc=5",
-      "summary": "Trump says he’s ruled out having Kurds join the Iran war&nbsp;&nbsp;AP News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:38:00+00:00",
-      "fetched": "2026-03-07T21:45:06.288995+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f8dde17caacae4bc",
-      "title": "Fire outbreak occurs at oil depot in Krasnodar Region — emergency services",
-      "link": "https://tass.com/politics/2098257",
-      "summary": "According to the latest data, nobody was injured",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T21:34:45+00:00",
-      "fetched": "2026-03-07T21:45:05.256222+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "198ad9f59b3f242a",
-      "title": "Trump attends return of first US troops killed in Iran war",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-attends-return-first-us-troops-killed-iran-war",
-      "summary": "\n\n  \n      \n      \nTrump attends return of first US troops killed in Iran war\n\n    \n    \n\n        \n    \n                US President Donald Trump attended the return Saturday of the bodies of the first six US soldiers killed during the escalating war with Iran.\n\nTrump, wearing a white \"USA\" baseball",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T21:31:21+00:00",
-      "fetched": "2026-03-07T21:45:06.385882+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c98988037828aa8c",
-      "title": "True Promise 4: Iran and resistance axis ops. against US-Israeli assets on Mar. 7",
-      "link": "https://presstv.ir/Detail/2026/03/07/765094/true-promise-4-iran-resistance-axis-ops-against-us-israeli-assets-mar-7",
-      "summary": "Iranian armed forces and resistance groups in the region continued their retaliatory military operations against the US and the Israeli regime on Saturday, March 7.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T21:30:05.645426+00:00",
-      "fetched": "2026-03-07T21:30:05.645462+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3a1670f425550232",
-      "title": "As Iran conflict spills over, Iraq's Kurds say 'this war is not mine' - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmZDd0tUOHpXOEJFZnN0OTl0STM1d1dsZVFTTE8waEFFQ18xU0h3YzQwYkhDU2pxREhtNkFEa19YbEJaNnh4RENBWW1ZeHJnYXRyRk82V29rc3FEZEtFWXV1dk5NNVBtZE1IUzU5YlFXdjBUWnpLX0p4dHh4WDZGTC1lSl9KQVdwaU1iSC1Bd2dfTDItemRFcThaWTlhTHowdU9RWlVvOTFlTDZKdk00Y0hCaw?oc=5",
-      "summary": "As Iran conflict spills over, Iraq's Kurds say 'this war is not mine'&nbsp;&nbsp;France 24",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:29:19+00:00",
-      "fetched": "2026-03-07T22:15:06.543413+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "6896e3f8cb3f3e9d",
-      "title": "Iranian foreign minister says he is in contact with Saudi counterpart",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-says-he-contact-saudi-counterpart",
-      "summary": "\n\n  \n      \n      \nIranian foreign minister says he is in contact with Saudi counterpart\n\n    \n    \n\n        \n    \n                Seyed Abbas Araqchi says ⁠he ⁠is in constant contact with his Saudi counterpart ‌and Saudi officials.\n\nIn ⁠an interview relayed by his Telegram ‌channel, Saudi officials",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T21:24:10+00:00",
-      "fetched": "2026-03-07T21:30:07.458683+00:00",
       "relevant": true,
       "iran_specific": true
     }
