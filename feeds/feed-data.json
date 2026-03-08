@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T14:15:06.187556+00:00",
+    "last_updated": "2026-03-08T14:30:08.894236+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "d95d93b13f00d421",
+      "title": "Iran: US-Israeli strikes on oil depots 'intentional chemical warfare'",
+      "link": "https://presstv.ir/Detail/2026/03/08/765124/Iran-US-Israeli-strikes-on-oil-depots-intentional-chemical-warfare",
+      "summary": "Iran says the US-Israeli attacks on oil storage facilities amount to intentional chemical warfare civilians.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T14:30:06.709656+00:00",
+      "fetched": "2026-03-08T14:30:06.709680+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d5a2bab8003b4f61",
+      "title": "Israeli strikes killed 394 in past week, says Lebanese government",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-killed-394-past-week-says-lebanese-government",
+      "summary": "\n\n  \n      \n      \nIsraeli strikes killed 394 in past week, says Lebanese government\n\n    \n    \n\n        \n    \n                Israeli strikes on Lebanon have killed 394 people in the past week, including 83 children and 42 women, the Lebanese health ministry has said.\n\nThis comes amid fighting betw",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T14:29:11+00:00",
+      "fetched": "2026-03-08T14:30:08.795491+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "1c4121548329cb92",
+      "title": "Hakeem Jeffries won't commit to blocking additional Iran war funding - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXhKR2FkTDQtYUNRemRBR212c2lGc1VDN2swdUl2djdGaWN1b3RsOHdwQVZVc1hzZERINU43Ni04Wm9YaUxJV3FEOU5RTmJ6aWRlcmp3ZzVQTjJ1TGJIVGZlVXRjOWppNXV2WVdVWWVXMmJDUFZ5bVAxOEtMNWY5cUZXZzlOUE5EWWd3U3BPUWxacUN5dHVVVEZLbUxhZm9ib0hYVlVWRkwzNFFuNEtKZWVjMDdSNGs?oc=5",
+      "summary": "Hakeem Jeffries won't commit to blocking additional Iran war funding&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:24:07+00:00",
+      "fetched": "2026-03-08T14:30:08.633467+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a32c94112e58b584",
+      "title": "3 Palestinians killed in West Bank clash, bringing toll from week of violence to 6",
+      "link": "https://apnews.com/article/israel-palestinians-west-bank-settlers-violence-900ad24fd46e0ca5ae0de07c0328c960",
+      "summary": "This is a locator map of Israel and the Palestinian Territories. (AP Photo)2026-03-08T13:50:31Z\n                                        ABU FALAH, West Bank (AP) — Three Palestinians were killed in a violent clash with settlers in the Israeli-occupied West Bank on Sunday, bringing the number of Pale",
+      "source": "AP News",
+      "category": "western",
+      "published": "2026-03-08T14:23:01+00:00",
+      "fetched": "2026-03-08T14:30:05.694526+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "2cfb0ad4d034ee56",
       "title": "Countries can avoid Iranian attacks only by blocking US-Israeli use of territory: Official",
@@ -64,6 +112,18 @@
       "category": "aggregator",
       "published": "2026-03-08T13:54:51+00:00",
       "fetched": "2026-03-08T14:00:06.521458+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "863410a36b192343",
+      "title": "Donald Trump taunts Starmer over Iran war - France 24",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EekFwZ1NxcmZrb001Wms3UVdmX2RyU1NGSm4wYVB3SHhFanVJaDVtSVQ0ZGw3R2tDb0k3ZXJ6Vk12RklOZGl2RGpyWWYxeW5CcWVuU0RhSEJnLUp0VHg2VExHOUM1TkJzU2hSY282bnFzZFJhN1U0Zg?oc=5",
+      "summary": "Donald Trump taunts Starmer over Iran war&nbsp;&nbsp;France 24",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T13:54:17+00:00",
+      "fetched": "2026-03-08T14:30:08.633933+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1112,6 +1172,18 @@
       "iran_specific": true
     },
     {
+      "id": "359c7a16d40f53eb",
+      "title": "March 8, 2026: Iran War Maritime Intelligence Daily - Windward",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZQmlNaFhjXzVyc3ZCWWQtT2paTkdHSzJQT3BwbXNRdmhzSHYxcVlDcDVmX1BtcGl4anlFUzdJWXRTdkpEcFFjRFNrcWtfV1E5SnkwWW11RE5Ca3dOenNzWGZkVG4wbzVES0h1emtn?oc=5",
+      "summary": "March 8, 2026: Iran War Maritime Intelligence Daily&nbsp;&nbsp;Windward",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T10:48:30+00:00",
+      "fetched": "2026-03-08T14:30:08.634090+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "62cbb769003eb3a6",
       "title": "Israeli settlers kill three Palestinians as attacks surge amid Iran war",
       "link": "https://www.middleeasteye.net/news/israeli-settlers-kill-three-palestinians-attacks-surge-iran-war",
@@ -1348,6 +1420,18 @@
       "category": "regional",
       "published": "2026-03-08T09:52:22+00:00",
       "fetched": "2026-03-08T10:15:03.790018+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c8f6159dff4473b2",
+      "title": "Iran war tests India’s balancing act between East and West - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QaS1YUzkwUFdWVGtRZWxxVkpGZzdCa3N1U3V3M2lfeUpNYW1VZ3d2Nk1xcWgwd1Y1QnBseUgtWFFVU2dCZWRqaS1IS3JJcTBFWHNtQU9uNHNfMWx3?oc=5",
+      "summary": "Iran war tests India’s balancing act between East and West&nbsp;&nbsp;The Jerusalem Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:49:13+00:00",
+      "fetched": "2026-03-08T14:30:08.633744+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5922,90 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.639321+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "0437c25fd2601d60",
-      "title": "Gaza bakery supports displaced families ahead of Ramadan Iftar",
-      "link": "https://presstv.ir/Detail/2026/02/23/764620/Gaza-bakery-supports-displaced-families",
-      "summary": "Amid ongoing hardship, a bakery’s ovens  in central Gaza remain lit, sustaining both livelihoods and lives.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639273+00:00",
-      "fetched": "2026-03-07T20:47:33.639277+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "47c769753dbf9d28",
-      "title": "Brazil: Uba River floods destroy bridge and buildings, leave people missing",
-      "link": "https://presstv.ir/Detail/2026/02/26/764746/Uba-River-floods-destroy-bridge-and-buildings,-leave-people-missing",
-      "summary": "Streets in the commercial district lie strewn with debris after the Uba River overflows, collapsing a bridge and several buildings, in Minas Gerais State, Brazil.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639225+00:00",
-      "fetched": "2026-03-07T20:47:33.639230+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "f7021f4d06c37a22",
-      "title": "Pezeshkian reaffirms Iran’s commitment to defend sovereignty, pursue lasting peace",
-      "link": "https://presstv.ir/Detail/2026/03/07/765059/Pezeshkian-reaffirms-Iran-s-commitment-to-defend-sovereignty-pursue-lasting-peace",
-      "summary": "Iran’s President Masoud Pezeshkian reaffirms Iran’s commitment to defend its sovereignty while pursuing lasting peace amid US-Israeli aggression against the country.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639171+00:00",
-      "fetched": "2026-03-07T20:47:33.639175+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "40c337b2ae06e5cf",
-      "title": "195 students, teachers killed in US-Israeli strikes, 68 schools seriously damaged",
-      "link": "https://presstv.ir/Detail/2026/03/07/765074/195-students-teachers-killed-in-US-Israeli-strikes-68-schools-seriously-damaged",
-      "summary": "At least 195 students and teachers have been killed in US-Israeli terrorist strikes across Iran, according to a senior official from the Ministry of Education.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639137+00:00",
-      "fetched": "2026-03-07T20:47:33.639141+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c49022f9368d8ce0",
-      "title": "Iran says 82 US or Israeli drones shot down since war began",
-      "link": "https://presstv.ir/Detail/2026/03/07/765079/Iran-says-82-US-or-Israeli-drones-shot-down-since-war-began",
-      "summary": "The number of US, Israeli drones shot down by Iranian armed forces has reached 82. The Iranian armed forces have shot down a total of 82 drones since the start of the current round of aggression by the United States and Israel against the country on February 28.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639113+00:00",
-      "fetched": "2026-03-07T20:47:33.639117+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "fc857a5651c1795e",
-      "title": "US, not Iran, began attacking civilian infrastructure, Araghchi warns",
-      "link": "https://presstv.ir/Detail/2026/03/07/765083/US-not-Iran-began-attacking-civilian-infrastructure-Araghchi-warns",
-      "summary": "The Iranian foreign minister says the United States’ attacks on infrastructures will have grave consequences.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639089+00:00",
-      "fetched": "2026-03-07T20:47:33.639092+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f3143064dbd0973c",
-      "title": "Iran says only targets US-Israeli interests, respects sovereignty of neighbors",
-      "link": "https://presstv.ir/Detail/2026/03/07/765072/Iran-conducted-no-attack-on-neighbors-respects-their-sovereignty-interests-Army-headquarters",
-      "summary": "Iran’s Khatam al-Anbiya Central Headquarters says Iranian Armed Forces respect the national interests and sovereignty of neighboring countries.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639057+00:00",
-      "fetched": "2026-03-07T20:47:33.639060+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
