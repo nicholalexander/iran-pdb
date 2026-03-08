@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T17:15:07.550715+00:00",
+    "last_updated": "2026-03-08T17:30:07.067560+00:00",
     "total_items": 500,
     "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "4dd69cf7f83cc3b6",
+      "title": "Lebanon registers more than half a million displaced by Israeli attacks",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-registers-more-half-million-displaced-israeli-attacks",
+      "summary": "\n\n  \n      \n      \nLebanon registers more than half a million displaced by Israeli attacks\n\n    \n    \n\n        \n    \n                Lebanon's social affairs minister said on Sunday that more than half a million people had been registered as displaced since the outbreak of the new war between Israel",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T17:28:02+00:00",
+      "fetched": "2026-03-08T17:30:06.312001+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "2023eb7eebf8d957",
       "title": "Israeli strikes kill six people in southern Lebanon",
@@ -28,6 +40,18 @@
       "category": "iranian",
       "published": "2026-03-08T17:00:04.766200+00:00",
       "fetched": "2026-03-08T17:00:04.766228+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "fda4edb800badee9",
+      "title": "US Considers Idea of Special Operation to Seize Iran’s Uranium - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1F1OThuSDNpRjlFWXhRTVVfb3ZwVnN5SHdMUklfaTZzb3FGS3VfeEhheXNmRHhISUM5VURaU2hMbkpCSEdvbC03MDByUWp2WV9BM1p4RUttSUdrY1hBTWtTQTFCSmFoMjJycVZHaEpjYkdSMmcwSnQ3UjFRLWZpWVJWbHZuay1ac0dHLVk0NDR6VVBFSlhKWWt4ck5KWGFYYjJCdS1LdzJidUtrQnU4Q2JqM05uX0V2MDYtSQ?oc=5",
+      "summary": "US Considers Idea of Special Operation to Seize Iran’s Uranium&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:59:51+00:00",
+      "fetched": "2026-03-08T17:30:06.146889+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -328,6 +352,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T17:15:07.270486+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "06bff524e6cef73e",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYW5QVEVGOE8zUnctS3pRZ25ST0IxZ3ByTTF0WXJGNWRRRWNyOHRFaUVUSmtVWGx4ZUpXMUpIYWJxTVBkMDJybkd1MTdqcXM0b3NjNUFkSXFFOFBDVW1zVVJoS2JfZWVLeDdlRjRVRk54czU4aktYbWZJNm52TEZpMFR3VkM2UFpHUXZKOUdRWHRnREJ0NzFoblN0aGktMnpiZ1p0OXRlS1ZRSmM1Wi13NTVPd3JEcUdFLUp4dlRsQ1UzMXh6dk41LXVMTkozZi1Wcjd2LWtXNXhoSjE5X0ItNmRTQ0hMMXlSMUY2cU1URnhKRHRBd1FuQ0l0M0RWSUtuMVNXUWwyQ25aVDE5TU9xaWtZeHc3SWtEU2pmd0JoeHp4cFlQX3RQUlNRM28xU0dJYjFFUFVYRjNCeEU1bXJ5REVaTlVrMmlWWUd3ckJNYmtSRXd3OW1jSXk4UjRycFBYQnNBU1pHV1U5bTNxenphY0RVaw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T17:30:06.147104+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -676,6 +712,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T17:15:07.270526+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8c9d0e5ebf6f62e6",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOTzdkeUVZMHVOZFJxSWl6aGhPZmtRdDdCR1NfM1NDWjNTeTdEZ0hiNmZPRlJYd040dk9jR3oyUG0wRzRSaUdacEQyY1paWnplc0EyWTRRWi14X1NPYXZubS1FSG1CV0lEN1VodzRKekJXN2ZKOTFmSklCak9JVEsxS0tKZkdCR2gxeFBlb3FTUGtsZGNlTmgtSkllaGUtcjY4SkRwTnZvdEs0RkdWMFhiXzBxUnNLYW1BYVBQVjF1WXNGTnR6SUpKdVI0Ty1oZnd0blJjT2NEUk1DRkZZcGc3aUMteWVLTS1JMDFyaWxnS0FET1JNRmVTVUJsZjRQSjViZUlBWVZEVEtPTHpUbHZteXdaemtnMHY2TEpaTlo0d244Unp0VW43bGNoTENvQ3duZEpzSU9MeFA5Y3JaS1NfVG5meEhqS3JYN1psR1NyamZMT0U3NHRVQlMtZXE5NFZYNTdwVnZ3b0Vpb1RpS1Y5UUZ5SWhPVkRYbUlvMS0yQXpJREROX0hpVW5ubDFraXBBak5Ya1dNZ0Z4M0Jtb3N6OFpLSmlYMll5WnVpNTZaNHpxRkptdEVSdQ?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T17:30:06.147147+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1278,6 +1326,18 @@
       "fetched": "2026-03-08T13:00:04.867564+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "f0545db844e386af",
+      "title": "Iran’s last line of resistance holds back — but Houthi terror group warns it’s ready to act - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONDJNeTg0WUNraWJkTnRTOUtFWThOYVFNWFRyYTMyWkFyOGNTd3dnYktNcllFdXNXY3NxQXJSc1hzMUl1Q2RqeGZsNzdZU1I4OGIzcEtyckJ2NXNzQkgtSkFfQ1ZTX1pjQjdMQXFUY3NmeE9nVmdNT2U5QTFWaUU1eHlfbWpGdWx6eXhSNUJuWkY3aTZMTzk5Yi0yOTBQOTA1a2I2VU5rUzVUeUnSAbABQVVfeXFMTzFiLXBZYzlUZnFiaEt1RUd3cWhPcFlvVjI3b3hPS3lPemZKVlhVejk5ZTFJYzFmOEFzLW1waG95ZGlzdjh2U0pPMTUxaWs2bWZSb21NOWxRVkJ4ZDFudHVIX1NldTRHTlNmSTRvMDdBc1pjdGhja1UzejVSeDF5Qi1hYVJVYXRjNTIxUnM5b0xOdTBOYnhFdjZHTjB0eFJvdmw1VVJ5SFlKSHI2RGljU1E?oc=5",
+      "summary": "Iran’s last line of resistance holds back — but Houthi terror group warns it’s ready to act&nbsp;&nbsp;Fox News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:25:31+00:00",
+      "fetched": "2026-03-08T17:30:06.146977+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "924934caf422fa60",
@@ -4232,6 +4292,18 @@
       "iran_specific": true
     },
     {
+      "id": "8a42e40f6d1b434b",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOVlpFZDBVUHFSTDdBejNBNnktVzRoRTFBalQzaEQyMy1QdHZjd0ZMSWx3blZFMlpxYlhZWUJPN05JT05FTVlaeXJkTWpDc3V1bTIxZTJRWndCcEdtVHE1eW1OTC1rclVuNzFlbkI5Z2RGN0dfYmd2akV1YnJwLWlhb21RdmliZE1HZTQxU1NET0tXTXZRS2E2eTR2dUQ4SU9rZVlRXzY1bGJPdDZQMnRjZkpGTTRLNVJLbWo2dUpmeUZkNks4MHVkbFZrMERxZXl2bVNTaU1hdGdjcVI5NGRhMFJlTWY3em1JWXJxTnZVZUNfTTFoX3BjTXVrUFZmVko2QUhnWC1HdzBMWDY2el83R0xtVzZXSjlvTTZyVWFLWVJsNjdBWmxWdkVIYnBnOHFud3I1eU0wejRFdFN0SjJKbGtEc2Z6RGVpcDgtYVh3VzVSYVVBazJBbHE3MWtNREUwWXFRbWF6WnEwbnJQSXpsRlE1UWlUM0tLdGp3ZFhCcFRvYzRMQ3ZMSFVtWjFlVUxKZUxxZjVqbDdkRWVYRmJId2VqcFMzd3JJOFg4T1oxMkNYREtXOU5n?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T17:30:06.147429+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.642392+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "03c46c65533ebb02",
-      "title": "Venezuela launches 'love is rewarded with love' campaign in solidarity with Cuban people",
-      "link": "https://presstv.ir/Detail/2026/02/26/764734/Venezuela-launches-%E2%80%9CLove-is-rewarded-with-love%E2%80%9D-campaign-in-solidarity-with-the-Cuban-people",
-      "summary": "At a time of maximum economic and political pressure from the United States against Cuba, Venezuela extends a fraternal hand to the island with the campaign “Love is rewarded with love”",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642356+00:00",
-      "fetched": "2026-03-07T20:47:33.642360+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a2225cc847c427c7",
-      "title": "Israeli restrictions force World Central Kitchen to halt Gaza meals",
-      "link": "https://presstv.ir/Detail/2026/02/26/764754/Israeli-restrictions-force-World-Central-Kitchen-to-halt-Gaza-meals",
-      "summary": "The US-based World Central Kitchen charity has decided to halt cooking in the Gaza Strip.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642295+00:00",
-      "fetched": "2026-03-07T20:47:33.642299+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "721ac7975b9f3ec9",
-      "title": "Sunni family's legacy of sacrifice inspires unity, solidarity in Iran",
-      "link": "https://presstv.ir/Detail/2026/02/26/764755/Sunni-family-s-legacy-of-sacrifice-inspires-unity,-solidarity-in-Iran",
-      "summary": "In Iran’s southeastern Sistan and Baluchestan province, a remarkable story of devotion spans generations.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642256+00:00",
-      "fetched": "2026-03-07T20:47:33.642260+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "52ec8efb3107194e",
-      "title": "Continuous war on media in occupied West Bank",
-      "link": "https://presstv.ir/Detail/2026/02/27/764773/Israeli-ongoing-war-on-media",
-      "summary": "Israel designates and bans several Palestinian digital media platforms under its so-called anti-terrorism law, alleging ties to Hamas.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642224+00:00",
-      "fetched": "2026-03-07T20:47:33.642228+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a7b60a1db3d6bed6",
-      "title": "Modi’s Israel visit sparks opposition, domestic backlash",
-      "link": "https://presstv.ir/Detail/2026/02/27/764774/Modi-Israel-visit-sparks-domestic-backlash",
-      "summary": "Indian Prime Minister Narendra Modi’s visit to Israel is prompting mixed reactions at home, as analysts note the countries’ ties have grown into a strategic alliance.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642182+00:00",
-      "fetched": "2026-03-07T20:47:33.642185+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "05e9001306ae64b8",
-      "title": "Founder of French pro-Palestine NGO appears before court",
-      "link": "https://presstv.ir/Detail/2026/02/27/764775/-Palestinian-rights-activist-Olivia-Zemor-appears-before-court",
-      "summary": "Olivia Zémor, president of the Euro-Palestine organization, appears before the Paris Court of Justice over her support for Palestine.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.642124+00:00",
-      "fetched": "2026-03-07T20:47:33.642128+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
