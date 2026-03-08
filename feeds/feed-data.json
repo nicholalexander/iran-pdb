@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T17:45:07.088042+00:00",
+    "last_updated": "2026-03-08T18:00:10.794280+00:00",
     "total_items": 500,
-    "new_this_run": 12,
+    "new_this_run": 6,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "df4b3ddcb3e2d229",
+      "title": "The Iran war has put Asia on the brink of an energy panic - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk8waE1NbmZ6bGFVWDYydEtlb0d5bE8yR2RBYk5LQnE0THZydnNXbGN0dnQwbkdOVVBKdnB0eHVEX0U2QWI1ZUEzOGhic0xMZXQ5bHhQNFhVSmRUci1mOTFJSGdMVGpZOEtLMUsyemxyZUwza1Vjejhjd2hmdlNLMFZyOWFndWRaMk5EU2RDLXhhUW5YRUswNnV3YmZLZTNTdVhBZjQ3ZEVfOU1YaS1aRjMzRXloYkk?oc=5",
+      "summary": "The Iran war has put Asia on the brink of an energy panic&nbsp;&nbsp;The Economist",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T17:48:39+00:00",
+      "fetched": "2026-03-08T18:00:09.944741+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3808bf7c4b493019",
+      "title": "Five key takeaways from an annual briefing by China's foreign minister",
+      "link": "https://www.npr.org/2026/03/08/nx-s1-5741742/five-key-takeaways-from-an-annual-briefing-by-chinas-foreign-minister",
+      "summary": "Speaking at a political gathering in Beijing, China's foreign minister Wang Yi outlined his country's positions on the war in Iran and general relations with America.",
+      "source": "NPR World",
+      "category": "western",
+      "published": "2026-03-08T17:42:46+00:00",
+      "fetched": "2026-03-08T18:00:10.794119+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "7600b31b3beaeb49",
       "title": "US doesn’t target Iran’s oil, gas infrastructure — Energy Secretary",
@@ -476,6 +500,18 @@
       "iran_specific": true
     },
     {
+      "id": "4a03e82f72a7d186",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOcG41U0FDbTFXZlhDZU5Ham9pdmxCLXR0Y1JEaE5PRjFSQVJrZXNqempMTTFwZUJwbG13MDZpMXVKY0Y3ejZ6eGY4QWdZNl9Sc2RqQ29KZV9TZmRVT2EzTV9wZmt2d2hmZTU3SUpOZTNHWGRhRWVDTFV4cG9wa0IySTNyU3Y1SkluMHJWamg1enBfY2w4Xy1VUDFCemhYcUowdjFHV3ozbnd0VmlCSV8zTGRzLU5udWduVGVzb2JkcTJ6X2s5NWl0ZmtubWR2UFNnV0c4ME5iSWVMR2NSQmpIUldLMXo4SHI0ajdPbXpTN1hMM3QwWVlmSUlWMDdJbUhBX2Z6UDFDZG1fMXl1Z2pPS2VXaG12aEFIWGZSekFRV2NYcjY0NWtobkZxeTBWcFpPSS01M0Rkelc3bXhJNDllZVhUNV9lWjNxbTZqTXlJUkVZbFBFYjdOejJ2QjA5TG9Xamt1X1ZxdThjTm52dE1MOEwyTQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T18:00:09.944957+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "dfb83f605ff9a08b",
       "title": "Iran war: Bahrain says Tehran hit a desalination plant; Israel reports 2 of its soldiers killed - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFVoejlTSjBKTlRPTWJCQjhUa1hDOUpJM09UQ3lMaTE0cGRzNnJ2QWl1Smk1SDJEcndHak0wa3ZRc3JoUkhJT1pycEhFaFRBNWF4YmgtNV9XNXNKTUgzUmxPRDhuSjl6TUpqcDdkeGZzWnByQXY0M2pIT0hub3Brbi0zWHJRdlh5TUhWcHdiaVNVa2c4UUJFZlBManRQWDkwTDR1M1VBeG1MYjBoTzdLY1l1TVY0YXFCZEgwNzFOcnFOR1NnUHFlRE1mTQ?oc=5",
@@ -844,6 +880,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T17:45:06.818393+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b35cb51a013db4a6",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQY1ZreURsOGtsTjg4aFYtQm5Id3VsZWV1eE15SUZxUGFjaVNHbXdnczZzc01WNTBIdTRmbTctd19wdXFNT0tlNEtnTTZORjVfY3g4SFo3d3ZRMW9BcFBvWEE0ZU5rUklxNmdmZWJkSkJSclJrZUNta1U0ZXRFLWpscHE2Nk91d19tNTJiekRDZklNcTQxTm9VWGJvcklhT1hOemlIeDBCQzIwQVJJN2w1cjc0bjNsNktDbXBfaUFBTi11ZVJVU2NsNTVhU1pLNWlHZ25ZUEtFOGpINEdaaWI4OTRTQURHak5Vb1B3T2tvN2NTQlFUbWpjaEtlNk5ndmxBSnVEd0dOcEdrTnE2NjZDSjRsdWwyZXFJV2loTDBSdUd4WERHTWg3Y3ZjTXVTUjhsZVNMMEZ5QXR5QS1fNnBNV2d3Nnl4akxaeFQzY2dpaUFkUzRPc013N0JudkJwSVdnNjZUMGhMYUpMZ3BuQkx5Sjh3WGVUUDZCQUxuSmFuclQ4amhoVFFMRmlHb1hFdjN3LUhMMTZtSFl5YUlJQ2otbTRDV0RzTG9BUjZhcTNFNlllQkU3Y2p0Rg?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T18:00:09.944910+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4436,6 +4484,18 @@
       "iran_specific": true
     },
     {
+      "id": "45a92683e8577967",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOa3AzOHMzSE9DbEs1b2Y4SlZtSENmUVZ2LU9ONzcxeVRZcDRFM3ZMVXdTYjZWUnpiX2lVNHN3aTJ5dGQ5dnNNSko3N1JVYUVmblFYMkxKd01EbVpxNFNhQVpQYzNmeDlxR2FOVVdtYk9zZXlDWlRvYURYWFNkdXFfWVNQcDkzM2wtV01VSFEwUEpfaXJPTllDTlFrTGNkLTRWS0dfRDRlX3BHazg1ZFRYdU9hdXRNQWh6V2V2LW1rbm5OLWdBa2pRZ2FsWHQzVG1yb1dyUkV0TEt1UzhVbHZwdWFkRFg1dS01ZlB1ZVE5SW42ZVotV0NXLXZsRF9HWEtuY0NWdjN2X0tOSUtwU0Q1elhqUmJ5aUZTYWpqWWxaRV9nc1R1Z0JUcG9CSHI5V2g0bzJ6QmFwd3poMm5GYTJGR2dhekZvZHkyaU10dEVoVGg1ZTNYbWxEbElIeHBCTER4ZXI4R0FRdW5vcWYzZ3MtVHUyWTJITDhReUNiRkNEVHA0QVJNQk5BV1hhMktmLWZFaWtFb2VwaVhNV1lXQVg3Q1p3dDVEVF9HcjRCWXUzY2NlUlhPUFpr?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T18:00:09.945242+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5944,66 +6004,6 @@
       "category": "regional",
       "published": "2026-03-07T21:24:10+00:00",
       "fetched": "2026-03-07T21:30:07.458683+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b8ed857c9916c172",
-      "title": "Putin congratulates Russian women on March 8",
-      "link": "https://tass.com/society/2098253",
-      "summary": "The president says that the country celebrates the holiday with \"the most uplifting and warm feelings\"",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T21:21:50+00:00",
-      "fetched": "2026-03-07T21:30:06.276017+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "74df8245c40e089c",
-      "title": "Iran's Revolutionary Guards target Haifa oil refinery",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-revolutionary-guards-target-haifa-oil-refinery",
-      "summary": "\n\n  \n      \n      \nIran's Revolutionary Guards target Haifa oil refinery\n\n    \n    \n\n        \n    \n                Iranian Revolutionary Guards said on Saturday that they struck the Haifa refinery with Khaibar Shekan missiles in response to the targeting of the Tehran&nbsp;refinery, Al Jazeera Arabi",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T21:16:31+00:00",
-      "fetched": "2026-03-07T21:30:07.458729+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f871ffed26c6707c",
-      "title": "FACTBOX: International Women’s Day",
-      "link": "https://tass.com/society/2098249",
-      "summary": "The date of the holiday emerged in 1914 amid women-led rallies of protest and solidarity. Today, men give flowers and small gifts to women in their lives",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T21:15:56+00:00",
-      "fetched": "2026-03-07T21:30:06.276072+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "f1f3a6ec7061c47b",
-      "title": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yLUtaZzRVeXJSdDNOY1lFR2NxM184VTZoUnZCYTRFNE9vTzVLTlNVVDR0TGVHaEE4c3pNOTdkaWRHaWFQbmkzNGdBUlBTRXBzQzJ4UmNHTy1rOTZaSkNBakdKZ0ljN19nWW5tdkJ6b0xlWUFoZ1JBQmY0Zw?oc=5",
-      "summary": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T21:15:15+00:00",
-      "fetched": "2026-03-07T21:30:07.341265+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "7a146370aa24c9b4",
-      "title": "IRGC: Hundreds of US, Israeli targets struck in first week of retaliation",
-      "link": "https://presstv.ir/Detail/2026/03/07/765093/Iran-Israel-United-States-IRGC",
-      "summary": "The IRGC's spokesperson says Iran’s Armed Forces have carried out extensive missile and drone operations against the recently renewed Israeli-American aggression.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T21:15:04.853176+00:00",
-      "fetched": "2026-03-07T21:15:04.853195+00:00",
       "relevant": true,
       "iran_specific": true
     }
