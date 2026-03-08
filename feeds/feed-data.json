@@ -1,12 +1,72 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T15:30:07.649657+00:00",
+    "last_updated": "2026-03-08T15:45:06.511533+00:00",
     "total_items": 500,
-    "new_this_run": 5,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "1779c04cc504c1ed",
+      "title": "UAE officials deny Israeli reports of strike inside Iran",
+      "link": "https://www.middleeasteye.net/news/uae-officials-deny-israeli-reports-strike-inside-iran",
+      "summary": "\n\n  \n      \n      \nUAE officials deny Israeli reports of strike inside Iran\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSun, 03/08/2026 - 15:17\n\n        \n      \n    \n      \n    \n                Abu Dhabi is 'struggling to understand Israeli conduct' and media briefings,",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T15:36:50+00:00",
+      "fetched": "2026-03-08T15:45:06.423530+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b18a36a8ae18e583",
+      "title": "IRGC says it destroyed four US anti-missile defence systems",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-destroyed-4-us-anti-missile-defence-systems",
+      "summary": "\n\n  \n      \n      \nIRGC says it destroyed four US anti-missile defence systems\n\n    \n    \n\n        \n    \n                Iran’s Islamic Revolutionary Guard Corps (IRGC) said it destroyed four radars linked to US anti-missile defence systems in the past 24 hours.\n\nAccording to the Iranian state news ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T15:35:57+00:00",
+      "fetched": "2026-03-08T15:45:06.423597+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "2e6486cffc44f6bd",
+      "title": "‘Gulf countries may question US capability to protect them’",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss",
+      "summary": "‘This war has not been thought through’",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T15:30:18+00:00",
+      "fetched": "2026-03-08T15:45:03.720037+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "83abc24205a364a1",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOTlN1Rno1LXNQQTRMbFVHbWZjdjF5OU55WjdvMEptU2poMy1hYkc5dXFEb2tleXJ4Ykt4NUVCZUl2OG5SQkU5NTFNQlktSmlzWDQ3a1hsMWZaNjdvdGxuWnFyWFZBbGh2TmVOcndBUGt4TjNVTUEtMDREdDF5Z1p5em1OU0tueWlxNzRtOTl2eXlwdklqSFU0S1Jld2lkZWZRbDgyS3BPSU81ZDBleFNmQjNzd2lNeG1LbnhuQmJsc3ZwalRrdWdXMnlsNUhONjR1UDFIMGtON0F6M0xxWFNGeDZzdkRoenBUWW9ndU1IMkZ1LXNjQmpEbmJYbFd1aFlXQ0FDQjdFUFZPYmZrNE91ZEF3MFRjQjBHYzlVby11V3c4d0FUdEhkVEc5ZDl5NFBKbUluTXFyTVZxek1ZLXhMbjhfbFFNZDJtVkZNNHlhaHVGNEdhOHdwd2l2eVlEWlFLVkR4NUhWSUQ0Um9HMVc0OFFfWQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T15:45:06.226000+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f2daf53a44eeb718",
+      "title": "Iran war highlights local news decline and necessity - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0Z0RWxFRWJPQ2gyUHRWclpiaUJLTnlHdjZzY25Rb2xIMndHeWV0VVdBc3dBb0xOZHdoOW5DUGk3M1NJdzB6dDNYNkE3VExfV1Y2OHVqREVnUFJ1WDFKMjNqd3RQeE1WOEJTaFV2b0V1cW5lTzJJUmg3RmdjZWFKSUdsN1ZEemFsNk02dDJKbHBrMlQy?oc=5",
+      "summary": "Iran war highlights local news decline and necessity&nbsp;&nbsp;The Seattle Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:15:00+00:00",
+      "fetched": "2026-03-08T15:45:06.225345+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "b57d421f7e086cfb",
       "title": "UAE doesn’t want to be drawn into conflict, but reserve right to defend itself — ministry",
@@ -220,6 +280,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T15:30:07.404287+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a6b52fa3caa927a1",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNSS1MdF9GR210QW02c3RFeHotQVV2N3lVQWVPWTU0azVTTk0xV0R1TWR3RG1aZ3RRRng3OTNxb3VRVVFEVlZhZmlmY1Zya3ROazBTbTQ5ekxRelRnZE5TbXphN3ZTSTBFTEpPRFpzTEhMT0NyZjZLYUdycXlRVlNpWlhGaDFjNnptUE5uc215ZXFvR1ZPSHE0dVZJYmQ2NVI0OXVUSUlmUlNWdWJsMS03WnBDWGZQZlhCTlFMTTdQN0VmZzNmbXdDRG9xemFsTmt0ZUd5eFdacmFNaDhDUDdsWFNwWEFjQnk3Vl8wTVNteU11Q2ZqSWE5azEwUlZ1aXZOS0Zta1Y2enVVSmRZTFJ0dUk5NHk3RHhINzhicU1ITUd2R0pMeWEzY3c5RERENVJQQnI1TjVXNVgtU2lOdGYwZXE2OFIyb1Y1aVYydEZDMXZ2bVJDTlkzWHFfVDlkN0RMNWhjTTdXR2g0ekJtcVZpcjZrU1RDd2hpclBKTlg5QkZnXzc2a2JxTU5LTzNiaHhUTEs0YlVYZVlFQlQ2YllLcDR2QkVwcUFDUkR4NTVzTW45RDBMcVFpWA?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T15:45:06.225711+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.640315+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "291ddcfd0eb759a4",
-      "title": "Beyond the battlefield: General Soleimani’s strategic and diplomatic legacy",
-      "link": "https://presstv.ir/Detail/2026/01/02/761741/Beyond-the-battlefield--General-Soleimani%E2%80%99s-strategic-and-diplomatic-legacy",
-      "summary": "More than a commander, General Qassem Soleimani built alliances, united communities, and used both strategy and dialogue to shape regional security.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640247+00:00",
-      "fetched": "2026-03-07T20:47:33.640251+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "334a54e0b7f7594b",
-      "title": "Economic protests in Iran exploited by organized rioters",
-      "link": "https://presstv.ir/Detail/2026/01/06/762000/Economic-protests-in-Iran-exploited-by-organized-rioters",
-      "summary": "Peaceful economic protests in Iran turned violent after being exploited by organized rioters.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640180+00:00",
-      "fetched": "2026-03-07T20:47:33.640184+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e6ce7d6cb529e89f",
-      "title": "Operational concerns delayed US-Israeli aggression against Iran for a week: Report",
-      "link": "https://presstv.ir/Detail/2026/03/02/764886/Operational-concerns-delayed-US-Israeli-aggression-against-Iran-for-a-week-Report",
-      "summary": "The US and Israel had to postpone their military aggression against Iran for a week due to a series of operational concerns, intelligence assessments and diplomatic developments, according to a report.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640154+00:00",
-      "fetched": "2026-03-07T20:47:33.640158+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f56ec40daa4dd467",
-      "title": "Saudi Arabia, Qatar foiled Mossad bombing plots on their soil: Tucker Carlson",
-      "link": "https://presstv.ir/Detail/2026/03/03/764909/Saudi-Arabia-Qatar-foiled-Mossad-bombing-plots-on-their-soil-Tucker-Carlson",
-      "summary": "US journalist and media figure Tucker Carlson reports that authorities in Qatar and Saudi Arabia have arrested Mossad agents planning bombings.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640127+00:00",
-      "fetched": "2026-03-07T20:47:33.640131+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "88e1407b3c9a06ca",
-      "title": "CNN journalists abducted by Israel while reporting on damage from Iranian strikes",
-      "link": "https://presstv.ir/Detail/2026/03/03/764926/CNN-journalists-abducted-by-Israel-while-reporting-on-damage-from-Iranian-strikes",
-      "summary": "Israel has abducted two CNN journalists while they were covering the damage resulting from Iranian strikes in the occupied territories.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640086+00:00",
-      "fetched": "2026-03-07T20:47:33.640090+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d037b86410d468a7",
-      "title": "170 students, teachers martyred in ‘deliberate’ strikes on Iranian schools: Minister",
-      "link": "https://presstv.ir/Detail/2026/03/03/764930/170-students-teachers-martyred-in-deliberate-strikes-on-Iranian-schools-Minister",
-      "summary": "Iran’s Minister of Education Alireza Kazemi announced on Tuesday that 170 students and teachers have been martyred in US-Israeli attacks, which damaged nearly 20 schools and educational centers across the country.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640059+00:00",
-      "fetched": "2026-03-07T20:47:33.640063+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
