@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T10:15:06.131612+00:00",
+    "last_updated": "2026-03-08T10:30:06.315378+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "cf857ab71ede13d7",
+      "title": "Iran says exercising right to self-defense under international law",
+      "link": "https://presstv.ir/Detail/2026/03/08/765112/Iran-says-exercising-right-to-self-defense-under-international-law",
+      "summary": "The Foreign Ministry spokesman reiterates Iran’s inalienable right to self-defense against the illegal US-Israeli act of aggression.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T10:30:04.499932+00:00",
+      "fetched": "2026-03-08T10:30:04.499959+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c899e5a779c9ce8d",
+      "title": "Iran selects new supreme leader",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/new-iranian-supreme-leader-selected",
+      "summary": "\n\n  \n      \n      \nIran selects new supreme leader\n\n    \n    \n\n        \n    \n                The Assembly of Experts, the clerical body responsible for selecting Iran's new supreme leader,&nbsp;has announced it has reached a decision.\n\n\"The vote to appoint the leader has taken place and the leader h",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T10:19:56+00:00",
+      "fetched": "2026-03-08T10:30:06.210485+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8caf08d0866676e3",
+      "title": "Bahrain says water desalination plant damaged in Iranian drone attack",
+      "link": "https://www.aljazeera.com/news/2026/3/8/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack?traffic_source=rss",
+      "summary": "&#039;Iranian aggression randomly bombs civilian targets&#039;, Bahrain says, adding three people were injured in latest raids.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T10:17:02+00:00",
+      "fetched": "2026-03-08T10:30:03.801015+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "0a949259ba379726",
       "title": "US-Israeli bombing of Tehran’s Azadi Stadium shatters moral facade of global sports",
@@ -18,6 +54,30 @@
       "fetched": "2026-03-08T10:15:04.211810+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "08b4e6270ff4e211",
+      "title": "T20 World Cup: The Final",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/aje-onl-t20_wc_final_v3-080326?traffic_source=rss",
+      "summary": "After a rollercoaster month of cricket, the T20 World Cup comes down to India and New Zealand.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T10:07:43+00:00",
+      "fetched": "2026-03-08T10:30:03.801081+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "d5c52e363950f79a",
+      "title": "Smoke rises over Beirut after Israeli strike on Raouche building",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/smoke-rises-over-beirut-after-israeli-strike-on-raouche-building?traffic_source=rss",
+      "summary": "Smoke rose over Beirut after an Israeli strike hit an apartment in the Ramada Hotel building in the Raouche district.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T10:04:24+00:00",
+      "fetched": "2026-03-08T10:30:03.801140+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "798aa7e286ab8edb",
@@ -88,6 +148,18 @@
       "category": "regional",
       "published": "2026-03-08T09:42:49+00:00",
       "fetched": "2026-03-08T09:45:06.238651+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "18df738dd080aef5",
+      "title": "Live updates: Iran war news; Tehran nears decision on new supreme leader - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96NDI0RElwQi1WS1FNN1pOMFlwMm5mbTZsZ2F1M2RoRlJTbS15NkptSUFXNXJIcjZCcnE0ektSNEg2VFJRQUZETmRyQVZ4cmt1anFsVmdNdFE1WDNrR1ZiTGVKaUxsSmx2cXpvX0VDOVUxM0lnQnpERktYb3FHZw?oc=5",
+      "summary": "Live updates: Iran war news; Tehran nears decision on new supreme leader&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:37:00+00:00",
+      "fetched": "2026-03-08T10:30:06.060277+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5932,78 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-08T04:45:05.814201+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "55d23ba4c4c47928",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOLWtLbXVEc1pSdXhxMlVSMC1NbXh1WUU2aUl0ejVVTG5XYy1wbm92ZTNUUzYzdjN4elF0WWk1bktPM3ZIT1VjcTZaZVloUVdYaFZObEtzQUNyMkhUQ1o5ZWRub3F5Wm9FZWwtaVExR1ZqRHp5SEwzNjJlam1FTS0yOVA4bkhJcU9jam1Zdno2WXVMblBDRG9LejBVTmRSb25DUzdKRGd6U1d4dG5ycUNBUmNqUDBoYk1RQW0wMTI3TVhjaGtiSDd6TWZIN3NsVHBlYlRwdVZpV1BKbFZ0SDV3LUdlT1ozVE9TM1BzWU1lcDZFdDluQk9Ndi1JNGtWSTgxR1BjUS04MHRvODhjMTJuUm4tdXhpWWFFaTY5cFY2eDVjQ0ZRTDhaRDItN1NBWUJpVzVfS09OWHB4b1ZuWWs3Ti15UHdndGhNazBiREhHaURVU1hMWnNWNW5OQzZ5MWNXWkZCUUoteGF2cGpzNFVLQ2VwVm1YeGV1SmFUR0JWcG81aWNkREt3?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T05:00:05.894762+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "52b50f3f9ad7d95b",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPbWlqc1FDRGZIcXFMV01CcTZqczQ3WUhyY21DOU9RMUVEU2VWckc1b1NMS2tNMjhrYmZEeTNIdU9XV2dWU1hPT2Zwc2lpX3g1Tm1kbmhJYWFEZzBqWHFURVlMWVZ4ZmdzQnlQZ0p0T3dXWDlBdjR2d3NiVUFKN3owdkhxeG9ZM0ZMZWlpTV92WEVPTmpRWTRHV0lkLU9UQklIMGwyenYwN2NHTmtoZVdKZTRGTV9hY091M25XRUN0ZDV5ZGwwSVdOblA4SGE3TjFZRWhidmxBSFdaazJPeWhQY1RiZGQ2WUd1dGZfYVBVTEtwMjZrMXUxVHVyUWd5d1gxT0pJMXAxOV9hWjEwVm5HZ0VhN05rSUlXMENVTmIxQk9kMnZTUVY5SlRZX0V2VFdFaFpfR3h6U0pwZmdUYS1XdkZNUUF4ZVVqYmg4SHpYelJVaHNGd0NubU00Yldha1dSTC1LNGRKaDg0Ym9DNnZQMFRDTkhfUS1rbnY1NllCZGVqVFdkRFpZ?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T05:15:08.093666+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d2617165a3c901fc",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNdGtJMnZFWUlWMGRPY1hValVlcVgxR0Y2ZmIzS0NVOWEtODZ6SGttbFV3Y3F1Qm1SUDQtVHJLbldSeWxpTWxqTFl3aXhpblNFQ1lmbFltdXl1RDJ1dmFRVTVZQndCbTFHR1BQX0FiMXBockJHdGhfMmFnZXlWd3AzbmtBWGY3YlBzVmU5TlZ1MTVvYUxKWk5wWmRzbUtoWUhUaWlqSUNuaDVwcjZIck5reUpvOFI5MXl2aHBjaXN1dlA0RVYwOFFybzc0WHBXY2JpMTV3VXlRMGxDUFB5d2NYV2I4X0s3RU1neUNEZVIyUG1OYi11ZVRqUFRPZ0xWa0ZhNHpaR0Z0eWNDY0ZiejVxbEZ2UUtQTFEwX25qdHE5bm81ZHhJNGo3c0ZBdzdvNEF5OHVGa2Z0TndzOTFkWWFpNmxkMzZ4VkNSRVRlSFVVQjZERFh5M05rbnNtbkl5aHNkZkpHRUlRbE91YlJRRFkydzJNWDVMQk5MYU84d2hFYkFuaGNHYzFv?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T05:30:08.112164+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7dc76f9f5c51de11",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOR1N3UzR1eWRGa0dMU2U2aXBneGlSalg0V3dkYnVPbW1GbEFqa3R4MHlvZFlXUm11N2JDWS1HelY4MTQ5U0ZGWllwY2lKOFVvYklyRld1YXB2ODFrRXRCUG8tekxjdXdSUW1pZEdJZkJmUDQ4bnl3cU93RWxWUGJ5NmkwNmE0ay1CYktRcTAyYnhtZlliMkJMSjZtZFJ0MTZhX3RZT1N1X3FoYThrZ2Nxa2lJcUhKTWM4NVhTZUQ5cGRCVzl6V1d4aTVKdVZQbHdRZzB2ZnlpYm5sYjlqYmI1REEtcVltM3dvQzZPTFFPQTY1QTFhVDVuRExJanVieVdBWXRuQi1GeUVFQjc0M0VSREJ6aXdmVFo1TVE3akIyLXJtZVlpcjJUbkNjeDhESE1Hdnd6a1dJWHRFVzhZVlhNTWpPbjNZR0ZRa3lRVHM3N2NkY1ZydGl0S2tGMXViSHNvRmxCcjZ4WVR6Zk1OX1JPcGY0aVQxMldhbF83NFNzMW4tRlgyU3pj?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T05:45:06.155558+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d26e180a4c1589c7",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPVXlxbmZPZUE5YWxaT1VxZjNSb0xEdGVvOVJyT0xaNV9yRkU1T01jeHRwRjlrMk5mMFZDeFdfLUdzbGRvRG1LYWQ4TjhJSlpOOEhrckRKRmhiRDhuSjRTcTY3d1dpOXA2VVhXRWpmNENjblgxZFRJcThBYXFndVYzdXdoQ3JQRGVIajdOOWNKVk1RM0lFVV9RUWlWeTBDTVo3VENqOEVMNjhabDh5LVBuQXB6bS1yV3o5dUFlT25Wc19LWGZobU1Na2dfbkZJbGZIQTBSOGl0Z1A5TlRqNV9kWGtIMGxhRXNlUENvcHlkWW9aSWJqbTc0YV9vam9sYUFka2xKeWpWdzMtZjYtOXVlZTdLcDBqZUUyMFBFWlBuTUJMdlUwTnpFUV9jX1dPVDQyS041U1hFS3pEd0tmNVFDbGxVRE9TY3VXd1dXRVV6Qlp3QzhNTTF3elNON21ON1BkN0tmcjhlWU9Kd3VaWnVpN0hGU1FpVTFXWU9SZmdDV0RrVE9jb2N3?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T06:00:06.306696+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "66f7b76f973ec713",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOUjdDWEZfWmtzVk0yZ2N3WW5MM21LcXlsRmNnTzh0ek93Um5JTTl4bkM4SWtydTcwNFhIazctbEstbVJGLTJaaUpjRlJNVVJkRzgzVEdMT0NIU3hmbE96YmtSRlphdTltU1cwX0ZTSlB2dEEwMHVxTU9BN3o0MC1zWGNTUFlJTTl0VUYtVl9LdGx3WFBjUnNOMTlsZ0Q0WkZiNmxHMDdQX2E1YW1rRUZNU3ZMM2hzZEdRY0NjMXZITG1zbS1qbnNqcTNNdWZWcC1YXy1lUTllT3pmWjBqOGdma3A2cURqUjJDU1dQRGFDRV91SnliYlUzODZnbWhzM19MNnJVYWttSURzTllsT0tMMnRSeGRTSl8yUDdDNnlVRXpUX0dtSXFHWnhuaER5ZU1EYXgxaDRuSTNjTEl2UjNVQkZZV2NPTzZQYkRqc094SVlwT3hIWFB2V3pMcV9PanlqNzYyZmJzdDdrbDAtbmtqY1hqUEpWN0dDVmZ2VjV2Vjd4NWw1UEZR?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T06:15:06.517999+00:00",
       "relevant": true,
       "iran_specific": true
     }
