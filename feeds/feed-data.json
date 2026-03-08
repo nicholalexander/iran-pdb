@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T15:45:06.511533+00:00",
+    "last_updated": "2026-03-08T16:00:06.894418+00:00",
     "total_items": 500,
     "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "549f48300bc5eea8",
+      "title": "US says it will not attack Iran's energy sector",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-will-not-attack-irans-energy-sector",
+      "summary": "\n\n  \n      \n      \nUS says it will not attack Iran's energy sector\n\n    \n    \n\n        \n    \n                US Energy Secretary Chris Wright has said the UA will not attack Iran's energy infrastructure, as oil prices continue to surge.\n\nWright told CNN on Sunday that disruptions to the petroleum an",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T15:53:26+00:00",
+      "fetched": "2026-03-08T16:00:06.797714+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "1779c04cc504c1ed",
       "title": "UAE officials deny Israeli reports of strike inside Iran",
@@ -32,6 +44,18 @@
       "iran_specific": true
     },
     {
+      "id": "ac33ec996a2e7462",
+      "title": "US not planning to send land troops to Iran so far — White House",
+      "link": "https://tass.com/world/2098553",
+      "summary": "American president Donald Trump doesn’t rule out such an option, spokesperson Karoline Leavitt said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T15:33:37+00:00",
+      "fetched": "2026-03-08T16:00:05.515920+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "2e6486cffc44f6bd",
       "title": "‘Gulf countries may question US capability to protect them’",
       "link": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss",
@@ -52,6 +76,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T15:45:06.226000+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "39b26b4c3e2d12dc",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPUnBkaUhCYjA5UENSSWVac2h1c3NKX28zYWxNclgxdFp1X05KdWRJN0xiNXRmZkc1OWFaUWdJWGgtdXR3QThTYmxJbkhkSWFWZ04zUloyaHRFYVpfejVIbjJ5Sm4zZHhLTEV0TzItc29MQWZ1NFoxUTdIR1V4X3JmbVhiNVkweWZmcmtRbHdpUm9VZHFJd2dvUW1rMkRoR0E5WjcxSlRneEZyV2N6T2NuVzBlbVhqTDNuSmphWHNtMTBLcm5MYXVkc3BZV2pkQmpRSEdFRlVoRVNrNTJhM0VYaDQyYXBiczVMYThvdjFOdzRjcXFHdDctMm5qak5jSzdQRGxuaUtIeHM4TTN5OHBpTEFSaTVaUndwaVJyak9TRzJqcndzaVJUUjZ5MW1ZWC1sTEdaaENkRHBFUlpYd2wydnpGTkFPSWtvaUFpTVdSckY3Z0ZzSnkzRTVMX1cyNDNRd3ZiNlZTMHQ4SHViS295cHJtcw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T16:00:06.632156+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -296,6 +332,18 @@
       "iran_specific": true
     },
     {
+      "id": "ec1b53d7680bb55a",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOelV2a19fMGJaLXRvcVRsWk01ZnhQejA4ZzJuNlRUVVNVMkNIRTdpTGVfLXRrakZ4ZDktUWdSLXUwX0MzcHlRLU1wQTZSOUFIY0U5a2lKSi1sYUZubU5HYkk5ekpWZEVaZng2Ny1HOWY3RWJtR2VFc1NaRXhfYWVoNms2UFJvam5aaXJDaF8wUThLLUN5dVFyV2xxRUU0d1FoUlY4MWYzWDJRc19TOVlmaFBuT3lwSFpUZ3pWZXNhSVZad2NKczhseUZoOGxCOUtEOVByNUYtdjQ1dk1rR1Y0ODY4ZU0zdDRXUlJVaG1BVzdDbFFGeFVTSks5N3UzcHRCcUUzNUV4VWxYZmNqbUkwQjhxUDVOOWI0Vy1USFl0cVljSXBQdFpSQ1JVUlNveGYtaHpxVFBUaVNXQlpsNGV4MGUzY0NvNlQ3amZOeXpEVGFVUThqMmpvMWo1QW9jcmxCcGRZVEVESmlUbjFLa0RDQndPUE1BMEI5dE8ycWFkTnpScW1jUmNzOEoySHVnbGlELUdKS0drdFR4a1FtU3RBTU5jdVBvYVNRamF5a3lvdEJnTlpVanZlVg?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T16:00:06.632541+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "b25489b7609cc13a",
       "title": "Amid escalation, Iran religious scholars signal new leader to be named soon - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHBfd0wyZ3dZZU91SkVZMUxrd09rMUdPbUJId1FGSlJLQW43eUxQR3hJa1lFWDdLYTh0czVOamdscU13SF9tVUZTSjlVS2JNeURrQWxYOXl1N19rTTBEMWlIaTNYakVlU3ZqN3pZUjJxSWt5eXVUT0o0NEtaMWllc1BtTFRkREcwQW5rbFNTNThBdWNGLUp0UDJqYTBPQ01WUU5OSXFHZGw4SGfSAbABQVVfeXFMTjRRZld6WDB3Zm5BMktTZEN0N1doTk5wU1Rsc3Q3TUpQNldVZUdBNjRPMGlUZjBtOEZTSE02empuaGtYd0l6c01KdV84RGE3T3BUckctSUFoeS03QXYyNlV2NWdQcnpyQlZwX3BJSHZ6ZUJKVEhVamRiU0NDY21ET1FMVU9aUC1LT1ZyTUhXUWpCMGFXRDB0eWY1Wl9pQkIwUlVhVG11TGRJMFpuYW5TOTM?oc=5",
@@ -352,6 +400,18 @@
       "category": "regional",
       "published": "2026-03-08T13:59:15+00:00",
       "fetched": "2026-03-08T14:00:06.690670+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "afe277d351a3bfc0",
+      "title": "Iranian foreign minister pushes back on demand for 'unconditional surrender' - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRnhITVZWUnUxbV80aUJLSDBqVld4elgxZVhnWjQyamNqWV9tSVU4ZmZ1Q1duZkwwWllRdVBEdW5hSnEwVnlGT0ZUci1yVkQzdlZvaHM0YklFSmNNcTFIdk5OUFhsOWRmcTY1VTFlTzNsRjhxZmRTTlcwU0xkX2hHaEdR?oc=5",
+      "summary": "Iranian foreign minister pushes back on demand for 'unconditional surrender'&nbsp;&nbsp;Politico",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T13:58:54+00:00",
+      "fetched": "2026-03-08T16:00:06.632741+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2526,6 +2586,18 @@
       "fetched": "2026-03-08T06:15:06.643583+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "2c9531fe0f0a3bd1",
+      "title": "Opinion | What Will Iran’s Future Hold? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2NsZGhIb1NIdmNGNzVGVF93R0dIN29fVjFkc3ZwWVlCX20yb1d2YS1QTVpjcG1CUDBhNTcxLWFzTTRQQXg3OHVvN1JLVEZtYi14bFo4dXFqVy1wNVp1RUVYMGpjT1AzOUR2MUtTX2tnNE9ZNFU1R2lrUmVzODBaUnhVclo?oc=5",
+      "summary": "Opinion | What Will Iran’s Future Hold?&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T06:01:33+00:00",
+      "fetched": "2026-03-08T16:00:06.632232+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "f1aa438bff66b6f9",
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.640558+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "906be2877ff8ce13",
-      "title": "Iran’s security chief receives warm welcome in Lebanon",
-      "link": "https://presstv.ir/Detail/2025/08/14/753070/Iran%E2%80%99s-Security-Chief-receives-hero%E2%80%99s-welcome-in-Lebanon",
-      "summary": "Ali Larijani, head of Iran’s Supreme National Security Council, arrived in Beirut on Wednesday to a warm welcome.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640504+00:00",
-      "fetched": "2026-03-07T20:47:33.640508+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e2f3aeccd120fd23",
-      "title": "Hezbollah vows to keep weapons until Israeli occupation ends",
-      "link": "https://presstv.ir/Detail/2025/08/15/753153/Hezbollah-vows-to-keep-weapons-until-Israeli-occupation-ends",
-      "summary": "Hezbollah Secretary General Sheikh Naim Qassem has vowed the group will not disarm while Israeli occupation persists, denouncing Lebanon’s cabinet decision on its weapons as a US-driven move that risks sparking civil strife.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640472+00:00",
-      "fetched": "2026-03-07T20:47:33.640476+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f998464dfa712e47",
-      "title": "Leader: Unity between people, officials, Armed Forces must never be undermined",
-      "link": "https://presstv.ir/Detail/2025/08/24/753693/Iran-Leader-national-unity-armed-forces-war-division-",
-      "summary": "Ayatollah Khamenei has underscored the need to preserve Iranian national unity and support the country’s officials.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640412+00:00",
-      "fetched": "2026-03-07T20:47:33.640415+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "05e2168fcaf57869",
-      "title": "Iran faces off with E3 over snapback sanctions as Russia and China back Tehran",
-      "link": "https://presstv.ir/Detail/2025/08/29/753991/Iran-faces-off-with-E3-over-snapback-sanctions-as-Russia-and-China-back-Tehran",
-      "summary": "Europe’s bid to reimpose UN sanctions on Tehran has ignited a fierce backlash, with Iran denouncing the move as “illegal” and vowing firm retaliation.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640377+00:00",
-      "fetched": "2026-03-07T20:47:33.640381+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4de534d3019a6e80",
-      "title": "Isfahan: Where Iran’s rich history, culture, and industry unite",
-      "link": "https://presstv.ir/Detail/2025/09/13/754960/Isfahan--Where-Iran%E2%80%99s-rich-history,-culture,-and-industry-unite",
-      "summary": "Let's take a brief look at Isfahan -- a historic city where Iran’s ancient glory meets modern industry.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640344+00:00",
-      "fetched": "2026-03-07T20:47:33.640348+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5aae847c52fb677d",
-      "title": "From genocide to ceasefire: Gaza’s fragile step toward healing",
-      "link": "https://presstv.ir/Detail/2025/10/10/756658/From-genocide-to-ceasefire--Gaza%E2%80%99s-fragile-step-toward-healing",
-      "summary": "A fragile US-brokered ceasefire has begun in Gaza as thousands are returning home and prisoner exchanges are planned. Global leaders express cautious hope, but calls for accountability and lasting peace continue.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640311+00:00",
-      "fetched": "2026-03-07T20:47:33.640315+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
