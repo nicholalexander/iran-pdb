@@ -1,12 +1,84 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T00:00:07.886896+00:00",
+    "last_updated": "2026-03-08T00:15:05.809168+00:00",
     "total_items": 500,
     "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "54f2136b7a790f5d",
+      "title": "Iran Navy announces wave of fresh drone strikes on US bases, strategic Israeli sites",
+      "link": "https://presstv.ir/Detail/2026/03/07/765060/Iran-Navy-announces-wave-of-fresh-drone-strikes-on-US-bases-strategic-Israeli-sites",
+      "summary": "The Iranian Navy has conducted massive drone strikes on American bases in the region as well as Israeli sites in the Israeli-occupied territories.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T00:15:03.803099+00:00",
+      "fetched": "2026-03-08T00:15:03.803105+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "12fad3ee79da3c39",
+      "title": "Iranian missiles, drones dominate skies over the occupied territories: Military spox",
+      "link": "https://presstv.ir/Detail/2026/03/06/765045/Iranian-missiles-drones-dominating-Israeli-occupied-territories-skies",
+      "summary": "Iranian missiles and drones are dominating the skies over the occupied territories as the war escalates, according to the spokesperson for Iran's armed forces.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T00:15:03.803073+00:00",
+      "fetched": "2026-03-08T00:15:03.803076+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "25f44a2f1e70b9a6",
+      "title": "Iran's response to mediation efforts is 'clear': President Pezeshkian",
+      "link": "https://presstv.ir/Detail/2026/03/06/765037/Iran-president--Several-countries-initiate-mediation-efforts-to-stop-war",
+      "summary": "Iran’s President Masoud Pezeshkian has affirmed that several countries have initiated mediation efforts to halt the brutal, imposed war waged against the Islamic Republic by the United States and the Israeli regime.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T00:15:03.803041+00:00",
+      "fetched": "2026-03-08T00:15:03.803045+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8703ccb2bf87b046",
+      "title": "Iranian Navy fires missile towards USS Abraham Lincoln after promise of revenge",
+      "link": "https://presstv.ir/Detail/2026/03/06/765054/Iran-attack-aircraft-carrier-Abraham-Lincoln-United-States",
+      "summary": "Iran's Navy launches a coast-to-sea missile towards the USS Abraham Lincoln (CVN-72) aircraft carrier.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T00:15:03.803001+00:00",
+      "fetched": "2026-03-08T00:15:03.803005+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e3016508ffce883a",
+      "title": "‘Painful blows await’: IRGC spokesman warns of long war and new initiatives",
+      "link": "https://presstv.ir/Detail/2026/03/06/765014/Painful-blows-await-IRGC-spokesman-warns-of-long-war-and-new-initiatives--",
+      "summary": "The spokesperson for the Islamic Revolution Guards Corps says Iran is fully prepared for a \"prolonged war\" and is set to introduce a new generation of strategic weaponry that has not yet been seen on the battlefield.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T00:15:03.802967+00:00",
+      "fetched": "2026-03-08T00:15:03.802973+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "5ab9386eed01adaa",
+      "title": "IRGC announces 27th wave of Operation True Promise 4 targeting American, Israeli positions",
+      "link": "https://presstv.ir/Detail/2026/03/08/765096/Iran-Israel-United-States-IRGC",
+      "summary": "The IRGC announces carrying out the 27th wave of Operation True Promise 4, its ongoing set of retaliatory strikes against fresh unprovoked US-Israeli aggression.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T00:15:03.802491+00:00",
+      "fetched": "2026-03-08T00:15:03.802523+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "9f3967ea75e35c21",
       "title": "Trump suggests US troops could be sent to secure Iran's uranium",
@@ -40,6 +112,18 @@
       "category": "aggregator",
       "published": "2026-03-07T23:55:53+00:00",
       "fetched": "2026-03-08T00:00:07.481372+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c77a6a89f8a48c99",
+      "title": "Gas prices skyrocket rapidly as war with Iran rages - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFsbjBENEg2X1h6aTlHUDByQ2lvaHdmRkNjQ05ScUdXZkpINTM4eE1NMHlqN0ltZElPSVkzaFlvZ24yLWNENVpQMzNGUDVzTFI3bkloMHYtRWhLUWRibG1HenFnSGFsVUlnek5FWjl5c3lva1E2aTFSUEFZNG5ocnR5MS1PRVd5NDlwYlA1QVZLeHhVSFpkOUd3?oc=5",
+      "summary": "Gas prices skyrocket rapidly as war with Iran rages&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:55:18+00:00",
+      "fetched": "2026-03-08T00:15:05.583785+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -100,6 +184,18 @@
       "category": "regional",
       "published": "2026-03-07T23:32:11+00:00",
       "fetched": "2026-03-07T23:45:05.762271+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e52330bfd0fd1a8d",
+      "title": "Australia may offer military support to Gulf nations facing Iran strikes but won’t participate in a ground war, Wong says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSmF3SFFFM01kb1hzdnhIbkhfSzN6ZWpmYWVNYzN0QjFBWVI0UDBPT3VQYXdnei1QaXhndVNzc0tUQkh6X1FkSWdidldKLW9UZGRkV190bG1pWmQzdmR3MHNSaTBEencwTVBWNHlnOGZzYWQ4aGtVbDBOX0xTY1E5SHNOdFc1N0xiYWdmekx2TFZwRU55TExiT2ZuaVpteGs4Z3hrODRFTG8yVXI2amo1LWJqSkVGUzZkNHVDUmRyM2RzVlBMQ19XYTFRYkM0eEZ2RWdNR2NJZmxXdGhHRnRJMVVBbko2NmJWc2MwaGlkb0FZMjJ2dGhoWkliSGhpNkEyaVE?oc=5",
+      "summary": "Australia may offer military support to Gulf nations facing Iran strikes but won’t participate in a ground war, Wong says&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:31:00+00:00",
+      "fetched": "2026-03-08T00:15:05.583850+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2968,6 +3064,18 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-08T00:00:07.481532+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c233828f128d2b0a",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNSk81a3NkYTItOGdla1dBTXVYMjJWSEVvMGE3QTI5WjA0UGNpTHpKTjRBZUxVMWNsN0dkajRaS2E4RnRuSWU0bHI5cjMwaXQwYWdWNnRzd3Z3a2Z6a01UMDBDRm8yUU90ck9ETWNiRDJQVm5iOEt6aUtObXhCSWhUeGpLMkthX05sNDJvbXhveG1NZE85Z21Vby1wYmxqNWM1X0VGT2xQVHh3NkVWUTFkVVlEVGVFZTZ5b1gxSFg3MVZzaFBZaTZGOVk1VnFUTmN5VUJjTnFnaGZwTE1MTldnaWl5MmpsRmo4WXFaSVJ5dXhrdFFKZUE4S0FPdUJkYVZkejFLeTV3V0hPMlBzVEdOdXdkR3BJQUwyNW8zMXZpWHhpR3VMNy02cXA0Vjg0Rm5HeGZ5RzRUZGhXazNGQTM2a2trOXcyTTNtN2xkNGJBV0t2UENvWmlvSXQwZUNXRHlWTXVFVFNWaTBVbkg1XzN4OEQzNzZnM19iVWNwTTkzR1lfbTJfOWFZ?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T00:15:05.583987+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5898,114 +6006,6 @@
       "fetched": "2026-03-07T20:41:23.366752+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "63d35ff4c60818b4",
-      "title": "What Recent Military Operations Signal About Trump’s Grand Strategy",
-      "link": "https://warontherocks.com/2026/03/what-recent-military-operations-signal-about-trumps-grand-strategy/",
-      "summary": "In his 2025 article, &#8220;Start Making Sense, Strategy and Grand Strategy in the Trump Administration,&#8221; Joshua Rovner argued Trump&#8217;s flexible approach to a grand strategy could be a strategic problem in the event of war. A year later, amidst an escalating conflict in the Middle East, w",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-04T18:30:12+00:00",
-      "fetched": "2026-03-07T20:41:23.366793+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "e130e7e7219c25d0",
-      "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
-      "link": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
-      "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-04T18:10:50+00:00",
-      "fetched": "2026-03-07T20:41:04.876989+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b88d77fb9ae6711b",
-      "title": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
-      "link": "https://www.bbc.com/news/articles/cvg11pne0rro?at_medium=RSS&at_campaign=rss",
-      "summary": "Civilians are being displaced, taking shelter in tents, parks and cars, as Israel retaliates to Hezbollah rocket attack.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-04T14:55:30+00:00",
-      "fetched": "2026-03-07T20:41:04.877007+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3a2d344cf2de6c80",
-      "title": "Satellite images show Iranian navy and nuclear sites hit by US-Israeli strikes",
-      "link": "https://www.bbc.com/news/articles/cdxzzkkkwjqo?at_medium=RSS&at_campaign=rss",
-      "summary": "US-Israeli strikes have destroyed at least 11 Iranian naval vessels, images reviewed by BBC Verify show.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-04T14:49:22+00:00",
-      "fetched": "2026-03-07T20:41:04.877019+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5df144a958673247",
-      "title": "The Velocity Gap Between Pakistan and India",
-      "link": "https://warontherocks.com/2026/03/the-velocity-gap-between-pakistan-and-india/",
-      "summary": "In contemporary South Asian crises, velocity matters more than military power. Velocity means how fast responsibility is assigned, actions are authorized, limited operations are executed, and a dominant narrative is established before diplomatic intervention. Rather than focusing only on military ca",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-04T08:30:52+00:00",
-      "fetched": "2026-03-07T20:41:23.366829+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "63e0e7b42ae9af40",
-      "title": "The Burden That Should Not Be Theirs: How Congress Turned the Military into the Last Check on Illegal War",
-      "link": "https://warontherocks.com/2026/03/the-burden-that-should-not-be-theirs-how-congress-turned-the-military-into-the-last-check-on-illegal-war/",
-      "summary": "Congress has unintentionally shifted the burden of preventing an unconstitutional war squarely onto the military. By failing to exercise its war powers, it has positioned the American military as a firewall made of parchment between itself and the White House. Democratic members of Congress and the ",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-04T08:15:29+00:00",
-      "fetched": "2026-03-07T20:41:23.366874+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "92699dcddc40d294",
-      "title": "'All red lines have been crossed': Gulf states weigh response to Iranian strikes",
-      "link": "https://www.bbc.com/news/articles/cjrqqd8lw2wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Retaliatory Iranian strikes on Gulf states have tarnished their image as safe and prosperous, writes the BBC's Barbara Plett-Usher.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-04T00:24:05+00:00",
-      "fetched": "2026-03-07T20:41:04.877057+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a356cacde0e374c2",
-      "title": "The Trump Administration’s Reckless War in Iran Has Already Cost More Than $5 Billion - Center for American Progress",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMk5hQWJoQVdFMXI0VUw2NlhyU1BoYWQ0WVMyRDI5Qlo3VVhKZUppTmZ1bzVrcXpBTTMwMDRnMXVXVUNJd0owMFI1bWNCa2hnb1VfSkhDd3hTdE5vSThWMmpJOERhb3AzR2luUU1mZkdRekRUTFVoUFk1enF1S2xzTXhzbzhsTGh4aGxqbnhhN3owX284RHBDaEdKTWp3Q1M4eTVjNTRHdDVEVV9kRDdhRDRzSnJPNWtObmhEdmUxT1ZxV2c?oc=5",
-      "summary": "The Trump Administration’s Reckless War in Iran Has Already Cost More Than $5 Billion&nbsp;&nbsp;Center for American Progress",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-03T20:35:58+00:00",
-      "fetched": "2026-03-07T21:00:06.424817+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3fa282475e4335ed",
-      "title": "In Brief: Increasing Tensions Between China and Japan Create Risks for the Region",
-      "link": "https://warontherocks.com/2026/03/in-brief-increasing-tensions-between-china-and-japan-create-risks-for-the-region/",
-      "summary": "Tensions between China and Japan have been heating up in recent months, sparked in November by a statement from Japanese Prime Minister Sanae Takaichi that Beijing interpreted as suggesting that Japan would respond militarily if China attacked Taiwan. Takaichi has pledged to increase Japan&#8217;s d",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-03T20:19:40+00:00",
-      "fetched": "2026-03-07T20:41:23.366932+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
