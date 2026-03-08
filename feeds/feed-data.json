@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T02:45:06.202942+00:00",
+    "last_updated": "2026-03-08T03:00:06.548070+00:00",
     "total_items": 500,
-    "new_this_run": 5,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "66efdee17dc8d675",
+      "title": "Blast at US Embassy damages entrance, local media says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blast-us-embassy-damages-entrance-local-media-says",
+      "summary": "\n\n  \n      \n      \nBlast at US Embassy damages entrance, local media says\n\n    \n    \n\n        \n    \n                Norwegian police said an explosion occurred early Sunday at the consular entrance of the United States Embassy in Oslo, causing damage but no injuries,&nbsp;Verdens Gang reported.&nbsp",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T02:48:17+00:00",
+      "fetched": "2026-03-08T03:00:06.428964+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "ab232812a2ad4ae4",
       "title": "Report: Trump considering special forces option in Iran",
@@ -18,6 +30,18 @@
       "fetched": "2026-03-08T02:45:06.134325+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "7ed5a56539d8a500",
+      "title": "Ukraine hit Belgorod Region by missiles — Governor",
+      "link": "https://tass.com/politics/2098323",
+      "summary": "Vyacheslav Gladkov says that according to preliminary information, nobody was injured, but energy infrastructure is seriously damaged",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T02:30:12+00:00",
+      "fetched": "2026-03-08T03:00:05.259468+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "e1d03f9dc7377917",
@@ -92,6 +116,18 @@
       "iran_specific": false
     },
     {
+      "id": "c2921c08b37f251a",
+      "title": "Iran war live: Trump again demands surrender; Israel bombs oil depots - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGx4M3JVQmNEZWZtZHhPZzc1UW55cE81RWJfX2ZfbVRudnZ3d29qZmVGbGhWb3R5czVWTEo5bVkxa2lsbXJmQW5iWDRrc3psZjRqbjB4U1I0TUlUMUo0NWhMdXFCQ2wxaG94dERNNElXY3N4M2RNWmotQW14OTN6bkdpRTJuS1JkTldCYkZUbGZ0TWp0T3BuWDJBVnRueVN3ckFhVGRBRWZ2OTZpVzN6VUlSZ0Q1OXYtNnBuN3V30gHDAUFVX3lxTE1SeU0yQUJYQ1p4SnI0UTB5azZRRGhyNmNRQnI0T0twOUptVjZJSG1mSmFSVmQ5R2FSVS10XzdyVzN3YlZUcTEyMWJBRVBtenVwZFpDUW4zTDBNeC1qYjg5bk5nNllYazNkT0Y4dDhxSXhta0p6b193a200MU82dWlqM25OaFZtVFJuaEtqSHVjVVZSTzBnLW94bzJhcWI4ZTFxdkpMQm9FeWRiTjhmc0JwQUk2T1UwNU9tbE45U0QzbGt5OA?oc=5",
+      "summary": "Iran war live: Trump again demands surrender; Israel bombs oil depots&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:50:54+00:00",
+      "fetched": "2026-03-08T03:00:06.302979+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "b4e84143fe208a28",
       "title": "Attack damages Kuwait social security headquarters",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-damages-kuwait-social-security-headquarters",
@@ -114,6 +150,18 @@
       "fetched": "2026-03-08T01:45:07.219987+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "e3a1036b43b9e938",
+      "title": "Trump confronts ‘bad part of war’ as troops killed in Iran conflict return home - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3FROThZVUlNRjRERDVqenNFVTVWM2gzMmFCckYtYWZKX2k5RTVMM2I1aGRlaHZvcjdoNk5GNGFCTEZUckRkaUc4ZW9SYWlRTi1VcmZzZEtZTVdzRlg4RXYxbnQ0MmJsRzJHZVJUVzZZRlc2VW0wV1hzend4QmFCOGJWYU1TTmJGQXVyTjlLN1ZJdzBtV3FqNEJkVWo?oc=5",
+      "summary": "Trump confronts ‘bad part of war’ as troops killed in Iran conflict return home&nbsp;&nbsp;The Washington Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:34:04+00:00",
+      "fetched": "2026-03-08T03:00:06.302896+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "aa37c3eb2118ed3c",
@@ -224,6 +272,18 @@
       "iran_specific": true
     },
     {
+      "id": "d729066860a25bef",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOeTVfU1JXSDlnYnJSUU9DTVZ0dFo5Mm1iOHFSTmVVREk2QkUzZWU4Y2JYelcwbjIzY3lpb0NSd0YyZElLWUlmbnRzXzAzd042MzhVYU5iTGdGUTF0SnFGSmFaLWVEejNQdE1RTjJmc3RJNlpQb0NvM3NPYTJVb3pxY0drUHFSbnZzbDNIYzBVYmVRdlNWTUFxUnk3NG85czVEUUlYYTVpUmJjOE9Fbi1xX0VjbXFySHUyYWxUekc3Zlc5aUljVm1RbHJnRHVjdGJYRXpjdno4UjN5dnBEcGxIZUZhTk1iQ0hGOFZ0UEo0U2pfSUZYWUZ4SDByTm9kcTVMb3JiUHM4WTFub2hpTnpzenB2bWktMXpFZHRjd09DSjJxcGZzc2RhMGhuYXNCaFdTM2JYenpUeUZyS1F6dndhUDFvb1gzVFNjWVNuc05JdTM1a25Ub0Fpb2lCbHUyZUR3UWdqV0xQLXJpT1FLWllWRnk0QnR5alVyZ0J5czBJbzN1d1dVTzFtNlJlaGJWdjc0N292QkFRZW5iSkNINHdUR1Itd0dJX1I5a2V1ZDl6RE0zbVdIZ2Y0?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T03:00:06.302945+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -280,6 +340,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T01:30:06.111117+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "dad43168a9193bf4",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcXFhaTQ0OGdnNThEdVZLV3FCUEFtZ2Jqc3N0cjVmWjdnWXF1MmhtcnhxN3oxTzRLU0o3bXZwN3ZMTTVqbGIwRXFpeGdfeHUyS21aWDhNcWVqOU4tXzJEUXF5M0NOV1g1bFNwQl9LMkRsYkhzMnlZSDJ5eWFOY1FXMEJtVW1PaTJaNnUxdXR6dk1BU0xTdmtES09aS0tEQlN6NG1oVTA3dEMwNDVZeXdKQ2I3c3hlM042VUFyYnNxMS13MzN5S1Bnd185Mjd3R0NNcE5JWlNkNWtINWotclpxLUhqTFhaT2VrQkFaSjZKT2RlRFE2NEU0eTFXcmhLRmZuYm1MQk9UTkdYZ1BjWlIxTkNWblZfWW5takZxWHF6WGlhQ1BkSU5LQWp1eVJ1V1lJRVpDOXl3QlE1NjJoYlktSUROVEVpUWpaeWhseFdOQ2QtcEFqRzJlRFhzZ25yUHlNU1ZYUE9JRllwamx4OEZkMjJWdVBmUWtXbE9pbHFxbVRPOGxtSjZjeEJnSkVnMVF0SkRQOVpfcW4xRThEY3RtbmRuNEtOZWd5NEtGYnJwdw?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T03:00:06.303378+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -512,6 +584,18 @@
       "iran_specific": true
     },
     {
+      "id": "ee0be2c4097e420d",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQcmpOU3c2Qk9adzM0aGJITlhZeEE5eEdmWTJLZ2EtX0w1a2dfZkpRMmtkYnVIeTN1RGFyVGVSemVTWUN3NktpLW91Uk82YzdYRkFCWkdza0QybnFRNWJZQXhvRmFTYmpXZ0c1RFZXRC1GdnoyVml2bExsMS1WdmpXZHZteExocjNMVS1iYWtfcWFJWjExYllEXy1lZWQ4U2xSd2N0NDlCME5kdDR6WlVXWXFMc3A2NkpGMkpkS0hDSi1sRmlCQXFJR0pJazViczc3RUFIV2IzOXI5cjBLeXJrd21DMDNLa2Qta3Q3OWx3blVJdkgyQWNmMkdnV3o0ZmRvN0o3eFZzdXpId1VVZGlKbUZhaEtIMXFETmFXWlNHNXdPTlRQLUVDOEFXTUVGQzNleTdtaHJGNC1KanBoM04yWEpsX1Q1R0FvNmFhNEtvazhycnQycDY3bFh4Mm5RYy14YVlrN3U5MlVNcUdJa0hEUUVLdU5pN2s?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T03:00:06.303500+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "9f3967ea75e35c21",
       "title": "Trump suggests US troops could be sent to secure Iran's uranium",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-us-troops-could-be-sent-secure-irans-uranium",
@@ -520,6 +604,18 @@
       "category": "regional",
       "published": "2026-03-07T23:59:01+00:00",
       "fetched": "2026-03-08T00:00:07.746503+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f7e2cfa17bbc57a8",
+      "title": "Amid airstrikes and hundreds of thousand displaced, CNN reports on how a tense Lebanon has been dragged into the Iran war - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2NBdlQ4V1N4Z3VHWWpKZkdReDdHLUc4M3NzcDM5YzJLT2tsYVdOV2lqZzExVUxmWi15dnBjZ09ZOUtiVEFvTmxqaVczQlFIbnVxUC1XQl9KcWpfelllbTNfcDlHa0ZWYWNuRzJfdVdVTHdZbFZHRjhFMUxpUzhJQ0lrNkpNdjQ3WjdxM1E3dVVubmJv?oc=5",
+      "summary": "Amid airstrikes and hundreds of thousand displaced, CNN reports on how a tense Lebanon has been dragged into the Iran war&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:57:05+00:00",
+      "fetched": "2026-03-08T03:00:06.303303+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3620,6 +3716,18 @@
       "iran_specific": true
     },
     {
+      "id": "6dce17ae5b1c020b",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNaDZsclBWSnpuNFNBVWxsZDR3RXh5bWJnTkVTdHkyQlJRNnFrUlRQWHRPbnNPSWk4SjN5N09pR3VQb3o4ZklwOGpSV2tQZlVXX3AxcFdnM2FsUVZ4RU8wZTFnSDVfcEE0YkFvVDBuNVRsdWY3ZG11NXZ1Z21Kc0JidUtrV20wRG80cmZXREZON01BY05rM3prZ0RuTlliZmNFZ2psWEV4M29RalMxOFZwbU5hQ0FlQU9lQUY0dnNpUDAwZTd0OWRxRG5MRkRVOTdnQlhUTXUzZ0pxWlJ5WUVHZm03R1ZiUUY5NWdfZTAxbUt4dzE2SmduTFI0MXVodmJsYTdOQU5TQl9fMTZDOWttSEVzc3pQN1RoQXhuRHRwd1RXLTFUUkFaYVJXYnc5V1pUN1U3MDJkT19OckpIYnFTaDdSai1rcEZ3YTBYVzZHakJsVDgtMHZGZXVIYVI2OGJ0V1RfbXZ4UXEzbENxUVI1N1lBS29kU3RzMmZZTHBNdjF2bnBNMWE0?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T03:00:06.303158+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5896,114 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-06T22:26:27+00:00",
       "fetched": "2026-03-08T01:15:06.999827+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c359e71912cb0c16",
-      "title": "Iran strongly opposes foreign interference in internal affairs — envoy to UN",
-      "link": "https://tass.com/world/2098019",
-      "summary": "Amir-Saeid Iravani added that US statements regarding Washington’s involvement in the selection of Iran’s leadership \"constitute a clear violation of the principles of non-interference in the internal affairs of states\"",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-06T22:20:00+00:00",
-      "fetched": "2026-03-07T20:41:22.709771+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7558026143b56854",
-      "title": "As the war goes on in Iran, American-Iranians struggle to stay in touch with family",
-      "link": "https://www.npr.org/2026/03/06/nx-s1-5737478/as-the-war-goes-on-in-iran-american-iranians-struggle-to-stay-in-touch-with-family",
-      "summary": "Many Iranians in the U.S. with family back in Iran have been having a very difficult time staying in touch as bombs continue to drop around the country. That's creating a lot of anxiety and worry.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-06T22:09:05+00:00",
-      "fetched": "2026-03-07T20:47:35.134154+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1193d6c9b58f1312",
-      "title": "Trump wants to pick Iran's new leader - will a hostile regime under fire agree?",
-      "link": "https://www.bbc.com/news/articles/c2k8339xn9jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's vision of Iran's future could meet fierce opposition, writes chief international correspondent Lyse Doucet.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-06T22:06:42+00:00",
-      "fetched": "2026-03-07T20:41:04.877032+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8fa0de67c4b63155",
-      "title": "In one week, war has swept across the Middle East",
-      "link": "https://www.npr.org/2026/03/06/nx-s1-5737460/in-one-week-war-has-swept-across-the-middle-east",
-      "summary": "Nearly a week into a new and widening war in the Middle East, some of the U.S.'s closest allies in the region and beyond are trying to contain it.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-06T21:54:56+00:00",
-      "fetched": "2026-03-07T20:47:35.134189+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "1f9be621ce37f754",
-      "title": "Paralympic flame lit at opening ceremony of 2026 Games",
-      "link": "https://tass.com/sports/2098007",
-      "summary": "The 2026 Winter Paralympic Games will end on March 15",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-06T21:28:11+00:00",
-      "fetched": "2026-03-07T20:41:22.709799+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "b1b8c52be93546d2",
-      "title": "Trump’s war aim: Iran’s ‘unconditional surrender’ - Politico",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEowS0pSa3pqZU9zeklockhpTHBzR0YzRkFTaGpMQ2szcFI2YzJzLVozcW1GSHd0T19vRDJ3M1Rfd25uUW16S3JWQWZYem1iQWp6Y2VQelg5ZzhXamRXNjZCMlJVNVZZdFdsUFlLb0hGdDJTMDZuR2g0NkVGU0IyWkgtaXlpdEFQWnBhdl9EM19MMkV6Z3h6aHdiaw?oc=5",
-      "summary": "Trump’s war aim: Iran’s ‘unconditional surrender’&nbsp;&nbsp;Politico",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T21:24:27+00:00",
-      "fetched": "2026-03-07T20:47:34.883909+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "81bf5cb282c896b0",
-      "title": "Winter Paralympic Games 2026 in Italy declared open",
-      "link": "https://tass.com/sports/2098005",
-      "summary": "The opening ceremony is taking place in Verona",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-06T21:08:22+00:00",
-      "fetched": "2026-03-07T20:41:22.709832+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "e26c109cc1c0ce13",
-      "title": "Israel hopes Azerbaijan will join strikes on Iran — broadcaster",
-      "link": "https://tass.com/world/2098003",
-      "summary": "According to the broadcaster, more countries may probably join the operation against Iran and its interests in the region",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-06T20:56:03+00:00",
-      "fetched": "2026-03-07T20:41:22.709855+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "198a5255bd7a43ee",
-      "title": "US and Israel attacking Iran at ‘record pace’, war monitor says - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjI3ZndtLV9YY2l6SFl0R2lvXzI3TDlfU3JxTzFTTmwwR0NISHpDZ2NOREMyYkZERjQyYUFtbC1Fdm1aOURsbWxzdUs2TmtCWFFVaWJ4WXNCRE5uN3dsdnllOTdMcVJFYlpEd2FZQXplVHI1SmxYcFJpZU4xR0V2MDE1WVl3amVDSWw1UXE4X0VTUjgtdFNCYzM4LWZGcWg3cmfSAacBQVVfeXFMTTdOS0tQbmlkNmF4U19CaXByaHdoNGFwYUFlTVdlTHYwbW05SERvSUxYV0drdnBiUmwwNk1nYXhIMWlWc0UzLTVudG1naFBCMTlfc0xjQlBOLTZyOC1qQ1Y2M2Nva0JWWEZJdWVmZmwzQnR3dHVmNlhlUjYzM3BIWjd0N2NhRlFSSzJQS0M1MmVSNFRSRFo1UFhOLXdyX0x5NFhYQzkwWms?oc=5",
-      "summary": "US and Israel attacking Iran at ‘record pace’, war monitor says&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T20:40:45+00:00",
-      "fetched": "2026-03-07T20:47:34.883560+00:00",
       "relevant": true,
       "iran_specific": true
     }
