@@ -914,5 +914,158 @@
       "BBC Persian"
     ],
     "significance": "high"
+  },
+  {
+    "id": 81,
+    "timestamp": "2026-03-08T04:00:00Z",
+    "date": "2026-03-08",
+    "time": "04:00 UTC",
+    "category": "military",
+    "headline": "Oil depot strikes overnight: 4 tankers + petroleum terminal hit near Tehran",
+    "detail": "Iran introduces fuel rationing 30\u219220L/day. 4 oil workers killed. Toxic rain/air warnings.",
+    "sources": [
+      "Reuters",
+      "Fararu",
+      "CNN"
+    ],
+    "significance": "critical"
+  },
+  {
+    "id": 82,
+    "timestamp": "2026-03-08T06:00:00Z",
+    "date": "2026-03-08",
+    "time": "06:00 UTC",
+    "category": "political",
+    "headline": "Assembly of Experts selects Ahmad Alam al-Hoda as new Supreme Leader",
+    "detail": "Mehr News quotes Alam al-Hoda: \"Elections held, leader appointed.\" CNN confirms decision made. Mojtaba wounded.",
+    "sources": [
+      "CNN",
+      "BBC Dari",
+      "Mehr News",
+      "FAZ"
+    ],
+    "significance": "critical"
+  },
+  {
+    "id": 83,
+    "timestamp": "2026-03-08T07:00:00Z",
+    "date": "2026-03-08",
+    "time": "07:00 UTC",
+    "category": "military",
+    "headline": "IDF strikes F-14 fighters at Isfahan Airport; 400+ targets in 24 hours",
+    "detail": "Separate from Mehrabad (16 aircraft). F-14s among Iran last capable fast jets. Operational tempo increasing.",
+    "sources": [
+      "IDF",
+      "Fox News",
+      "RTVE",
+      "Ynet"
+    ],
+    "significance": "high"
+  },
+  {
+    "id": 84,
+    "timestamp": "2026-03-08T08:00:00Z",
+    "date": "2026-03-08",
+    "time": "08:00 UTC",
+    "category": "nuclear",
+    "headline": "Axios: US/Israel discussed special forces to seize ~450kg uranium in Iran",
+    "detail": "Trump AF1: \"Maybe we will do it.\" Isfahan rubble extraction under surveillance. Venezuela model for post-war.",
+    "sources": [
+      "Axios",
+      "Kommersant",
+      "Ynet",
+      "BILD"
+    ],
+    "significance": "critical"
+  },
+  {
+    "id": 85,
+    "timestamp": "2026-03-08T08:00:00Z",
+    "date": "2026-03-08",
+    "time": "08:00 UTC",
+    "category": "naval",
+    "headline": "Chinese 055 destroyer + Russian 1155M arrive at Strait of Hormuz",
+    "detail": "Ships faking Chinese AIS identity to transit. Bloomberg: China-camp oil still flowing.",
+    "sources": [
+      "Bilibili",
+      "Bloomberg",
+      "Sina"
+    ],
+    "significance": "critical"
+  },
+  {
+    "id": 86,
+    "timestamp": "2026-03-08T09:00:00Z",
+    "date": "2026-03-08",
+    "time": "09:00 UTC",
+    "category": "humanitarian",
+    "headline": "Gandhi Hospital Tehran struck; BBC Verify confirms video",
+    "detail": "Iran FM: \"obvious war crime.\" Also: 192 students killed, 66 schools damaged, 9 hospitals out of service.",
+    "sources": [
+      "BBC Persian",
+      "Khabaronline"
+    ],
+    "significance": "critical"
+  },
+  {
+    "id": 87,
+    "timestamp": "2026-03-08T09:00:00Z",
+    "date": "2026-03-08",
+    "time": "09:00 UTC",
+    "category": "military",
+    "headline": "Kuwait PIFSS tower ablaze; Bahrain desalination plant hit; Wave 27 launched",
+    "detail": "Kuwait: 2 border officers killed, airport fuel depots struck. Bahrain: desalination + hotel housing US military.",
+    "sources": [
+      "Independent",
+      "AP",
+      "Bahrain Interior Ministry",
+      "Tabnak"
+    ],
+    "significance": "high"
+  },
+  {
+    "id": 88,
+    "timestamp": "2026-03-08T10:00:00Z",
+    "date": "2026-03-08",
+    "time": "10:00 UTC",
+    "category": "diplomatic",
+    "headline": "Wang Yi: \"War should never have happened\" \u2014 strongest Chinese statement; Switzerland declares strikes illegal",
+    "detail": "China: regime change \"no popular support,\" \"law of the jungle.\" Swiss Federal Council: violation of international law. Meloni: Italy not at war.",
+    "sources": [
+      "Chinese MFA",
+      "Guardian",
+      "Reuters",
+      "SkyTG24"
+    ],
+    "significance": "high"
+  },
+  {
+    "id": 89,
+    "timestamp": "2026-03-08T10:00:00Z",
+    "date": "2026-03-08",
+    "time": "10:00 UTC",
+    "category": "military",
+    "headline": "IRGC: prepared for 6-month full-scale war; missiles used so far are gen 1&2",
+    "detail": "Spokesman Naeini: weapons from 2012-2013. Implies newer weapons in reserve. 600 missiles + 2,600 drones in week 1.",
+    "sources": [
+      "Fararu",
+      "Mehr News",
+      "Ray al-Jadid"
+    ],
+    "significance": "high"
+  },
+  {
+    "id": 90,
+    "timestamp": "2026-03-08T10:00:00Z",
+    "date": "2026-03-08",
+    "time": "10:00 UTC",
+    "category": "military",
+    "headline": "IDF strikes Ramada Hotel Beirut targeting Quds Force commanders; Hezbollah repels ground landing",
+    "detail": "4 killed, 10 wounded in Beirut. 8 IDF soldiers wounded in ground operation near Lebanon-Syria border.",
+    "sources": [
+      "Reuters",
+      "Al Jazeera Arabic"
+    ],
+    "significance": "high"
   }
 ]
