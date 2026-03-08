@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T01:11:08.045393+00:00",
+    "last_updated": "2026-03-08T01:15:07.246718+00:00",
     "total_items": 500,
-    "new_this_run": 13,
+    "new_this_run": 3,
     "feeds_configured": 9,
     "errors": {}
   },
@@ -208,6 +208,18 @@
       "category": "iranian",
       "published": "2026-03-08T00:15:03.802491+00:00",
       "fetched": "2026-03-08T00:15:03.802523+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "427c7057914ed92f",
+      "title": "Donald Trump refuses to rule out deploying ground troops in Iran - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ZnNTRk1xRjJMZkhFYjVqdFN5RkNpSnBlZVB0VlZ4OHNvX3lUaWZYVk9LYTJzUGV2VkFSNG9aY1p5UzdhcjNzdnc1c3FZa2M0dmR1RERvOThRUEdfWUZwaFNaWWlUMVozOVdRTGZEU3Z0cGNfRS0wSTFR?oc=5",
+      "summary": "Donald Trump refuses to rule out deploying ground troops in Iran&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:14:00+00:00",
+      "fetched": "2026-03-08T01:15:06.999404+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5540,6 +5552,18 @@
       "iran_specific": true
     },
     {
+      "id": "0e40dfe6a6144c60",
+      "title": "What Does the Iran War Mean for Global Energy Markets? - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOVhTZHJ3ZXJKUVY1eHA3M3p5eTdmaXdwT0hiTzdEUmtMbWxxTmZtV0RpaFRqaWY1bkY0NENDQjRpdlNsLW9pSE9UMDRTUkNRSjV2QXBlTy1xTXNUMXJFRUJHQTRpSkV3REJJNU95SGxqSE5odDlReTUxWXd4a1RRag?oc=5",
+      "summary": "What Does the Iran War Mean for Global Energy Markets?&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-06T22:26:27+00:00",
+      "fetched": "2026-03-08T01:15:06.999827+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "c359e71912cb0c16",
       "title": "Iran strongly opposes foreign interference in internal affairs — envoy to UN",
       "link": "https://tass.com/world/2098019",
@@ -5864,6 +5888,18 @@
       "iran_specific": true
     },
     {
+      "id": "96b1902aaef0ad74",
+      "title": "Opinion | There’s Reason to Worry About the Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOcHlfRXBvZmMwNTVydzVwVkg3c1FlMXppdS1FLWc0bDh1WVo0TmZWVmFjOUJkSE4wYld3VlpYcTZ4S0JYcWlheUhLSkZGUjFCMlhYSDdoMVpPWVA1Z1NMZVRzZjl6MDQyTDV6UlpudUpTQ3haaUo1cHZpVERrRUZLMWQwc2hVNjUwTFNNZ29uVnRaTlgxU19sM3loaUpZbWs0dlFUS1d4LVJMcjYzbEtLSncydmY2d0N0TjNtZDg4RWZGZVQ1bG53eFFHZWxma2tXZFVBNnJzVGJMNS0tNzI3Y1hEYlpqbk9pX0t1UFU3c2gtblZYcUE1ZzBDbjQteFVtMjVUMWUtTVkwc056aWVCMGlCdjdZMzBYNGdHU1VHaGhYbURXWk5xOTItc2FHbHdMUTZoMkcycmUxNnNUOXl3RXZBOGdUVzJncE1INS1GZzdCQWN4RjdHekZTY1RHZ21IRlRlUkt6QjZvTlRXb0NTR3VWMEFPdlFFOUJhUzFSTGdPdjNzNWYxcmhn?oc=5",
+      "summary": "Opinion | There’s Reason to Worry About the Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-05T23:16:00+00:00",
+      "fetched": "2026-03-08T01:15:06.999767+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "fb0c6c7e610c0925",
       "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
       "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
@@ -5968,42 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-05T20:09:08+00:00",
       "fetched": "2026-03-07T20:47:34.881622+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c40c26e6cff1207f",
-      "title": "Exclusive: Trump says he must be involved in picking Iran's next leader - Axios",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QNGgxOHhkbTFZN0VVZ1d2S1piQkVuandjWUwtaWFTeDl4ZkZIUTZfU3hBUnpTUmpEbjZESFNvSEpCV0FFVWxOWlRDZjZQeWRYdUkzaFhqSll4UmpjcjlPdGdQYm1RZkktRjdJ?oc=5",
-      "summary": "Exclusive: Trump says he must be involved in picking Iran's next leader&nbsp;&nbsp;Axios",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-05T19:51:14+00:00",
-      "fetched": "2026-03-07T20:47:34.882836+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5ab6a0eb601fe76b",
-      "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
-      "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's Amir Azimi.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T18:40:22+00:00",
-      "fetched": "2026-03-07T20:41:04.876885+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8c0bb3fa6b5d1fa5",
-      "title": "'This is war': BBC speaks to Iranians at border",
-      "link": "https://www.bbc.com/news/videos/czx4r6zq7wxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranians fleeing their country have told the BBC what life under bombardment has been like.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T18:36:37+00:00",
-      "fetched": "2026-03-07T20:41:04.877291+00:00",
       "relevant": true,
       "iran_specific": true
     }
