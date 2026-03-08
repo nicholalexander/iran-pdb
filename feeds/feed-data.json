@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T04:30:06.375130+00:00",
+    "last_updated": "2026-03-08T04:45:06.006610+00:00",
     "total_items": 500,
-    "new_this_run": 6,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "ebe3ec5b475ce4a2",
+      "title": "IRGC says it launched missile attack against US forces in Kuwait",
+      "link": "https://tass.com/world/2098341",
+      "summary": "The armed forces did not report any casualties or material damage",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T04:39:25+00:00",
+      "fetched": "2026-03-08T04:45:04.799033+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "06cb02f45e9929f4",
+      "title": "Middle East crisis live: China warns world cannot return to ‘law of the jungle’; Trump says Iran being ‘decimated’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeDhEeWhPVGlvazhqeWdKYldOcjJ5MUtybXVKeVktSEtlbzk5MFJjSkQzNjB1WkY0N2tEeXdsVTJMX01VWWhiLUE4T3RWaUJ3Q0hSdlMweVNQNnh4TUNaTmJVVW1VTmZkSGZFZ0lld0VJeXEtUDRWMXFPTW4zWThLajk3bmNhNDZyb2lqSksxS0s3VFR6X3dDdE8ycVRacjFya3QyWmJZc1lfWWhiaU9ubWVVaHl1YzkzTlBwMF8xdWVjUUx1V1dXYkVGSmtkeW5lZDRZenZPVE5mNGIxbjJQMUNBQ3lNX09KdXZrdV9JTm0?oc=5",
+      "summary": "Middle East crisis live: China warns world cannot return to ‘law of the jungle’; Trump says Iran being ‘decimated’&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T04:13:23+00:00",
+      "fetched": "2026-03-08T04:45:05.813963+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "c4975b6caf551e74",
       "title": "China says Iran war ‘should never have happened’, calls for end to hostilities",
@@ -560,6 +584,18 @@
       "iran_specific": true
     },
     {
+      "id": "517400ddd781b2d6",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQRUVBV3RuTWwxVFZpZnEyTDU3NUh5aU5mZW1xUERhMWh6ZDF1WVowT2lTU0xqS2g5UlpsV3JhVWYzTGFtOGo0Y2FUT2Q3akFYMjRxNFluY0dTR0NzRVlYbEwteUM4bUJ4WVpQZ0N6ZWVYV3NleXB5VlNHeWlIYnU1MTVoUUxMc0pndG1jTWtNTnVuZ2pTbTVkSVlacWxLUDM3ZXNqeHRLeHVCYnhiWldDWFBlREJtbEI3a2VhYVBDV3FhcXJCNnpzTURyOVRJT2FaUkpjU1V2MkZuSm12dy01QVJfb19GeG5VNDBEVW9ja1lCRWcwdlBldDZ1bkktNWdFWVJDbjcySC1nRldvdVpueWdxdS1rME5TOVJWTVBOVVQ4RUw2dmt1UFhsM0pubEpyWkk5TnVrdUVtSXpmNVFpTmY1T3BxbFRZSjVLT2hFS2lqWEU3bFNmMjlRMkt5djAweVRNSUxweGx5THBIVW0wQ3ppU1RYcmxVbmJjVFBKblVzdlpmMENpZXR2RV9WZUpPRC1vcnBGWUJ4dnNGSWJKdHdQOEJVTEpmOFFseTI3NGo4b1pkVzJN?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T04:45:05.814548+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -700,6 +736,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T04:30:06.162321+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "542a1ecbb487d803",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQa3Fudm05dXEyeGEtNVVSZ25Od3RkbmZldTZxMmowSkJxQjRxbG03bk9hRW4za0EzVzl6QlFGeUlVNk5iZDhVRmZSR3BibmFaQkx5YnVuM1dtVXBBVGtUWU9hTGl5aWdsMEpuRG54cnZlOUVQbk00b3JrbW9GSFBuZWpfNkx1X3VYcW0yTFJhWEF6QkY4a0k4YkJERl8wUHNuVFE0V2RCRzZBV0xWc0pRYmw3NFhOSjFSSlVUS01lTXc3QUlNZWVOVmlEUkk4RTdOZzYtc3lDZEZ3NkprV3lKNDBzcGtzRUVWaW5XblNCRkxhQVpnMjh2anFNRi0wY3FwbE1WM2dqMWhTY0JEdnNfSFdSV2pQck9XajhCUUwtS0Y2VFFxSndpQWcyNmlqMlA1WTlwRl93a2NIMUZiV0hCdnMzQi1neWFhMU85RFE2NDk0RUUwc2x1X1RORGRsMzZ2ZVBkUEVxOThSLWVrNFlmejYtN0VFbGE3UF8wR19mUnFVdC1CalRIVGY5Qk5qZnhiMXJuSkhWWnlNOGRsSjBMQjJWZ0hCNHV4NjdLM0RLWQ?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T04:45:05.814416+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -1000,6 +1048,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T04:30:06.162187+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "72ed12360e6d9eb8",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPU0lYTTNRQVlLUmMxbEh2bksweldfd3NBTW9IcFYxOTVFOVY1YUEtM210RmFjdmFDcUdQNmxFRXJvczJ6Mmk4OTY0a1R1SkdoOVRudENVS2haaFRURVRXREdzZjNHc1ZhT05oeWYzQ0pLLUtZd3dhc3VyNjBkLXU0c1hqanMxbUdCMEg1MEJKYmZ2MU9Vcndwamc1Rl9tQXhkMUFVU1cteGQyTUdOUVZXUGtzQmRoRzdNX0RLQmstTkhqYmFFa0dFZktpZE5CTkFaSS1zdnhUbTMxZW8zbjlOOERqeDdpeE9KaTl5RlZ1NkFBUFBKV1dWS2lRNzExR3NzNkRwRElNZGhqZVN1S1RPT2hNQm82MHdHUjM4N1VGMUVMbjBDRURydXpPdzBab3h0R1pVeUIzV2NEdFZBSlRKdUgyR1cxNjFQZlVqVlh1WGlvN0I4bnFxdWRRMnVkR3JmeFdxSkZLRTQzTjRwcGFvNkk0NjhRekk?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T04:45:05.814345+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3740,6 +3800,18 @@
       "iran_specific": false
     },
     {
+      "id": "d10893f146f02093",
+      "title": "Shopkeepers in Tehran describe life amid war - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUxuRmV6RDNsNTBTdHdUb01LbDU4N0dyTkVLNi1nNjZGQmg4NTduX24yVHVFNThnWXNvSXRiS1dBT0wxdHBodHBBdllHbkM0R184d3BtbGt3Ql9wSm4tVkZNYkRfWl9EMHpMQTcxSnRVUTRaN2xQdU9MOVlzZHFETmM4N243N0xyYVo3cmFYTTFmSFdwLWc?oc=5",
+      "summary": "Shopkeepers in Tehran describe life amid war&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T18:23:18+00:00",
+      "fetched": "2026-03-08T04:45:05.814592+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "6ffe4058e6853b48",
       "title": "Over 150 Iranian nationals leave Lebanon including diplomats, Lebanese security source says",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-150-iranian-nationals-leave-lebanon-including-diplomats-lebanese",
@@ -4228,6 +4300,18 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-08T04:30:06.161859+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "986dd7e0901a9b26",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPWFBOakZSOGdmVDdnT3pwaHY2UmZWaU9sMFE5MmE5anFSNGZoamJCOXlZWWw1bHJsSEhLRFdVdVp2bEVWSHdaajE1OUVPTUhOamhNeGFWR1pqLVN6cWQ3aW5QZ0t2TzhnYkZYakJnbmZWNTA0c1V5Ykpqd1c0QmVTRzBWRW9jLW9WRU1jR0RxOXFKLVZEUVdLelRJQWVTeFJUVE81cjBlN0FCTnV2b2tlQ0JOZEZtVzVnLVZTSXpvM2RUZTIwN3FhclhCVUxDa2pIZ3JkcTFxeWdvXzhKM0F5S0hIV3ZGMTBaZXBwUzN4T0Z1TnBDTGFWbXg2cllmT3A1QlBRekcyaEpMcDV3RGMxanVnYUN6Zmh1V2VwUUx0YllsOHZGMV84ZlNjVzVYQWlkczhYZGg0OWNBbDJ0aDhzX25hV3lOWlJMSk5sc25IRVpOZ2xPRWdmRUxvTkZKV3dQZVg4YmlKaVN0cXk2bEpqNDh2UDNsSDNkbGhFQnVobnktcXpJMzlz?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T04:45:05.814201+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5922,90 +6006,6 @@
       "fetched": "2026-03-07T20:41:22.709268+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "c5026cf002fb1e6e",
-      "title": "Tehran pounded in week two of US-Israel war, Iran targets Israel - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcHA4SEYtM3RfMUkzNGVDeFdaVDFTb28xczB4ci1ZNjVHb09Bdzh2SW1pcXVQSEdyWWE0VEVLekQ5Uk1rc094aDJvZGNpYnhtd0ItMzdBTnJIWm90all0TkRLTDMzM3FoZ2ZKOUJoY0doVVJyYWljODIteThTSHJwRDJpNWVhTlFzSTZCc085d0pqUHNUaGFhRDJLeHZrb0hrUWhlNk5R0gGrAUFVX3lxTFA2NTh4NkptWkZRTFlyX1VXel9QSFZMM3VYTERTaGNfbVR0VDJVSGExY3VPcU5zRGhwOUN4bXUwSnV4bkVITjhkSE9OOENRc3NvOW1qUnJfYzVpLUtibEdSQjFZVG94S0xYZjBhZmFoZXBYbmlCaVpvcHFNbkJaUVBJaXZCYk5XeXlBb3VvQXk4dE9mejd5UHM5WV9idjRueENtQ0xxNzI0RzQxZw?oc=5",
-      "summary": "Tehran pounded in week two of US-Israel war, Iran targets Israel&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T07:08:19+00:00",
-      "fetched": "2026-03-07T20:47:34.882021+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "48bdab49b8e74eae",
-      "title": "Indonesian president’s US ties questioned amid public anger over Iran war - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDl1X0FNUUdmNm1WajV1b2FpbzYtelJoak5BZnFQODVWSElhRVZpcml2MUU0NmZEUkVqMThWVVpWMUFYbGttQlhHcllhbXlSR2k2czBJTkhna2NQMmp6ZElsUnpVWmtONGZSRC12MHZjQkluUVI5aC1NdkFnbHNaTGZXcHlSeHpFSmVjYWFXSmw3WE8yY3FLbVJ2M3p2ekFvQkp4V1g0OWFXMGFueHBERHNYMXlfQUnSAbwBQVVfeXFMTUs3d2ZKdlFBQ01reG5iLUl3U0lHYWZMdC0ySUJ0LTFlWFNOM3Y4V25qM01pUUNDUGNKckRUS0tiaE1LOERpUk5yYXVkdnM4RFZ1TEJjUW5vY1Z5Q25TUE1RUTdtdkJiVW5jSFZOXzR1OVJEWjI0MWZCM3RIQVVFX0JHalVmeHppTHNqcnhGLXJMN3FYZm9sZ3Jrejk2X0RULVJFeWhCekVMdEhLbndXbTFXT2RvX1g1XzRRSjY?oc=5",
-      "summary": "Indonesian president’s US ties questioned amid public anger over Iran war&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T06:36:16+00:00",
-      "fetched": "2026-03-07T20:47:34.882303+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "800b1b5940c2a68a",
-      "title": "European far-right parties scramble to find a stance on the war - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGR0MXNJVE1VbFpuWklYRHFFNTNrZTZYUmdkSkFUNjRnSG9ERWlDWkF4dnBnZDJxb0JUYmJPUXBGSGdRRXBGYnlBNWFPUmNOR1pfZkZPckFZSW04d0p2LVpMdDJUNUNvMWx5ZFBNN0FpWUxRODE4b0Z3QVlReks1TVNCRkFhcGR0Z1Z6SFByS216Y1BULW9nYTZNN09WZ0U?oc=5",
-      "summary": "European far-right parties scramble to find a stance on the war&nbsp;&nbsp;Euronews.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T06:30:23+00:00",
-      "fetched": "2026-03-07T20:47:34.883127+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "942e53d6f717134f",
-      "title": "One week into Iran war, the dangers for the US and Trump multiply - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1piRXdBdDg5N0ZPZDJRcm5LMTVPeTJ0VmRncnVtNFdjeW95MFEzU0hfbFpqdFlGWG52TjVmSE84TlFKZks4TEJLYkQ3b09qNmE3bHJRWE5PUzk3UDB6TkIzU0UtUmo5LU5qbXFXUE1nZjhBVDNTTFctbFYwQ2cxd3JLQUZjUVFxUzFrTHVFNU9lSnpJU0JWcDh3emtEU0hGcmVvRw?oc=5",
-      "summary": "One week into Iran war, the dangers for the US and Trump multiply&nbsp;&nbsp;Reuters",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T06:17:00+00:00",
-      "fetched": "2026-03-07T20:47:34.882166+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e6e6d35c0625c01d",
-      "title": "We've been speaking to Iranians during one week of war. Here's what they said",
-      "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ordinary Iranians reflect on seven days of conflict and where they see their country going next.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-07T06:00:32+00:00",
-      "fetched": "2026-03-07T20:41:04.876771+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4b94b02315b795c4",
-      "title": "We've been speaking to Iranians during one week of war. Here's what they said - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kRUJSb1A4ZFFObEx3YU56ZXZBa184N19kQ1VzRkd6ekhpdEJQOExvRjZ0NXhpVEl5UUliS3JBMzE2dTJidXg4U3VQX1NwZ0oyRGVKQ1lINmJZdw?oc=5",
-      "summary": "We've been speaking to Iranians during one week of war. Here's what they said&nbsp;&nbsp;BBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T06:00:32+00:00",
-      "fetched": "2026-03-07T20:47:34.881162+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "af345719baf0d3a2",
-      "title": "Where does Europe stand on the US-Israel war with Iran? - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTd5MzdkbUpvbXNqcUx4d2pPR29pbXN2YjFYMC11VDZ0ajROeVNJNXVLTENGTVZJLWNlVE9ablhlTEVKZDZtY1IzbHktc2JfNk5wcXB6QXlEU2hCbEpsdkFmY3BzdlFxd3NoVmN4ZG4yYTVmWDJ5Q3BLX3l2cnBkczM0dGlhOC03bm5uT19lWHrSAZABQVVfeXFMTXdSc3ZSWTVMaG9jRFRreUdBNFowYWJ0cHJscUhScEQzMUhjOGRvNDlXa29qSVczZXMtUEFFY3ZXN05PRVBRX2FTX194YWtNamZEMEpjNk5jelA5TDNkT050dVJXdmNiLXlWaWZSM2V0aTVwWWhuTWN6YktHUUlCRWNkR0RGaW40V2dxSUV4b1RO?oc=5",
-      "summary": "Where does Europe stand on the US-Israel war with Iran?&nbsp;&nbsp;DW.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T05:54:37+00:00",
-      "fetched": "2026-03-07T20:47:34.882979+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
