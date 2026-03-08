@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T13:15:06.143987+00:00",
+    "last_updated": "2026-03-08T13:30:07.639131+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "71603b23e75fe9a7",
+      "title": "Israel criticises British defence secretary using clown emoji in online post",
+      "link": "https://www.middleeasteye.net/news/israel-criticises-british-defence-secretary-using-clown-emoji-online-post",
+      "summary": "\n\n  \n      \n      \nIsrael criticises British defence secretary using clown emoji in online post\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nSun, 03/08/2026 - 11:05\n\n        \n      \n    \n      \n    \n                Israeli foreign ministry condemns John Healey on its o",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T13:27:23+00:00",
+      "fetched": "2026-03-08T13:30:07.565918+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "c576e273b2e56515",
+      "title": "Democrat Roy Cooper needs to defy North Carolina history to keep winning streak alive in Senate race",
+      "link": "https://apnews.com/article/north-carolina-senate-cooper-whatley-trump-midterms-4c3b0a0b33bf57de9bc5bffa6e13cb4c",
+      "summary": "North Carolina Democratic Senate candidate former Gov. Roy Cooper speaks at a primary election night watch party Tuesday, March 3, 2026, in Raleigh, N.C. (AP Photo/Matt Ramey)2026-03-08T11:43:02Z\n                                        RALEIGH, N.C. (AP) — North Carolina does not mind electing Democ",
+      "source": "AP News",
+      "category": "western",
+      "published": "2026-03-08T13:23:01+00:00",
+      "fetched": "2026-03-08T13:30:05.423644+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "4eb974597c4082b0",
       "title": "Iran will continue the war until enemies back down: Commander",
@@ -16,6 +40,18 @@
       "category": "iranian",
       "published": "2026-03-08T13:15:03.966114+00:00",
       "fetched": "2026-03-08T13:15:03.966137+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "bd94706b199097d5",
+      "title": "Arab League chief urges Iran to show restraint to avoid serious consequences for region",
+      "link": "https://tass.com/world/2098527",
+      "summary": "Ahmed Aboul Gheit has condemned Iran’s attacks on Gulf countries",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T13:13:50+00:00",
+      "fetched": "2026-03-08T13:30:06.325716+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -44,6 +80,18 @@
       "iran_specific": true
     },
     {
+      "id": "9a86e366cfca3dc1",
+      "title": "Israel’s president responds to Trump call to pardon Netanyahu",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israels-president-responds-to-trump-call-to-pardon-netanyahu?traffic_source=rss",
+      "summary": "Herzog said Israel is a sovereign state that follows the rule of law after Trump urged him to grant Netanyahu a pardon.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T13:03:56+00:00",
+      "fetched": "2026-03-08T13:30:05.038277+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
       "id": "298c9ff2f61892e5",
       "title": "Pope Leo calls for end to war in Middle East",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-leo-calls-end-war-middle-east",
@@ -66,6 +114,30 @@
       "fetched": "2026-03-08T13:00:04.093590+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "38a6a18237378bb1",
+      "title": "Election of Iran’s new supreme leader has taken place — Assembly of Experts member",
+      "link": "https://tass.com/world/2098519",
+      "summary": "The leader has been determined, Assembly member Ahmad Alamolhoda said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T12:58:45+00:00",
+      "fetched": "2026-03-08T13:30:06.325756+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c88b21acd8cf774f",
+      "title": "Issue of attempt on Alekseev’s life raised with Kiev in tough terms at talks",
+      "link": "https://tass.com/politics/2098517",
+      "summary": "The attempt on the life of Lieutenant-General Vladimir Alekseev occurred in a residential building on Volokolamskoye Highway in northwestern Moscow on February 6",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T12:57:19+00:00",
+      "fetched": "2026-03-08T13:30:06.325817+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "4eeddecfe148dcb7",
@@ -5932,78 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T20:12:33+00:00",
       "fetched": "2026-03-07T20:47:34.880987+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2f0e0ff421368b67",
-      "title": "Iran Update Morning Special Report, March 7, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeF8zUHlHZmV2RVJaVmNCQ2RDeFMzV09jT21zRW93elNpQjVrTFJIVS1HTUlpOGtwYWxtek1IbjV1UnR3MTlFWnR1N1oxTnpWMl82M1JpdjE4UlM5UDBIbDF1MWVxeDBJWDdDeWFERjBJbXNHU0VjVU9aTzVPVTA4OVZpX1dyZ1F2VlZvRkNFdERuRkZzVE0wR1NuODZ4VVE?oc=5",
-      "summary": "Iran Update Morning Special Report, March 7, 2026&nbsp;&nbsp;Institute for the Study of War",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T20:11:43+00:00",
-      "fetched": "2026-03-08T02:00:05.723038+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b7757c5f30fd5f49",
-      "title": "War with Iran puts the US-Israel alliance at grave risk - The Forward",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oUnFNaGg5VUk5RHh5NmZ3bnN1U2R2RDNrdlBhN2JQSkoyZW52NzhtYXFfNDQ3RTFYVFZaU0hKS01OOWdzRDJGdERNVXpPY0FGTTZKZUNLSEZMVEVMa25feEVwcV9xSnB1d1FpNXVISUg?oc=5",
-      "summary": "War with Iran puts the US-Israel alliance at grave risk&nbsp;&nbsp;The Forward",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T20:10:07+00:00",
-      "fetched": "2026-03-07T21:30:07.341926+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d2fcfb9e19f5ef54",
-      "title": "Trump to join grieving families for return of soldiers killed in Iran war - Military Times",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXF3cERMSlFDdUQ0emFyUHFnZnozaUtZeEJlTG45Z01FY2pEWXdjamc1TDU0ZjZnQlZxUzk0TDVkeEhyd1EzNXdSemJBUmRjMWtYeXFseXZQOHZFUVBqRUN0VXNpNlJqUGtsVWpGU0lNcm5USzhtd0dPMmhfR0lUUGl4T2tMMWcxbDM5UVBCQUF3ck10dmlVUl9ldWRfLTlXWGNmamxzWG9SeVpiYUJvWktHdkxlbzZSTTRHV0Q5b0dCMXZ3R1FFb1RvTkNnUkE?oc=5",
-      "summary": "Trump to join grieving families for return of soldiers killed in Iran war&nbsp;&nbsp;Military Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T20:07:06+00:00",
-      "fetched": "2026-03-07T20:47:34.881013+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "dbf86a1b2a01f47b",
-      "title": "Iran Vows Not to Surrender After Week of War That’s Shaken World - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGx3amRPRUhvMHhuZXBnVDF6WVR6Vks5R2I1NFdGV1RlZi01LUJVaWZsYWc1NXp6Y1dRSjlVZ1NyUGwxdzAxNXpvX2Q2TjJGcU5ta2h4Z2RCWjVrbFNYTlNKenpPZW41SFhvbVVIb3JMZ3NSRjFrRFltSjJBMjZ4MHNaeGUwRktxdEZ4WUZSbmc2S0dVT3BxZTlfQWZmbFlHNmJNT1oyMlFRbUktdi1Ya0ZFZmdxdw?oc=5",
-      "summary": "Iran Vows Not to Surrender After Week of War That’s Shaken World&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T20:07:00+00:00",
-      "fetched": "2026-03-07T21:30:07.341867+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "62805a179b0587ee",
-      "title": "Live updates: Fighting continues across the Middle East as plane carrying fallen U.S. troops arrives at Dover - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmpPbGZuN3VObG8tWGJWMmtqOGdHQmtaX2dxSXlNX0h4eG1fM1hLZzk3eHliY0YtUDVmbHk1T2JkYzFjaEEyREVzbDF3ZlFhM3pSWFNfUGxiT1FNYm14ZGtPdlVkVm9SLUR6V3dwTkxLT1g1SDBmamtXZ0VTekRyZ2N0QjBwZFA1bE5QYXl0b3liSVNWeF9kdE1hSG9hLXZ5OTY4ZmNkT3ZrOXo1ZE5sbmFaamM?oc=5",
-      "summary": "Live updates: Fighting continues across the Middle East as plane carrying fallen U.S. troops arrives at Dover&nbsp;&nbsp;NBC News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T20:05:12+00:00",
-      "fetched": "2026-03-07T21:15:06.606420+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "840e1f43fa2efb2a",
-      "title": "Mideast to see no calm as long as US bases remain — Iranian parliamentary speaker",
-      "link": "https://tass.com/world/2098225",
-      "summary": "Mohammad Bagher Ghalibaf says that Iranian statesmen and the people are united in this awareness",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T20:02:38+00:00",
-      "fetched": "2026-03-07T20:41:22.707849+00:00",
       "relevant": true,
       "iran_specific": true
     }
