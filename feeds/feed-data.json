@@ -1,12 +1,72 @@
 {
   "meta": {
-    "last_updated": "2026-03-07T23:45:05.842034+00:00",
+    "last_updated": "2026-03-08T00:00:07.886896+00:00",
     "total_items": 500,
-    "new_this_run": 11,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "9f3967ea75e35c21",
+      "title": "Trump suggests US troops could be sent to secure Iran's uranium",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-us-troops-could-be-sent-secure-irans-uranium",
+      "summary": "\n\n  \n      \n      \nTrump suggests US troops could be sent to secure Iran's uranium\n\n    \n    \n\n        \n    \n                US President Donald Trump evoked the idea of sending ground troops into&nbsp;Iran&nbsp;to secure the country's stockpiles of enriched uranium.\n\n\"At some point maybe we will. T",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:59:01+00:00",
+      "fetched": "2026-03-08T00:00:07.746503+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "713b36bbafec6c14",
+      "title": "Strike hits apartment in hotel building in central Beirut, security source says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strike-hits-apartment-hotel-building-central-beirut-security-source-says",
+      "summary": "\n\n  \n      \n      \nStrike hits apartment in hotel building in central Beirut, security source says\n\n    \n    \n\n        \n    \n                A strike hit an apartment in a hotel building in central Beirut, a security source said early on Sunday.\n\nNo further details were immediately available.\n\n     ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:56:44+00:00",
+      "fetched": "2026-03-08T00:00:07.746582+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "2ca5a4e5229dfabe",
+      "title": "Trump oversees return of fallen American troops amid war with Iran - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3hpMEI1ZVdhMWVQTl92QWo4cFBDU2RmZHRnQmtzX1V2ZEhhdVZkb1VoQ3UxWWpQeXRJdGV0MDZlbHJfVmRwT0JLMkdtd29BNnRfeXc2cC15SU5xS25rdmFBRG9xcjF2T2dhZUJobnZkOS1CTk1vcnJ0b20yU003ODRyUGRBNlZfSktVUl9pa2wxdklnaUxNYmFIcTkwOWUxaXRwWGMzVU5XOHpfbUE?oc=5",
+      "summary": "Trump oversees return of fallen American troops amid war with Iran&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:55:53+00:00",
+      "fetched": "2026-03-08T00:00:07.481372+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ef20b950b004c631",
+      "title": "In photos: Aftermath of strikes on Tehran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-aftermath-strikes-tehran",
+      "summary": "\n\n  \n      \n      \nIn photos: Aftermath of strikes on Tehran\n\n    \n    \n\n        \n    \n                \n\n  \n  \n      \n\n\n\n    An explosion erupts following strikes near Azadi Tower close to Mehrabad International Airport in Tehran on 7 March, 2026. (AFP)\n  \n\n\n\n\n\n  \n  \n      \n\n\n\n    Explosions erupt f",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-07T23:53:33+00:00",
+      "fetched": "2026-03-08T00:00:07.746663+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "dc5c159f65f8cb1b",
+      "title": "Israeli Air Force hit fuel storages in Tehran — IDF",
+      "link": "https://tass.com/world/2098283",
+      "summary": "The authority says the fuel depots were used by the Armed Forces of Iran",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-07T23:43:18+00:00",
+      "fetched": "2026-03-08T00:00:06.250376+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "478d3952646e6034",
       "title": "Saudi Arabia says eight drones intercepted",
@@ -68,6 +128,18 @@
       "iran_specific": false
     },
     {
+      "id": "1cedb0159e401be2",
+      "title": "Huge fire rages at Tehran oil depot after Israeli attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack?traffic_source=rss",
+      "summary": "Footage captured a massive fire raging at the Shahran oil depot in northern Tehran following an Israeli strike.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-07T23:26:45+00:00",
+      "fetched": "2026-03-08T00:00:04.455643+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "405dbfb3ae575705",
       "title": "Trump says Iran's map will 'probably' not look the same after the war",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-irans-map-will-probably-not-look-same-after-war",
@@ -90,6 +162,18 @@
       "fetched": "2026-03-07T23:45:05.676527+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "84d61ac2f5db627f",
+      "title": "Iran war latest updates | FOX 10 Talks - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TVWRGR08zSmZNUGsxSTVWc3hybFpGUVNxbjZ6UDlxOW5fX19HWlI1eVU5bDZPdTBXOVQ4MEFVR19PenFKNzZHWUFNMHVoMndsaGM4ckF5SFoyUlhFWl9CWWE4WmpGQdIBa0FVX3lxTE1NM05RbHFQVGpiRXFjdjAtWVp6YlZ0TUtXZF92THFwUWd6aTljbzNzbXd3Nk15eU1xcHlqUU95MWtGOEVJR21tX3psNjVmLUpKdUJENjRJaGhBYUtZNlUxR0U1TU8tQ2dLZTFn?oc=5",
+      "summary": "Iran war latest updates | FOX 10 Talks&nbsp;&nbsp;FOX 10 Phoenix",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T23:19:00+00:00",
+      "fetched": "2026-03-08T00:00:07.481776+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "3ba8acb1a3de3d9d",
@@ -148,6 +232,18 @@
       "category": "regional",
       "published": "2026-03-07T23:01:52+00:00",
       "fetched": "2026-03-07T23:03:51.548891+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e7f89f024c7f4872",
+      "title": "Turkey warns over 'dangerous' bid to stir civil war in Iran - France 24",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3RvQWpjWFRfYWhMSVB3SEJPdXVMb3A3MGV6QWVfTkMtdmNBXzV2bmNONlM2WTFaY0V6TDQtRnVDbEJKTHNTeUVnVlYwVjFiLW40NVV2N2VETVNRV1l0alFlNGRTNUh4ZnVVRGVNaEhHdDMwMUlnRFpIZU04R1FDSWZweWRDWVpMR1B5Tko4T2szY0JWMUxhSnpkLU00UHJWSUhTY3Z0NA?oc=5",
+      "summary": "Turkey warns over 'dangerous' bid to stir civil war in Iran&nbsp;&nbsp;France 24",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:59:13+00:00",
+      "fetched": "2026-03-08T00:00:07.482025+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2860,6 +2956,18 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-07T23:45:05.676031+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8f66d588e0e6b426",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOTnVIYUdiT0pDSTFFMjBQNlJrTWVTaDk1bmJPZ0dER2VzMUNueUc2WExXdUh3aG9JWUFoYm9ON0lWbVc2cmh4SFA4YlZIN2Jqa0pMYWVvUTFHTThadXVyUk5DeTNPYWJhMGl0QUkzWmtha3AzQ3o2RVQwV1NxUmlTZGd2Z1FUUENYemNRTTlXQUFQekRIQ3BfTEFlRUtyTmlGQnp2ajVZejJFS283ZXdRd2xVd0xXSHRYOUNZN0g1eTV6ajJkQXBJYlJOQURSTVF5VzIyTjV5dUx5UnQwb3M1Tk9OU2VfNG1mSVFCYlZrS3E2VnRpOXJTbzFOUVIxU19WV2gyelU5NkxnY2VHcl9HZmNZRS03X2ltOE1mSlNPQTdmYmlJY0xHTmtQdzNYNG5LQldvOFVvQ3gtUmVfSGtoLWFRbGVCUmNyWHJyaVdZUlVRWS1VV0EzRERDSTNvMHNvTDQ2RE1vRmdBTGhieC1aWGNsOVdXS0JJVTBGVkhyUzBRUlRLMEhV?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T00:00:07.481532+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5897,114 +6005,6 @@
       "published": "2026-03-03T20:19:40+00:00",
       "fetched": "2026-03-07T20:41:23.366932+00:00",
       "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "305236644c27af39",
-      "title": "War in Iran: What happens next? - Brookings",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0eWVPTTRoenJXWC1mdzJPcXpZYW9Ea3FQRXRjZDM5RUFUMVhaSmtJbnhZMmFqX0xDcTBfdlZWR1QzaXp1cVY5U0JUM1MwemJaOE9rWUl6Rks1Z21BU1ZRR2FBWnRIMmV0UEtzV182VTh4TnFEQUlv?oc=5",
-      "summary": "War in Iran: What happens next?&nbsp;&nbsp;Brookings",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-03T19:00:00+00:00",
-      "fetched": "2026-03-07T20:47:34.883877+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c88db1a1472a2e61",
-      "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
-      "link": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-03T15:42:28+00:00",
-      "fetched": "2026-03-07T20:41:04.877092+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c1dc9fb402d78e78",
-      "title": "We still have no idea where this war is heading",
-      "link": "https://www.bbc.com/news/articles/c178z0p902vo?at_medium=RSS&at_campaign=rss",
-      "summary": "It's hard to predict how the war will end - but those fighting know how they would like it to.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-03T13:30:30+00:00",
-      "fetched": "2026-03-07T20:41:04.877080+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1775672e818f5bbe",
-      "title": "After the strike: The danger of war in Iran - Brookings",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGNFVFVKQUJmYlhkc1RtOHFTQURFQ0Y5WVBhMW5LRHdzUHV3ZllKbm9aZnM1WWowVmt4dUE1T1k0WlBWSVhxelF3OTl1XzNtQUtOZXVXQTB4Tm8wR3NuWjhHckdaSUduT21zZ0hCZFd0UkdpYzA0NnBRMExieXIwdWw2cHg?oc=5",
-      "summary": "After the strike: The danger of war in Iran&nbsp;&nbsp;Brookings",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-03T09:26:33+00:00",
-      "fetched": "2026-03-07T20:47:34.883589+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7a566f213106660f",
-      "title": "Why Satellites Fail — and How to Protect Them",
-      "link": "https://warontherocks.com/2026/03/why-satellites-fail-and-how-to-protect-them/",
-      "summary": "This exclusive&#160;Cogs of War&#160;interview is with Jean-Fran&#231;ois Morizur, the CEO and founder of Cailabs, a French company focused on ground-to-satellite laser optical communications. As satellites play a more critical and contested role than ever in global and defense communications, we as",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-03T09:00:50+00:00",
-      "fetched": "2026-03-07T20:41:23.366981+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ec1b444f02906bff",
-      "title": "Foundry, Fleet, and Fight: Hedging the U.S. Navy",
-      "link": "https://warontherocks.com/2026/03/foundry-fleet-and-fight-hedging-the-u-s-navy/",
-      "summary": "The U.S. Navy got some serious nautical miles under its belt during the first year of this administration, with combat operations from the Caribbean to Iran to Nigeria alongside its more regular duties. With no sign of President Donald Trump slowing down on global interventions and a tense geopoliti",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-03T08:30:22+00:00",
-      "fetched": "2026-03-07T20:41:23.366999+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "58b091f2f2c12a44",
-      "title": "Strait of Hormuz: What happens if Iran shuts global oil corridor?",
-      "link": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it will \"set fire\" to ships trying to sail through the world's most vital oil transit point.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-03T04:02:59+00:00",
-      "fetched": "2026-03-07T20:41:04.877131+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b36fc4f04e278871",
-      "title": "What is behind the strategy to take out Iran's leadership?",
-      "link": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&at_campaign=rss",
-      "summary": "Security analyst Gordon Corera looks at what is likely to happen after much of Iran's most senior leadership is killed.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-02T21:27:17+00:00",
-      "fetched": "2026-03-07T20:41:04.877148+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "abc577f3c56f2528",
-      "title": "Missed Signals and Middle East Shockwaves",
-      "link": "https://warontherocks.com/2026/03/missed-signals-and-middle-east-shockwaves/",
-      "summary": "Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for&#160;War on the Rocks&#160;members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves deb",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-02T18:40:32+00:00",
-      "fetched": "2026-03-07T20:41:23.367026+00:00",
-      "relevant": true,
       "iran_specific": false
     }
   ]
