@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T02:15:06.299523+00:00",
+    "last_updated": "2026-03-08T02:30:06.575882+00:00",
     "total_items": 500,
-    "new_this_run": 6,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "e1d03f9dc7377917",
+      "title": "Iran conducts missile strike on US base after attack on desalination facility",
+      "link": "https://presstv.ir/Detail/2026/03/08/765097/Iran-missile-attack-United-States-base-Bahrain-IRGC",
+      "summary": "Iranian forces carry out a missile strike against a US military installation following an attack on a desalination facility in southern Islamic Republic.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T02:30:04.263819+00:00",
+      "fetched": "2026-03-08T02:30:04.263844+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d668b6b41768d42f",
+      "title": "Protesters rally in Tunis in solidarity with Iran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protesters-rally-tunis-solidarity-iran",
+      "summary": "\n\n  \n      \n      \nProtesters rally in Tunis in solidarity with Iran\n\n    \n    \n\n        \n    \n                Anti-war protesters on Saturday gathered along Habib Bourguiba Avenue in central Tunis to demonstrate in solidarity with Iran amid the attacks by the United States and Israel.&nbsp;\n\nDemons",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T02:22:43+00:00",
+      "fetched": "2026-03-08T02:30:06.412577+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f40b2d0a342d3834",
+      "title": "Drone attacks in Saudi Arabia continue, Riyadh’s diplomatic quarter targeted",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attacks-saudi-arabia-continue-riyadhs-diplomatic-quarter-targeted",
+      "summary": "\n\n  \n      \n      \nDrone attacks in Saudi Arabia continue, Riyadh’s diplomatic quarter targeted\n\n    \n    \n\n        \n    \n                Saudi Arabia’s defence&nbsp;ministry on Sunday said its forces foiled a drone attack targeting Riyadh’s diplomatic quarter.\n\nIn a statement posted on X, the minis",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T02:16:49+00:00",
+      "fetched": "2026-03-08T02:30:06.412659+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
     {
       "id": "4399c5b2b69c05bd",
       "title": "Trump vows to 'take care of Cuba,' praises Venezuela cooperation at summit",
@@ -66,6 +102,18 @@
       "fetched": "2026-03-08T01:45:07.219987+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "aa37c3eb2118ed3c",
+      "title": "Laden Iranian ships depart Chinese port tied to key military chemicals - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVVWOFdsLWlQbHBqQzgwMXJaX0xFZHFXRDVjZWtCRmhNX040ZWdMeDBQa3F1Z2VWYk5nWm5jcFZLdlNNbERyUUpHV3JiYWdWdzBQVXpTd0pxalVLUG9NTzlKcHlVYXVYWFhReEs2cC04SXV2VWZsckNSUzRzUGZQdFBKa3UwUHd3NTMxUnBwSGFIWlhDNDQ4bDB1RTZHbjBFNlRjU0ZDMzlMdXNUdzFoajM3R21LUHBaNFhNdUIxeDItN00?oc=5",
+      "summary": "Laden Iranian ships depart Chinese port tied to key military chemicals&nbsp;&nbsp;The Washington Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:33:20+00:00",
+      "fetched": "2026-03-08T02:30:06.276849+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "05ae5bd4c6beb04a",
@@ -136,6 +184,18 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T02:15:06.134686+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b594e2bcddee0bbf",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQQmVya2NGR1RDUDMtcEpBZnZNM2hHWHNiRkxDOW9YR2wwNjUyOVQyLXA4WWt5dVNHcUN5Vl9ueUlHaWNRdDM5Y2lESlczRmZRRHBhUlJpX1RFX1Q5T1JLRHZ5WGxwbFR1bDFiMk5YT3RHU0ZhQzEyNl9mMW1rbW1Ucm52b3dqSkg4c0UtTW9iVDJYWW1GT3JLMUFnM1BwcHJxZEhVcE9oRHd1QU5KQWotWEItakI4WEJmODlvNUVIQ1h2N0I3LWZFSGE3MnR1bktzOXNXbkhxSlNCVWpiQ1Ftdmd3NXFOYXdVWFR3Wnp0TFNlX1N0Z2g2aW1FSFpOLWZGSC1pbE1fVWd2bElWRnJ0WjdNRXNmRkdmQmVBdm02TnNFMDJYMEkyMmpPYm5mdXExVXpvb3pCWEdzclliYktzVnlCdE45bkV3NGU5VzZZVGxicjJlb1BaM1F5QXhoU2ZtSmt0ZlNPaWkzcGFWc1k5QTRkYUVrLVQ1U2c5ek5Id282SDJ2ZDZKVldSVXVORmdlSVRsOV80RVVIYlhmTUdULWZVOXBnMjJHM2pOUzF6V2RvQUsyOGYw?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T02:30:06.276112+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -400,6 +460,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T02:15:06.135187+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f99f73db54c40761",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRThoaUgtRmxtQkROVFcyUk83VHZrUTZkUU1JNXQ4RlZXSmRjd3RLczREZm14Vm5UVzVJa21zSlFzVE9wME8xR05vTVV5N1F5cWZZWmpYZEppT2JZb3VvQktYNEh4dDFrS0RmcVRRSDJnUHA2eUphdlhGemlncXd5RUJqUXlOSkdHMHFER2hXWERuWlpYdTdvV003VnNaUDhpY3d5UXoxOF9jbEI3YnAtTkl1MThWRk1OUC05MlV5ZXNDb2Y0ZGpiRi10WHlHUjc0REptYlljc3VZOHJiWkRZYXVHdlBiOERtYnNGaVhzblN2YWFuNGZ2bXc0VUVJeXJ3b29xMUFBajQ4X3dZTWZWN2l6V0tOTE5HT2RZLTVBN1IwalhmaHJ3Zkh2TldickFLdFpvVFlxLWVmVUV1bEhrRUlFMmd2QzN1S2MyXzl1YWpiS2t6SkZlNWNFOEJyU2U2aWdhLVh5ZVRmZHNTQ255ZWNwcVZSeGc?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T02:30:06.276664+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -976,6 +1048,18 @@
       "category": "regional",
       "published": "2026-03-07T22:02:38+00:00",
       "fetched": "2026-03-07T22:15:06.654063+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e84498cdacdaa2eb",
+      "title": "With Iran, Trump Takes the U.S. to War Without the Public’s Support - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGVhSGlBdFNBZThUREZyWnBUbUh0ZmFPc3dFOUNSYVhvSFpnTDYyN2VhX1ZZM2dBUmNQaHZFOGNKZTVacDY1NGVWQ2pDU2tGbV83cklQVTFKY2NwdXZmSHhjSVpiTjZsMFZtb1VxNU5LeUwyTnJxcERpQTNiYWlfMDluR0pHeDZa?oc=5",
+      "summary": "With Iran, Trump Takes the U.S. to War Without the Public’s Support&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:01:00+00:00",
+      "fetched": "2026-03-08T02:30:06.276292+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3476,6 +3560,18 @@
       "iran_specific": true
     },
     {
+      "id": "298f916d0a1b48bd",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOZUpETXhfN0hvZlg3NG1mck5jTTItUVZyOUQ4a0NqWTZTZkJWTERXS0pkcHRCdlpkMFh1TXZPVXlYQWlVX0s4bVktZDl4RUNxODhRVE5OUk9jc0NEN1djTkMxN1U0Tk41VTZDWF9iZmZuRmhJNnp6bi15cnhfNDdqU3R1TnlOdWxJbzlzQzlmVHRtbjVZMGFCZW90ZGRNRnlZRVFPd3JOSWpFa0ZmSlVPSXMwRmVLa2ZPeUZNUlhoRHNfbFRtWkd1c3FZRldBWXdPbzRfcU9yNWU4bVVfLXFaSWstT2pXSE84ald3UFhIeGhuTUU1c3lPdTgySUQ2cEE0d0tPY19TNndkblZVM0tQa2NhWGZyR25sdG5SMUZZWk5GUnZ4R0hIbXYxRGtpdDdZU2czT2tVY0dnUUpmMDlrWHFLRVd4UzFybnNBREcyRGFTVG56d0ZnQWRWeUcxUXFSc2YwQXZGV3B6bk5oYlV5bDNid3hYMTZ1T0h1NElXSFhUWFZNTmRZ?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T02:30:06.276399+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5909,102 +6005,6 @@
       "published": "2026-03-06T18:37:55+00:00",
       "fetched": "2026-03-07T20:41:04.877261+00:00",
       "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "f7b9649c1dee2287",
-      "title": "What’s Next for the War in Iran? - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzQ1YzYU5PNkM2SmNGcUEwUUtEdlN4OGR5UThxWC00ODVCbV9BdU9uS2VmaFF1YUFacDhHSmM1R2ZvU056MDcxczZTd2VMZXJ3dDRVZFBDYnhRTEdHWHJjUnc1VWx2ZHRGV21j?oc=5",
-      "summary": "What’s Next for the War in Iran?&nbsp;&nbsp;Council on Foreign Relations",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T17:52:57+00:00",
-      "fetched": "2026-03-07T20:47:34.882785+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4864fb6154fe2fb7",
-      "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
-      "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-06T16:23:57+00:00",
-      "fetched": "2026-03-07T20:41:04.876821+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "be241d32dd3f282f",
-      "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
-      "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-06T16:16:05+00:00",
-      "fetched": "2026-03-07T20:41:04.876800+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "52d0e72863c5c66e",
-      "title": "From guns to ballots: FARC's campaign for votes in Colombia",
-      "link": "https://www.npr.org/2026/03/06/nx-s1-5727603/farc-colombia-election",
-      "summary": "Ten years after Colombia's peace deal, former FARC commander on the election campaign trail is discovering that winning ballots can be tougher than waging war.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-06T16:01:08+00:00",
-      "fetched": "2026-03-07T20:47:35.134262+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ac5148a52ca79e16",
-      "title": "Iran war: What is happening on day seven of US-Israel attacks? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUhuVHRLbmZReTF6SDAzMHAxdlVLOVRkb0xpZnFXQUkwdnhoYVNhTFVfRDE2SHhsV0dMSVQ3d1JvdlNGRFhFaWtpb2ZleHBJc2VrdjFkZ0tKdUhZR0UzWTRwYkxnTl9SUktWWVNCalhCVVdyOHVHbG9ab2RXZ05OR000bnVpd3F4LWhTNHFiRnlSUXhZYmdHNnhNeHVlX2NqT3fSAacBQVVfeXFMTUdITzZtQUVEb01HNnFDaGpBMjhyWE1UUnhvdGdXV05BS2N6UndVd1ZNY3ROczVPSVVyR3N5cjRiek5BaDRxOF9YZnhJdG92amdvcTBHNjV0Z19SMU4wRkZ1eVYtcGhsZ3NLMFRZUkpMbTdPVnphcTlfRnd0YWNFZmt5U01fekdYeTZmcGFjdExxTjFtalFTeS1GcDhMbGFiMEJyM3NhNEE?oc=5",
-      "summary": "Iran war: What is happening on day seven of US-Israel attacks?&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T14:53:18+00:00",
-      "fetched": "2026-03-07T20:47:34.883737+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d75418673edb1efc",
-      "title": "Israel After the Iran War - Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96YnNEcGxyelB3dFF1QVFsTV9IMlJrcXVFTTlYanRUMWxCeDF6eksxaTloTTh6ZXpOOXprb0U2d1lzbmFOTkdrYXdqSGlkX3lfdUhjd1hGYWhrWno5OVRwbkxJOHo1WU83VTE0?oc=5",
-      "summary": "Israel After the Iran War&nbsp;&nbsp;Foreign Affairs",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T12:56:00+00:00",
-      "fetched": "2026-03-07T20:47:34.882921+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "387d89d60fae7aa4",
-      "title": "Israel strikes Beirut and Tehran as Trump demands Iran's 'unconditional surrender' - NPR",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Zlo4ZUhVOGhYcm9iWVR2b3JRUU9rYWxQcklsci1UYVd2RUNReFF3QzN6RVlvZ2tILTNiSWh4YmlxNXVHeURHeVYzVzJMQ204RlptMDhXN0pza2xMNXBRMURLdExCdVR2UFRjbjFkTVY?oc=5",
-      "summary": "Israel strikes Beirut and Tehran as Trump demands Iran's 'unconditional surrender'&nbsp;&nbsp;NPR",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T10:22:53+00:00",
-      "fetched": "2026-03-07T20:47:34.883643+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f67148e7f34daa8a",
-      "title": "Qatar warns war will force Gulf to stop energy exports ‘within days’ - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53TDRscmQyd3FRZDlra1YtTmExY3o3TGNHSFp6WlQ5YnB6UGxndkdxUDAydGFEVWZ3ZHVnT3RNdjMyenVhaThUYVlwQlFZbFl4TTdldkoxT2tFRUF2TnhhMTNXenVBVlZlWXE1Y25MdnY?oc=5",
-      "summary": "Qatar warns war will force Gulf to stop energy exports ‘within days’&nbsp;&nbsp;Financial Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T09:13:46+00:00",
-      "fetched": "2026-03-07T21:30:07.341545+00:00",
-      "relevant": true,
       "iran_specific": false
     }
   ]
