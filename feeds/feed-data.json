@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T21:45:06.634144+00:00",
+    "last_updated": "2026-03-08T22:00:06.147707+00:00",
     "total_items": 500,
-    "new_this_run": 4,
+    "new_this_run": 21,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "3fc016ca14a725b6",
+      "title": "Japan rallies late to beat Australia 4-3, clinches first place in group at World Baseball Classic",
+      "link": "https://apnews.com/article/taiwan-south-korea-wbc-ohtani-9864c675c6f6654e5a526ce6f4b46c47",
+      "summary": "Japan&#x27;s Masataka Yoshida, center, reacts after hitting two-run home run during the seventh inning of a World Baseball Classic game between Japan and Australia on Sunday, March 8, 2026 in Tokyo. (AP Photo/Hiro Komae)2026-03-08T07:06:34Z\n                                        Defending champion ",
+      "source": "AP News",
+      "category": "western",
+      "published": "2026-03-08T21:53:01+00:00",
+      "fetched": "2026-03-08T22:00:04.019057+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "b9316b288ff87f14",
+      "title": "Counterprotester threw improvised explosive at anti-Islam event in NYC, police say",
+      "link": "https://apnews.com/article/antiislam-protest-gracie-mansion-new-york-da773d7edec63b65c3296c1c95d2ff74",
+      "summary": "Jake Lang, center, walks away from counter protesters after an altercation near Minneapolis City Hall, Saturday, Jan. 17, 2026, in Minneapolis. (AP Photo/Yuki Iwamura,File)2026-03-08T19:31:31Z\n                                        NEW YORK (AP) — A device thrown by a counterprotester at an anti-Is",
+      "source": "AP News",
+      "category": "western",
+      "published": "2026-03-08T21:53:01+00:00",
+      "fetched": "2026-03-08T22:00:04.019175+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "951de21a2c48f358",
       "title": "Ayatollah Seyyed Mojtaba Khamenei elected new Leader of the Islamic Revolution",
@@ -16,6 +40,54 @@
       "category": "iranian",
       "published": "2026-03-08T21:45:04.560694+00:00",
       "fetched": "2026-03-08T21:45:04.560725+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b84cb8435a09b161",
+      "title": "US Said to Order Diplomats in Saudi Arabia to Leave, NYT Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXlMRFUyTWdQUDZqeWJDVk1pR0xQenhyU2xuRkJvT09EUGwwamJqT0lBV3I5SnVoZ2J3WFBTR3hqN2dyaDZwMWk3MVhwRk5GX2o1RHJ4LUduUmxKeURVX05sb3lzVGFleXE4N1lSRWNaUnJDQ0JmUktyQkhLbWQwM2ZFWjZ3QkF1dDU4MUg1OHFwWXVIQkZkT25McEloQjhOVjRIbVNSdG5DX3NLdEItcUdNWmg?oc=5",
+      "summary": "US Said to Order Diplomats in Saudi Arabia to Leave, NYT Says&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T21:40:31+00:00",
+      "fetched": "2026-03-08T22:00:05.893994+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "26102be4cde5a89e",
+      "title": "Palestinians killed during Israeli settler attack in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/palestinians-killed-during-israeli-settler-attack-in-the-occupied-west-bank?traffic_source=rss",
+      "summary": "Palestinians were killed after armed Israeli settlers attacked the village of Abu Falah in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T21:25:08+00:00",
+      "fetched": "2026-03-08T22:00:03.702200+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "4490edd069fed249",
+      "title": "Iran names Khamenei’s son as new Supreme Leader after father’s killing - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORlJNc2x0N1B2VDRnYV9MamZGd3c3OVBYVXZwendxTkdSZHBueUZDSFF6cTNJUmplSVVycTRxQW00S1lGNWtYRGdZZkJ3b0pweXAzelU2UHlHZzZfakdqcXdWUXB2eVJ1eTd2WXVMaUlJdm9CUmQ1OXFsR216VV90dVlSWEJNNXMwaUIzdUJMOE5ESVVxX1hGS05qRU81TkhkRHBDSEVNdnFOMFEtLWJr0gG0AUFVX3lxTE9hY0VfbnYzR0R2NDlXQVZleGNFWG9zTnBjMnhkajk1WlpsMUg2UWxDbG1SWXducERwVUZET0N1dlpMWThrX0ViS2JFWmVscXNVLUozaHVxZjM2VzBFeDlGNzFVbWZ3UlVBU3RVc3FFd1VoMDdYMEZxMVp4Zk54bEZkX2NNTDNoMXRsYTFhY2haSTBZMnlsOWpEVmdrVW0yTjBQNzE1aWlLYVV4TlZIZ2tuOEhCeg?oc=5",
+      "summary": "Iran names Khamenei’s son as new Supreme Leader after father’s killing&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T21:22:30+00:00",
+      "fetched": "2026-03-08T22:00:05.894495+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f711f87174e8a920",
+      "title": "Iran names Khamenei’s son as new Supreme Leader after father’s killing",
+      "link": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2?traffic_source=rss",
+      "summary": "Mojtaba Khamenei will now be charged with leading Islamic Republic through the biggest crisis in its 47-year history.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T21:21:28+00:00",
+      "fetched": "2026-03-08T22:00:03.702248+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -30,6 +102,18 @@
       "fetched": "2026-03-08T21:30:08.271548+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "a30e2f38fc10a70e",
+      "title": "‘Explosive device’ thrown at protest outside NYC Mayor Mamdani home: NYPD",
+      "link": "https://www.aljazeera.com/news/2026/3/8/explosive-device-thrown-at-protest-outside-nyc-mayor-mamdani-home-nypd?traffic_source=rss",
+      "summary": "Two people have been arrested after the device was thrown, as far-right demonstrators clashed with counterprotesters.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T21:18:35+00:00",
+      "fetched": "2026-03-08T22:00:03.702288+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "2e9655a7bd5d7e8c",
@@ -234,6 +318,18 @@
       "fetched": "2026-03-08T20:45:03.849810+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "7c5cecd5037f9ef1",
+      "title": "YVYV: Looking ahead at what the Iran war could mean for Oregon - KATU",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQNnhUMjFrRGlBY3BMaVlEdEpMTkNWY25fT3JseWRmc0ZzaU9lOWF0MC1CM1czbVJCRjdsdi1oZlRnaTlhRUc0MFhsOGZjSnR5cHZEYlhHbk9HRm9RYjNLemQwSm1qODhBUmJRaHdrRnJLdlFLYVlocHRSaFR2SVNnOUQ0YkVROU1lU0c3NUZpSkpzbGdxaUVXMEdqYWx1cWZHUE5kWHVxTlcyUmhmX0wzOUFPRFNtY05fa0I2eDk4dkxjSTBmQWowaVpKRG04ZGo4NnlNdndXR1RVMDhFemhfZERTYjMxclN3c0ViaGg3OEhNT25nZXE0LW5Selg1NU1tSXlyQ1ZHNDgwNFZfcDlVVHd5RGV0cnN5ME9BVUg0a1I2TEtFZFF2bmxzOVczRmZWY0F1Q3g0Y0tTUEVWVGc?oc=5",
+      "summary": "YVYV: Looking ahead at what the Iran war could mean for Oregon&nbsp;&nbsp;KATU",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:36:37+00:00",
+      "fetched": "2026-03-08T22:00:05.894725+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "20464c65cb5538ba",
@@ -1016,6 +1112,18 @@
       "iran_specific": true
     },
     {
+      "id": "62143090a0eecd60",
+      "title": "'Mind boggles' at doubts over legality of Iran war, Israeli president says",
+      "link": "https://www.bbc.com/news/articles/clyxp780xvro?at_medium=RSS&at_campaign=rss",
+      "summary": "Isaac Herzog says Israel is acting out of \"self-defence\" on behalf of Israel, the wider region and Europe.",
+      "source": "BBC News",
+      "category": "western",
+      "published": "2026-03-08T16:53:30+00:00",
+      "fetched": "2026-03-08T22:00:03.854674+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "c02ecfd737c87a13",
       "title": "Putin signs law on refusing extradition of foreigners who fought in Russian army",
       "link": "https://tass.com/politics/2098567",
@@ -1120,6 +1228,18 @@
       "category": "aggregator",
       "published": "2026-03-08T16:32:57+00:00",
       "fetched": "2026-03-08T18:45:05.996781+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "cb5378f52cb9edd8",
+      "title": "'Night turned into day': Iranians tell of strikes on oil depots",
+      "link": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.",
+      "source": "BBC News",
+      "category": "western",
+      "published": "2026-03-08T16:32:57+00:00",
+      "fetched": "2026-03-08T22:00:03.854618+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1264,6 +1384,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:38:52+00:00",
       "fetched": "2026-03-08T20:45:08.289525+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f7a95c596281c45c",
+      "title": "In maps: Nine days of strikes across the Middle East",
+      "link": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war continues for a ninth day.",
+      "source": "BBC News",
+      "category": "western",
+      "published": "2026-03-08T15:38:52+00:00",
+      "fetched": "2026-03-08T22:00:03.854688+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1624,6 +1756,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T21:45:06.438695+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "26dc6cc31377e79e",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQd01keVkta0V6QjF4eFlTWk5mRXh5TFFHNGUyblZIQTN5a1Jlc3hiT3FSU0pkSHdGRW1OdjVxZERtYVhHTjZUZlJ1U0RKYUJyNlg2NEFqZ0RNWUdYcUhtdG5IeVlRZkJlNFc4Z3k5ZXJzUE9sYmhqTHUwTEpaWlhtMXRhdFIxN0JkOHByRVRnZXRuNGZBRm1QVVgwSk1la2ZDTTV2U2tUQXRGMi0zaS03YzBreWEtQmpfOEhhcmNrS1YteTNLQ1VNU1k4UDdLT0tORjdQOHNJVzdZZThMM3llNi1EVU9Sd2lkVG11RTJUTlAyQWVIdVE2Q2lLLWZpdE1KV1p5a1dNY1JHMWl6NlBHamdKQ2xLVEV1d2FqLWFtdE1TZXhjRWlmaVA0Vlk1ZlVTQ1lyYVJUYnplZF9sRGliSWxQaG1sZG1ac3BMS3VEZngtM3JvNEdWdXp3RmNxRzdNNndiUk1BT2hwb0NUN0hRNW9pbw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T22:00:05.894266+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -2104,6 +2248,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T20:45:08.289571+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b8416a472998eea1",
+      "title": "U.S. Forces Issue Safety Warning to Civilians in Iran > U.S. Central Command > Press Release View - centcom.mil",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGxSS3VURGxVU3RSdW5kaXl1YmdhSmpQQWJXVHJMUjhNdE00cEpreUsyTmcyQVVFOGxLMUx4QS0wbVIzV2FjMVZMVlk1R3pSdWVjRWNmd29xeTI3azk5emJQb3FzTEFUN19DNE5DS2xkSkd2Unc2ZkRxU0tVcDdpWVFQaVFJTDlWNEVPc0JXQWFXelloSVRJSkx5NzMwWnF1WUtMazV1M0dYODRqN3ZIYmFDY0dZNlVfY1NOWVg3NGd3NGlzTU94X3d5bWc?oc=5",
+      "summary": "U.S. Forces Issue Safety Warning to Civilians in Iran > U.S. Central Command > Press Release View&nbsp;&nbsp;centcom.mil",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:11:58+00:00",
+      "fetched": "2026-03-08T22:00:05.894112+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5850,162 +6006,6 @@
       "fetched": "2026-03-08T20:45:08.289813+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "b58d538be9505808",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQbVpXNG5zMWpOYVIxWHJldGItWThnS1ZfS25nZHF4WmFyQmU5RTI3UmN0ZFVsSHVHRU4teXJUQ0ttZEVCbmR6TFFLeEJwWnhFZGNlZ2dPUFM4WW1EODlJOERQYkdqY2E4SFRvSlZMZ1ZtY1BvTmlmcEFBdGhzWTlUSUtRXzdfZk5UMGhQa1NPYnFrTlNHUjFNUTYteUJLMFAwRllleHE0VkxjQ2xlVGdYYnZtUE1ScU52WHAwcUJJTlh6ZmZoVDBSVlpEQTNTZGpzdVg0S1ZPZWJkcGF2NzlLNDBSRmdtcDRFX2VaamUxWTYtSnh2MGZVWjNpMFIxZk9jM2VhWnE4ckI3bVZEaGJfUlpqTFI1MmFiVlpPRmVaakFmd1hxUTV1MV9QaEV6SVI0aklXb3ZUa0hicDVFSEd6NDg0RmFMXzE1MzdCUTU1TWJSOVNaMWp0RkFQNGRoOFpsbmx4X05EdFpIbDROa0gtek1mdFNRcjRCNjBSSldvWVlsaUY5Si11WUtIb0ZIOERTbWsyNkU5cWFQZ0hSa3pZZGRRc1NScVFnNGhMVHBMUk5aX2VvcTBz?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T21:00:06.454817+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b12fa9e60b774bb3",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOREI4N085VHdRMm9kY3pIZmNuM0pxS1hXWEpaRFVoZ0dVRG9CemJTVlpaWDNwclcxLUpMaDh3OG1teUIzN2hFOXN5dlI4U3BVc0dwNUhfNXBWLWdRdjViRUtrMHRNX0JvSHpqcmFCV0hxWEJMQ3gtZnNiTDFtVmRVdFhlM3FXNWpJNWx1VXZWeHZsa0ZRY29ZQ3h3eHBHMUJsb09XNUVSZ3Jnd3k3Ukc2ck9pbkFHc0hyLThxWmRDS0ZNNTBNTm93YWJ0d2VTWU9rQXhDS0thMkU1dXdMcTdyTndWVnNCTlU5cEFHUzBlcnZmTTdCRzdIVFdXUXBLckhnLTJVUlRQb2hKUHE4WHpMQ0NkMHBRUjVyZ3pWTW00VnhzUGlKYW95eE9lRXhPUFI3YjlYTU5MOTlHM3lJMFVOekZRNHRXRTRydjV1aFMtSm45V3RDV3pXTTJsS0R1Q2FRVDFhV1U3NFJKTUNHaGJybmtoRFJGcUNyb2V0N19fbDNkcGRyUG9kVl8wQUVCUHlENnhkRkZqSDJmajFQQld3ajR0YlBLZUV6YXlXOVVTbURZQXk2czRB?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T21:15:07.519391+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9db11586f75ccdc2",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQUW8yN0FvcHN5Z3pXb2dOaU5oNXIyYkhMTGg3S2JHVDA4LUJzMzB2MXZORjRXcGhNbjN6S1ZncDhlTzdVVjRSVVZMc25rVlJ3OUJpNllyUzQ3ZS1hbW5IS2NSV2tzWnljWksyWV9GS3czaXptQ3VtMHN1TWJTZXlBTi1Ic3dQQ25lM3BhNUJYOFhlekd0S1FkUV8zR1R3V3ByVHBybkloMnI1SkVvcVdZdEE0NjZxSEphT2pER0s5NlU3cFNoNlZScHMxd2Jyekg2a0t5cXJPV1VWN240OC1hWVFuOWUxaXhPYXZQRjBxS0J1Y3k5MTVOTWp3MVJ4Xy1ZTy1YbWFLcW9LNW5fN0NLaU5sRXpYNkNyNmZTaW9Nb0ZWX1NJVFFXX0EzR1c2dlBWQmtreUlrX3A5TEVBTWFpOFJkQWN4OGltZl9xcmQ3SzlId011eXpCS1MwV1dQMmFKOVQzUl9aRG80azROM0lCTjRQd1RPQmU0SHJ3a2hiNmNBajNiT3VPN3BoMDBxb0VtV2ktdXJmYXVxYUlJZV83MjBKM0xUUTduTElacU5henpLME9OLWxZ?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T21:30:08.272008+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e4c564616b8ddb1b",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQMEpENVIwWHBuNEtnbzlrM3h1dHFMV2tkZ1gtVGxKQTBzSlQ1NzVxbDFiTTdnVENxTUpIellqcl9rcGljc2ZjTnIwbjVPbFhzenU3RGFlTk4wVGVXdXlmVUllOTBpVThZMjlIQnJIOXVuUFBsRHhFcFZBMW45cnpPTFJsVUhuZ1E0LTdrWkpZYTIzNEd1R3d5Nk5XcGRwcm93VTVZY2JHamI4NzFGNWg2QkhFWFVTMlNWV0pIUDgweWRfWUcxZm43d05LVmZ2MXVQaXN1VzBQLS1mOGgxN3E1d1pxWXA0ZmRob3JaZkx5Ymg3Sl9UQnB2Q2QybU5YMGMzeFdyd3NydTJFcVNNU2k0cjlydE9Vc1kxeHNwQXVBQ2xxdGlTN2tWd0dzdllXLW5KcjEtdFpET3ZyNFpqZmRKM3VUTU9lY3E4dFpLNU51QVNVNnZQMDdNSFlLc0dqY3ctWUhyamRoWDZlcnFhcGZaWkhWbWhxN29xMlozdGk1dkpGUzRQMkpKUE1nSFlCWXRHN2Ixb2FvOFlfdTl3VUotWnhKeEdSS20xUWpSb0p4UHh0NlRWYlhn?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T21:45:06.439009+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "237221d7e6e32709",
-      "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
-      "summary": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out&nbsp;&nbsp;CBS News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:49:00+00:00",
-      "fetched": "2026-03-08T01:11:07.823966+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "92067c43e3f17756",
-      "title": "Fire area in oil depot in Armavir is 200 sq m",
-      "link": "https://tass.com/politics/2098299",
-      "summary": "According to an earlier report, the fire occurred due to a drone attack",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-08T00:46:50+00:00",
-      "fetched": "2026-03-08T01:11:06.547298+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "5dff5a382770e15c",
-      "title": "Trump says US does not need United Kingdom aircraft carriers for Iran war - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmpULUJZRDR4VlpPeko4cGRpR0RNYVdIR183MUc4ZEdkLVQta1RpQ2RaRnBCZHl0YVVrQmlfWUVuOXFEU1NPTkZ6c2pDLXdlUjh0bFBzS2VqZkNJS044TmdMMTR5X05Ob1BWLWpGTFQ2UWZOamwzWEVsd094UFBpei1vamV5SFh6SlZsdGcxbHhWR2NNQ1Rwd3UtM3BMQU5qaHA1TW1VYUdIZXhzeWhQd3lHY9IBuAFBVV95cUxQcnpJUEhYRHM5bWp3Wm04Sm94cDlFMy1fbE9qcjBfYnNKbW5QR3NFMTVpQjEwS29UU19jQmpZS2Niai1McV84OW5iTWpCblZtdkdyR3pjRTdHbGtKX3d0cm1MWjFQbFJTOUh3U1VFY1ZSV1NqQmtnb2VxLWJEd2ZWV3ZnZUFFUDRKWm5XWlVvejNlcGxxX1MwS0dqY192X0gxcE5BcTIzS2ZRNkY5STFGVEVfX01Sa0U1?oc=5",
-      "summary": "Trump says US does not need United Kingdom aircraft carriers for Iran war&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:39:14+00:00",
-      "fetched": "2026-03-08T01:11:07.824196+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4ed3c6f96091e69c",
-      "title": "Trump says US does not need UK’s aircraft carriers for Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss",
-      "summary": "The president called the Iran war &#039;already won&#039; as he dismissed reports that the UK was preparing HMS Prince of Wales.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-08T00:33:56+00:00",
-      "fetched": "2026-03-08T01:11:04.482630+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2f63ebc41d70f8ed",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQXzIwZG1NeTYzcmpwLTNXRVdLU3JfYjBuOVBCY3lFNjJPVUNYcU4zV2tQX2RvaTFPTGEwbENBbGNRRVNfTXVOT183U2lkd1RVdVlDWlFqTEVBLXRtbXdiWUIwVjRrZkZ4dHlPeHE0MEt2V3hwSER1N2E1a0lySjZXTm9PMlNxTklwMkZxd1psR3lNdnAtRnE4YktQTjY4azdGSm1FZ29LSDhMSXVwZms4QW54S1VEYWRYNTdXUkwzTXRIdmtPcE4yemxmYlBDTmJ3NEdBZnpxRU1vYzI5dVhfdk9CZVozTl9ncGdIOExIVjhEaWpIYVpQQmRyVlEtQU5kZXp4cW82QzRuR3pLQ2NuSFZNWmxqTnd3c3piRmN6NGRKcy1ONHRSRGVTaDBKdjJXMEV6bDRmb1J0V1BOd1pFQnNiakp6aFl4Z0pBVk9QandzUGozN3o0a0JyNHQ0ZU5VZXR2OUl6SjZYQkJ6MUJXcHBNUzdrQ0FUTjFxN3FFZkV2RDM1dHhMU2tMSmVHdHdyNEpkZDdQQ0tVeGlwQjM1SnY0M0s3ekl2Mzg4dTdPQQ?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T01:30:06.111117+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "dad43168a9193bf4",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcXFhaTQ0OGdnNThEdVZLV3FCUEFtZ2Jqc3N0cjVmWjdnWXF1MmhtcnhxN3oxTzRLU0o3bXZwN3ZMTTVqbGIwRXFpeGdfeHUyS21aWDhNcWVqOU4tXzJEUXF5M0NOV1g1bFNwQl9LMkRsYkhzMnlZSDJ5eWFOY1FXMEJtVW1PaTJaNnUxdXR6dk1BU0xTdmtES09aS0tEQlN6NG1oVTA3dEMwNDVZeXdKQ2I3c3hlM042VUFyYnNxMS13MzN5S1Bnd185Mjd3R0NNcE5JWlNkNWtINWotclpxLUhqTFhaT2VrQkFaSjZKT2RlRFE2NEU0eTFXcmhLRmZuYm1MQk9UTkdYZ1BjWlIxTkNWblZfWW5takZxWHF6WGlhQ1BkSU5LQWp1eVJ1V1lJRVpDOXl3QlE1NjJoYlktSUROVEVpUWpaeWhseFdOQ2QtcEFqRzJlRFhzZ25yUHlNU1ZYUE9JRllwamx4OEZkMjJWdVBmUWtXbE9pbHFxbVRPOGxtSjZjeEJnSkVnMVF0SkRQOVpfcW4xRThEY3RtbmRuNEtOZWd5NEtGYnJwdw?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T03:00:06.303378+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1876a42226103647",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOTGVaU3JaMHFsLWVwRWFpVUhIaFBVYXpYZkc2dzZYeUN5T2oxTjV1UVdFVFUwWC1NdElGTFdfbUQxX29hTFFYX0t3aEhqckFIVllObEcwZ3lhOUdER3BTazNaYlZlN2xrUmE0UEwxOXhKd2pXV1VDMTByUkM1bkx1SDZfMFY1QW5TVXhoWkJFQjIxbmRtc1ItN2hYd3I5UjF1ZFhpT3ozRXhWcWF0OElwdVg3R1B2R0x1ZkE2Rm5jaENScXNRLUpkUENPVmRMVDloWHBndS1VRV9vR09uNHdjVXVPclJiV3ItX0I3Y285MG5raGJ5Z0prR1lVSGZLV0dDSHF6ZmNoSkUwOGRpMk5WYldPS2xLSzYzRFc0WXY2bHJwSlYzdldYenlUQTBlNWYzVW4tLTduaVVuaDBSbW1IYWlIekNraUx2OWl6TElDTFRmRTUzbjFKd2JqMEFuNUZORE9ZcjRBeXA0cFNGS1N2ZGY1aHFGUlZGN0oxb0xDeW80SnJSMS1ZbmIxZnFGR21ha3Fld1RGU1FNWlJXbE83V20wYnB1c1NOdHp3b0xRQQ?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T03:15:05.469698+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ed3559a5278229da",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOWjNPUjBLaFVtVy1EeUtqM3EwbXQ1ZXNnM1hZRGdnYzU4cWg2MDV2eDNEWnlJNkZ3dEQxOVhhc0ZYUmpxZThrT3Rqb2Noc0lfLTA5dm1YUDUzeEE4enB4Z0FrSklWT1VRQzlTazlYVTVYaHlONEdzWXhHa0NMaWlieG1nd0V0VDdWekhzWElXREdJY0VvcnIxZ0FncHJCSjJiUjZscG02R1BidExSYld2S3FTZjlSVU04bXhDZ0ZaNlk2YVZqYWZxaHFZX0xSTFY1N2N6OEJwbkE1Y3BpUlVPU1NkSk9FcmYxc1NoemZBNmRQUjdBcUNsWlVodUZFZl95R242cjQ0OWQtdHRBdER2bk9TSVhfQUozYXBiMElLLXg4dzhza1B2b2lDTXNYdVhfRWtzSkRsSnV6QnRGMWF1bGVYSXV0bXJ3NEhsUlZuQ0c1STVfVG9HQVFPcWIzN3VpZFl0cFoyemMwQzY4clQxeXFBMVB6TmhQakRrSFVXSllKRjZoX1BhbTgzb0lKeFNrRXdfZ3JYY3pGbTRJZkM4UEdMZEtHbmlfb1ZpLWltaw?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T03:30:05.409958+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "0b2f80d8d82bdaf5",
-      "title": "British help is too late, says Trump — as it happened - The Times",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNQk9lLXVLUmZkWF9ZVlg3Q2IwaWIwdFZvbFhiNmhQVDJ0b2ttbzdqUEVzRUVzM0xZTS1EYnhTTm5KRmdrcVlfbGtta0JkZGpQQ0RIYUZVcEx0a0JYUzBQWVBmZDBncTMtZGJfZ05rNHFFdFFWb1VyWFZfRExFMGxGNXNaUWEyU1dvc0lCazdPdTlSWU9QWEp6RzQ2UEdfNWptdVdBS25ELU51bEM5RjNPOGxsWHktTDNIUHJYelR1WkRaVkpwMmxXc043SHpKTm1oTE0zX05JcnhVM1hrYXExM29GYUFpZnN0VFpGWG14M2xmalBQUnNHeEZESlNhS1EwdDhwTGMzVE1KVW9rUWI1S1F2TUZsWkk0WFZXVTNGdHdldHFHdGhJdEhlbmszNVUtQ2pVVGQ0MTZackZnQ2RYNF9BcmlzMkM5Z0gxZW9KN1E4OVFoemZhNlFPQUV3SC03bmRUX1lMVW5HTDJKRmwtbGNOMFZfeFc5UUIwSGU0c3ZIRUdibDFUYUE2RUdfMFBtTGFmOHNoRkwwdHNNTTY4VU56cVh6NllrNUY1UnlFTQ?oc=5",
-      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:33:00+00:00",
-      "fetched": "2026-03-08T03:45:06.493834+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
