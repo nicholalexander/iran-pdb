@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T18:45:06.176650+00:00",
+    "last_updated": "2026-03-08T19:00:07.261767+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "865b95698bd51b1d",
+      "title": "US strike on Iran’s Frigate Dena kills 104, injures 32: Army",
+      "link": "https://presstv.ir/Detail/2026/03/08/765134/US-strike-on-Iran%E2%80%99s-Frigate-Dena-kills-104,-injures-32--Army",
+      "summary": "Iran’s Army says US savage attack on Frigate Dena in international waters killed 104 sailors and injured 32.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T19:00:04.760783+00:00",
+      "fetched": "2026-03-08T19:00:04.760810+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "91f901645aac8755",
+      "title": "A retired Lebanese security officer vanishes and his family thinks it was a covert Israeli abduction",
+      "link": "https://apnews.com/article/lebanon-israel-ahmed-shukr-ron-arad-kidnapping-09c7e1026bba9874f3d62d8085982609",
+      "summary": "Family members of retired Lebanese officer Ahmed Shukr, hang posters of him during a gathering outside the headquarters of the U.N. Economic and Social Commission for Western Asia, ESCWA, in Beirut, Lebanon, Friday, Feb. 13, 2026. (AP Photo/Bilal Hussein)2026-03-08T16:24:26Z\n                        ",
+      "source": "AP News",
+      "category": "western",
+      "published": "2026-03-08T18:53:02+00:00",
+      "fetched": "2026-03-08T19:00:04.608889+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "fea523b50f34047a",
+      "title": "Police in Norway investigate an explosion outside the US Embassy in Oslo",
+      "link": "https://apnews.com/article/us-embassy-norway-oslo-explosion-4d6647454232241ea640e9ff334f2864",
+      "summary": "Norwegian police and technicians attend at the U.S. Embassy in Oslo, Norway Sunday, March 8, 2026. (Hans O. Torgersen /NTB Scanpix via AP)2026-03-08T08:38:48Z\n                                        Police in Norway were investigating an explosion early Sunday outside the U.S. Embassy in Oslo, the c",
+      "source": "AP News",
+      "category": "western",
+      "published": "2026-03-08T18:53:02+00:00",
+      "fetched": "2026-03-08T19:00:04.608966+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "ad4357f8ab59b428",
+      "title": "Israel claims killing three Iran guards commanders in Lebanon",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-killing-three-iran-guards-commanders",
+      "summary": "\n\n  \n      \n      \nIsrael claims killing three Iran guards commanders in Lebanon\n\n    \n    \n\n        \n    \n                Israel says it killed five people, including three&nbsp;commanders with Iran’s Revolutionary Guard’s elite Quds Force, in a strike on a hotel.\n\nEarlier, the Lebanese health mini",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T18:52:04+00:00",
+      "fetched": "2026-03-08T19:00:06.991754+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "89dfd0888f6a55f9",
       "title": "Trump’s Strait of Hormuz rhetoric aims to control oil prices; Iran has ‘major surprises’: Source",
@@ -68,6 +116,18 @@
       "iran_specific": true
     },
     {
+      "id": "77f069e5129ec895",
+      "title": "Iran war's targets widen dangerously into civilian infrastructure and Saudi Arabia reports first deaths - PBS",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2x6WHluN3V2ajNOeG5BS0V1d3d5cjFtSWkyUGtDNDVlV3BFcm9jNko2U1hqMUp1blR3eXJ3YWRHcUhZRzNWQ0szZ1hhOEh1eW5zN25XZEhWd0pNdTV2YmJ5ZnU1M0d6N09lYmRscGJfajlrb0hRaFEyR3g5bkd0OFNRaWQ2UVRrak4xV0M2Wk9TU1l4Z2Uzd1h5YVVmSU9PVmo0UW9qRy1OVlMwQnVXdDAzQXVxR0laUmZicUtlNVh0TjlIb2hYalZnR0pXRGtneVJR0gHYAUFVX3lxTE5nUzFPdGpncURRbUNoMmNiSGRXQi1aLTRwYWdoQ1gwcjZGUzF6U0tScHZlNDJwVE9SdEtnVTl1TmgwQnlYNlhtdFJ4THFENV9HbXBUUURLTkRxRHR2b0VvWEdjbjQwRTZWdTJhNEpLd3B6ZjY2QWlWSVhpc3pnSGR5bnNwRm1nV3d1NmVSSE80dUllTDVON3BGWlhzMlVOVFd0YzcwazU2NldTMFg3WVJXRnQ4REJYQlFSNU1qb2gtZ1BtZ0tMblJtSUVvT0tITHVuQ0poOVE0ZA?oc=5",
+      "summary": "Iran war's targets widen dangerously into civilian infrastructure and Saudi Arabia reports first deaths&nbsp;&nbsp;PBS",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:09:47+00:00",
+      "fetched": "2026-03-08T19:00:06.847185+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "79300409d0ccc36a",
       "title": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZUlvMjE3bHRaS2lFZzhJNFBfaktFX2h2YmhhMDcwd2hJWGRkTmhRM25BZFFDU1VyMm5JTmQ5NXBjR2o2eDFVa01adUFqdV9IeGt4WnU2Yi1SbVBQbGF2ZnZWYnhfT3pqbTNEZjZBaHZOcUVLMkhQRDZkR2JQdmNFWGVTSGtJMHlTazZPbHVEZVo2aldpazRHeGE5d2U1OUJuWlJod2p0LTZTLUxnUmM4ZHFwONIBuAFBVV95cUxPSWhGMmtlbm55bVMyaXJZd19uVDlnQTUyNjFBMmNXZk9wN0YxNXZRbXpITXprTldqdEdvdDBnaGE2dmR3SWpxVWtKd0h2b2ppNy0xNlFQc2NKRFlfZkRRUzVuUzFhMjVqdEdBSFIxMWMxQUJkU0gxenphN0cwN3pZZ21Ea0c3UjZFSDAyN3h3cUo1dnpzUEFiSVlLYi1LeWxVT2NvZS1rMXQxRlBReGEwOFZabXdQeHJz?oc=5",
@@ -100,6 +160,18 @@
       "category": "regional",
       "published": "2026-03-08T17:56:50+00:00",
       "fetched": "2026-03-08T18:15:03.847572+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "2c9cbd45f683a970",
+      "title": "Tehran indicates Khamenei's son will be named supreme leader as Israel expands Iran strikes - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2VLbjVQVmZLWTZWSWx1QUZvelZ2ZUsya1NYUmNlQUVQUy1uWkdiN3pwaWxRbG1ZWmZ6X21qNm95MUVFSE1VVTBzY01KQk5ZQ0FSU1VGVWUzV2FqNE1wMWs2dFByRmZ2cUhYeVFZT3o5YVdPTnllNFM2X05sUGFMVENjbWpjTUQ3Q3c?oc=5",
+      "summary": "Tehran indicates Khamenei's son will be named supreme leader as Israel expands Iran strikes&nbsp;&nbsp;Yahoo",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T17:53:44+00:00",
+      "fetched": "2026-03-08T19:00:06.847561+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -198,6 +270,18 @@
       "fetched": "2026-03-08T17:30:06.312001+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "60423bc5db57d6f2",
+      "title": "‘Putin smiled’: Ukraine hurries to adapt as US focus moves to Iran - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOEEtb3NBN2hHV0gwQnlvWUEyVlpQdnhvUXdub05uQUZ4NlN5YURVZWNOYTZXT0FJRkJHTEs1d1RJTTZfVnBkaENySXQzWXNJR0REd0xxeVlWT0otQlBBVTBSaHh2dmx6SjZ3eWpPSDhKOEtqbV9tMkpweE5RT3djODNhQUpseVlDbmtr?oc=5",
+      "summary": "‘Putin smiled’: Ukraine hurries to adapt as US focus moves to Iran&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T17:23:00+00:00",
+      "fetched": "2026-03-08T19:00:06.847603+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "2023eb7eebf8d957",
@@ -688,6 +772,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T18:45:05.996476+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "973cd9eab4095a95",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOXzg2TlEyLTI2N05MTUpXdVNhd3NuMWptbmNkc29PeWo1a2xEZkxZNGVkTDM1WHJSdmFQaF9QNDhpSWhRdFQ3aXZlOGJDakNMbS15Sm1Hb2w4cjJaWTY3bDF1WTZkX0FJRkJxU3NvaElFNXllU0FGNEpHYlliRUtTZkFzUDFfVGd1bjhZdkNmS29USGVsWXJjWDVHUFJQZ0RoS29uS0dxTUp2d0V6SEh6cVVGeFlLRXl4bGpydjVGM0xIQTBaUThNZGF6ZldmR2hCQUhjT1U1VHFUZlFDUnRKVTRVeklmcnlhU0U3LS0yVDZSQkRSajJOSm9xYTloM1hYbkZkRHh0cHl0cjQzd2g3YS1peVdneTZQZnRrU0s5U2EzekRKczMwZmFsU0xxNDhxWWZ4YmFzLWcteHN5SGdBSk9mSWdiTlJ1NFNTNEtlOGh3SFcwQlE3UXVVTmw1eEdWakJoVjJWMURkZGxxRVF5Vm1RUQ?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T19:00:06.847291+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -4772,6 +4868,18 @@
       "iran_specific": true
     },
     {
+      "id": "ebc4fc2f899dded4",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOMUMxQ0lHQW1EbE5TVWxUa2djQTJIZVJQNjBQeXRQOURXOVRpTnRIXzROUFlYZ3h1ajQ4Z2hnYjVtamRXTTJpLVdFblRneUh3UlhmN3hTYUNReE9XZHlnTVI2SEtDVkZsMFlhbktxckoxQkptSjBVVW1obTNJdkpfRmxERUpFVkdEekVOdXdYMlpubEVSOVgyeEFGWEFOVnJ2Qm1fRnFkaXJYQS11TUo0YXNNWk5ONzhDaDd5X0R0cVBtaWpDaDlVWGY2TVcyb3ZUM0ExaHIyU3ZfdG1KV1hMYmFqdEl6MlhkUG5MMTRqSlpPWEt2SHhNcU5KVUp6MEt1cWFDU3pKU2Z2dG85dzgwbTI2UEJmQXMtenBJTVlhSGpQUURRVlJTVWlCbUFQZUNaV2FubWZHOE50czJpYmc2aGZidExINHkxS3BBWkotT0x6UHljSlc2dVRfd1JmWmVsZWhvNVNJUDE5SXRTMXBsY2RqejB5WDBNdWt0WmMtcEs5amJzRVZvdm93cF9PWDVCR2JvSjF0X3dKZ3FtTU42UkJ2bHRDT1F6YzlSNzhWbmRYWFBiNXdn?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T19:00:06.847494+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5896,114 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T22:30:37+00:00",
       "fetched": "2026-03-08T05:45:06.156129+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "84d574663db98255",
-      "title": "How far will the Iran war spillover? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE14enladHU1REhYT3BsZGU0LUN0YU96TGNYZXZHN29YS2pLa1p1cDdZSjlPQWZ6UHhYeWVFcFdlY1BFeFB3WUxRM0d6QWItY0hIREx4SmlWZlZ2NHhFZ1hmem5QWlZsMzZwcmRiMXNFM3kyUUtDWEZYczFXV1Y0ZTZEclZxVlRQa0g0UGJGSDhuLTDSAZgBQVVfeXFMUGtHX2MzcFZPYllMcmR4Sk8zdHFNMk9ZZU9JMzhnT01sVjgxbzFoTC1McDNlM0IwSFJCbXZZcnVOVEJLaGcwX0t0TU40dmtIeXZhM2liMDlNa2Z0ZmpLdFdKTFQ5RUc1RHVvSXdSc0IxS0JWdmVMVGV3T1V5MFg1Q1JLSGlUTHVNZ19OMElPWVpEX05oa2RsMVA?oc=5",
-      "summary": "How far will the Iran war spillover?&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:28:21+00:00",
-      "fetched": "2026-03-07T23:30:05.965268+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "09eac68a0237f54b",
-      "title": "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
-      "link": "https://www.aljazeera.com/sports/2026/3/7/lamine-yamal-gives-barcelona-hard-fought-1-0-win-at-athletic-bilbao?traffic_source=rss",
-      "summary": "Yamal goal keeps ⁠the champions four points clear ​of Real Madrid at the top of ⁠the La Liga standings.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T22:27:43+00:00",
-      "fetched": "2026-03-07T22:45:03.527557+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "cbabc97c8f42efc3",
-      "title": "Video Retired Army colonel on next phase of war in Iran - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NWGE3cFBvTmpwcmVCSW9jal9vOVZnNHAtc211enp2d0xGSzhfZlZlSnphLUM5UzRIUkJ5MUVXQlBDQ2EwbXdQOHZnUzE?oc=5",
-      "summary": "Video Retired Army colonel on next phase of war in Iran&nbsp;&nbsp;ABC News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:25:40+00:00",
-      "fetched": "2026-03-07T23:15:06.666581+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "71b7c32ba85db305",
-      "title": "Trump oversees return of US troops killed in Iranian drone strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/trump-oversees-return-of-us-troops-killed-in-iranian-drone-strike?traffic_source=rss",
-      "summary": "US President Donald Trump attended the “dignified transfer” of six US Army soldiers killed in an Iranian drone strike.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T22:21:56+00:00",
-      "fetched": "2026-03-07T22:45:03.527583+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "dcaf4a08452ac9fb",
-      "title": "About 454,000 registered as displaced in Lebanon, minister says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/about-454000-registered-displaced-lebanon-minister-says",
-      "summary": "\n\n  \n      \n      \nAbout 454,000 registered as displaced in Lebanon, minister says\n\n    \n    \n\n        \n    \n                Lebanon’s social affairs minister, Haneen Sayed, has announced that approximately 454,000 Lebanese people have registered as displaced.\n\n\"Today, we inspected the preparations ",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T22:19:29+00:00",
-      "fetched": "2026-03-07T22:30:06.494730+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "c97e19f878a6598c",
-      "title": "Dozens gather in Boston in support of war with Iran and to honor \"brave American soldiers\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0padm1tMUpRRjBneXZZSndwTzJLV1hqRzE1dm9tTE5TOVZ6b0pFcEJTdHdIbldWUlJoZHY1RloyaS1NMk1hSDl0VFg2YkhTdmtoLUpKZWVDUk9acnR0MGgzeWJNWXNLbm9mMU9ZaE5rUEpYR2pOeHA3ZFhfSUpLd21zNGN1dFZ2SlcydQ?oc=5",
-      "summary": "Dozens gather in Boston in support of war with Iran and to honor \"brave American soldiers\"&nbsp;&nbsp;CBS News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:14:00+00:00",
-      "fetched": "2026-03-07T22:30:06.381707+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7f81ed7151daab7b",
-      "title": "Israel kills two in southern Lebanon, bombs Beirut suburbs",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-two-southern-lebanon-bombs-beirut-suburbs",
-      "summary": "\n\n  \n      \n      \nIsrael kills two in southern Lebanon, bombs Beirut suburbs\n\n    \n    \n\n        \n    \n                The Lebanese health ministry said that two people were killed in an Israeli air strike on the town of Kfar Rumman, in the Nabatieh area&nbsp;in southern Lebanon, Al Jazeera reporte",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T22:12:01+00:00",
-      "fetched": "2026-03-07T22:15:06.654022+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "4ad282dcd608a852",
-      "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWm9MaDFfMHRHNUF2WUNKSzJQaWNYZi1PLXd5bTdMZTFUblZaZWs4WTVHUXczYkRPc1JPQmJtMk1NY2wzTE0wbXp6UHVqNUc5MmQzX3hPSm8wa3NxZXJ5dzdHZjMzR2lka0N6cVdvZW56RTlaTHp2UFQ0dFkxNl96aUNNT2R5UWlTSlR1OTB4LU5TOVIycEo0U0RWcDBNYk9EV1gwcktXTnrSAa4BQVVfeXFMUHNvZTBJQV9OSFlqUnJMVVA2ZlNlRFo2ak5zLTliZnR1d3B0ekVac3B5NHd3Wmx3b21CS1QySjN3c253Y0I3dWJfbnhEN1pnUElOS0Rxa0ZUclJ4WTZsOVBGeTlraXFacWdkUTcwZFNIZ0x6ckZnVTYtcXFDVmpjNWxTaFBhYmhTTzNEM21meXE0UnZXOFhlbXdlYlFveXpVNWNmT0dWWFJnZi03NkpB?oc=5",
-      "summary": "US embassy in Baghdad attacked as US-Israel war on Iran escalates&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:09:08+00:00",
-      "fetched": "2026-03-07T22:15:06.543062+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5256f63d37d1d17a",
-      "title": "The impact of Iran's attacks on the UAE",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5736527/the-impact-of-irans-attacks-on-the-uae",
-      "summary": "The UAE, billed as a global luxury destination, has received the bulk of Iran's attacks in the region so far.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-07T22:08:05+00:00",
-      "fetched": "2026-03-07T22:15:06.803091+00:00",
       "relevant": true,
       "iran_specific": true
     }
