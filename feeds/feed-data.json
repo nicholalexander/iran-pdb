@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T16:15:05.745126+00:00",
+    "last_updated": "2026-03-08T16:30:06.915553+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 6,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "6636476c4ec6a949",
+      "title": "Iran destroys four advanced US THAAD radars, downs Israeli drone",
+      "link": "https://presstv.ir/Detail/2026/03/08/765125/Iran-destroys-four-advanced-US-THAAD-radars-downs-Israeli-drone",
+      "summary": "The Iranian armed forces have destroyed four advanced American radar systems during reprisal attacks targeting the United States’ anti-missile defense infrastructure in the region.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T16:30:04.751961+00:00",
+      "fetched": "2026-03-08T16:30:04.751992+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "055a618643b82742",
+      "title": "Two killed in strike on residential building in Saudi Arabia",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/2-killed-strike-residential-building-saudi-arabia",
+      "summary": "\n\n  \n      \n      \nTwo killed in strike on residential building in Saudi Arabia\n\n    \n    \n\n        \n    \n                A strike on a residential building in the central al-Kharj governorate in Saudi Arabia has killed at least two people and wounded a dozen others, according to the civil defence a",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T16:24:36+00:00",
+      "fetched": "2026-03-08T16:30:06.817262+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "e1220f3d06befc59",
       "title": "US sticks to its policy of anti-Russian sanctions, despite easing for India — official",
@@ -124,6 +148,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T16:15:05.525140+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ab360868182e7f73",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQRXczbFJkaHplWXd1RV80T09HcHRuTWQ2UVJCMmtvM1VNd3BxS2NmcXFYaHZ2NzhQN2ZtLTQ3T0xqSkFsckpjVW9scWJiaXg2SGZOemdscmgwcE5pNm0wSkZTNUxPUFRneDdZRkY0aTNBZm1PVXJVaEN6c2lFdFNSNlZKRFB3NjlWWmVrT3RKTmRfR3NzMmRfYkU4N1ZnQTF3eDdEd000YWdJUFpYX0ZPM25TYThEdWdmajlxZGlJQ2ZScTRQT2xMd2U4NHJRV0o0d3FDX1NLaVo4a3ZvMGttUzJ5VnJPeU9UQ09rZlpJcW5VOUM0bnQ0eHVIYnphU3RhVXlMZ1I1NVgtRUUzYmk5clJldkhIN3J1dk5oY0doQ1FMaVFnVExWZEdTc0QtM3FGbGVZWU5CbnB6UmYwRkRGNUcxcGVOZHF0OFRsdGt1TkpvNk1IZmI5VE5QYnBHMlRNTVliN213R0dwU2t1Z29FU3JfMA?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T16:30:06.639515+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -400,6 +436,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T16:15:05.525389+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7bc3493932aec3b7",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQZFhFSGtveXI4ZUdreFl6T3JNQmJnUUFuS1ZIUmxiTlRqVndMQ3cxZS12MDdRZUQxck1lRklzalhfYzN1bWpnV1BaWURuTHYzMmQteFBXaWI1OGVYZl9jNkI4dWlUNjVLV2c2STh4WFhxeVVjd18wNDZIWFBxM2k1SGlKbjlhNlV0UlhvaXA2ZG5Eek5sVnVlTG5icS1QUnZsblVwNnlXSUdGMl9FRTdrLU5RWjlEMGFFcmJOeFk2Q25LNkRzZ25uUExrNEFPSWFkS3ZzWV80SFdMTUg4OHh4dGZWVGpLMmlBemlQcXBoMTlxay1hZ1ZER2FsNHJOSzUtT3IwSUZ0UDNKN1p6YmQtOGpRYmRHUlJOc2NXSnV1VmVGWHFqMGZ6TjlkMkhwZGJuTlNlbmRaTGloZ1RMb3FtRTcwR0UxdlhzX0JXTG1WUGtaZUtRSjRmY1c1TE1UWVR6UmJHMFZHaWVlZlV2STJUYUVCSzlZWGNqZVRRbENBcG1ueTI2MEpzY0dHU0E3aXQ4Y3ZWcWhxSEFIUlJmNzRBaW9RUmtaM2d4ZWF4T2lyT2g0T044RUdocA?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T16:30:06.639647+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3896,6 +3944,18 @@
       "iran_specific": true
     },
     {
+      "id": "46d03f41f952b7c1",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOLWg4SHZaeHZOTG5BN1VLYzRWUVJ4TXlRVmk5UkNWcE1vZTFySVlzN2hnLVVXWWpnNVRzTlNsQnQ0d2JycEEzVEY3UEdMeDU5Z1lHYWxWUjhuTzNtN2dwMldBNXRWcUJrckdySEs0SVFFZl9VRUY0XzVoNXc3WVZfeG5VYXdVcXdxZXd1RUlBeGhLV0Q4dnhfWXRKanRpTEowdmlITzQ5VnlMNWhCRzhjc3RBT3VsT3dXVUZNZmJrODFzVnFCZ0pYSjRIbVh0MzA2Z3hPc21ndmh2MnF4UHJyVjg4Uk40SFRDNDRrVW0wX3RKbjZBY2x4eU54eHdjQkwwWjVzWWs3TmVWVk54TFJwOGRXcEJrdUs1aTVhV09CcE55bklRcm1aeEc2OXU5Q01BM2QtZDdtNDV1dTZnSXBIWE9uc1ItYWpST2t2eDFIVURCajNpMkpiYm1uZlVmakNBV250dEJjNjcxQWxLcDdKbHRERnZhTVR5SUVneUk3VGFqQmt5YXpISEZxRk1FT2dSbjZUU18tRmt6X041bkZJaGVCSTFlVksxYjgwSms5VGZwV09uTEU4?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T16:30:06.639797+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5946,66 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.641121+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "9ec114a1526a8d1d",
-      "title": "Israel seeks instability across West Asia: Analyst",
-      "link": "https://presstv.ir/Detail/2025/10/26/757594/Israel-instability-West-Asia-Lebanon-ceasefire-violation-",
-      "summary": "Political analyst Tim Anderson says Israel’s core objective is to fuel instability across the region.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641063+00:00",
-      "fetched": "2026-03-07T20:47:33.641067+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "cecccb3f15a4237a",
-      "title": "Washington seeking regime change in Venezuela: Analyst",
-      "link": "https://presstv.ir/Detail/2025/11/02/758046/Washington-regime-change-Venezuela-US-military-Caribbean-region",
-      "summary": "Podcaster and Journalist Esha Krishnaswamy believes the U-S military buildup in the Caribbean region is aimed at regime change in Venezuela.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641012+00:00",
-      "fetched": "2026-03-07T20:47:33.641016+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "856e055ed0fa3a3e",
-      "title": "Spying activity increased in Yemen after Gaza war: Analyst",
-      "link": "https://presstv.ir/Detail/2025/11/08/758441/Yemen-espionage-network-Gaza-war-",
-      "summary": "Activist and political commentator, Hussain al-Bukhaiti, joined us with his take regarding the dismantling of an espionage network by the Yemeni government.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640969+00:00",
-      "fetched": "2026-03-07T20:47:33.640973+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1bfa48fb92d6d15c",
-      "title": "Japan PM wants to appease Trump with inflammatory Taiwan remarks: Analyst",
-      "link": "https://presstv.ir/Detail/2025/11/22/759281/Japan-Prime-Minister-US-president-Donald-Trump-anti-China-remarks-Taiwan-",
-      "summary": "Political commentator Einar Tangen says the Japanese prime minister’s recent anti-China remarks on Taiwan are designed to appease US President Donald Trump.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640925+00:00",
-      "fetched": "2026-03-07T20:47:33.640928+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "c95067aa3b4cd40b",
-      "title": "US seeking to take control of Venezuela’s oil, analyst says",
-      "link": "https://presstv.ir/Detail/2025/11/23/759351/United-States-Venezuela-oil-drug-cartels-Caribbean-",
-      "summary": "Kevin Barrett, an editor at the Veterans Today news website, believes the United States’ so-called war on drug cartels in the Caribbean is merely a pretext for seizing control of Venezuela’s oil supplies.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.640866+00:00",
-      "fetched": "2026-03-07T20:47:33.640870+00:00",
-      "relevant": true,
-      "iran_specific": false
     }
   ]
 }
