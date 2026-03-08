@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T14:00:06.762659+00:00",
+    "last_updated": "2026-03-08T14:15:06.187556+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "2cfb0ad4d034ee56",
+      "title": "Countries can avoid Iranian attacks only by blocking US-Israeli use of territory: Official",
+      "link": "https://presstv.ir/Detail/2026/03/08/765122/Countries-can-avoid-Iranian-attacks-only-by-blocking-US-Israeli-use-of-territory-Official",
+      "summary": "A senior Iranian official says Tehran will not hesitate to attack the regional assets of enemies.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T14:15:04.187227+00:00",
+      "fetched": "2026-03-08T14:15:04.187250+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "73d3cbd650a29bbf",
+      "title": "Amid escalation, Iran religious scholars signal new leader to be named soon",
+      "link": "https://www.aljazeera.com/features/2026/3/8/iranian-authorities-push-toward-new-leadership-as-war-escalates?traffic_source=rss",
+      "summary": "&#039;Some obstacles have to be removed&#039; and selection must be undisputed inside government, Assembly of Experts members say.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T14:05:14+00:00",
+      "fetched": "2026-03-08T14:15:03.763051+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d69ad11eaa59911f",
+      "title": "French politician demand Paris halt aid to Ukraine other threats to Hungarian PM",
+      "link": "https://tass.com/world/2098535",
+      "summary": "Hungarians are tired of financing the pro-European mafia and Zelensky's mafia, told Leader of the French party The Patriots Florian Philippot",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T14:04:14+00:00",
+      "fetched": "2026-03-08T14:15:04.858135+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "0e887ff1a519b2f0",
       "title": "Arab League ministerial meeting discusses Iranian attacks",
@@ -44,6 +80,18 @@
       "iran_specific": true
     },
     {
+      "id": "a68e6db39ab4d69e",
+      "title": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/unicef-spokesman-enraged-over-child-casualties-from-israeli-us-iran-war?traffic_source=rss",
+      "summary": "UNICEF spokesman James Elder stressed the importance of growing numbers of children killed in global conflicts.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T13:48:05+00:00",
+      "fetched": "2026-03-08T14:15:03.763100+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "a27660aa066f80ac",
       "title": "Europe's mixed response to Iran war draws Trump's fury toward U.S. allies - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktYNHZwZnVCYVhERnc5N1RGUW43T1NxNEx2VVEya2Nlc3V2RG40c1gxZWZkb1FwTmxqT0dDVi1MLVJPSmVHRDc5elZiWTRWQkVzeUxNWEpEU2VZbFFyVGI0Mm5Hby1ha1VEX0ZFQW1KWUdnTjR4NXNIUGdIeFk1WEh0UTg5ZV9ETEVRU0lpdnVVZzRNa1JhdHBoLTVxR3Y0c3Q3QVVRQ2I3cTQ?oc=5",
@@ -65,6 +113,18 @@
       "published": "2026-03-08T13:44:38+00:00",
       "fetched": "2026-03-08T13:45:06.226074+00:00",
       "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "c235030ecabf608c",
+      "title": "Pope Leo urges dialogue amid Middle East war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/pope-leo-urges-dialogue-amid-middle-east-war?traffic_source=rss",
+      "summary": "Pope Leo urged dialogue and an end to the violence in the Middle East as tensions escalate in the region.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T13:44:37+00:00",
+      "fetched": "2026-03-08T14:15:03.763129+00:00",
+      "relevant": true,
       "iran_specific": false
     },
     {
@@ -5944,66 +6004,6 @@
       "category": "iranian",
       "published": "2026-03-07T20:47:33.639057+00:00",
       "fetched": "2026-03-07T20:47:33.639060+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f5912f0caeabd81e",
-      "title": "Israeli army admits failure to intercept Iranian missiles: Report",
-      "link": "https://presstv.ir/Detail/2026/03/07/765090/Israeli-army-acknowledges-inability-to-intercept-Iran-missiles,-late-activation-of-sirens",
-      "summary": "The Israeli military has confirmed the inability of its radar systems to intercept incoming Iranian missiles and its missile systems to shoot them down.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639023+00:00",
-      "fetched": "2026-03-07T20:47:33.639026+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "212d908adc3cc8f4",
-      "title": "Iran ‘awaiting’ arrival of US forces in Strait of Hormuz: Military official",
-      "link": "https://presstv.ir/Detail/2026/03/07/765088/Iran-awaiting-arriva%D9%85-of-US-forces-in-Strait-of-Hormuz-Military-official",
-      "summary": "The Iranian armed forces are eagerly awaiting the arrival of US forces that Washington has claimed would be deployed to escort oil tankers in the Strait of Hormuz, a military official said.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.638995+00:00",
-      "fetched": "2026-03-07T20:47:33.638999+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3ed0d345783cc445",
-      "title": "No security as long as US keeps military bases in region: Qalibaf",
-      "link": "https://presstv.ir/Detail/2026/03/07/765089/No-security-as-long-as-US-keeps-military-bases-in-region-Qalibaf",
-      "summary": "Iranian Parliament Speaker Mohammad Baqer Qalibaf has warned regional countries that they will experience persistent insecurity as long as they host American military bases.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.638959+00:00",
-      "fetched": "2026-03-07T20:47:33.638963+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "6e31d3f1f706f5a6",
-      "title": "Any point of aggression against Iran ‘a legitimate target’: Armed forces spokesman",
-      "link": "https://presstv.ir/Detail/2026/03/07/765078/Any-point-of-aggression-against-Iran-a-legitimate-target-Armed-forces-spokesman",
-      "summary": "Senior spokesman for Iran’s armed forces says any point of aggression against Iran is a legitimate target for the country.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.638931+00:00",
-      "fetched": "2026-03-07T20:47:33.638935+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "053ff58ca09753d6",
-      "title": "US worried over dwindling ammunition stocks in war against Iran: Report",
-      "link": "https://presstv.ir/Detail/2026/03/07/765081/US-worried-over-dwindling-ammunition-stocks-in-war-against-Iran-Report",
-      "summary": "American officials worry about the rapid depletion of the US military’s advanced weaponry amid the ongoing military aggression on Iran.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.638896+00:00",
-      "fetched": "2026-03-07T20:47:33.638900+00:00",
       "relevant": true,
       "iran_specific": true
     }
