@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T02:30:06.575882+00:00",
+    "last_updated": "2026-03-08T02:45:06.202942+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 5,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "ab232812a2ad4ae4",
+      "title": "Report: Trump considering special forces option in Iran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-considering-special-forces-option-iran",
+      "summary": "\n\n  \n      \n      \nReport: Trump considering special forces option in Iran\n\n    \n    \n\n        \n    \n                US President Donald Trump is considering options that could include deploying special forces to Iran to target key nuclear facilities, according to a report by the American news websi",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T02:42:41+00:00",
+      "fetched": "2026-03-08T02:45:06.134325+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "e1d03f9dc7377917",
       "title": "Iran conducts missile strike on US base after attack on desalination facility",
@@ -196,6 +208,18 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T02:30:06.276112+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f7b5fc26a06a8ae3",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQczZzVGdINE9CX3I3SlprQTVkY2dJb1RlYUlJemJwMk9qYnBmTUlVQS05Q0p4ejNnOENSaE1OM0tjU3NHUWVxR0dCVllhMWk2LVZ1QS1DZWdQTWduNXdnWkZHb2kzaTVGNjllN3ZHRG9hWHZZaGRqQ21jQUxlUmlsVmgySmNfRmtzWW5KZWFJUDhXTzNoNDNpdmt4N19HQ0tDc181SzRRLVk2NFNaRzkwNzFwRGF2VDlZQ2VKUm1jNnVkSFdYVHcxV3JWaWlNTUxab25pWTBpNlJacTJnclkxQ2xnXzhnYUF3ckUwMkRxdEg4bWF1MU85NGN3WGNBMElROExEaTdfUFg0b3FMYzZNTkhGdG5TNmlKZnhjQkh1bGdTMDMyMHZBQVdHMkFqYlVnNE44RW1fN1M4cUlqaFM1Q3FtVVZWcEN1Ui1qb0FHLXNIMTExYlNXbUs5TjFJQ1lGUVdFeE8yNVc2ZGFJQnNpdlVVTWNFSFJ5VDlnaERQRi1WaVpHN29yOVFkYXJBcldZX0V5Vk9yTnF3MWl4YmRzRWprTzZCS1ROd3IxS2tyX0FlQjBHakM4?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T02:45:06.038130+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -472,6 +496,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T02:30:06.276664+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1f566c750cb40ad5",
+      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQenFpdkthUE9tUFBoRmFhc2k5NEVXZVhMbjJRazM0X3dZdG5zd1JwX2Z1c0RHcUNLOFJMMnJLS042d3FmTUhNN3VaaWZCOXNwdzJmRlc5OFJKdmY4dWVfc0RYb3JwZ2ZDSDIxS2Z6dDhFTENkYkxXa1FzYTdhTmxIUXc0RUJEMVQ2SmNaYTA1VE5TZlJXMm0zOFZEdVRuVXZWSi1pMFRHcHM3dUpDVTVmMTJWaE05V2J0OW05Q1R3ZWljVk1IcHdsZ0FSblM3c0hhc2NEY0FzcEFYTHpyVEF0a1RONDFCTHV4LVVFWjhzYTljTlRvejlNZnhwNDdDME1xR2E1Ni1IcVRjbzc2MFVpRVd4NGxsOUU2RXJfRGliLUtmcEFaTDR4Z0hVU1kzU3hZZV9nWVg2bW1TbEJ4eWVrVFJNVXJ5T0RmbnNxcUtvMW5LRDBKZ3dNREc2Z1pfbGV6SmVYc2szS1hKTWd4NTczU1htcTNLVTQ?oc=5",
+      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T02:45:06.038480+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3572,6 +3608,18 @@
       "iran_specific": true
     },
     {
+      "id": "fda80d79ec4fdad7",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTG93cG9qUUlxMmZwLWEtbVFqSEVsZnh5dnp4c1FnYlpTUF9sZ3ZZUUpkNjVzQ3piWkxTRkdTcWdxSHBseFB6b1BRQ3ZsRm0xTmYybmk2X2dWTXo4R2RUSEhPLWhkUVcwWXdBVExIemN6anVtMW44cVZuZ0hXcmQxR1VWajhBdU51OUNUTWUwb2RZRU5RSlVieUJxMi1EWUFXLXlKZlMzWXdZa1hUMU83OHc2MUlVbUFLSFNueDVVaWp6SDlVaGZqMXBRWUxLNTRpVkcxT1BLQXBMLUl0QnVFcFZlOEI5ODZnd1NkYzlOS0ptajhDREQ4dmZEVmwxSVR2Ny1ObWdJN1hQZ1RJa3EyWndOc2c0bHpmNEtUODBrT1U3VmJZZ3ZhN3NncXhNSGd3OXVtX0RhRUJSa1FMYjRCNVNyWU9EbXFCTjNLRnpZSzd2bmtzSkQ2SkJjQ2NrMkVxdHhmWHVTV3ZuNGE1WXJzZ3MySkJqb2JQQTJIbDJTdVRsSk1vd1FZ?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T02:45:06.038306+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5958,54 +6006,6 @@
       "fetched": "2026-03-07T20:47:34.883560+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "c84778365d42dae3",
-      "title": "Majority of Americans oppose military action in Iran, new poll finds - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzRIZldKNm1MOUk4Q1RsVkNhblJVRE5nTW1BTkxDbHNNWFJ2MnVLdE5KNV9GQ2RHR0czTU4xQnY1WDN3dWQ2NWRDbVpCdTVEbElFeUNQUHBhNEkwNjNDTE9Camw4SXpqMHhzejQtdlBVMDJlRnJUVzRhc2NHeUZrLUF6TDZoZzJrUExUWk40RWcySVFzLUw5U0VOQVo4VHNFQ2pYNVk0ZW_SAa4BQVVfeXFMT0dkZlM0bzVDWHR2di16S2Q3NHRtWi1vaVlWOGNpc2FsdWxGZ2JIYmhHbU9LTV9zejk0U19vVVpGMVF6eVZRbFhwX0Njc2ZNVklmS01FQU5XRkctZmdxbmIzaE9sODdGeG9EekNMem9yN3BXMk4tclA4WWRnamE0UWprb1p0LUlEQ3dFN2pGT0R2aU9peUZjY0d6a0pycEJUQVV3X0hNaW0teTRFM1ln?oc=5",
-      "summary": "Majority of Americans oppose military action in Iran, new poll finds&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T19:00:37+00:00",
-      "fetched": "2026-03-07T23:30:05.965653+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "bfbee92ee68c3833",
-      "title": "Europe’s Disjointed Response to the War With Iran - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2t3QWo5dVVWRHk4UVl4T3h5eUdwdW9Wb2xqRGF5eXNvZjNPb1lXYjZSaVdKSXBKNFF1M1hLV243VzNkdlJOeUM0ZFRKQmZad29DTEYtRXAwUXNhMXR6Wm9Vc1FwclBBRVBqYXNZVnVuTDZXQUVpalVsOUdORXJkbnJSWWpmeHNDdlg0MXBQTDc2T1E?oc=5",
-      "summary": "Europe’s Disjointed Response to the War With Iran&nbsp;&nbsp;Council on Foreign Relations",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-06T18:45:03+00:00",
-      "fetched": "2026-03-07T20:47:34.883275+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "44bb94328cd60b37",
-      "title": "After the U.S. sinks an Iranian warship, Sri Lanka takes custody of an Iranian vessel",
-      "link": "https://www.npr.org/2026/03/06/g-s1-112759/after-the-u-s-sinks-an-iranian-warship-sri-lanka-takes-custody-of-an-iranian-vessel",
-      "summary": "The move followed Wednesday's sinking of another Iranian warship by a U.S. submarine. Australia confirmed three Australians were on that submarine.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-06T18:38:00+00:00",
-      "fetched": "2026-03-07T20:47:35.134217+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9419773287a505e3",
-      "title": "Beirut evacuees 'sleeping in tents and cars'",
-      "link": "https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-06T18:37:55+00:00",
-      "fetched": "2026-03-07T20:41:04.877261+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
