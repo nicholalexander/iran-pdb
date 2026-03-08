@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T06:00:06.539804+00:00",
+    "last_updated": "2026-03-08T06:15:06.748505+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "ef701f3ad35caa05",
+      "title": "Pezeshkian: Iran will respond with strength to attacks",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-iran-will-respond-strength-attacks",
+      "summary": "\n\n  \n      \n      \nPezeshkian: Iran will respond with strength to attacks\n\n    \n    \n\n        \n    \n                Iranian President Masoud Pezeshkian said Iran will respond forcefully to any attacks on its territory but stressed that Tehran seeks good relations with neighbouring countries.\n\nSpeaki",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T06:05:01+00:00",
+      "fetched": "2026-03-08T06:15:06.643470+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "dc34b05a92b6f1a4",
+      "title": "What are the likely outcomes of the US-Israel war with Iran, a country three times the size of France? Will the world witness the same chaos as after the 2003 invasion of Iraq? According to Dr. Roham Alvandi at the London School of Economics and Political Sci - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcUl2cFR4VkZOR0Q2X01oanFwdzRXV1VXaEk5MVhKa29zbTFVQ01ucnZBMFlKNk95a3dvckdSckNZaUkyd3JmQ2Z3RjJ0OGJvZmNpVUo5RXRXR1d3aFBlVVFVQkJsNkhidzN3STIxeW5OSjhFazQ1U1lKNTV4QzdWUmNvSXc3ZXFUQXNHbnBnSkRoejhYVjh2b3J0VnhsUmN4Rl9uVjdvUy11NnNreW5Mckg0OEVSdE0wNzFPUXBodXQxREJ1NU9fU2ZBWTVROUZQQnZUbTZxYkVSOVRBZUNyVA?oc=5",
+      "summary": "What are the likely outcomes of the US-Israel war with Iran, a country three times the size of France? Will the world witness the same chaos as after the 2003 invasion of Iraq? According to Dr. Roham Alvandi at the London School of Economics and Political Sci&nbsp;&nbsp;facebook.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T06:02:49+00:00",
+      "fetched": "2026-03-08T06:15:06.517889+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "efae32fd7792c942",
+      "title": "Bahrain asks citizens to 'head to nearest safe place'",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-asks-citizens-head-nearest-safe-place",
+      "summary": "\n\n  \n      \n      \nBahrain asks citizens to 'head to nearest safe place'\n\n    \n    \n\n        \n    \n                Authorities in Bahrain on Sunday said that sirens were activated, while advising people to \"head to the nearest safe place\", Al Jazeera reported.&nbsp;\n\n“Citizens and residents are urge",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T06:02:32+00:00",
+      "fetched": "2026-03-08T06:15:06.643583+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "f1aa438bff66b6f9",
       "title": "Retaliatory operations only target ‘origin’ of anti-Iran attacks: Envoy",
@@ -28,6 +64,18 @@
       "category": "iranian",
       "published": "2026-03-08T05:45:04.540204+00:00",
       "fetched": "2026-03-08T05:45:04.540233+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "67749eb9213fdbe5",
+      "title": "Live updates: Iran war news; fresh strikes target Tehran’s energy resources - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51UG43aXFkYXdqX3dmYXc3R08zeU5keTZISWNabnhncG5GemZlNjFVV1pHcGRUVW1rTzd5djZyZnVtNW1fbjZKOENtS0ZITm0tVEhzRVlualFGVnp5YlRqZlpMMFZnbHVWVEIwVEpXck8xVWFCWFlIUA?oc=5",
+      "summary": "Live updates: Iran war news; fresh strikes target Tehran’s energy resources&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T05:36:00+00:00",
+      "fetched": "2026-03-08T06:15:06.517679+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -136,6 +184,18 @@
       "category": "aggregator",
       "published": "2026-03-08T05:04:00+00:00",
       "fetched": "2026-03-08T05:30:08.112098+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "82838402998d808e",
+      "title": "Russia sits back as the Iran war escalates, expecting long-term gains - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXByck9YSlYybHVick9ZN2pvUVdUR0dhMGUyd2VaUkdfVVNLeUVJSTNLcDNpQWRpLXF6bmNDczYyUkhCZEg1T05jUXRHQWhBeDk5NTZ1NGlSZ3I2YTJ5eGZsd1NJSS1ibVYycERUYWpiblBnLTNBZTNJd2txc0lIcV9rdGw3RFVndkYzX01Nc2JGT3A0V2k0bQ?oc=5",
+      "summary": "Russia sits back as the Iran war escalates, expecting long-term gains&nbsp;&nbsp;AP News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T05:04:00+00:00",
+      "fetched": "2026-03-08T06:15:06.517965+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -908,6 +968,18 @@
       "iran_specific": true
     },
     {
+      "id": "235a03be1501f03d",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQazViUThYZXJUYmJwWlNTdnJfUGhoTEdyUllKNk1PbkFxYW41c1pDQUV2UFYzRGhoM3hncWJrTVJrZE85OFU4LTdDOFpDT1hwRndmVmFsdU1vc2ZjeEtkSElKdUl6OE9sVDlrZTE2b0lCdTNtWkI4a1pKRVhKSktSdWhseTJYSFV5UVNkZ1c1cmpoSVBLWE1uLUQtUkdnbVZxMUVjaGstbEpYWmNicXVoZGV0N1hqaDZ3andSSDFsYVNVNDBMa1VpTWJNeFA1TFdLdU5NSVdiemdvWmVETnM3cDhYTUgtVmJlaE56NkdGWkNEc21oeVEzS3gtSWdyblZBVk9pRnhQdk9acDNDQ0FMaEtiT181VG94OWFJYU5TZWpVcEdLcm1KOVRaUHRkd0pNNHBWRWloWElSZkxmVW1KYXEzQlVEckRGZFY0LVp5WmRJZm0yVk55d0tINnVlU2tnUVlZXzEwakJyR1VqQUoyWnRzVEVSRFMxMnVaT24wX1duMDFDRllzbEg2TXFCelBSd0pOejdfQTdZM1NRcGNURFI2NTNscHZTTjZFNUlfS0RDVkptekNv?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T06:15:06.518359+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1120,6 +1192,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T06:00:06.306913+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "d49c0a7f26a898c3",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQdnJhUGl0TDBnM2dXTTFVRDFKaVh5bzJuMkpGQV9XVzhERWdxcGdqSEpKTTBBYjRSRWVGS1hlMEctYS1UZXhkeXl1SG1wcVUwaVJUSUY0UTBEUS1Hczd6azl1cFNvY1VyVmQ3U2NTTjFYMFpzWGptZlItTmlFOWxYM2dJRENxZGl4eVRGRUZ3RVBsc1laRmgwUUFzMjRfS0doMUNCX3NCWVJLdkhtUE5qU1ZYZkpic25wYzJycjNNVEY5MjlnSmtyT3lSZVJ0ZDYycEU5OFByNUlkN3dQOVhDbUlRaVRRZ2p5WUl6NnVNMk1IZ0tBWlRZY19KTTNBLVdmb3RYbWwxNzBuLUJiWlhVbnl0d2FhMThqUnpKQW12bXN3M2NkSHVDV0xENjE3ZnpWQm9xU3o4c1NDOFJkOV92czVKSzZLc090a0poU2t5LXZxeEZ4ODF2R05aRmYzWXVNaUhVbVEyZHluQXFsWjdqSFN3cjR2N19xRTE0V0xkMkRyY25UbzZadUk2QTdUS3Zxc0s0MTQyQWFmckIzMlF6UF9sbGFfQXI3ZGpQZ3VTdw?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T06:15:06.518191+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -4784,6 +4868,18 @@
       "iran_specific": true
     },
     {
+      "id": "66f7b76f973ec713",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOUjdDWEZfWmtzVk0yZ2N3WW5MM21LcXlsRmNnTzh0ek93Um5JTTl4bkM4SWtydTcwNFhIazctbEstbVJGLTJaaUpjRlJNVVJkRzgzVEdMT0NIU3hmbE96YmtSRlphdTltU1cwX0ZTSlB2dEEwMHVxTU9BN3o0MC1zWGNTUFlJTTl0VUYtVl9LdGx3WFBjUnNOMTlsZ0Q0WkZiNmxHMDdQX2E1YW1rRUZNU3ZMM2hzZEdRY0NjMXZITG1zbS1qbnNqcTNNdWZWcC1YXy1lUTllT3pmWjBqOGdma3A2cURqUjJDU1dQRGFDRV91SnliYlUzODZnbWhzM19MNnJVYWttSURzTllsT0tMMnRSeGRTSl8yUDdDNnlVRXpUX0dtSXFHWnhuaER5ZU1EYXgxaDRuSTNjTEl2UjNVQkZZV2NPTzZQYkRqc094SVlwT3hIWFB2V3pMcV9PanlqNzYyZmJzdDdrbDAtbmtqY1hqUEpWN0dDVmZ2VjV2Vjd4NWw1UEZR?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T06:15:06.517999+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5910,102 +6006,6 @@
       "fetched": "2026-03-07T20:41:04.689118+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "f505f39880f38fc3",
-      "title": "Bahraini air defenses down over 86 missiles, nearly 148 drones since start of conflict",
-      "link": "https://tass.com/world/2098157",
-      "summary": "Tjhe air defense systems continue to counter successive waves of Iranian terrorist attacks, the Defense Ministry reported",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T11:12:41+00:00",
-      "fetched": "2026-03-07T20:41:22.708679+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1ec667fe5ed5b3a8",
-      "title": "White House releases video montages gamifying Iran war on social media - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dOeDJNOEc3akxkZjZnVHRDQWhEalFSZDhkZTBEUXl0UFVXNy1FRDVzdE5IMi1PRHlxb2ctek5zamxmdTYyZ05PeWVaNmFPbGxoVUhGTFlfQmoxY2V3ZEc1emdBTGdvQmhBQ205Z1dxRkxjT1NmNTNjR0VqbVdHWm5UYXBpdVBSeG1VbkU4M1piblU1Sml5Z0NRTS1QNENuN0E?oc=5",
-      "summary": "White House releases video montages gamifying Iran war on social media&nbsp;&nbsp;France 24",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T11:09:01+00:00",
-      "fetched": "2026-03-07T20:47:34.882754+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "619f71011b3543ee",
-      "title": "India vs New Zealand: T20 World Cup final – Kiwis ready to ‘break hearts’",
-      "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-kiwis-ready-to-break-hearts?traffic_source=rss",
-      "summary": "New Zealand are targeting a first T20 World Cup title, which would deny India their third - and in front of home crowd.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T11:08:18+00:00",
-      "fetched": "2026-03-07T20:41:04.689158+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "d81423d7b61909ed",
-      "title": "Israeli army attacks Hezbollah military targets, Radwan commanders in Lebanon",
-      "link": "https://tass.com/world/2098153",
-      "summary": "The IDF completed an additional wave of strikes targeting rocket launchers, weapons storage facilities, and additional military sites belonging to the Hezbollah terrorist organization, the army press service reported",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T11:07:00+00:00",
-      "fetched": "2026-03-07T20:41:22.708707+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1f0eec2e8b45be49",
-      "title": "Beirut’s southern suburbs in ruins after Israeli attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/beiruts-southern-suburbs-in-ruins-after-israeli-attack?traffic_source=rss",
-      "summary": "Israeli strikes have left parts of Beirut’s southern suburbs in ruins.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T11:05:36+00:00",
-      "fetched": "2026-03-07T20:41:04.689187+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "2177163bd1c2dcc1",
-      "title": "New explosions rock Tehran — news agency",
-      "link": "https://tass.com/world/2098149",
-      "summary": "According to ISNA, the explosions affected several areas of the Iranian capital",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T11:04:29+00:00",
-      "fetched": "2026-03-07T20:41:22.708734+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0654c932fb5ab3dd",
-      "title": "America can’t afford Trump’s war with Iran for long - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZl9RMk92U1R2R0NXQlFQalRzejNqVVVWTUsxVlhRQnVINDhJaG8wUjdlTkNueHlnZHhEaERhd0ZnQWJ1UHZlTEpxb3N5N3NYS2U5M2NKZE4tTE1TMndzNGJzREFMbmZXb3c?oc=5",
-      "summary": "America can’t afford Trump’s war with Iran for long&nbsp;&nbsp;MS NOW",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T11:00:00+00:00",
-      "fetched": "2026-03-07T21:30:07.341309+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e73e904f022a6286",
-      "title": "Republicans hope Iran conflict doesn’t become a ‘forever war’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTllycFcyU2d4cGctVkFPN2VGNUdkdkVzQ1JLRTdfSndLa2dxNzlnWml1dUI2Q0gwS0NfUk9BTjRSdnkzZVlIb2VUTFhGUUU1dmhaeDh0Z0ZqeEJtUzRuUFR0RVB4T3VaT1ptUkdZM0RtUndBRU51ZVl0c3lHcU00RHhNRGNUTXp00gGOAUFVX3lxTFBsbDA1MHVzMTFsN3M4WG9naGpFVlB6UFdpUmdYRnZZRVBLS1pReC1WUkVFQzk1V0MzZG1MQjRzNENsaVZmUUF3Q2tIbXh5LV9ZSWh6cnBjaEVucndTX2hicGRzb1drUlcwNzdfMWFJRVRaY2N1dTVHMXVMUkpobVFNd2F3cDJCX09jSEFxTUE?oc=5",
-      "summary": "Republicans hope Iran conflict doesn’t become a ‘forever war’&nbsp;&nbsp;The Hill",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T11:00:00+00:00",
-      "fetched": "2026-03-07T23:03:51.467063+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
