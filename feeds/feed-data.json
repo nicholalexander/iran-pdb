@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T10:30:06.315378+00:00",
+    "last_updated": "2026-03-08T10:45:06.257119+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 4,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "3602af95d1a53031",
+      "title": "Iran Live Updates: U.S.-Israeli Strikes Grow as Fuel Depots Burn in Tehran - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTF2UmZ4MDRscktJcF9Vdm8ydTZtLTZzMnFRTUhsaUcyR1RoNk9wY0NQT0FLRzZwTlBYb2tfSU5RcWlpYU5qRUpRYUQxWkNDVFV6eWxGdWxHRTJPS2VVOVh0ZlZoWEN3M3dTTWtsWVZzUDBJVHQ1U1E2Z1dVWkZucQ?oc=5",
+      "summary": "Iran Live Updates: U.S.-Israeli Strikes Grow as Fuel Depots Burn in Tehran&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T10:40:12+00:00",
+      "fetched": "2026-03-08T10:45:06.037634+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "cf857ab71ede13d7",
       "title": "Iran says exercising right to self-defense under international law",
@@ -28,6 +40,18 @@
       "category": "regional",
       "published": "2026-03-08T10:19:56+00:00",
       "fetched": "2026-03-08T10:30:06.210485+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3f05895374730b6d",
+      "title": "Bahrain says water desalination plant damaged in Iranian drone attack - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkRjM1V5WlBnUTZ3SE1LZmE0RXJCYXBLTFlSdG1yMmR6YWdZSEktLUZzZTBVMG52RVg4RE16X1FqZXJGWkM3TVpiT0VaQ2hFWHdUT0prTE9XVklsWlhtRjZaTWpnNXRRNlZWU3NrU1BsaDFfWG9BOHR2cDE4LVI3MUU4LW5DX05ZUnNFdlBZemZ2UGpXUmxXcnM4NGJzbFpsWGhZMndwdVVkMUhhU1HSAbMBQVVfeXFMTnZ4TmVqNGM5YUo5Wkh2M3A3YjFnSk1uSlFKN2tSWnY3QWc2R1o5WDdnQXhnNTJKcm5FQjI0bUJOR2J4LURZM0NMV0xYb05TcF9zQ1NwZUN3U0F4TVpYa040SVV6VUp6RjFMZ2w2eHFrZVZ1SW15VndfQ2JGRWg4WWlER3E1bHFydk13M2V0WnRrSGs2OV9TWU9Sb3VLdERhYlgwbFRzUnFKcFhPVGRVSTdwa1E?oc=5",
+      "summary": "Bahrain says water desalination plant damaged in Iranian drone attack&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T10:18:45+00:00",
+      "fetched": "2026-03-08T10:45:06.037540+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5980,30 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-08T04:15:07.158083+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2bf6bb9f5d645764",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPSXBwRjdFdFQ3MW85U0dEbnltY3V1ZmNWU3V4YVROLU9YSVYyWHRiRjE4X3JYNnNtaUYzd1pfWS1RRVFTUE1lQzUycnMyZVF3NmtGeGFqcTRSZGJpUVVmSWRIeGZFdXVRTWw2dmxsVkxQUnhBVGxrTUc5TzdoZG5XRjNQem9SNzJTclV6Mnk3YTJIZmhuMW9uZTBaS3g4al9QY2xGRTJPYWJ0RzcyRXpvRWJhRmxtQ0Y2Sy1NbHdGM1h2eFd5ZS1xM19sb2xXU21PYW03MTR6NHBMU0pCOFlnYXd5MUoxSkxDaUx1elpTYkpMeUREdXctNXBiR2VsRGctLWdlNnVjcmtTYTVYZGhfUEZpeURMRGFVTXo2U1R4OWNLZEFnckVUdVBoTDFPZHFQSjNlbGgxcUl3YkpoYW1xSjY4endydS10UE5zZF9oZ29Kd2M0aGV6OTdQM3psRm0xWVVGTkZmM2ZMT21YNndIc3JPWE9HNGo2djZUTVN1SHR1NjcxU0Fj?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T04:30:06.161859+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "986dd7e0901a9b26",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPWFBOakZSOGdmVDdnT3pwaHY2UmZWaU9sMFE5MmE5anFSNGZoamJCOXlZWWw1bHJsSEhLRFdVdVp2bEVWSHdaajE1OUVPTUhOamhNeGFWR1pqLVN6cWQ3aW5QZ0t2TzhnYkZYakJnbmZWNTA0c1V5Ykpqd1c0QmVTRzBWRW9jLW9WRU1jR0RxOXFKLVZEUVdLelRJQWVTeFJUVE81cjBlN0FCTnV2b2tlQ0JOZEZtVzVnLVZTSXpvM2RUZTIwN3FhclhCVUxDa2pIZ3JkcTFxeWdvXzhKM0F5S0hIV3ZGMTBaZXBwUzN4T0Z1TnBDTGFWbXg2cllmT3A1QlBRekcyaEpMcDV3RGMxanVnYUN6Zmh1V2VwUUx0YllsOHZGMV84ZlNjVzVYQWlkczhYZGg0OWNBbDJ0aDhzX25hV3lOWlJMSk5sc25IRVpOZ2xPRWdmRUxvTkZKV3dQZVg4YmlKaVN0cXk2bEpqNDh2UDNsSDNkbGhFQnVobnktcXpJMzlz?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T04:45:05.814201+00:00",
       "relevant": true,
       "iran_specific": true
     }
