@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T13:00:06.187387+00:00",
+    "last_updated": "2026-03-08T13:15:06.143987+00:00",
     "total_items": 500,
-    "new_this_run": 19,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "4eb974597c4082b0",
+      "title": "Iran will continue the war until enemies back down: Commander",
+      "link": "https://presstv.ir/Detail/2026/03/08/765119/Iran-will-continue-the-war-until-enemies-back-down-Commander",
+      "summary": "Commander of the Khatam al-Anbiya Central Headquarters says Iran will make the US and Israel regret launching the war against the Islamic Republic.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T13:15:03.966114+00:00",
+      "fetched": "2026-03-08T13:15:03.966137+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8016789f57402555",
+      "title": "Could Azerbaijan be dragged into the US-Israeli war on Iran?",
+      "link": "https://www.middleeasteye.net/news/could-azerbaijan-dragged-us-israeli-war-iran",
+      "summary": "\n\n  \n      \n      \nCould Azerbaijan be dragged into the US-Israeli war on Iran?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nElis Gjevori\n on \nFri, 03/06/2026 - 13:38\n\n        \n      \n    \n      \n    \n                Baku’s long-standing relationship with Israel risks drawing Azerbaija",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T13:13:30+00:00",
+      "fetched": "2026-03-08T13:15:06.064413+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6f2a88ec90f46eeb",
+      "title": "UAE official denies Israeli reports of strike on Iran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-government-figure-denies-israeli-reports-strike-iran",
+      "summary": "\n\n  \n      \n      \nUAE official denies Israeli reports of strike on Iran\n\n    \n    \n\n        \n    \n                Dr Ali Rashid Al Nuaimi, a&nbsp;member of the UAE Federal National Council and chairman of its&nbsp;Defense Affairs, Interior &amp; Foreign Affairs Committee, has denied Israeli reports",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T13:06:16+00:00",
+      "fetched": "2026-03-08T13:15:06.064491+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "298c9ff2f61892e5",
+      "title": "Pope Leo calls for end to war in Middle East",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-leo-calls-end-war-middle-east",
+      "summary": "\n\n  \n      \n      \nPope Leo calls for end to war in Middle East\n\n    \n    \n\n        \n    \n                Pope Leo, the head of the Roman Catholic Church, has urged an end to the conflict in the Middle East in an address at the Angelus prayer in Saint Peter's Square.\n\n\"Let us raise our humble prayer",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T13:01:43+00:00",
+      "fetched": "2026-03-08T13:15:06.064555+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
     {
       "id": "dde2331ab05e012e",
       "title": "IRGC says will expand ‘scale and depth’ of retaliatory attacks against US, Israel",
@@ -28,6 +76,30 @@
       "category": "aggregator",
       "published": "2026-03-08T12:56:28+00:00",
       "fetched": "2026-03-08T13:00:05.947503+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8d2f0d21323d9c98",
+      "title": "Iran war threatens prolonged impact on energy markets as oil prices rise - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1N6azFLTkk2alZ5RFlOY3E5WWRmVGhoZU83ZFZXVW83SWZlTzBfWkdZNzZJUkVHdko3Qkp5SmFBX01mQ3NRZDVLd0tEVmdYS3JHTkhrdTh4M3Z1MEF4eU1URzlEU3JkQ1NXVGJzQ0dGVFFzeGI0QzRZd19uelFHUWhpUmVwUFk0RF9tcEJmRDBnVlJVTDFFX0Vyc0dIWEdKLXppZDhNRXpDVF9mM0lpZXNR0gG3AUFVX3lxTE93VUY2WXpfSVdpRHVKMkIycUNiWWtTVjB5LXJBeW1VZ3VLbmdOdkxYdHN2YWpqR3k4Z0pMc1UxcWxEWGp5M2o0VEV0TmFacjFjNGhYN3AxREE2NjRmN1A2OW5sT1ppZkZobHlUU1Vob0dBemNjLV9fTXFyLTVIYUdZQmlhUGZBMzN1RHpleFY0T3IwbzVlNW5YMHlJY0Y1QUpnQUdnNWxzWlRjdGZpX1pUODlBTHZFdw?oc=5",
+      "summary": "Iran war threatens prolonged impact on energy markets as oil prices rise&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T12:56:15+00:00",
+      "fetched": "2026-03-08T13:15:05.899239+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9495cdb0dc8021c3",
+      "title": "Iran war threatens prolonged impact on energy markets as oil prices rise",
+      "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise?traffic_source=rss",
+      "summary": "The conflict has already led to the suspension of almost a fifth of global crude oil and natural gas supply.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T12:55:57+00:00",
+      "fetched": "2026-03-08T13:15:03.534712+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -776,6 +848,18 @@
       "iran_specific": true
     },
     {
+      "id": "cee8d5d259691080",
+      "title": "Trump faces economic squeeze as Iran conflict escalates - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04ZWIwNTFxaXlFTVlvYzNtT3V0LVg3ZFEtR1BtNDlpQjVxVDRMQ2Zacm1tazNwSFE5c0UzVk9VVFFzbkpQSGoycENaemhpNDBldDJjMXVZR3BOOXJVcnVPbFFyYXBONDQ1SkVmX9IBckFVX3lxTFBZQWtGcGpQclEwQ3JEZHF3d25DUDVqaG9BUDh0eGZnUkhyd09OTk55ZzdzMFE3ZjFBd3FfN0Q4U1h5TVNjYmxHOXo0T3ZEanRtaWg1QWVlUmZYY0Q2dm41cFl2OFltQ3JCM05rOTZDNlZ1dw?oc=5",
+      "summary": "Trump faces economic squeeze as Iran conflict escalates&nbsp;&nbsp;The Hill",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T10:44:56+00:00",
+      "fetched": "2026-03-08T13:15:05.899615+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "3602af95d1a53031",
       "title": "Iran Live Updates: U.S.-Israeli Strikes Grow as Fuel Depots Burn in Tehran - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTF2UmZ4MDRscktJcF9Vdm8ydTZtLTZzMnFRTUhsaUcyR1RoNk9wY0NQT0FLRzZwTlBYb2tfSU5RcWlpYU5qRUpRYUQxWkNDVFV6eWxGdWxHRTJPS2VVOVh0ZlZoWEN3M3dTTWtsWVZzUDBJVHQ1U1E2Z1dVWkZucQ?oc=5",
@@ -1300,6 +1384,18 @@
       "category": "regional",
       "published": "2026-03-08T08:29:30+00:00",
       "fetched": "2026-03-08T09:00:04.781627+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "32b00972ee25c761",
+      "title": "The cost of Trump's Iran war: $5 billion and counting - Responsible Statecraft",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVW1KY1p0NU5BTFFWZnZLMlBXbjNvV3pjSFVoTGo1ek5DLVVRMGU3YWdQT2dMYUVYZVR1eFYtWWJYeGJ5Sjc1TTFWMGtmbENkMDU5b0pBWVRUazJZc1E?oc=5",
+      "summary": "The cost of Trump's Iran war: $5 billion and counting&nbsp;&nbsp;Responsible Statecraft",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:28:04+00:00",
+      "fetched": "2026-03-08T13:15:05.899478+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5908,102 +6004,6 @@
       "category": "russian",
       "published": "2026-03-07T20:02:38+00:00",
       "fetched": "2026-03-07T20:41:22.707849+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0f9b231ef978d88d",
-      "title": "Stock Market Focused On Iran War. Oil's Next Move Could Be Big. - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXN0cnNfRTZEeXRuSkVMY3hBXzlLTXBQaUFtMmNCM2RQbmFaU2hmSktpbkhnaWlIOGJiT2s0a2dGdnBjYUxTeHh6S2JHbXhLQk8tMHdLN2p4NEhvR2YxVkRIRThUWC1ScURXQzBLejJMbHRnZGdDbEU3RkU4Mnozb0VudnFxSFRkVmc0VVQzM2Y3WFFnOGI2WnBOT0d4dmVLSHdHa3NGUjlJdXFD?oc=5",
-      "summary": "Stock Market Focused On Iran War. Oil's Next Move Could Be Big.&nbsp;&nbsp;Investor's Business Daily",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T20:02:00+00:00",
-      "fetched": "2026-03-07T21:15:06.606819+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2350234fe1be5e5d",
-      "title": "Iran’s president apologises to Gulf nations; Trump threatens further strikes – Middle East crisis live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMERfcU5HWXdvb091WVcxdmQ0Z19hYmRKQzdRaGNBNkpSVUFua3NRV3Fob1lxaExVb2x2NTdMNE5aR2pQWHczWlJISHFMNHNxUDVQNnl2MmQzZUs5TGNzNFlZbTlhWDNfXzFhdGJ4NFBGYXoxUWM3MzRZMEVlNF9VNDB0LWx6Yk5mRFhyYzM3cDhxYnI5ckhKWG1DXzRfdEgtQmtqdVhCVXNqQmh4UDd4VkJyNUFOUlB6ZDdQQllNM2dwcGZyM3dZdmVoN0FVUQ?oc=5",
-      "summary": "Iran’s president apologises to Gulf nations; Trump threatens further strikes – Middle East crisis live&nbsp;&nbsp;The Guardian",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:58:00+00:00",
-      "fetched": "2026-03-07T21:45:06.288525+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1f1c225ecece2263",
-      "title": "Over 280 cases against migration officials sent to court in 2025 — Investigative Committee",
-      "link": "https://tass.com/society/2098223",
-      "summary": "Head of the authority Alexander Bastrykin separately said that 2,490 criminal cases involving offenses committed by migrants were sent to courts over the period",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T19:55:19+00:00",
-      "fetched": "2026-03-07T20:41:22.707899+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a4d69e7088359368",
-      "title": "Most Americans oppose ongoing US military action in Iran: Survey - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanVBblI1OUYwTEU4ZHRkcTlIWTZkc3NOU3B1c0FPMFFBSjVCaHNmUDlPa0VvZHZQRDBaWmhwS3Qtd1VUa2xXVzBhakdmSDIxRFVTLTlmbGZyTU1pRk9uaVlBWkpuUE56Ykl3SkRVMGRJUF9Rbk43R2h0cjM0dlZmemhNVEVaUkRReHp1OXlkOEcxSG9v0gGaAUFVX3lxTE8wYTQxZmo5enluMkZmLTVOSmF6dkZnRDJOWVNzdjBLTlpvUmhxRkZtNko0U2dnZFExRVRLeHVaa2xtSnpzdTBYRnBLaldOU05JN2hMQk9EeF9QNGx6TjFLcnQ0eXBkRjkzTU1hczJRSy1VMWdtaUh5Z0NzNVJLb1MyMGxod1pNLTNqYUpQNVRJWGt3UERYYXUtRUE?oc=5",
-      "summary": "Most Americans oppose ongoing US military action in Iran: Survey&nbsp;&nbsp;The Hill",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:54:00+00:00",
-      "fetched": "2026-03-07T21:30:07.341285+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a98759b2dcf15111",
-      "title": "US, Israel strikes hit oil depot in Tehran, report says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israel-strikes-hit-oil-depot-tehran-iran-state-media",
-      "summary": "\n\n  \n      \n      \nUS, Israel strikes hit oil depot in Tehran, report says\n\n    \n    \n\n        \n    \n                US and Israeli strikes hit an oil depot in Tehran on Saturday, Iranian state media said, marking the first reported attack on the Islamic Republic's oil infrastructure.&nbsp;\n\n\"An oil",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T19:53:23+00:00",
-      "fetched": "2026-03-07T20:47:35.014516+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "042353f9ab6c6c80",
-      "title": "US-Israel war on Iran - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
-      "summary": "US-Israel war on Iran&nbsp;&nbsp;The Guardian",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:52:39+00:00",
-      "fetched": "2026-03-07T22:45:05.518008+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d0e15a365ea299c8",
-      "title": "Iran's president apologizes for strikes on neighboring countries even as its missiles and drones target their cities - PBS",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOFpBZ1h4TzEtMUptWG0wWTY0NV8tX3kwOWdWY185LWs2MC02aU5fUm14UDMzTGxLN1NHZUVJVHh4d1M0dHVINHZuaXh2dS1jT1g5WHRnOWtEc2E5dVVsM2NRNDByMDhVb2FnWXBUeWhvMlpIM1MwcXQxSnRGa2NkOVNXRjhIc3Jrbmx4REFRSmsxT0dWUUY4QVFZVk92emtMX3FjTW5rSTA4ZFcyMVlWbHBmbE1reXNlSlA5Zkt4QURXLUMyNUw3bER2OEZBRml4UzZ3c0I1cDAtWUR2MnByUnNxcnfSAeoBQVVfeXFMTW1yOWxfRWhJVU5oOG1TRGhwY3E2ZUFvMnJQRS1YUlctLVZoODhQRkotS0g3SkdnT3dxYVFxVU5mb0V4bXNxM2NGalVkeDRJYWlqNVZuVE1aanJNZFBwM0pfcHE1NkRBMEtGNkZRSzEwS0pBX3ZGeGlFcDVGY0VKT3F2dFh5TXNwWGtZbzA4TVhRZFZlVjJmUHlOZk1ua21YWDRyTW5XcVZYOHd1cmtKWldtdGpsbFlIdXo3T1N3b1dZSkxPaWZyX2dkVFVPdlNoLU5UcEktdzRTc3JKZENiWDNPa0VEOFNKcC1R?oc=5",
-      "summary": "Iran's president apologizes for strikes on neighboring countries even as its missiles and drones target their cities&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:50:46+00:00",
-      "fetched": "2026-03-07T20:47:34.881735+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e541c1da28749eb0",
-      "title": "New wave of strikes hit Tehran as Netanyahu vows 'many surprises' for next phase of Iran war - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUxQZE5ocW1YYkpxUC1OTGpHcktuaTh6UVdaUnA2dFZ0MUtYWHV3NHBZNWRrT2V3a3p5dnJRVlA4cmo5Skc0aGpQd1RzRVZTdGV2blpfRDh6ZWZkd1gwdnpXajh1S285SERQX2tkYTR3M0NNNmtmMm9BUXl4emJHakJBNkp6QkZIQnZsWG1CZDJrc0poMGhIMjdHVV9DTUhxWDRZT1lvNEtQXzloSURqX0t0THRpcDFiZ0stbVItUWZvN1nSAcgBQVVfeXFMTVNzanBYMFdUb2xyTmZVOHIyT1hBNXNrUXRvZTJETnR2UnFLWTQ4UnRDTGNxbjE4dVNnZDhsYlFHc2xkRG9Qc0dkanpKYjI2NFNvc1pCbjZfaDRHUDlpRjJkb1FGR216WWlmNFZJMUpPZ0VScWNoOTRsUlJsYXE5R1F3eVVLM2tVN2tEZEk3cDU3VzFnMUhOeWY0ZE9tajYwWGZLZks5d3NFYUM0V21vQS1UaXd4OS1PRl9iUHl6UHJuVWJMTHNVNkE?oc=5",
-      "summary": "New wave of strikes hit Tehran as Netanyahu vows 'many surprises' for next phase of Iran war&nbsp;&nbsp;PBS",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T19:50:46+00:00",
-      "fetched": "2026-03-07T22:00:06.295639+00:00",
       "relevant": true,
       "iran_specific": true
     }
