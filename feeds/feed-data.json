@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T14:45:07.222380+00:00",
+    "last_updated": "2026-03-08T15:00:42.023193+00:00",
     "total_items": 500,
     "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "ae3cd6b251f03aee",
+      "title": "US military orders Iranian civilians to stay indoors",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-orders-iranian-civilians-stay-indoors",
+      "summary": "\n\n  \n      \n      \nUS military orders Iranian civilians to stay indoors\n\n    \n    \n\n        \n    \n                The US military has told Iranian civilians to stay inside their homes, suggesting it could launch attacks on residential areas and accusing Iranian forces of launching missiles and drone",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T14:50:09+00:00",
+      "fetched": "2026-03-08T15:00:41.937961+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9683063e97be7277",
+      "title": "Egypt’s Pound Falls to New Low, Roiled by Shockwaves of Iran War - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHJtZEpDbFp5Vk1HRlE2ZmNCdjM2U1BKTzVTR0xkWklreTd2bTJKUTJhenp4eDVWRkFnaXpsTFdTYWotVXBGZi1KSDVsZ3V5WUVxRVlDMC1XX1RWa0c4LXdHQzVmRC1PdDBvY0x3T2RDRjN6Q1RnN2Fac0JKalJkT3JoM3VQY1V4TGhaNC1uTk1GZlNuYmNpY3NRTzRKd1NiYnhWbnJnYw?oc=5",
+      "summary": "Egypt’s Pound Falls to New Low, Roiled by Shockwaves of Iran War&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:41:37+00:00",
+      "fetched": "2026-03-08T15:00:41.767033+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "10451ce029748a48",
+      "title": "Iran women’s football team sing anthem amid safety concerns during war - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekViWEtwSUtfOUF4bU1ELVg3cm9haThkY2tPdmFhUWc5bm9kbWZITE9jaWFoZVA4QzZJZ0tmVG9TVXVPWFBlbkxmQzhnQzNiN3lVcEptUmxxaDV0eUN6WHFXX1h1dmM3bjhOcThOU2dSSnJteGR5OG93dVZmYlZXTjM4ak1ydE1rUjZoS2pBREpDUks3eVd5cXotSFNVRXBIbGR6bVktaWxBeFU5U0YwU9IBtgFBVV95cUxNVFo3RmJ5azd6ak9MS01yNzhhQVF3RWJNR1NGQzEtdDd1alRLR0VfYnA2TVByWmNWbUNzWlMxb2ZzNFVyeWFHSV9SUmVNX1ZjU3RrcDJncm5ObWZ5ZUNsSHJqWFRheWJDc3VWekxReFgzUEVlelB4QmhHT1RtXzlGTnUwV1ZmMDVPLTBkeHVaX1QyMXZNSElueFp4WnE3Ykg0RVhFa2FsTEpDVGdTakZLYkNKNGx5dw?oc=5",
+      "summary": "Iran women’s football team sing anthem amid safety concerns during war&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:37:34+00:00",
+      "fetched": "2026-03-08T15:00:41.767081+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c54d927b807f1a7a",
+      "title": "Iran women’s football team sing anthem amid safety concerns during war",
+      "link": "https://www.aljazeera.com/sports/2026/3/8/iran-womens-football-team-sing-anthem-amid-safety-concerns-during-war?traffic_source=rss",
+      "summary": "Players sing, salute during anthem in last Asian Cup game as rights activists raise concerns over their return to Iran.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T14:34:51+00:00",
+      "fetched": "2026-03-08T15:00:39.524404+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "d95d93b13f00d421",
       "title": "Iran: US-Israeli strikes on oil depots 'intentional chemical warfare'",
@@ -220,6 +268,18 @@
       "category": "regional",
       "published": "2026-03-08T13:48:05+00:00",
       "fetched": "2026-03-08T14:15:03.763100+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a1170075a79d750e",
+      "title": "Thousands in Spain demonstrate against Iran war on International Women’s Day - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3d4REJvT0w1NEQtb05SSmFkS2NqNGpTd015RVJ3Mmc1S0dXOXFZMzRfRzFPQkJreXVJVjI2a0FhZTFPanFZRndpQldpUjFiRDJRZFVNbkRYNFpjdHRjT3QxSnE1Q1JDbER2aE01MXl1ZDdFMEgyNnV2X0hYOVc3YnZIVTlmME1ta1g2Q3RUa0FGbmRZeUl2VDdGQ2J3eHFVZ0JacVZ4ZTlIUWY3VnZSQ2N0d0lMLVdJNWwtdDBB?oc=5",
+      "summary": "Thousands in Spain demonstrate against Iran war on International Women’s Day&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T13:46:44+00:00",
+      "fetched": "2026-03-08T15:00:41.767702+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -630,6 +690,18 @@
       "fetched": "2026-03-08T13:00:05.947098+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "81faaa5bc8055a1d",
+      "title": "Russell and Mercedes win F1’s Australian Grand Prix after Piastri crash",
+      "link": "https://www.aljazeera.com/sports/2026/3/8/russell-and-mercedes-win-f1s-australian-grand-prix-after-piastri-crash?traffic_source=rss",
+      "summary": "Mercedes finish one-two on the podium with Ferrari&#039;s Leclerc third as Norris finishes fifth in Melbourne.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T12:37:36+00:00",
+      "fetched": "2026-03-08T15:00:39.524502+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "4143b10f871a6229",
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:47:33.639855+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "c5653a3970b11991",
-      "title": "Indian journalist reveals severe Israeli censorship after escape from occupied territories",
-      "link": "https://presstv.ir/Detail/2026/03/07/765056/Indian-journalist-reveals-severe-Israeli-censorship-after-escape-from-occupied-territories",
-      "summary": "An Indian journalist who was trapped in the occupied territories from February 28 to March 6 reveals severe Israeli censorship amid the regime’s war of aggression against Iran.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639815+00:00",
-      "fetched": "2026-03-07T20:47:33.639819+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "616fec02060671df",
-      "title": "Revisiting three historic letters Imam Khamenei wrote to Western youth",
-      "link": "https://presstv.ir/Detail/2026/03/07/765075/revisiting-three-historic-letters-imam-khamenei-wrote-western-youth",
-      "summary": "Imam Khamenei wrote three historic letters to Western youth between 2015 and 2024, urging independent understanding of Islam, criticizing Western policies, and praising pro-Palestine student movements.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639778+00:00",
-      "fetched": "2026-03-07T20:47:33.639782+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7b89eeaa86a50bb0",
-      "title": "US lawmakers, legal experts: Trump administration waging illegal war on Iran",
-      "link": "https://presstv.ir/Detail/2026/03/07/765080/US-lawmakers,-legal-experts--Trump-administration-waging-illegal-war-on-Iran",
-      "summary": "Several US legislators and legal experts have challenged the Trump administration's excuses for the ongoing aggression against Iran, stating it is \"illegal.\"",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639750+00:00",
-      "fetched": "2026-03-07T20:47:33.639754+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9da2b51c65fe5659",
-      "title": "Global business rocked by fallout from US-Israel war on Iran",
-      "link": "https://presstv.ir/Detail/2026/03/07/765091/Global-business-rocked-by-fallout-from-US-Israel-war-on-Iran",
-      "summary": "-The US-Israeli war on Iran disrupts global trade, energy prices, and supply chains.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639723+00:00",
-      "fetched": "2026-03-07T20:47:33.639727+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e3c002893fade17c",
-      "title": "'Not in my name': Pro-Palestinian rally held in Sydney against Israeli president's visit",
-      "link": "https://presstv.ir/Detail/2026/02/10/763819/-Not-in-my-name---Pro-Palestinian-rally-in-Sydney-targets-visit-of-Israeli-President",
-      "summary": "Protesters gather in central Sydney to denounce the visit of Israeli President Isaac Herzog.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639696+00:00",
-      "fetched": "2026-03-07T20:47:33.639700+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "6026f9751dcf014a",
-      "title": "Hundreds protest Israeli president's visit in front of Australia's parliament house",
-      "link": "https://presstv.ir/Detail/2026/02/11/763880/Hundreds-protests-Israeli-President-s-visit-in-front-of-Australia-s-parliament-house",
-      "summary": "Protests in front of Australia's Parliament House in Canberra were held against Israel's President Isaac Herzog visiting the city",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639653+00:00",
-      "fetched": "2026-03-07T20:47:33.639657+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
