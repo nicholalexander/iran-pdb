@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iran Situation Report — March 8, 2026 08:00 ET</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+    @top-center { content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION"; font-size: 7pt; color: #999; font-family: 'Helvetica Neue', Arial, sans-serif; }
+    @bottom-center { content: counter(page) " of " counter(pages); font-size: 8pt; color: #888; font-family: 'Helvetica Neue', Arial, sans-serif; }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; font-size: 10.5pt; line-height: 1.55; color: #1a1a1a; background: #fff; }
+  .cover-header { border-bottom: 3px solid #b71c1c; padding-bottom: 14px; margin-bottom: 20px; }
+  .cover-header .classification { background: #b71c1c; color: #fff; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase; padding: 4px 10px; display: inline-block; margin-bottom: 10px; }
+  .cover-header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 22pt; font-weight: 700; color: #1a1a1a; letter-spacing: -0.5px; margin-bottom: 4px; }
+  .cover-header .subtitle { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11pt; color: #555; }
+  .cover-header .dateline { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 10pt; color: #333; margin-top: 8px; font-weight: 600; }
+  .cover-header .meta-line { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; color: #888; margin-top: 3px; }
+  .exec-summary { background: #f8f5f0; border-left: 4px solid #b71c1c; padding: 14px 18px; margin-bottom: 22px; }
+  .exec-summary h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 9pt; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #b71c1c; margin-bottom: 8px; }
+  .exec-summary ul { list-style: none; padding: 0; }
+  .exec-summary li { padding: 3px 0 3px 16px; position: relative; font-size: 10.5pt; line-height: 1.45; }
+  .exec-summary li::before { content: "▸"; position: absolute; left: 0; color: #b71c1c; font-weight: bold; }
+  .section { margin-bottom: 20px; page-break-inside: avoid; }
+  .section-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12pt; font-weight: 700; color: #1a1a1a; border-bottom: 1.5px solid #ccc; padding-bottom: 4px; margin-bottom: 10px; }
+  .section-header .section-num { color: #b71c1c; font-weight: 800; margin-right: 6px; }
+  .subsection-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 10pt; font-weight: 700; color: #333; margin-top: 12px; margin-bottom: 6px; }
+  p { margin-bottom: 8px; text-align: justify; hyphens: auto; }
+  .source { color: #666; font-size: 9pt; font-style: italic; }
+  .callout { background: #f0f4f8; border: 1px solid #d5dde5; border-radius: 3px; padding: 10px 14px; margin: 10px 0; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 9.5pt; }
+  .callout .label { font-weight: 700; color: #b71c1c; text-transform: uppercase; font-size: 8pt; letter-spacing: 1px; }
+  .callout .value { font-size: 16pt; font-weight: 700; color: #1a1a1a; }
+  .callout .delta { font-size: 9pt; color: #666; }
+  table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 9.5pt; font-family: 'Helvetica Neue', Arial, sans-serif; }
+  th { background: #2c3e50; color: #fff; padding: 6px 10px; text-align: left; font-weight: 600; font-size: 8.5pt; text-transform: uppercase; letter-spacing: 0.5px; }
+  td { padding: 5px 10px; border-bottom: 1px solid #e0e0e0; }
+  tr:nth-child(even) { background: #f9f9f9; }
+  .gap-open { border-left: 3px solid #e67e22; padding-left: 10px; margin: 6px 0; }
+  .gap-resolved { border-left: 3px solid #27ae60; padding-left: 10px; margin: 6px 0; color: #555; }
+  .gap-new { border-left: 3px solid #b71c1c; padding-left: 10px; margin: 6px 0; }
+  .edward-analysis { background: #fafaf5; border: 1px solid #d5d0c0; border-radius: 3px; padding: 16px 20px; margin: 16px 0; }
+  .edward-analysis .byline { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; text-transform: uppercase; letter-spacing: 1.5px; color: #888; margin-bottom: 10px; }
+  .edward-analysis p { font-style: italic; text-align: left; }
+  .tier-label { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 8pt; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 3px 8px; display: inline-block; margin-bottom: 8px; border-radius: 2px; }
+  .tier-1 { background: #b71c1c; color: #fff; }
+  .tier-2 { background: #e67e22; color: #fff; }
+  .tier-3 { background: #2c3e50; color: #fff; }
+  .no-change { color: #999; font-style: italic; font-size: 9.5pt; padding: 4px 0; }
+  a { color: #1a5276; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  ul, ol { margin: 6px 0 8px 20px; }
+  li { margin-bottom: 3px; }
+  .hero-img { width: 100%; max-height: 350px; object-fit: cover; margin-bottom: 18px; border-radius: 3px; }
+  .graphic-img { width: 100%; margin: 12px 0; border-radius: 3px; }
+  .footer { margin-top: 30px; padding-top: 12px; border-top: 2px solid #b71c1c; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 7.5pt; color: #999; text-align: center; }
+  .footer .warning { font-weight: 700; color: #b71c1c; text-transform: uppercase; letter-spacing: 1px; font-size: 7pt; margin-bottom: 4px; }
+  @media print { body { font-size: 10pt; } .section { page-break-inside: avoid; } .edward-analysis { page-break-inside: avoid; } }
+</style>
+</head>
+<body>
+
+<div class="cover-header">
+  <div class="classification">INTELLIGENCE BRIEFING</div>
+  <h1>Iran Situation Report</h1>
+  <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment</div>
+  <div class="dateline">Sunday, March 8, 2026 — 08:00 ET (Day 9)</div>
+  <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection & Analysis</div>
+  <div class="meta-line">Sources: 53 searches (21 EN, 32 multilingual) | Languages: 15 | Classification: OPEN SOURCE</div>
+</div>
+
+<img class="hero-img" src="briefing-hero.png" alt="Tehran skyline obscured by oil fire smoke">
+
+<div class="exec-summary">
+  <h2>Executive Summary</h2>
+  <ul>
+    <li>Assembly of Experts selects Ahmad Alam al-Hoda as new Supreme Leader; IDF vows to target successor</li>
+    <li>US & Israel discussed special forces mission into Iran to seize ~450kg enriched uranium (Axios, 4 sources)</li>
+    <li>Iran introduces fuel rationing (30L → 20L/day in Tehran) after overnight oil depot strikes; toxic rain reported</li>
+    <li>Gandhi Hospital in Tehran struck — BBC Verify confirmed video of severe damage</li>
+    <li>Chinese 055 destroyer + Russian 1155M arrive at Strait of Hormuz; ships faking Chinese identity to transit</li>
+    <li>IRGC claims 6-month war readiness; missiles used so far are "generation 1 and 2 from 2012-2013"</li>
+    <li>IDF struck F-14 fighters at Isfahan; 400+ targets in Iran in last 24 hours</li>
+    <li>Mojtaba Khamenei reported wounded but alive (Israeli media)</li>
+    <li>Kuwait government tower engulfed in flames; Bahrain desalination plant hit by Iranian drone</li>
+    <li>Iran Health Ministry: 1,200+ killed, 10,000+ injured, 192 students killed, 66 schools damaged, 9 hospitals out</li>
+  </ul>
+</div>
+
+<!-- SECTION 1: MILITARY -->
+<div class="section">
+  <div class="section-header"><span class="section-num">1.</span> 🎯 Military Situation</div>
+  <span class="tier-label tier-1">Tier 1 — New Developments</span>
+
+  <div class="subsection-header">IDF Strikes F-14 Fighters at Isfahan Airport</div>
+  <p>IDF confirmed striking F-14 fighter jets stored at Isfahan Airport, plus air defense systems. Separate from the Mehrabad strike (16 IRGC aircraft). Isfahan is Iran's second major air base. F-14s were among Iran's few capable fast jets — systematic elimination of air power continuing. <span class="source">IDF via Fox News, RTVE, Times of Israel (Mar 8)</span></p>
+
+  <div class="subsection-header">400+ Targets in 24 Hours — Tempo Increasing</div>
+  <p>IDF struck more than 400 targets in Iran in the last 24 hours, up from an average pace of ~440/day over the first 9 days (~4,000 total). Operational tempo increasing. <span class="source">Ynet, Libertad Digital (Mar 8)</span></p>
+
+  <div class="subsection-header">Beirut Hotel Strike — Quds Force Commanders</div>
+  <p>IDF carried out "precision strike" on Ramada Hotel in Beirut's Rawche tourist area, targeting Quds Force Lebanon Corps commanders. Lebanon health ministry: 4 killed, 10 wounded. First confirmed targeted assassination of IRGC commanders in Beirut during this war. Identities not released. <span class="source">Reuters, IDF statement (Mar 8)</span></p>
+
+  <div class="subsection-header">Hezbollah Repels Israeli Ground Landing</div>
+  <p>IDF expanding ground operations to Lebanon-Syria border. 4 helicopters landed Givati Brigade troops at Nabi Sheet, Bekaa Valley. Hezbollah engaged with anti-tank missiles; 8 IDF soldiers wounded, 4 seriously. Also: airstrike near Iranian embassy in Beirut. <span class="source">Al Jazeera Arabic, RT Arabic (Mar 8)</span></p>
+
+  <div class="subsection-header">Wave 27 of True Promise 4</div>
+  <p>IRGC launched Wave 27 (was 25 in last briefing). Wave 26 targeted Juffair US base in Bahrain in retaliation for Qeshm Island desalination plant strike. Pace: approximately 1 wave every 6-8 hours. <span class="source">Tabnak, IRGC statements (Mar 8)</span></p>
+
+  <div class="subsection-header">IRGC: 6-Month War Readiness / Gen 1&2 Missiles Only</div>
+  <p>IRGC spokesperson Naeini: "Our forces are fully prepared for at least a 6-month full-scale war at this current intensity." Added that missiles used so far are "primarily generation 1 and 2, produced in 2012-2013" — implying newer, more advanced weapons in reserve. Also claimed 600 missiles + 2,600 drone attacks in the first week. <span class="source">Fararu, Mehr News, Ray al-Jadid Arabic (Mar 8)</span></p>
+
+  <div class="subsection-header">New Target: Yazd</div>
+  <p>Explosions reported outside Yazd city limits Sunday morning — new target city. Isfahan: workshops and riding club damaged. <span class="source">Fararu (Mar 8)</span></p>
+
+  <div class="subsection-header">Lebanon — 300+ Dead</div>
+  <p>Death toll above 300 (was 290+). 12 more killed Sunday. IDF ordered evacuations south of Litani and parts of Beirut area. 117 Iranian citizens evacuated from Beirut overnight, including diplomats. <span class="source">Lebanese Health Ministry, BBC Russian (Mar 8)</span></p>
+</div>
+
+<!-- SECTION: NUCLEAR -->
+<div class="section">
+  <div class="section-header"><span class="section-num">⚛️</span> Nuclear Dimension — Major Escalation</div>
+
+  <div class="subsection-header">Special Forces Discussed for Uranium Seizure</div>
+  <p>Axios, citing 4 sources: US and Israel have discussed sending special forces into Iran to secure approximately 450kg of highly enriched uranium, at a "later stage" of the war. Trump on Air Force One: "Maybe we'll do it at some point." German reporting (BILD): "Vielleicht werden wir das irgendwann machen." Spiegel: air operations must continue "for days" to weaken defenses before ground operation feasibility can be assessed. <span class="source">Axios, BILD, Spiegel, Kyodo (Mar 8)</span></p>
+
+  <div class="subsection-header">Iran Extracting Uranium from Isfahan Rubble</div>
+  <p>US intelligence observing intensive earthworks at Isfahan nuclear site where highly enriched uranium stockpile is buried under rubble from US strikes. Iran actively attempting to recover the material. This is driving urgency behind the special forces discussion. <span class="source">Kommersant, Ynet (Mar 8)</span></p>
+
+  <div class="subsection-header">Trump: "Venezuela Model" for Post-War Iran</div>
+  <p>Trump post-war vision: uranium secured, US and new regime in Tehran cooperate on oil production — analogous to Venezuela arrangement. <span class="source">EchoFM Russian (Mar 8)</span></p>
+</div>
+
+<!-- SECTION: SUCCESSION -->
+<div class="section">
+  <div class="section-header"><span class="section-num">🏛️</span> Succession</div>
+
+  <div class="subsection-header">Ahmad Alam al-Hoda Selected as New Supreme Leader</div>
+  <p>Assembly of Experts members confirmed to state media that a decision has been reached. Ayatollah Ahmad Alam al-Hoda was quoted by Mehr News: "The elections for the leadership have been held and the leader has been appointed." CNN confirms the body has made a decision without naming the candidate. BBC Dari, FAZ, Hurriyet, RTVE all name Alam al-Hoda. Some procedural issues remain before formal announcement. <span class="source">CNN, BBC Dari, Mehr News, FAZ, Hurriyet, RTVE (Mar 8)</span></p>
+
+  <div class="subsection-header">Mojtaba Khamenei Wounded</div>
+  <p>Mojtaba Khamenei reported wounded but alive per Israeli Channel 12 and Ynet, via TGCOM24. Not confirmed by Iranian side. If true, explains succession shift away from Mojtaba to Alam al-Hoda. <span class="source">TGCOM24 Italian (Mar 8)</span></p>
+
+  <div class="subsection-header">IDF Threatens to Bomb Assembly Session</div>
+  <p>IDF spokesperson Col. Avichay Adraee (in Arabic on X): "The long arm of the State of Israel will continue to pursue the Caliph and everyone who attempts to appoint him. We warn everyone planning to participate in the session... We will not hesitate to target you as well." <span class="source">IDF via social media (Mar 8)</span></p>
+
+  <div class="subsection-header">Pezeshkian: Third Position Shift in 24 Hours</div>
+  <p>Saturday apology to Gulf states → Saturday walkback after hardliner backlash → Sunday: "Our Iran will not bow easily in the face of bullying." Threatened to "step up attacks on American targets." Mohseni-Ejei reiterated: "Intense attacks on these targets will continue." <span class="source">Reuters, Iranian media (Mar 7-8)</span></p>
+</div>
+
+<!-- SECTION 2: HUMANITARIAN -->
+<div class="section">
+  <div class="section-header"><span class="section-num">2.</span> 🏥 Civilian & Humanitarian</div>
+
+  <div class="subsection-header">Gandhi Hospital, Tehran Struck</div>
+  <p>BBC Verify confirmed video showing severe damage to Gandhi Hospital in Tehran. Iran Foreign Ministry spokesman called it "an obvious war crime." <span class="source">BBC Persian (Mar 8)</span></p>
+
+  <div class="subsection-header">Iran Health Ministry Casualty Breakdown</div>
+  <p>1,200+ killed (200 children under 12, approximately 200 women). 10,000+ injured (1,400 women). 9 hospitals out of service. 14 ambulances destroyed. Approximately 10,000 civilian structures damaged including homes, schools, and medical facilities. <span class="source">Iran Health Ministry, Red Crescent (Mar 8)</span></p>
+
+  <div class="subsection-header">192 Students Killed, 66 Schools Damaged</div>
+  <p>Iran Education Ministry: 192 students killed, 154 wounded, 66 schools damaged or destroyed. Hormozgan province alone: 168 student/teacher deaths. Minab: 110 wounded. <span class="source">Khabaronline, Mehr News (Mar 8)</span></p>
+
+  <div class="subsection-header">Fuel Rationing & Toxic Environment</div>
+  <p>Tehran Governor's office reduced fuel ration from 30L to 20L per day. 4 oil workers killed in overnight strikes on storage tankers and petroleum transfer terminal. Tehran Environmental Agency warned of toxic air from oil depot fires. Red Crescent: post-explosion rain could be poisonous. CNN team in Tehran reported blackened rainwater. Smoke over north Tehran "felt as if the sun had not risen." 9,669 residential units damaged per Red Crescent. <span class="source">Fararu, Reuters, CNN, Red Crescent (Mar 8)</span></p>
+
+  <img class="graphic-img" src="briefing-casualties.png" alt="Casualty and Humanitarian Tracker">
+
+  <div class="subsection-header">Gulf State Impacts</div>
+  <p><strong>Kuwait:</strong> PIFSS government tower engulfed in flames. 2 border officers killed (Lt. Col. Abdullah Emad Al-Sharrah, Maj. Fahd Abdulaziz Al-Mujammad). 2 airport fuel depots struck with drones, "huge fire." Kuwait casualties now 5+. <span class="source">Independent, ABC, Kuwait Interior Ministry (Mar 8)</span></p>
+  <p><strong>Bahrain:</strong> Desalination plant hit by drone — "material damage" but supplies not disrupted. First time Arab country reports Iran targeting desalination infrastructure. Shahed-136 struck hotel housing US military personnel. Water treatment plant also damaged. <span class="source">AP, Bahrain Interior Ministry (Mar 8)</span></p>
+</div>
+
+<!-- SECTION 3: ECONOMIC -->
+<div class="section">
+  <div class="section-header"><span class="section-num">3.</span> 💰 Economic & Market Impact</div>
+
+  <p><em>Markets closed (Sunday). Last available data from Friday close.</em></p>
+
+  <img class="graphic-img" src="briefing-market.png" alt="Economic and Market Dashboard">
+
+  <table>
+    <tr><th>Indicator</th><th>Value</th><th>Change</th></tr>
+    <tr><td>Brent Crude</td><td>$92.69/bbl</td><td>▲ 20.0% WoW (from $77.23)</td></tr>
+    <tr><td>Gold</td><td>$5,172/oz</td><td>▲ $91.7/oz (24h)</td></tr>
+    <tr><td>USD/IRR</td><td>1,666,000</td><td>▲ 12.4% since war start</td></tr>
+    <tr><td>Lockheed Martin</td><td>$676.70 (ATH)</td><td>▲ 4%+ since war start</td></tr>
+    <tr><td>Northrop Grumman</td><td>—</td><td>▲ 6%+ since war start</td></tr>
+  </table>
+
+  <div class="subsection-header">Shipping & Hormuz</div>
+  <p>Near-total shutdown. 500+ tankers stranded. Iran military spokesman Shekarchi: "cannot guarantee safety of ANY ships through Hormuz — responsibility falls on those who enter." Chinese 055 destroyer + Russian 1155M now present at Hormuz entrance. At least 10 ships changed AIS identity to "Chinese-owned" to transit. One LPG carrier broadcast as "Muslim-owned, Turkish-operated." Bloomberg: "Hormuz cut but China-camp oil still flowing." <span class="source">Corriere della Sera, Bilibili, Bloomberg, Sina (Mar 8)</span></p>
+
+  <div class="subsection-header">Oil Infrastructure War — Escalating</div>
+  <p>4 additional oil storage tankers + petroleum transfer terminal struck overnight. Fuel rationing introduced in Tehran. Parliament Speaker Ghalibaf: "If the war continues like this, there will be neither a way to sell oil nor the ability to produce it." First senior Iranian official warning of total oil production collapse. War cost estimate: $1 billion in first 4 days; $3.7 billion in interceptor missiles alone. <span class="source">Fararu, Reuters, WSJ via Spiegel (Mar 8)</span></p>
+
+  <div class="subsection-header">Other Markets</div>
+  <p>Tehran Stock Exchange closed indefinitely. Banks reopening Sunday at 20% staffing. PetroChina/Sinopec halted diesel/gasoline exports; China on 120-day reserves. Indian LPG: +60 rupees domestic, +115 rupees commercial. Qatar warns Brent could reach $150. <span class="source">Multiple sources (Mar 7-8)</span></p>
+</div>
+
+<!-- SECTION 4: TRAVEL -->
+<div class="section">
+  <div class="section-header"><span class="section-num">4.</span> ✈️ Travel & Airspace</div>
+  <p>Ben Gurion Airport: first outbound flights since war began — ~2,000 travelers on 40 scheduled flights Sunday. Qatar Airways: repatriation flights to Amsterdam, Berlin, Frankfurt, London, Zurich (Doha final destination only, not commercial resumption). Bahrain International Airport remains closed. Emirates resumed limited Dubai operations. Kuwait airspace still closed. Japan ASDF deployed to Maldives for evacuation standby. Netherlands evacuating citizens from Qatar. ~5,000 French citizens in vulnerable situations. <span class="source">CNN, Qatar Airways, Les Echos, Jiji (Mar 8)</span></p>
+</div>
+
+<!-- SECTION 5: UAE -->
+<div class="section">
+  <div class="section-header"><span class="section-num">5.</span> 🇦🇪 Dubai & UAE</div>
+  <p>Iran launched 100+ additional missiles/drones at UAE Sunday (on top of Saturday's 15 BMs + 119 drones). Only 4 drones impacted at unnamed locations. UAE tracking: 9 BMs, 112 drones tracked, 109 intercepted this cycle. Interception rate very high. Emirates resumed limited operations at Dubai International. No new casualties. <span class="source">Persian/Arabic media, Emirates (Mar 8)</span></p>
+</div>
+
+<!-- SECTION 6: OMAN -->
+<div class="section">
+  <div class="section-header"><span class="section-num">6.</span> 🇴🇲 Oman</div>
+  <p class="no-change">Sultan still silent. Oman Air cancelling flights. No mediation activity detected.</p>
+</div>
+
+<!-- SECTION 7: DIPLOMATIC -->
+<div class="section">
+  <div class="section-header"><span class="section-num">7.</span> 🌍 Diplomatic & International</div>
+
+  <div class="subsection-header">China — Strongest Statement Yet</div>
+  <p>Foreign Minister Wang Yi: "This war should never have happened." Regime change "will find no popular support." "The world cannot return to the law of the jungle." Posted on Chinese MFA website. US intel warns China may support Iran financially and technically. Chinese 055 destroyer + 052DL + Russian 1155M at Hormuz — unprecedented naval power projection. <span class="source">Chinese MFA, Guardian, Kommersant (Mar 8)</span></p>
+
+  <div class="subsection-header">Switzerland — International Law Violation Declaration</div>
+  <p>Defence Minister Martin Pfister: "The Federal Council is of the opinion that the attack on Iran constitutes a violation of international law." Called it "a violation on the prohibition of violence." Said both US/Israel AND Iran violated international law. First neutral European government to formally declare the strikes illegal. <span class="source">Reuters, Al-Monitor (Mar 8)</span></p>
+
+  <div class="subsection-header">Italy, UK, India</div>
+  <p>Meloni: "Italy is not at war and does not intend to enter." Cooper (UK Foreign Sec, BBC): "Our job is not outsourcing our foreign policy to other countries." Rejected Blair's call to back Trump. "We have to learn the lessons from Iraq." India allowed Iranian warship to dock at Kochi port — choosing neutrality. <span class="source">SkyTG24, BBC, TimesNow Hindi (Mar 8)</span></p>
+
+  <p>Arab League emergency meeting via video conference today. Framed as "Iranian aggression against Arab states." Hegseth on 60 Minutes (airing tonight): acknowledged Russia intel sharing — "CinC knows who's talking to whom." <span class="source">Al Arabiya, CBS (Mar 7-8)</span></p>
+</div>
+
+<!-- SECTION 8: US POLITICS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">8.</span> 🇺🇸 US Politics & Strategy</div>
+
+  <p><strong>Congress:</strong> War powers resolution defeated 52-47. Guardian: "president can bomb Iran free from congressional interference." Congressional check effectively eliminated.</p>
+
+  <p><strong>Ground forces:</strong> Moving from theoretical to operational planning. Axios: special forces mission for uranium discussed. Trump: "Maybe we'll do it at some point." Spiegel: air ops need "days more" first. Not imminent but trajectory clear.</p>
+
+  <p><strong>Pahlavi as preferred successor:</strong> Appeared on Fox News "My View with Lara Trump." Called for "clean break" — no one from current regime. Trump described "Venezuela model" for Iran. Appearance on Trump daughter-in-law's show is a clear signal.</p>
+
+  <p><strong>Public opinion:</strong> Reuters/Ipsos: only 27% support military action; 6 in 10 oppose.</p>
+
+  <p><strong>AI warfare:</strong> AFP/TBS Japan report AI used for intelligence analysis and target selection — "first extensive use in history."</p>
+</div>
+
+<!-- SECTION 9: US DOMESTIC -->
+<div class="section">
+  <div class="section-header"><span class="section-num">9.</span> 🇺🇸 US Domestic Security & Homefront</div>
+
+  <p><strong>NYPD Officer Sorffly Davius</strong> died March 6 at Camp Buehring, Kuwait from "medical episode" during Operation Epic Fury deployment. Also Army National Guard Major, 42nd Infantry Division. From 79th Precinct. US military deaths now 7: 6 KIA (combat) + 1 non-combat. First law enforcement death connected to deployment. <span class="source">Fox News, ABC7 NY (Mar 7-8)</span></p>
+
+  <p><strong>Dueling protests (Saturday):</strong> Antiwar (ANSWER Coalition, multiple US cities) AND pro-democracy diaspora (hundreds in DC for "freedom, democracy, sovereignty," giving flowers to police). Two simultaneous, contradictory movements. <span class="source">NCRI, 7News DC (Mar 7-8)</span></p>
+
+  <p>DHS: Shutdown Week 3+. No new domestic attack or hate crime reports.</p>
+</div>
+
+<!-- SECTION 10: US-CHINA -->
+<div class="section">
+  <div class="section-header"><span class="section-num">10.</span> 🇺🇸-🇨🇳 US-China Strategic Angle</div>
+  <p>Chinese naval presence at Hormuz adds military dimension to energy competition. Ships faking Chinese identity to transit = China as protective shield. US intel warns China may support Iran financially/technically. Bloomberg: "Hormuz cut but China-camp oil still flowing." Supply chain bifurcation accelerating. VRT analysis: war as anti-China energy strategy remains coherent frame. PetroChina/Sinopec export halt continues; China on 120-day reserves. <span class="source">Bilibili, Bloomberg, Kommersant, VRT (Mar 7-8)</span></p>
+</div>
+
+<!-- SECTION 11: FOREIGN LANGUAGE -->
+<div class="section">
+  <div class="section-header"><span class="section-num">11.</span> 🌐 Foreign Language Intelligence</div>
+
+  <p><strong>Persian:</strong> Fuel rationing (30→20L) broke in Farsi hours before English. IRGC "gen 1&2" narrative first in Fararu. Red Crescent toxic rain warning. Akrotiri/Cyprus drone strike (~1,000 evacuated) — Fararu only, unconfirmed by UK MoD.</p>
+
+  <p><strong>Arabic:</strong> Wave 26 targeting Juffair (Bahrain) specific to Arabic sources. Arab League framing: "Iranian aggression" not "US war."</p>
+
+  <p><strong>Chinese:</strong> 055 destroyer tracked on military forums before Bloomberg. Ships faking Chinese AIS identity first reported on Sina.</p>
+
+  <p><strong>Russian:</strong> Isfahan uranium extraction (Kommersant) broke before English. China financial/technical support warning sourced from Russian press.</p>
+
+  <p><strong>Narrative divergences:</strong> Hormuz has 4 distinct versions (IRNA: "full control" / Reuters: "de facto closed" / SCMP: "Chinese still transiting" / Iran military: "no guarantees for anyone"). Minab school: Trump blames Iran's "inaccurate munitions" vs Reuters: "US forces likely responsible."</p>
+</div>
+
+<!-- SECTION 12: INFO OPS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">12.</span> 📡 Information Operations</div>
+  <p>IRGC strategic signaling ("6-month war / gen 1&2") timed precisely to Axios special forces leak — deterrence messaging. IDF threat to bomb Assembly of Experts = information warfare targeting elite decision-making. Pezeshkian whiplash (3 positions in 24h) weaponized by all sides. Oil fires as psychological warfare: blackened rain, "sun didn't rise." Pahlavi on Lara Trump show = media succession architecture, not journalism.</p>
+</div>
+
+<!-- SECTION 13: MAPS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">13.</span> 🗺️ Maps & Visual Intelligence</div>
+  <img class="graphic-img" src="briefing-map.png" alt="Situation Map — Iran Theater">
+  <p><a href="https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/znpnmelervl/">Reuters — Maps and Charts of the Iran Crisis</a></p>
+  <p><a href="https://www.bbc.com/news/articles/c4g0pnnj8xyo">BBC — In Maps: Strikes Across Iran and the Middle East</a></p>
+  <p><a href="https://www.theguardian.com/world/2026/mar/02/war-middle-east-maps-video-photos-us-israel-iran">Guardian — The War in Maps, Video and Photos</a></p>
+  <p><a href="https://www.cbsnews.com/news/map-iran-strike-locations/">CBS News — Strike Location Map</a></p>
+  <p><a href="https://nicholalexander.github.io/iran-pdb/map/">🗺️ Interactive Situation Map (our own)</a></p>
+</div>
+
+<!-- SECTION 14: GROUND TRUTH -->
+<div class="section">
+  <div class="section-header"><span class="section-num">14.</span> 🏗️ Ground Truth</div>
+  <p class="no-change">No new ground source reports from JRADUBAI (James, Dubai) this cycle.</p>
+</div>
+
+<!-- SECTION 15: SOURCES -->
+<div class="section">
+  <div class="section-header"><span class="section-num">15.</span> 📋 Key Sources (New This Cycle)</div>
+  <p>CNN live blog, Axios, Kommersant (Russian), TGCOM24 (Italian), Corriere della Sera, Fararu (Persian), BBC Dari, Hurriyet (Turkish), TBS News Japan, Vista Persian, Les Echos (French), TimesNow Hindi, Jiji (Japanese), Ray al-Jadid (Arabic), EchoFM (Russian), Khabaronline (Persian), Libertad Digital (Spanish)</p>
+</div>
+
+<!-- SECTION 16: INTELLIGENCE GAPS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">16.</span> 🔍 Intelligence Gaps</div>
+
+  <div class="gap-resolved"><strong>Resolved:</strong> Supreme Leader identity → Alam al-Hoda selected</div>
+  <div class="gap-resolved"><strong>Resolved:</strong> Trump "choose president" → Pahlavi + Venezuela model</div>
+  <div class="gap-resolved"><strong>Resolved:</strong> Pezeshkian Gulf halt → Gulf strikes INCREASED</div>
+  <div class="gap-resolved"><strong>Resolved:</strong> Russia intel US response → Hegseth acknowledges, no action</div>
+
+  <div class="gap-open"><strong>Still Open:</strong> Haifa refinery damage; C-RAM systemic failure; Kurdish fighters; $151.8M arms deal; Al Dhafra/THAAD; USS Bush; Bushehr reactor; Ahmadinejad; Evin detainees; Oman silence</div>
+
+  <div class="gap-new"><strong>New:</strong> Alam al-Hoda formal announcement timing &amp; war policy implications</div>
+  <div class="gap-new"><strong>New:</strong> Mojtaba wounded — extent? IRGC control?</div>
+  <div class="gap-new"><strong>New:</strong> Isfahan uranium extraction — recoverable before ground op?</div>
+  <div class="gap-new"><strong>New:</strong> Chinese/Russian naval ROE at Hormuz — escort? Confrontation?</div>
+  <div class="gap-new"><strong>New:</strong> Akrotiri/Cyprus drone — UK MoD response?</div>
+  <div class="gap-new"><strong>New:</strong> Gandhi Hospital — international legal response?</div>
+  <div class="gap-new"><strong>New:</strong> Toxic rain/air — environmental crisis?</div>
+  <div class="gap-new"><strong>New:</strong> IRGC "gen 1&amp;2 only" — newer weapons actually available?</div>
+  <div class="gap-new"><strong>New:</strong> 400+ targets/day — munitions sustainability?</div>
+  <div class="gap-new"><strong>New:</strong> Arab League meeting outcome</div>
+</div>
+
+<!-- SECTION 17: EDWARD'S ANALYSIS -->
+<div class="section">
+  <div class="section-header"><span class="section-num">17.</span> 🦉 Edward's Analysis</div>
+  <div class="edward-analysis">
+    <div class="byline">Edward 🦉 — Personal Assessment</div>
+
+    <p>Three things are happening simultaneously that together define where this war is going, and I don't think any of them are getting adequate attention in isolation.</p>
+
+    <p><strong>The nuclear dimension just became the war's center of gravity.</strong> Axios reporting on special forces to seize enriched uranium, Kommersant revealing Iran is actively trying to dig HEU out of Isfahan rubble, and Trump's "Venezuela model" comments aren't three separate stories — they're one story. The war aim has shifted from conventional military degradation to nuclear disarmament by force. This is the justification architecture for a ground operation. The timeline is set by how fast Iran can extract that uranium, not by any political calendar.</p>
+
+    <p><strong>The succession of Alam al-Hoda is worse than Mojtaba for de-escalation.</strong> Alam al-Hoda is Khamenei's son-in-law, imam of Mashhad's Razavi shrine, and a hardliner's hardliner. If Mojtaba was continuity, Alam al-Hoda is entrenchment. The IDF threatening to bomb the Assembly session is tactically rational (decapitation doctrine) but strategically counterproductive — it virtually guarantees whoever emerges will be maximally hostile. You don't moderate someone by threatening to kill them during their inauguration.</p>
+
+    <p><strong>The IRGC "6-month war / gen 1&2 missiles" statement deserves serious attention.</strong> It's either true — meaning Iran has been fighting with its weakest arsenal and has substantial escalation room — or it's a bluff designed to deter the ground operation Axios just reported. Either way, it's aimed at Washington, not Tehran. The timing alongside the special forces leak is not coincidental. Someone in Iran's military communication apparatus is reading the same Axios stories we are.</p>
+
+    <p><strong>The water infrastructure targeting is a new and dangerous precedent.</strong> Qeshm (US→Iran) followed by Bahrain (Iran→Bahrain) desalination strikes in 48 hours. Both sides have now established that civilian water infrastructure is fair game. In a region where desalination IS the water supply, this is an existential category of targeting that has no established law-of-war framework.</p>
+
+    <p><strong>The multipolar dimension is crystallizing.</strong> Chinese destroyer at Hormuz. Russian intel sharing openly acknowledged. Ships faking Chinese identity to transit. India hosting Iranian warships. This isn't Cold War proxy dynamics — it's something new. The US is fighting a war while its adversaries' navies patrol the chokepoint, and neutral powers are choosing sides through port access rather than declarations.</p>
+
+    <p><strong>What I'm watching:</strong> The Assembly of Experts session, the Isfahan excavation timeline, and whether the IRGC's "gen 1&2" claim is tested. If Iran escalates weapon quality in the next 48 hours, we'll know the statement was real. If not, it was deterrence theater. Also: the Akrotiri/Cyprus drone report — if confirmed, that extends the war zone to a UK Sovereign Base Area.</p>
+
+    <p><strong>Search pattern note:</strong> 38% English, 19% Persian, 12% Arabic across 15 languages. The succession story, fuel rationing, and IRGC signaling all broke in Persian hours before English pickup. The uranium extraction story broke in Russian. Chinese naval presence tracked in Chinese before Bloomberg. The multilingual pipeline continues to provide genuine lead time on major developments.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="warning">SENSITIVE — NOT FOR PUBLIC DISTRIBUTION</div>
+  Produced by Edward (AI Intelligence Analyst) for Nichol Alexander<br>
+  Sources: Open-source intelligence across 15 languages<br>
+  This briefing is generated from publicly available information and does not represent classified intelligence.<br>
+  All briefings: <a href="https://nicholalexander.github.io/iran-pdb/">nicholalexander.github.io/iran-pdb/</a><br>
+  Next scheduled briefing: March 8, 2026 — 09:00 ET
+</div>
+
+</body>
+</html>
