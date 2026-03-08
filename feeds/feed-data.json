@@ -1,12 +1,84 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T00:30:06.165543+00:00",
+    "last_updated": "2026-03-08T01:11:08.045393+00:00",
     "total_items": 500,
-    "new_this_run": 4,
+    "new_this_run": 13,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "12897ef35011174f",
+      "title": "Drone attack targets fuel tanks at Kuwait airport, officials say",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-targets-fuel-tanks-kuwait-airport-officials-say",
+      "summary": "\n\n  \n      \n      \nDrone attack targets fuel tanks at Kuwait airport, officials say\n\n    \n    \n\n        \n    \n                A drone attack targeted fuel tanks at Kuwait International Airport, officials said, adding that firefighting teams and other emergency crews were responding to a blaze at the",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T01:03:26+00:00",
+      "fetched": "2026-03-08T01:11:07.909647+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "237221d7e6e32709",
+      "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
+      "summary": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out&nbsp;&nbsp;CBS News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:49:00+00:00",
+      "fetched": "2026-03-08T01:11:07.823966+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "92067c43e3f17756",
+      "title": "Fire area in oil depot in Armavir is 200 sq m",
+      "link": "https://tass.com/politics/2098299",
+      "summary": "According to an earlier report, the fire occurred due to a drone attack",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T00:46:50+00:00",
+      "fetched": "2026-03-08T01:11:06.547298+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "5dff5a382770e15c",
+      "title": "Trump says US does not need United Kingdom aircraft carriers for Iran war - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmpULUJZRDR4VlpPeko4cGRpR0RNYVdIR183MUc4ZEdkLVQta1RpQ2RaRnBCZHl0YVVrQmlfWUVuOXFEU1NPTkZ6c2pDLXdlUjh0bFBzS2VqZkNJS044TmdMMTR5X05Ob1BWLWpGTFQ2UWZOamwzWEVsd094UFBpei1vamV5SFh6SlZsdGcxbHhWR2NNQ1Rwd3UtM3BMQU5qaHA1TW1VYUdIZXhzeWhQd3lHY9IBuAFBVV95cUxQcnpJUEhYRHM5bWp3Wm04Sm94cDlFMy1fbE9qcjBfYnNKbW5QR3NFMTVpQjEwS29UU19jQmpZS2Niai1McV84OW5iTWpCblZtdkdyR3pjRTdHbGtKX3d0cm1MWjFQbFJTOUh3U1VFY1ZSV1NqQmtnb2VxLWJEd2ZWV3ZnZUFFUDRKWm5XWlVvejNlcGxxX1MwS0dqY192X0gxcE5BcTIzS2ZRNkY5STFGVEVfX01Sa0U1?oc=5",
+      "summary": "Trump says US does not need United Kingdom aircraft carriers for Iran war&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:39:14+00:00",
+      "fetched": "2026-03-08T01:11:07.824196+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "4ed3c6f96091e69c",
+      "title": "Trump says US does not need UK’s aircraft carriers for Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss",
+      "summary": "The president called the Iran war &#039;already won&#039; as he dismissed reports that the UK was preparing HMS Prince of Wales.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T00:33:56+00:00",
+      "fetched": "2026-03-08T01:11:04.482630+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e5de327819fd3c3f",
+      "title": "Ex-UN headquarters in Sulaymaniyah attacked twice by drones — news portal",
+      "link": "https://tass.com/world/2098289",
+      "summary": "The second attack was made in 40 minutes after the first strike",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T00:28:29+00:00",
+      "fetched": "2026-03-08T01:11:06.547343+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "665831654414dc8e",
       "title": "Saudi military downs wave of drones near capital",
@@ -18,6 +90,30 @@
       "fetched": "2026-03-08T00:30:06.084382+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "edc71dd12552e72b",
+      "title": "Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYzNQLWxQaTh1aVZuNzhJR19xc2tXcFhsZmRjS0dFU0RNYXdSd29QckVfd1Y0MzdaWjdsN1pXdTRKVWI2QV9JMG1HMUxuSzg0Ml8tYWZwenJ3NV93cUV1dkNmalkwYWV5QTRUZlB0bWQ0ZVB2X1FDcGRfMDZ5dE0?oc=5",
+      "summary": "Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:26:40+00:00",
+      "fetched": "2026-03-08T01:11:07.824019+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8a0ded3425eef199",
+      "title": "Trump says he told Kurds not to enter war against Iran, citing risk of escalation - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUtXenhMYWRUd2dKVVd4MlpsQTRpZTNBcVFCckZhVGJKeXM0WjNEN3dQRFZYMnhybTJEaG45V01lVjJtbFkyN2k1ZG5yUFhtQjByZDVHUThXSzIzVXRRU2o0cXVlNG5IX2lsOUJER1Z4TUpmR3QtNTFjWlBZdWxqa3FjLTlNYUJwdzBwNnlGR0VVNTB4VmdiRE9uUUJFaWVUMXdNVnVKTklMZ09SM0d4VkJhYjBFTkROd01TQ0FCOA?oc=5",
+      "summary": "Trump says he told Kurds not to enter war against Iran, citing risk of escalation&nbsp;&nbsp;Anadolu Ajansı",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:25:52+00:00",
+      "fetched": "2026-03-08T01:11:07.824610+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "0b8784fa8e1cb42e",
@@ -112,6 +208,30 @@
       "category": "iranian",
       "published": "2026-03-08T00:15:03.802491+00:00",
       "fetched": "2026-03-08T00:15:03.802523+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7af7cad40c0c9265",
+      "title": "Trump vows to escalate war as divisions in Iran emerge - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQV9uMnJLNEpsdVBBSk5aUmVkQWlIUVZ5S2pJbTlKSmZLbFpzWEt6a3ZvWmVtaFRsdWtVVVZaY0pWM1c3U0o2ODQ4QVFiUXJJVjNEMUFmeUxmT2hrWmpETEJoWFAyOWR1TFpVOVkyX3M3cGdyb2hIVFZaSXVPVjMyRzdSQ3JSRGo3Q3R5V1B4TjcxRUYzUzRQWDk5T2FERzFGUEN3TGc4UQ?oc=5",
+      "summary": "Trump vows to escalate war as divisions in Iran emerge&nbsp;&nbsp;Los Angeles Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:12:00+00:00",
+      "fetched": "2026-03-08T01:11:07.824089+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3b8ba039e459a834",
+      "title": "Iran live: Israel bombs Tehran oil depots; attacks on Gulf states continue",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
+      "summary": "Qatar, Saudi Arabia and UAE report more attacks despite assurance from Iran&#039;s president that the strikes will stop.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T00:00:00+00:00",
+      "fetched": "2026-03-08T01:11:04.482686+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -402,6 +522,18 @@
       "fetched": "2026-03-07T23:03:51.548950+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "fb1c7251b1204587",
+      "title": "The US-Israeli war with Iran in maps, graphics and images - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWm1TOGdTSmpTb3FHRzJjeGNZTDR0Y2pNaTVCeVNnbG9GRS1SRy1mb19IcFNuWE9hR1hXSkc2N2dvZU1Pd29Pdi1nWXZTQm1hME5aMkp2ZFNXWDJmbHRUMHhmNVZuN0FaSjV3Sk1mRTU0cXpOM18xWW1PXzFYS0hMRUFoakM1ckZIMVM0cTRlbXJPMUk1M1lHRThiQjhUYl9HZ3VqTE93dU0wdw?oc=5",
+      "summary": "The US-Israeli war with Iran in maps, graphics and images&nbsp;&nbsp;AP News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T22:46:20+00:00",
+      "fetched": "2026-03-08T01:11:07.824156+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "f294609b410a30b0",
@@ -2380,6 +2512,18 @@
       "category": "regional",
       "published": "2026-03-07T19:49:26+00:00",
       "fetched": "2026-03-07T20:47:35.014596+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e1dbd81860ad4544",
+      "title": "Trump White House Reportedly Blocking Intelligence Report Warning of Homeland Security Threats in Midst of Iran War - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFlrWEdRcWNjUGV3ZVB0OEw4eUhVQVBaZHlHYU5iNW9NekRVcjNaaHlTYU1DWjFNVDRiTFlXSGMyMmtUWlJNTVdRQXFDczQ3SmpFVnprNUJrZ0pQWng2SmNESlU1dVJOcy15UmNXQUlHcm1wRVVrcmpuQ21iOG1TcXM0WGRlaksxdGR0dUF5ZkdlQQ?oc=5",
+      "summary": "Trump White House Reportedly Blocking Intelligence Report Warning of Homeland Security Threats in Midst of Iran War&nbsp;&nbsp;Yahoo",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T19:41:44+00:00",
+      "fetched": "2026-03-08T01:11:07.824675+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5708,6 +5852,18 @@
       "iran_specific": true
     },
     {
+      "id": "ad5c70154078fc33",
+      "title": "Opinion | There’s Reason to Worry About the Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNcFdHa3Ixa2dGanZTcXhzS1MtVUZvckZ6dlQ1VW55QmllMGFNMGl5MFYzcG5kUnpvUG9IUFZ2ZDAwUTBCRDdodjFqRzlvWDBDUXhWbjBqTGVjQXhvd3Q3eHkwNHJxVndUOC15RGJlSW1RYkg1Nk5yY3ZLSGlWRV80NGVkb0F2b3B3eU1JYko0R1hVYV9mY09zUFFZM1ZzNW9vMTFLSE9vN0dsbjRNWks2OWRtbGN1RGJETXZlanVvcnBZdTdKVzRRTG1RcXZ2LUJkN3lWMFRwZzB6cDI1UmpWbVdldURMRzRwNC1BbEFUUEJMUThUY1BFdGNaSHRtTlI5SV8wa1pDR1VLcGNfN2J0X1ZyWC1LUEpBTHFMSm1ZdkdETkktSVp3VW1iMDRtZTlQbzlwZG40VkdNSVVibXlnNUJ4N0w1RWFod2IyVWtIMl9Xa0V0MmVFeWNYVXBORXZXSS1Idkh2S0tzTEpIZHdxSjhJT0toSURuOHlOc3FTX1FBZmJCLWp0MVdn?oc=5",
+      "summary": "Opinion | There’s Reason to Worry About the Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-05T23:16:00+00:00",
+      "fetched": "2026-03-08T01:11:07.824544+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "fb0c6c7e610c0925",
       "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
       "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
@@ -5848,162 +6004,6 @@
       "category": "western",
       "published": "2026-03-05T18:36:37+00:00",
       "fetched": "2026-03-07T20:41:04.877291+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "459120605be7502b",
-      "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
-      "link": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian authorities say the attack, which took place on Saturday, killed 168 people.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T17:46:24+00:00",
-      "fetched": "2026-03-07T20:41:04.876833+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "401a9b09069523cb",
-      "title": "Your Questions Answered: Can Congress Stop President Trump’s Illegal War Against Iran? - American Civil Liberties Union",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGkzVThuUTNtUGEwMHNERFZ1UGtUaEVJOTFUTS1jLXo2S0RnNUdyOEc2dElOOURzNkpwelNmNUw3M2tFUlFzXzlhTnRCWk1aWVdUc2lPbkpkVTh0TGNmTERRSTVmeEVsQ253TGNhVnloN3BLTGRQWGNWVVhTdTNlM0FqSFk3UTdOVm9WZWNmUUc3alctbEVXM19ZYXV5UHBURS03elVvVDl6bXZrazlyc0c0QTd3ZlRRSTUwQ19HSlVxWm8?oc=5",
-      "summary": "Your Questions Answered: Can Congress Stop President Trump’s Illegal War Against Iran?&nbsp;&nbsp;American Civil Liberties Union",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-05T16:09:22+00:00",
-      "fetched": "2026-03-07T20:47:34.883826+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "01dc4a56d219d11a",
-      "title": "Destruction in Beirut after overnight strikes",
-      "link": "https://www.bbc.com/news/videos/cddnn158r7zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military said it began \"a wave of strikes” hours after telling civilians living in a large swathe of southern Lebanon to leave their homes immediately.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T15:15:59+00:00",
-      "fetched": "2026-03-07T20:41:04.877327+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ce4a0d8f96ad3ae7",
-      "title": "Timelapse shows change in the flow of ships in the Strait of Hormuz",
-      "link": "https://www.bbc.com/news/videos/cze004wywz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A timelapse of marine traffic shows the flow of ships has decreased in the Strait of Hormuz.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T12:38:53+00:00",
-      "fetched": "2026-03-07T20:41:04.877278+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "04ce3f37c8a1ddd2",
-      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-      "link": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T11:35:09+00:00",
-      "fetched": "2026-03-07T20:41:04.876901+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "da3838be1b228946",
-      "title": "Trump wants to help pick Iran's next leader as the war stretches into Day 6 - NPR",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGw2STZqblltcGZHVURJd2s0dEdFNWpEYnFYU01sNHNJc1QwVTEtYTc2SUg2UWhPRjZtM1FIX3djR2Zwa0l6dzZnSjhiaHY0MHdnMG9ZZW9ieXFjdm9OTXZLS0p0enNQUEphaE1pU3lZMEUxbUxiSmMyQVR3RS1MTWtiQVlRZlgySFZyQWgxZFM5bUNJTjRyUEtpUS0xLXlrUWZqenU2ekxWYXlxWi04dm9CdlJaZw?oc=5",
-      "summary": "Trump wants to help pick Iran's next leader as the war stretches into Day 6&nbsp;&nbsp;NPR",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-05T11:09:56+00:00",
-      "fetched": "2026-03-07T21:00:06.424783+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "53be8d1b77b29952",
-      "title": "Hegseth says U.S. \"just getting started\" in Iran war as conflict intensifies and spreads - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXM5TFNKSmxnUUIyVlVNY1M5Sl9rdkxmSEZ0amVJM1BJQzVLQmNMeENQcDRfLU1TLVh3Ukw4YjRqUnVqM0JOYjV6U0NMVTRrSU8tT2hKOVFqMF82MDNXbjZMRjZvR19lSUFXVTIzQ3pmZTgwTG1PZU1mTVo5cU52TW5aOVJTM1h0QnMxbnFGZm0xdDVIX04xTC1DeGFFa25Oa3VyUWpR0gGrAUFVX3lxTFBUTkdEeHVMREJsUm9qN19tQS1QSllDTVFmdHNFX0I4M3ExQjBOLUxMdlVjQUc3OUJIbi13dzNVSURzX0VncFB0M3IzMmFNUW5hT3ZiZUItckV2cThXdl9yOGVVUUxZRkdyc1B5YWY0aV9GeTdmU2VwcWNTVmdVMXBUTVI0d1JPWkZacURHQ0ctNmhnNjExWlMyb2MxajNiVlhYTVpIWFVGLUtmTQ?oc=5",
-      "summary": "Hegseth says U.S. \"just getting started\" in Iran war as conflict intensifies and spreads&nbsp;&nbsp;CBS News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-05T10:28:00+00:00",
-      "fetched": "2026-03-07T21:30:07.341897+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "430f0f8bb1493c56",
-      "title": "Opinion | Does the Iran War Put America First? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDRuaU5SRlhNVVVVOGlhOEhSQ1JEcWNPaEZhT0lMdGlGblBidjV4cXVIaFhWN3pYTmdSaG9VN01VckZuNENpSURxclN6eGQwb3JvSEFlOWpHamNFU2VSOU9OQUZJdDc1SXBqNUlmTzJ1dWxzVjJwQ2ZSUkR4N0xJWlh0UkNuUGNS?oc=5",
-      "summary": "Opinion | Does the Iran War Put America First?&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-05T10:04:39+00:00",
-      "fetched": "2026-03-07T21:00:06.424867+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d70079917b26e55b",
-      "title": "Why a $1.5 Trillion Defense Budget Request Might Slow the Pentagon’s Reform Efforts",
-      "link": "https://warontherocks.com/2026/03/why-a-1-5-trillion-defense-budget-request-might-slow-the-pentagons-reform-efforts/",
-      "summary": "On Jan. 7, 2026, President Donald Trump announced:I have determined that, for the Good of our Country, especially in these very troubled and dangerous times, our Military Budget for the year 2027 should not be $1 Trillion Dollars, but rather $1.5 Trillion Dollars&#8230;While the specifics of the req",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-05T09:00:08+00:00",
-      "fetched": "2026-03-07T20:41:23.366646+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "2d014ecaaa4207cd",
-      "title": "The Bay of Bengal Flank: India’s Three-Front Dilemma and Its Implications for Taiwan",
-      "link": "https://warontherocks.com/2026/03/the-bay-of-bengal-flank-indias-three-front-dilemma-and-its-implications-for-taiwan/",
-      "summary": "What if the biggest variable in whether China attacks Taiwan is how many directions New Delhi is forced to look at once?When considering a Taiwan contingency, people tend to focus on cross-Strait dynamics and China&#8217;s military capabilities for understandable reasons. But they should be thinking",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-05T08:30:12+00:00",
-      "fetched": "2026-03-07T20:41:23.366692+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "d8770d0b826f32f9",
-      "title": "Fighting an Economic War Without Fused Intelligence",
-      "link": "https://warontherocks.com/2026/03/fighting-an-economic-war-without-fused-intelligence/",
-      "summary": "Editor&#8217;s note: This article is the third in an 11-part series examining how the United States should organize, lead, and integrate economic statecraft into strategy, defense practice, and the broader national security ecosystem. This special series is brought to you by the Potomac Institute fo",
-      "source": "War on the Rocks",
-      "category": "defense",
-      "published": "2026-03-05T08:00:25+00:00",
-      "fetched": "2026-03-07T20:41:23.366733+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "499610f447276e3e",
-      "title": "What if today's Iran is resigned to a long, hellish war with the US? - Responsible Statecraft",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUVZ1U2lyeEY3azNwc1BWeHh4T3ZfRXZZNVMwbnZDekM3S0l5aWM0R1dUWXc2Qm10TWd5UnpJNV9CSzZZeE5VdEVYdFJLYi1Yb3VhRWZUaVV1aGVqbXg4YQ?oc=5",
-      "summary": "What if today's Iran is resigned to a long, hellish war with the US?&nbsp;&nbsp;Responsible Statecraft",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-05T08:00:00+00:00",
-      "fetched": "2026-03-07T20:47:34.883497+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1290ec3831524a64",
-      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-      "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 100 personnel were thought to be aboard the vessel, which went down to the south of Sri Lanka.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-05T06:52:36+00:00",
-      "fetched": "2026-03-07T20:41:04.876951+00:00",
       "relevant": true,
       "iran_specific": true
     }
