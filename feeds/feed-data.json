@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T23:04:06.751402+00:00",
+    "last_updated": "2026-03-08T23:15:06.490193+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 3,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "95965682feea79fd",
+      "title": "War with Iran has the potential to disrupt more than just gas prices - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRV85UFZTRGdEY1gyNnhqdF9uTGg4MHI2LTBBQURIeW5iSFN5V05EMXIycTJ6VDRkWGc1QXNGR1hVcUw5Y0ZNQ1NpcFM0ZlFnMC1PMXBuUzc3UjBWNGtxMkJWOVdrZVVIeVM0aUVIb3hWWUhINFF1bHBIYnd1cm92ZVNQWThqWVV0UFQxSWMxWHp3M0lJWUp3OTQ4M3dCdkJ6V25YZXJ5cnpkaWRpRXhWLQ?oc=5",
+      "summary": "War with Iran has the potential to disrupt more than just gas prices&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T23:08:13+00:00",
+      "fetched": "2026-03-08T23:15:06.320048+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "209dc4b182ff8df5",
       "title": "Winners and Losers: Iran War Charts a Brutal, Painful Path to a World Without Oil - The Energy Mix Weekender",
@@ -232,6 +244,18 @@
       "category": "aggregator",
       "published": "2026-03-08T22:03:49+00:00",
       "fetched": "2026-03-08T22:30:06.138507+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ac8726d677b215e6",
+      "title": "Scoop: U.S. dismayed by Israel's Iran fuel strikes, sources say - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ncXc2bjNDUnQ2V25qa1o5ZU85Y0ZDLU90LUJtbnNnbDQ4SklhWTR1dVRwWm1wdVpHWWloTnppNE16cGQzSXNhU0hsNmRIdWJYb2J6cmxjSExBVWNJc1g4bEJ6V0lvdW96TVZ4SHlFSFRaX21lVjVnWg?oc=5",
+      "summary": "Scoop: U.S. dismayed by Israel's Iran fuel strikes, sources say&nbsp;&nbsp;Axios",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T21:56:54+00:00",
+      "fetched": "2026-03-08T23:15:06.320333+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5980,30 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T05:30:08.112504+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9e5b5d02f8e3791a",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNbkhESEFIbWtlV285aGhmWjBTcEpMOXZGMV9WNEdMUXBlSzQxN0NONnVqWWVMUGVaZVU0LTB0TTJfdTNZYUUwdmZPcE85SG54X1k1Zk42M3VBaDJMZUllcEt4NjB1b3hHX2FvbWdvYnFqUFpHUmRMRUlpTDNMWXR3LWxoUFY1TkdkYm9qY3dkZGNwcXhnM0MwOTNCZlcyV3NiU1pVeXFqTFV3X2NXeTNmb29Ibms4VFV4SEVremtRRXN6VnRRaU52SndyNlNqbTI2UXdMVnNIM2RkLTFOdXFQR2lDUnNhNzNySVktQVVMUXgtdTY2akJjOTdQaE5rNWFkcFNiWnlmUDE4dkZQVzdMeUtYbkJFME5va3V1MVN1Y0NTcVRza1pCdlBKUG1uc2ZnbEZhbGNoTjE3Qi1kbWpVRFVsZ3ZsYzZfeUFtSjdKYV96UGtoZFhHbFFTdEZ0NkdHb0JQWmpKTmxnQjUxWUo4SUhjX2lQU3Utb2tZRGZQYXEwcDJqVktFdWxSSTV3T0pyWW83R2w3dzVaQ1pob2tkQXBhZVVqYWhYQ0tvYzd0NGIybXRvc1BZ?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T05:45:06.155985+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8b6f17dd24e45942",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNdW8yWjZOQkZ2czlrRV9LSGVBcEswdjlaMURuLXFmTWY4MDA2c2o0bHJqbzVmbDBSVFVOTnRmY1NjOWE0OFV6ei1Ja0FNSmhaLWpyM2c5WWp6QlNOSEhHRTRQTHJfcW5PSDJENDBpeXZFeFJqWTVCY0N1UXYtRllmVHpvU05jNXFINlZuY0JhN3oyV0R4VkdoZ0otMEl0MmFsVUNIMFBqeUhGbXk1ckwxU3k2RW9NMTlMYUJfU3JhUXpZeHM1LXNtOEhPUVFRdTZQR1NFNGtmTzBQb2Y0X2VrNnJxZ19wQnNuYlVOV1pWbUhIQzdybVdBU2NOSWxyOThzcXhQNmprbERtQlJUNWE1RV9jcENTc0VUU1RCRWdIV1FGMllQVEZrb1VyVmdjaC1rMkdrS3hLQ2dBZ0dXNElzX0ppeDU5cDYyRkVpV0hyaHBqcmZ0VEY0UTB6MG9tMXRkREtNTGM1US1mcmNqdlk4UkwyMmpwZk5leWZXXzAzQUdwTjNac3l6VWdDTGNQZWZpYk5DamV6cDFiM25telpEVDMyR0oxSWpHV0sybGlBYW1NZ0JPV1Ew?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T06:00:06.307120+00:00",
       "relevant": true,
       "iran_specific": true
     }
