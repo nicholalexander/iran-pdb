@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T20:00:06.845454+00:00",
+    "last_updated": "2026-03-08T20:15:06.158728+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "dc86275d3e3aa614",
+      "title": "Aftermath in Iran of US and Israeli air strikes - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpzX0lFaFk2QUZzOEFIOWN3dDVDVC0yMS14eUN3UVRYeWViYnVpX3VSczdURFBtYnM0dWNWQk92M0tXcWpFeGladUlMVXVYS0hvM0pPOXJ6Um4yX0VwQzU3WG53WTVxd1VjSmJTMFdFaGdtZ016aUQ1RjliQzhYUkRQdUkwRWMwV2RQa3hqM2VpS3JD0gGaAUFVX3lxTE9JaEo4VVdSUjBYa3FRMmY0d0JKLTNYd2pwR1JEMVp6cW9BRUhqN3EzMTZtakNGNHRDZ3lJcTZVQXh3d3dMVzhwLVNLWXV5eTNGVkVKNDJpZW1WNTl4SWJKaWphODdhNEFybnpGQkxDYjI5a2gxZC15Vkw4bjZSWFlOOGFnUTFDbmRRaVdTVWJhQmZXeVBSZGdRbXc?oc=5",
+      "summary": "Aftermath in Iran of US and Israeli air strikes&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:03:45+00:00",
+      "fetched": "2026-03-08T20:15:05.845478+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "fa7a090a9d0cbf43",
+      "title": "Nuclear facility in Isfahan seriously damaged after US-Israeli attack — agency",
+      "link": "https://tass.com/world/2098595",
+      "summary": "The news agency says has received no reports on radioactive contamination",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T20:01:34+00:00",
+      "fetched": "2026-03-08T20:15:04.689932+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6d819c2b9b8af334",
+      "title": "Trump pledges to block legislation until US voter ID law passes",
+      "link": "https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes?traffic_source=rss",
+      "summary": "US president continues to focus on election administration ahead of November midterms, sparking concern from critics.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T19:59:20+00:00",
+      "fetched": "2026-03-08T20:15:03.589229+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "b86175192c9c0842",
+      "title": "Aftermath in Iran of US and Israeli air strikes",
+      "link": "https://www.aljazeera.com/gallery/2026/3/8/aftermath-in-iran-of-us-and-israeli-air-strikes?traffic_source=rss",
+      "summary": "The US and Israel continue to strike Iran, hitting oil storage depots and refining facilities in Tehran.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T19:56:51+00:00",
+      "fetched": "2026-03-08T20:15:03.589267+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "50fd1b5c378b61d0",
       "title": "US military announces death of 7th service member in Iran war",
@@ -596,6 +644,18 @@
       "iran_specific": true
     },
     {
+      "id": "1ec32eb04d6ff2aa",
+      "title": "Starmer and Trump speak for first time since president's Iran criticism - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMjVfOUZJaXkxQkQyeDc4eU9RTnlVS1F3LVVTSDQxR3NyZS1rbnVHTmZQLVZ6M003NHlrSUNuYXVoeVlDNVFJWU1FVjhIeFlmTWZvbHYtSVFjQQ?oc=5",
+      "summary": "Starmer and Trump speak for first time since president's Iran criticism&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:56:34+00:00",
+      "fetched": "2026-03-08T20:15:05.845983+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "c1482405e41a73d9",
       "title": "'Mind boggles' at doubts over legality of Iran war, Israeli president says - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UeUtIN1FVUFRRWVRKcERhLUx3UDF1cWVJRUs2d2tzQzIxLXdtMVpUWV81Y1pHdTNxRE96X0ZmRExodTVhOUFYYUo3WVZ1YVBIelZwS1JTVnc4UQ?oc=5",
@@ -786,6 +846,18 @@
       "fetched": "2026-03-08T16:30:06.817262+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "07314a303d7688f6",
+      "title": "Sen. John Kennedy: Iran had taken ‘baby steps’ to restart nuclear program - Politico",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1BOTHpJXzJGZFNSQUZaWjAyODdHTHZWWGZETGlGVjl5djUyWGhLTlprWlJkUlJQVUZEb0dnYnNkM2o2c3BNcjROdjBHMjJEUmdMTXM4ZEg1WVhfVDdzaHhtMlFVcHFkcU42R2E4Sl9vSWNoT09QWVQxcVY2bDJPVF8xRUVabnVIM3hYeXdlOF93QmY4YWlRbk9n?oc=5",
+      "summary": "Sen. John Kennedy: Iran had taken ‘baby steps’ to restart nuclear program&nbsp;&nbsp;Politico",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:20:31+00:00",
+      "fetched": "2026-03-08T20:15:05.845842+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "e1220f3d06befc59",
@@ -1096,6 +1168,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T20:00:06.637871+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "443ad7e3886a7bef",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNeWcyUzNoNHpOZ1dfUDhLaThvSTdQMWd5ci1FQ01LbGxTYlo5UlJSMzRSdDJxejhpRFRsT2Z0NkttSVZ6UVZVQk5HanhiNFFPZ0hyc0dqa0VRbWtZekFnMGNjMXFGU1FxaWVtMWN6NS1XUWhaQ1lfVWhfdXF2STBKX2JWRHdlcFR0X3NDYndNQ0h2clNHZ3BPZElOXzRJTC0tSThuNFdnOGxMdnEzM1NiTlhSR1VWT2xxNUZuMXdxcXdjS21zSkNvWm04RXhCQmRINnVFR3BmZzRyNUoxaWlqUWtZOGZnNUxjeTZGOV9CcC1HTnVYZmVmQnBqeTFNSUstcExjX21Id2ZHSDlBWTZPYlpOZ2Zaa0c2QkUzWFE2MTJ6Uk03Vk9EWXNIS3l0a2IwRFRENnJUY0VHZ190aWEycTdoRHU2aWQ3dWZsNmtHaEk0ODRndVRVYUk1RnJzTGtVZ0J4ekE1QTVwai1kNWk0aER3Zw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T20:15:05.845680+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5240,6 +5324,18 @@
       "iran_specific": true
     },
     {
+      "id": "dfd7e5b67c8faa5b",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNMTlIaVlWdVRNREV6MFFuLTE0ZHJUajZONjZnVjBkd1lEQzNtSjhvek4xZE5nb3g4UXcwOTRyb2M5VEd6UkwxbDd0UUFPWHd6U0ZJQVZ1OHJtR1NlSDVUQ0d2aE1zNENyakh3ZHZRM0QzSjZVcks0ZVI2UHAzYjVpamJGc3BIclZqZHAxSGdMRC01SmN0MmV0MkZXWm1BLXROaGNEb041bHdBdGNlUUlGR3Iya0VtTm9zOEVUREV3N2JqRWxYV3Q5YThGZm1FV2Itdy00bEpsem5XU1ZEWXRMdGlxSzlnVUw1MktWY1pTajdMbEZfd0k2N2dzeVZ5RndCb0hwaHQxTUEtcVBVUnRLWG1NUkZRek9kNWlkUHpYbUoybThFWW9NNEQxQUotR1NMY0NScEt5N1JieWY5NVpNakRYZGk1NkVVbm1wRHpuekRKckJNdFVEcFRwTGNVT2dvSE5BTkRSRUxVX1pTTWNuUGZ5UGRwc3ZhS1hhSVUwcG41ZlUteDVsV0VSMkxiOG9GdVNwcFpVTUlzaHNxN3FYODl1eUtSdVJWTF9ZMy1oQUZzR29WT2dZ?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T20:15:05.845930+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5908,102 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-08T00:00:00+00:00",
       "fetched": "2026-03-08T05:00:05.894898+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "90aa4d95b67c50f1",
-      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPLUVHSjlZY3dhSGxtX0ZKbjlxeDMyOThrVC1MUDVYNjZZdi04dmMwbnhCeEZGd21sWThWNkdBUExBbTJPVG1ZWmtfM25EWElRd3lzWG1HSGdhS2llSXNKdUUwSk8tZFAzcXJONHFSazZ0TURXZklVT1o0SEJYS2pNdXZnT2s1UW9kRmJpUnZxeG80dENfdHpsLWVlYkZlVzYxWVZtYWxJcE4wcVpTVGtGOG9UT3hDN1FQWlVoc3RsWnc2aHI1YkRVZVVxb2dCUmJrMUxDSXlnRUJMSXJEMGtsRmhvUjY5aWdnaVJNd2xVVWJmZnpaYWgtWFAxRmtfUmlrdWkyS2JLMDRwVzQyNGxSbGgwcjNWb0t0V0YyYUVDNFZuUFFzT2FRcHFZNlg5cVZtRFJxRnZFU1cyZUVmV2FkbG0yMXNHbEdJbDNoQmFlb1BXVXRMMjM1WHRJUzJXdWxiQ3JqX3YtUUxwVDhMMFVpUkJkSEVFLUk?oc=5",
-      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:00:00+00:00",
-      "fetched": "2026-03-08T05:15:08.093739+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9f3967ea75e35c21",
-      "title": "Trump suggests US troops could be sent to secure Iran's uranium",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-us-troops-could-be-sent-secure-irans-uranium",
-      "summary": "\n\n  \n      \n      \nTrump suggests US troops could be sent to secure Iran's uranium\n\n    \n    \n\n        \n    \n                US President Donald Trump evoked the idea of sending ground troops into&nbsp;Iran&nbsp;to secure the country's stockpiles of enriched uranium.\n\n\"At some point maybe we will. T",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:59:01+00:00",
-      "fetched": "2026-03-08T00:00:07.746503+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f7e2cfa17bbc57a8",
-      "title": "Amid airstrikes and hundreds of thousand displaced, CNN reports on how a tense Lebanon has been dragged into the Iran war - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2NBdlQ4V1N4Z3VHWWpKZkdReDdHLUc4M3NzcDM5YzJLT2tsYVdOV2lqZzExVUxmWi15dnBjZ09ZOUtiVEFvTmxqaVczQlFIbnVxUC1XQl9KcWpfelllbTNfcDlHa0ZWYWNuRzJfdVdVTHdZbFZHRjhFMUxpUzhJQ0lrNkpNdjQ3WjdxM1E3dVVubmJv?oc=5",
-      "summary": "Amid airstrikes and hundreds of thousand displaced, CNN reports on how a tense Lebanon has been dragged into the Iran war&nbsp;&nbsp;CNN",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:57:05+00:00",
-      "fetched": "2026-03-08T03:00:06.303303+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "713b36bbafec6c14",
-      "title": "Strike hits apartment in hotel building in central Beirut, security source says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strike-hits-apartment-hotel-building-central-beirut-security-source-says",
-      "summary": "\n\n  \n      \n      \nStrike hits apartment in hotel building in central Beirut, security source says\n\n    \n    \n\n        \n    \n                A strike hit an apartment in a hotel building in central Beirut, a security source said early on Sunday.\n\nNo further details were immediately available.\n\n     ",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:56:44+00:00",
-      "fetched": "2026-03-08T00:00:07.746582+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "2ca5a4e5229dfabe",
-      "title": "Trump oversees return of fallen American troops amid war with Iran - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3hpMEI1ZVdhMWVQTl92QWo4cFBDU2RmZHRnQmtzX1V2ZEhhdVZkb1VoQ3UxWWpQeXRJdGV0MDZlbHJfVmRwT0JLMkdtd29BNnRfeXc2cC15SU5xS25rdmFBRG9xcjF2T2dhZUJobnZkOS1CTk1vcnJ0b20yU003ODRyUGRBNlZfSktVUl9pa2wxdklnaUxNYmFIcTkwOWUxaXRwWGMzVU5XOHpfbUE?oc=5",
-      "summary": "Trump oversees return of fallen American troops amid war with Iran&nbsp;&nbsp;NBC News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:55:53+00:00",
-      "fetched": "2026-03-08T00:00:07.481372+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c77a6a89f8a48c99",
-      "title": "Gas prices skyrocket rapidly as war with Iran rages - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFsbjBENEg2X1h6aTlHUDByQ2lvaHdmRkNjQ05ScUdXZkpINTM4eE1NMHlqN0ltZElPSVkzaFlvZ24yLWNENVpQMzNGUDVzTFI3bkloMHYtRWhLUWRibG1HenFnSGFsVUlnek5FWjl5c3lva1E2aTFSUEFZNG5ocnR5MS1PRVd5NDlwYlA1QVZLeHhVSFpkOUd3?oc=5",
-      "summary": "Gas prices skyrocket rapidly as war with Iran rages&nbsp;&nbsp;NBC News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:55:18+00:00",
-      "fetched": "2026-03-08T00:15:05.583785+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4323ffa6830c53fc",
-      "title": "Iranian official vows response to attacks from US military bases - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0lWek1BNmNEQ3ozZm9QODVYSjdObGdtNFdjTTliUEQ5ekVlRWFtY0VKYkFyS1RqandhZXhLT1dPbXhxQWFoNkhHRUFYZ3RQd3dTVXNGQmVmaFpqRzdsNUx1bWh3elZNbFV5by0tMjVqMmN3T3NVQW1UdklyUmlDaVBxRm9Md9IBiwFBVV95cUxOQnNaZnFvMWtfV0lFR0xkTlFQamQ3Tmw2ZzcxenAzWnpoN29ZYjhFZURpVlo0S0QtdFlnbDQ3dzd3WHNLNW5jUi02dVJqUjEtQk9nZmE0OWh6Y25kU3RSY3NveEhLZS1NVFR2VllsZmlYYU9VYzZib2tkaHpHcDEwdTd5ZGZtc1lsclk0?oc=5",
-      "summary": "Iranian official vows response to attacks from US military bases&nbsp;&nbsp;The Hill",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:55:00+00:00",
-      "fetched": "2026-03-08T03:15:05.469839+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ef20b950b004c631",
-      "title": "In photos: Aftermath of strikes on Tehran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-aftermath-strikes-tehran",
-      "summary": "\n\n  \n      \n      \nIn photos: Aftermath of strikes on Tehran\n\n    \n    \n\n        \n    \n                \n\n  \n  \n      \n\n\n\n    An explosion erupts following strikes near Azadi Tower close to Mehrabad International Airport in Tehran on 7 March, 2026. (AFP)\n  \n\n\n\n\n\n  \n  \n      \n\n\n\n    Explosions erupt f",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:53:33+00:00",
-      "fetched": "2026-03-08T00:00:07.746663+00:00",
       "relevant": true,
       "iran_specific": true
     }
