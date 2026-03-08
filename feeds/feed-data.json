@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T09:45:06.320006+00:00",
+    "last_updated": "2026-03-08T10:00:06.614310+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 4,
     "feeds_configured": 9,
     "errors": {}
   },
@@ -28,6 +28,18 @@
       "category": "regional",
       "published": "2026-03-08T09:31:01+00:00",
       "fetched": "2026-03-08T09:45:06.238680+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "bb5f242da8fa2569",
+      "title": "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGZoNTl0ZGREek5xSVJQVmFxWGlUWHdocHZRTWNQM05wek9iQVJPYThURFdVWnpqSDhFVzJtWk1UUjNTUHhXa3RGMEtlTWRkdmhVNjZnQWZhanVXRXFJOGFUWlFxdENOYm1Ob0p1eEstVktjVUw4Q3pBa0tndWt1MFNuUEl0T2drTGphVUdMeGZuMmxwd2JXWUhWTTdsQlhhVFZUUWVfMGM2VmdicUdDNtIBtgFBVV95cUxORENwYTU0djQ1UDlHdk5pbE5IVWVTbWFCOXN5S1lMQmRtbGlJbUVTX2U1cXg3VWIwSm9aT2NKVDhRX1lOdzBHOTBxQ3pwWWpvMC1HdHNiWVdmWlZRNHNJMnQxVjBPRjV5Y2tWdUs4Vld4Qk5BN2g5UGhqay1MZUEzR2tfQWxoQzRVOG84ZnlsS2ZJWnA5ckpOLTZBRDBpWGdDbUZ0OTZyS3V4SEwzcXdFSXdVT2kxdw?oc=5",
+      "summary": "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:25:18+00:00",
+      "fetched": "2026-03-08T10:00:06.376145+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1876,6 +1888,18 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T09:45:06.097779+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "68793309a91af023",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOMWx6T1JJSnBDUFluY0JyWUd6bHFRY2kxZDdfVFRGRV9MeTVQWmFDR0FXbE9mREVXbkdxS2ZCZVpUY0dKbTlNSmREaFFXUmh3akx3YkRDVXN2bUlfS282MmpPS3l4ZXM2Ulk3YXkwWElKd0VkTjE0VXA5dHp6VEV1ckVRdnlPckpMVTBHTFlsQ3NJcmpSWjZVNGJpQ2V4WEVzQmlXUUlRTjFqNFNQcmxQSWI4N2tQUllvV0pZVDBoc1hHUU5DYlh3OHNkZW5Jel95ZHMzSDNrWXU4bGMzOXI3SUxncXRiMFh2Nkw4QzBCU3ZyS25jTzVxT3lPY2lzTWIyUGpTOVBZaHpicS15dU5BVXVBemZ6dXp4NS1qTmptbUowRTVrNDhoX2NZdUg4ZndwSUZqOWJVaUMwTC0tdWJnRmlxaldVLWR2Tld2bEtKMEgySDBpSDhUMWhKX19fMHc4em9IQ3Y0Q3pOQTRqYnRDMnpxWHgwaWlucFJTVGN4UTRJR3NBdUdMek44ZjUxdWNTbi1iNHlnZmRZVHlrMUFFcmg3Z1BpRDFQTmgwdkZlNmtydUxiWS1n?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T10:00:06.375640+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5980,30 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T17:00:00+00:00",
       "fetched": "2026-03-08T07:45:05.856601+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9c9bbbe1fe271d28",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTTBleGtfM2tyaXp0b09OU3NsWHVyRkxZSXFYVloyaWh6U1F3cnd4elJNNGxhQU5BMU5ibWk3dm1QS0tRV3Bwei1VdnNJR3ZydmFQVW5rV2RQUUVUc3VxSVNRanpsUTkxZ3lqQVpOQVNqWHRyVTNIZnFxdmVyLWw4Q2JoTkwwOW5fMGdjb0l6LVpvc3VXaC1kVS1meGw0T2xYNVR3SGV5VnlWN1JWdk9lcDh5YVFlVnpVTFRSMnRsdVZqUzNrMjMteGhxcW5tMTI0ZDR3MnZQd3FRQ01fV2JBeXNIQVFmcTJoNFpIZ0RKQ1dmX0thNGRmSm5uU1RES1l1QXZZQ3E4dnB5a29oWXdvZEt2LWJZWU92WHAtd2tlRUZQb2hUOHNOVE5Ic0Y0eDEzdGxzTjdhdHF0OVc5U0xMcHlTVlJXck51NjBoN1NaNnB2RzladVdVc1lOaW53eXpCMEJKSzZsQy1zZl82ZURRc3RJeGRBQkdYRExmb0NBVWFfUnUtcEFR?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T08:00:05.953901+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1f1639754f748fc8",
-      "title": "How AI Is Turbocharging the War in Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOaWxPamlqV01QNTY1QTZnTmRuMXVpYVR5TEZYZDlIcXdaSXBvRmQxdWItR2JwRTVpc1l6TWJ4NE4wZTJ0SjZ5NjBHaVdjVEpHd0pDQmgwTFJqSEZ5RkJmb2tfdWpNb2ZPSmhXWDVUYlVfMkdJakJtWDFyRkY1MHZRMm5fdHBMbTIwSUUyNkdEYkFvVlY5LXBjd19kT1ZSMUNLVlZGdnFVMUJXQ3lhNVNrcUJOc1pZbzNoYUViOUx5UWpvVnluajloNFFCbjROWmFpNThLaWFUUjROOFp2SEFuLWhBcEJjNkZvVE1kWWNBSjk5UnlVNWJCakJlcU9TakxneTAxb18tOWN6LTZkcVVDTmE0MFgyalJvMUl1TnhlaURkakZVVFFUM0g1MFpzb2tfTTFiUGVELTluZ05jTF9iLUlmcjhsQlExZWtIRkc5Q0R5QURFX21FU1pWRW5DaEFySEQ3eS0xbDN4UUo0LS04U1ljVm5kMFZlTXhJV2dWYzJ2cmlyOHQw?oc=5",
-      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T17:00:00+00:00",
-      "fetched": "2026-03-08T08:15:06.760551+00:00",
       "relevant": true,
       "iran_specific": true
     }
