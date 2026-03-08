@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T07:15:05.975239+00:00",
+    "last_updated": "2026-03-08T07:30:05.942267+00:00",
     "total_items": 500,
-    "new_this_run": 12,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "4641cf584c6540e7",
+      "title": "China’s foreign minister says Iran war ‘should never have happened’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekxqZUlRS3Z5UWNTQlUxV1NXZXhpRW5Zc0EzLVNMd1AxcnVnRmZPLVYyRjRhWWZHNzViUjVrYTViS3RMdExJOVRBWUpWSjBScjJ2LUo2Qm1EMzBLenNaT1FlUFlPTkhCWFBZUm9WanhQV3cyTjhaOF9wNVZjU0dHc1AyT2VKZkg2Q0F4SjhyNmpnVi1EVTVRb3QzVEN1bnBiVG9DaGprbXVPT3BvOXNn?oc=5",
+      "summary": "China’s foreign minister says Iran war ‘should never have happened’&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T07:16:00+00:00",
+      "fetched": "2026-03-08T07:30:05.733594+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "578b8886f6720c1f",
       "title": "Araghchi: Iran’s gesture to neighbors immediately killed by Trump",
@@ -32,6 +44,18 @@
       "iran_specific": true
     },
     {
+      "id": "b8bb898463ba55b4",
+      "title": "One person killed in drone strike on airport in Erbil — Shafaq News",
+      "link": "https://tass.com/world/2098363",
+      "summary": "According to the source, the victim of the strike was a member of the Asayish internal security service",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T07:10:01+00:00",
+      "fetched": "2026-03-08T07:30:04.736478+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
       "id": "fbc6db8e8a30b5a7",
       "title": "Iran cleric says leadership choice nearing announcement",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-cleric-says-leadership-choice-nearing-announcement",
@@ -42,6 +66,18 @@
       "fetched": "2026-03-08T07:15:05.866769+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "3c126bb1f37d12a0",
+      "title": "German industrial production in ‘free fall’ — Dmitriev",
+      "link": "https://tass.com/economy/2098359",
+      "summary": "The head of RDIF made the remark in response to a post by former chief economist of the German precious metals trading company Degussa Goldhandel and honorary professor of economics at the University of Bayreuth Thorsten Polleit, who shared a chart illustrating the current state of German industrial",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T07:06:20+00:00",
+      "fetched": "2026-03-08T07:30:04.736604+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "2afe560efa2c1ae0",
@@ -472,6 +508,18 @@
       "category": "aggregator",
       "published": "2026-03-08T04:13:23+00:00",
       "fetched": "2026-03-08T04:45:05.813963+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e616f5884dce9c81",
+      "title": "After initially voicing support, Trump says he doesn’t want Kurds to enter Iran war - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZlhKaXJGN3d3VkV5Vk9ZOG5tVnAtcTVHOTZRMDRMVmU4Z3FqYl9fSm9xTks4aE1ld2dOOEF6V3BlanJQdHJoVTJ2OGh4RDdqTUpnLVZEcWI4dVpzSDUxc3JOWmdrRVpteWRIbXNocTR4RFVPTTJMZUhrcE9nU2tycWQ4TFc2Rnhsbmo0UFpBT3k4MWRBcy1vUzB1V3BCT1FrOXMzRzBETDlZUUpmVEw2cEFR0gG3AUFVX3lxTFBVb18wd1RaQ0xXQk1OUGZfOE9qTW5pS0poc1NQZHlPZ19nbXhsWjRvX1J3Zno0dDhqbVBlOFZFcHM2bVhDeHFoYS13VVVrWHR6VkZPRFdmQzJkbHZIVktsczVnaXgxeUNDdGRLQk16b3pvWURmYURqQlNGUUsxWkQzLUxtUjVhZGt0TU5udjNCLTBPNDRxbUxfcmNsMHFqcXdfcTFDZ1FwVzlFYlBDU1hpN1N1cTBqbw?oc=5",
+      "summary": "After initially voicing support, Trump says he doesn’t want Kurds to enter Iran war&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T04:06:55+00:00",
+      "fetched": "2026-03-08T07:30:05.734073+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1220,6 +1268,18 @@
       "iran_specific": true
     },
     {
+      "id": "d3ceadcf8ec06bf3",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPUlBuYnNnbDV4Y24yeVhLeEpzQlZhM1JCTExrSERfSjF4RzJCVkZkZjB3MURIR29zSm9rUVpHUi1PaVJwWU9fVFU4Sk9EWXlzQlNPZGN5SmljTldTaG1VRC1yS3JXanFVUDlCdndxYXdLTEFwREdZVkI5dW85NExDS0o4V0VYRUowSEd5U2NzUlUwbEJKSUdid1V1ZXpNcjluYm0zdkhBY1o5MjJxdC1rSzdpZmd4MVZTTXRCd1BfMEtodmU1YzM1RGJxblNobGs2XzViWUxtbVpPVlpRbE1XYlZBbnpKT3NxdTdSWFNDdnk4ZThaSWtMMHp6OTZLTUhvZVJfMTRJekZPWHU0NXJGRDhLV1JTcXlXenRlN29yS25OTHBpYWNvS2ZGai1TNkFfblprbnViSFk5WXBfVzNGbDBqMGR6X2lRbTU5YXRQeEJrbnY3bUV6TThNY0hEaTdNMlBDcEUtNWFPNTlsVWEydzVnWUVjd1FpRVgyNDhzZHlhU1JmNExiQThFSlZNZGl0ZkxPOEdrSENTTkpPaHp3YW5vaEFIQ19WTERYc2FPaEJMZUdlLWk0?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T07:30:05.734026+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1492,6 +1552,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T07:15:05.768695+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "74c508c68cc6be6f",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOTXg4eU9fQzFsMDhvSUJQZlRDWjJvWFpHY19LeHptOWRvYlN5X3JZQkZYYjdCN3dJWnRfQWZkVm1JUjY5S19WLXlxN2hlczUxSHBKY19BUWpka3BDS0hJVXZaWUo0OHRZUnR6RHBCOGR4YV9uUmtyaWZqQVo0RHF3UXVkZGhIQWNhbWxKWFJlU1JGeEE4eGZTTkJCak8xamdGSUdYeGF5cEpmd2pQTGVhYkl2cmJaUk9wLW1sZTFiVTVQeHhRYzVkSUk1Qk9qVzQxeEFSSjNtV1QtZndseFBTOXZLc2JyMnBsM2N3cnhMeElTQ3c5cGtFRHJQNFduc3hRdVRRdGd2Y0hFbHFLcHM2Z1Y2azkyVTRzSTdMdTduay1YeEFaRTZpeUhkQVZOM3lXRHNvRmUtbkxVNHNHekJpU2RKQWlhUFQ3a3hycEUxYWpweDdVckdsVWJncF9qM0JIcVRpYldpOTFWUXBnZEQ4WGd1Y2FiUTlUeUY0dERSSVBMQ2R2YlVOUmE4VnJERWE4Sk9rWGFVNm1ySnhTYUt2dDlqalVnUUZ4Mm1ZcW54QQ?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T07:30:05.733907+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -5228,6 +5300,18 @@
       "iran_specific": true
     },
     {
+      "id": "056f637e55f0a1d3",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOVjh0SGdtSjR3emlpMzNWTTRqeVpTdFE4aS1FN1VVYjd0eUdNYjAyb1p6OTBsWWpjX3dyU215TW1IckFOTG5wNGc3ek9FU19UZHVYdzU2SHp5MTBQcmVTZzdNTGNCVnp4Ry1XZHl5dTVXa1Q4dGFvRVcyRGxCOWJqS1p4V1J4WkRiM3MtV0ZUQUcyT0FWbEpVTUNGT3Vzd0tRVFRtVmlpTFhOaU1HcVRndVpTdUtlQkdiNXF2X2dyaWxmREl0NkJ4QVVuSTEzNDRlUXpRNjk3LWl4NWVhT3h4UEdfRUtBYl9oTzlYbVczWGZnTEdqblpSWXFXYVFta25zRm0wZ053TnpkTl94V0c5RGFrM3Mta2JPa1hrbGx0SzJ3LVJmZUZYSmkwWFNBSG5SM240c1ZfZmpXMjZ4WmN0UjFLWm4zdndaOF9NOXlzX0dUZDBuNDlMT2sweXBtNmZhRVBKVk5Vbk1IMUV5UmhXUXdtNExwMjc0SFRQc2xzVW1aSkN6N1VZ?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T07:30:05.733727+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5920,90 +6004,6 @@
       "category": "regional",
       "published": "2026-03-07T14:00:42+00:00",
       "fetched": "2026-03-07T20:41:04.688829+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b4e020e0703b45f4",
-      "title": "Live updates: Russia helping Iran as war death toll rises - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNKejNXaTRvSVRvV0hvbUpNSktlN3o5RWtWMS1ybmVPLUJfZkItUDlrbk8tcnR4OFE5b19vZzJvVEpWS3N3dWRvbjhKY0x3ZE1oalUtT2R5NHJ5QVZDRlNsYzF2a1d4SzhucGpsejVZWnkxVHVHby02RzFIdDA3QlNXcktkOFA0UVZ3NFhn0gGTAUFVX3lxTE1Pbjk2a1Jacm10Vm1oZHpvRWZJcTE3ZkR6YkYyeDBPbkg2dHNTa05kTnY0SHh5NC1SOVNrTFZ6ZWJ0Ti1uZ1dvYWFVcm44aXVKVUJVQjdHb05wZ2hvcmNNX1hNZGxtMWt0c0d2c2hwMzVCc3F2VXV0Y09nRGVGSDBMOHZRdTM4S0xnT2dkYlBIVHNFZw?oc=5",
-      "summary": "Live updates: Russia helping Iran as war death toll rises&nbsp;&nbsp;LiveNOW from FOX",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T13:59:14+00:00",
-      "fetched": "2026-03-07T20:47:34.881992+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "6191c6d446d8805d",
-      "title": "Finland to ruin international security architecture by hosting nuclear weapons — expert",
-      "link": "https://tass.com/politics/2098185",
-      "summary": "Alexander Stepanov also noted that the steps toward deploying nuclear weapons in Finland have been evident for some time",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T13:51:15+00:00",
-      "fetched": "2026-03-07T20:41:22.708413+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "751837c0d43c1285",
-      "title": "Will Iran war fallout end the bull market? When investors really need to worry - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd214TUJlTkIzLTZmR1ZNZW9Mc3RvUUwtMkpoWUdYRmN5TDlRanZDSHBnSml5RFNYMDNiTkF6dXlqLTV1VFRVd3JLMkhJc2FWbnlPaEZ2eVZ4cGVOR0NOTUVPQlQxblhOSVlzV3RFcG5SUzljampqNDl1YXplbmRaNnVEd0hEMkJvb21fQnRObE1ONVo5SVBoWDVOR3N1RmZ0QndLalVRVFQtUG8?oc=5",
-      "summary": "Will Iran war fallout end the bull market? When investors really need to worry&nbsp;&nbsp;CNBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T13:41:24+00:00",
-      "fetched": "2026-03-07T23:30:05.965724+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d26cd2bc7c2cf1fd",
-      "title": "Saudi Arabia said talking with Iran; Gulf states complain at lack of notice before war - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXJDaG9ob3NCVnVUTlhXT3ViY2RocnJEUGpGVzcxVkoyWGh0MVZUMXgxbjYxZ2ZWdl94SG9LZlFOWENvV0VlNXU5LTRNWUxNa3hCeXM2QmthemVhZFQxaElFcmRWOTdqVmpMbW5LS2hzelZWVHBid0FaNUJkcDFHWUxpRjhIX0ZrRUVSQnNQa3cwYTZDTkNVcWdVemxkX1dj0gGmAUFVX3lxTE5aUmh5TlFOWjd5Q2V4WGJ6U2Y4RlF6UnJZUlFfajBBTkg1TGR2UU9iZ0V0TUpvQXdGVm1XeHBGLTZsMm9kR0k3YmlxYVlBc2p0Zml2ZGVBUE5JZnU3d0NacjY3STA0YzJHOE1JTzdCOEM2dmJRT3M2TFZNQWFZX1pST1d6aEpTa3NaRlNBX0kwdUQtSkRUeS1VYVhvalhFWFVHaHh4N0E?oc=5",
-      "summary": "Saudi Arabia said talking with Iran; Gulf states complain at lack of notice before war&nbsp;&nbsp;The Times of Israel",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T13:30:48+00:00",
-      "fetched": "2026-03-07T23:03:51.467108+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "4b6d4a7f63e79909",
-      "title": "Russian military expert describes Iran's response to US aggression effective",
-      "link": "https://tass.com/world/2098183",
-      "summary": "Andrey Kartapolov noted that the US is hesitant to launch a ground operation and is striking civilian targets such as hospitals and schools",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T13:29:40+00:00",
-      "fetched": "2026-03-07T20:41:22.708432+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "bbb69e65cc9dd9c6",
-      "title": "Orban says he received Zelensky's message, advises him to refrain from threats",
-      "link": "https://tass.com/world/2098181",
-      "summary": "The Hungarian prime minister warned that Ukraine cannot achieve anything through blackmail against his country",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T13:26:22+00:00",
-      "fetched": "2026-03-07T20:41:22.708478+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "e067643e22374131",
-      "title": "Trump administration and Democrats at odds over risk to US weapons stockpiles from Iran war",
-      "link": "https://apnews.com/article/iran-us-weapons-stockpiles-interceptors-patriots-thaad-006d6294441fb2338463f6260e1a9256",
-      "summary": "Smoke rises after an Iranian drone attack in the port area of Dubai, United Arab Emirates, Sunday, March 1, 2026. (AP Photo/Fatima Shbair)2026-03-07T13:08:15Z\n                                        WASHINGTON (AP) — The U.S. and Israeli strikes on Iran have raised concerns among Democrats and other",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T13:23:02+00:00",
-      "fetched": "2026-03-07T20:47:33.082676+00:00",
       "relevant": true,
       "iran_specific": true
     }
