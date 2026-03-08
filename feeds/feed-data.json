@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T23:15:06.490193+00:00",
+    "last_updated": "2026-03-08T23:30:06.181605+00:00",
     "total_items": 500,
-    "new_this_run": 3,
+    "new_this_run": 2,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "c37fe50a45e0d8bf",
+      "title": "Top Iranian officials back Iran's new supreme leader",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/top-iranian-officials-back-irans-new-supreme-leader",
+      "summary": "\n\n  \n      \n      \nTop Iranian officials back Iran's new supreme leader\n\n    \n    \n\n        \n    \n                High-profile members of the Iranian government have backed the country's new supreme leader, Mojtaba Khamenei.\n\nIran’s parliament speaker Mohammad Baqer Qalibaf welcomed the Assembly of ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T23:15:18+00:00",
+      "fetched": "2026-03-08T23:30:06.055047+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "95965682feea79fd",
       "title": "War with Iran has the potential to disrupt more than just gas prices - NBC News",
@@ -5992,18 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-08T01:00:00+00:00",
       "fetched": "2026-03-08T05:15:08.093536+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9459fc708e82d12c",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQWWFJajRHbzlJVUkycGVEMEFfbklLWEFLR1hPWksxZkV5ck1ESUdQUmI4cWFrZFFYUVhYVVp2cEN2RGVGdEZLMWFhWlQ5bWduMGQ5X0poSmh1bEwyRDdkUW00QnFIOW83TG5NOEg5YXFyNktCUWxOY1JPSHQ1X2ljV2RLWWE0ZTR2eW83QnF6anJfNGVUMzZTZGxRekhYN1hlX2tCREFtQXh4Nm1Rd1B0dmVCSVA4MWtvQWo0NnpGcXltNTFYR0lCUUJ6V0ttTUZIX3dUdDdJOHdIaWJIVHVBZzNFc2xOZm14QkhPWjVNRmd2QlN2NnJxa1hxVS1vQUJZZDZ6bHJsbFFaemRpc2RWc3BMZVJFa2VXR2hHbDZ3bzd2VDVZaE1HTlJYYjRRSU5fMUtBNTQzdUQ0d254ODI0dWZIbEYwWWJRcVJtVnBaRzc0cFJad2ktS0JqOExvZW51U1VHU2NhT1FFM2FtS1lHZ1BqZ0RwdjI2RmRpRFNoNDR6eFR2RTU4UHhLVnF2YzIyT0k1ZGtDTGVHZVJ6VUZBbmxxblRUS3JQY1ZaczdvcHh6MWNpcllZ?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T05:30:08.112504+00:00",
       "relevant": true,
       "iran_specific": true
     }
