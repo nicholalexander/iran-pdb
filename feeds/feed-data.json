@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T07:30:05.942267+00:00",
+    "last_updated": "2026-03-08T07:45:06.026061+00:00",
     "total_items": 500,
     "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "18136805b6865146",
+      "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
+      "link": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
+      "summary": "A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
+      "source": "NPR World",
+      "category": "western",
+      "published": "2026-03-08T08:18:54+00:00",
+      "fetched": "2026-03-08T07:45:06.025864+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "a586b33663f7a7ae",
+      "title": "Israel warns it will target those naming Iran’s next leader",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-warns-it-will-target-those-naming-irans-next-leader",
+      "summary": "\n\n  \n      \n      \nIsrael warns it will target those naming Iran’s next leader\n\n    \n    \n\n        \n    \n                The Israeli military said it would pursue anyone involved in appointing a successor to Iran’s Leader Ayatollah Ali Khamenei, according to a Reuters report.\n\nThe warning came after",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T07:42:28+00:00",
+      "fetched": "2026-03-08T07:45:05.951090+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "817dbe87aba4368c",
+      "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3hnVnNIcVJQUFNFQzNpRWVaSU1jb3g4N0xCNG1PckMtSi1sdnFpZzZQakN3LW90Mi1xQTAwUVJDcUk5QnVWVHlGUUxHU2V5WGZueVlvdHFTQXlqbjRMZmlKOUZjeGhVd1ZWc09EYkFndHRxRlhfMXFoWmZVRjB6SzlXeG5EcEdKalU1N3BJLUR0RG9yazR2SmZiSkhmZm5XaWRSRtIBqgFBVV95cUxQNVQ1UHlTcTdPOVBPMEhyZVp0UmI2OHlja0JZLW4wS0dIR0JXWkVQeHlwaXVLZWdiemU1dUhyVWdlaW0xcERNbHlLa1BmQ2VMMlJBbGRwT21ERlIzR2R0ZW5oRVpNYmFZSS1sN2xlS0U5Y2k2VHNjV2tzcFNiRHlVVzZoTFVVR0szZHhndmlBTlhxcWlVVlZ2ZkE5UWMwZzhtN3ROZHhxNmJadw?oc=5",
+      "summary": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war&nbsp;&nbsp;CNBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T07:17:53+00:00",
+      "fetched": "2026-03-08T07:45:05.856413+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "4641cf584c6540e7",
       "title": "China’s foreign minister says Iran war ‘should never have happened’ - The Guardian",
@@ -89,6 +125,18 @@
       "published": "2026-03-08T07:05:27+00:00",
       "fetched": "2026-03-08T07:15:03.649889+00:00",
       "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "c0962ba456c2ab14",
+      "title": "America Is Ignoring Lessons From Vietnam to Iraq - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm5FNTRHbWZjNjk1aHE3VklhX2ZmSlZ5b0FYeHh3M3BNbUFDS1RWVmpWUXc1emRySjZZRTJDZXlHUUZqSTF2ZE9sdkNnb1pIUmplTG5YVEVtdWowaFpkMW1FRTdBcjNlbEtnVHZXYzNXbUJrQnRGZlVKUjJGQlpJTGF0ZW13Mjd2Y3BEdms4WEhDVlVUOU9GYmk2M01ISVNCNjlLRHNLS1NtQ1k3cGt2cW1OdmJVSFg3dEJxdHQtWQ?oc=5",
+      "summary": "America Is Ignoring Lessons From Vietnam to Iraq&nbsp;&nbsp;Bloomberg",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T07:00:00+00:00",
+      "fetched": "2026-03-08T07:45:05.856482+00:00",
+      "relevant": false,
       "iran_specific": false
     },
     {
@@ -1280,6 +1328,18 @@
       "iran_specific": true
     },
     {
+      "id": "b6d20f44bdaf0e28",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQdnNkQ1pfejA1VnRYR3JwZWxFbFNIb0w1U0hIY09zSGsxSUd6NUJkcmY5U1g3Wk5sZFE5c1RHdzFPSG5MdUNVeTRzaHU4T0lQdnJ4SWxXQ1FmQlY0dGVZUzEyd1Zna1JkVzJNWWY5VGNnYk1iZlNOUEFvT3h5T190NUxVSElpWmRfbTh5WTEwSGNMY0JlZml0bGRubS1aRkw0WlNjeDZqVzBUZE9zazVhaFlsOVptdkFNUGctSzhLb0lBcjNPbVVTc0ZyX1lRclM1WjRKanlxU1MwLXBZQ1Z1UldSQ29EU296ZkFucmxUZnhGRm5jY2pITVFjdjY3YWlHaDJDR3owZGl0Y2pxSWRVYkEwMi01Z2RHUDQ1M0hjeFYyb1p4UTZnNHgtOGtQV2xWQkFfbE1sNkotMmd6dVlQR2hTQkc1dkR2dlRRazdRV1JXZUdnVFhnTUJOTDFzVGd1SU4yQ1RWOXBGZEtteHRzaG9xQXRiODJIV0FOak85Z0JwSDlEVldiLXhablU5d1BiMy12OTFEZXB0d0RJSWJLNFVBbTlEdDkyZ0FSZFNWMFhyd0J0UmxZ?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T07:45:05.856954+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1564,6 +1624,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T07:30:05.733907+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "925b995927299903",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQM2duRkQ4ckJEdF80SjJfOTM5YWc5amd0dkdyaUtMT1VQbmpUUndJalpuZ3FnalFhSWJWVXdEal9KTGczNy1pdWtnNXFOcGxHR1UwZF90S3hpYXZSUTZ2VjdaTm4zUDh2dUtMTXhhdm9yNnFoSWVxd09lbmRodHYwQVZyenZzb0JBSXJ3ck1SNGkzT1lsOGlfdHhqcFp1WkhJM3A5YXhXdzJ2bEtyUjc0MndabHZfcTJVWDZEZXRUR0kwbHhjX3dfd2hzek9tSVlGbUZrcjAwS3FabHQ1d2NveWlBWFlVMFFtUjliUmxJaDA5dUxDZEhiU0dTRFBZZ3pIRmJ2NldTSW41ZnRtSzdHbV9yYk1lejlnQkFpRndGM1JHQjIzTC10aVEwQVlSSm5KcnhNUWp5dW92VFFtR3ZTMjZqZzhsa2hXd3dsNGE4SVhmaDNscHBKdkp4UWVUclRHS1BoaTBHZ3Zna0hFeVNXaFI3S240TTVKS3JheG9vbzdJZXZ4VFp2a0ZGNUd4dkdvUGY4Y3phaVhVczhHNnhZVTJrc1Q1NFFvMGx3X29sNA?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T07:45:05.856784+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -5312,6 +5384,18 @@
       "iran_specific": true
     },
     {
+      "id": "9aff538cc47cab3f",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOSjZ1YjJBeXZKYVU2bVB1QnR5cHF6YUd5SzRRRkQ1UEpBcHhkcjFuYmRhYUh1UG5neVE1U184NzhaaC1OeEhEc2FDOEktSWFfczZlTWNCUFNkbXlrM2pDYUJ2QUdzZEJtT3NmRHlHZVRDWGdoNjJ1RmwtNlRiWFRuUm8wSnJpcWpsWWVQczdzUlRLZXYxNWppRURoc0tYQnRqclFZRlZZTWxJT3dtcmxEMXEzN1RaZFFHNXQxc1ljMU5hQXduaDBDNXc3Wm50MXBZbng1cC1RUFpxSmxJcXRVVUpXRXlVYkd1akpTTUh1VHZ0aUFEXzNBSTlzQzF4WENMeEs2S0gzMFdLdlRQLVhhWmQ5N2p4b0xfQlNXcEF1c3VfaXA0RkRKc1Q2Y0JiT0xYSkRTVmJZZENudE5kVlZFTmJoUjZnaE1TcDJkSVd5Xzd2NlZBeGNHQ2t2QlFBb2ItSzNFdktvODdGT1VEbmE0RjRPSmZKaEZYd09CejhsekJxYVZZQWg4?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T07:45:05.856601+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5922,90 +6006,6 @@
       "fetched": "2026-03-07T20:41:22.708289+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "c51ba39d7cea3c5f",
-      "title": "Trump to receive remains of six Americans killed in Iran war - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnRLalZvaGNyc0NIbjAzU3Z1NTFSNXZPSGctZjNuR3dkYVIxMk0zSnJScWdkXzdJYzZ2M3BvdGQ3a2VWa1h2bmlYNGI0Nk9ocG5WYTYwdW1LNWdfakJudGJ1RDh5a2JONGdmNk90Y2FCUC1BTjZ6MkViMUFxYkxVMkNCQWpUU3Q4SUt6eXMxb0F5Rk9lc1BZVw?oc=5",
-      "summary": "Trump to receive remains of six Americans killed in Iran war&nbsp;&nbsp;USA Today",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T14:32:00+00:00",
-      "fetched": "2026-03-07T20:47:34.883242+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "fee6f9ec9377f839",
-      "title": "CAR wants to develop strategic resources together with Russia — President Touadera",
-      "link": "https://tass.com/economy/2098191",
-      "summary": "Russia has all the necessary capabilities for this, the CAR president said",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T14:26:32+00:00",
-      "fetched": "2026-03-07T20:41:22.708329+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a7c731430f4eb279",
-      "title": "CAR president calls for end to Middle East conflict",
-      "link": "https://tass.com/world/2098189",
-      "summary": "This is a very complex conflict, Faustin-Archange Touadera stated",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T14:25:09+00:00",
-      "fetched": "2026-03-07T20:41:22.708355+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "5afca1a9367571f6",
-      "title": "Iran strikes another oil tanker in Persian Gulf — state TV",
-      "link": "https://tass.com/world/2098187",
-      "summary": "It may have been a US asset",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T14:24:08+00:00",
-      "fetched": "2026-03-07T20:41:22.708376+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "596ac5cb0ca3101e",
-      "title": "Families with missing loved ones like Nancy Guthrie face ambiguous loss. It freezes grief",
-      "link": "https://apnews.com/article/savannah-guthrie-mom-missing-nancy-guthrie-facf37e831fc39133846b4efd2115aca",
-      "summary": "A banner with notes from hundreds of well-wishers and an image of Nancy Guthrie, the missing mother of &quot;Today&quot; show host Savannah Guthrie, outside the KVOA Newsroom in Tucson, Ariz., Friday, March 6, 2026. (AP Photo/Rebecca Noble)2026-03-07T14:01:40Z\n                                       ",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T14:23:01+00:00",
-      "fetched": "2026-03-07T20:47:33.082619+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "71ed74e0aa122986",
-      "title": "Iran war destabilizes Middle East politics - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1FlT1FlMk8zSWlpQlJHR2ptUUROOE1pRlQ5Q3AtaEpHZGRKZ3BCb2taTXhkRzRubVZMaHVQT29QbVgwMWFPeU9VZ25BZzZfbE01OFR6QWxNZ1dpalgzNE9INzg5VWFkbGJiR0JVWlVLd2RIZVpVZnBoWFVpYVEyRNIBgAFBVV95cUxORFhiNWdWYWdXX1ZXMmRjd3lodC1RNkljWnpBMk40TkdqU29NU2l0REFQSm92eVFpZDBQaE03SS1OMVlQQlZyNjRlc3ltMzFHNmp6YVg3UG5sdTdEbTRnYlFHdVFtcjFldGJwTG9EZGZ1WndzcGZNUWF5NHMzLXowSA?oc=5",
-      "summary": "Iran war destabilizes Middle East politics&nbsp;&nbsp;DW.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T14:01:35+00:00",
-      "fetched": "2026-03-07T21:15:06.606649+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9e638c92f5e880d6",
-      "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
-      "link": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss",
-      "summary": "Suffering in Gaza and occupied West Bank remains acute as the world focuses on the US-Israeli war on Iran.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T14:00:42+00:00",
-      "fetched": "2026-03-07T20:41:04.688829+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
