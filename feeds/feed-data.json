@@ -1,12 +1,72 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T20:30:06.313332+00:00",
+    "last_updated": "2026-03-08T20:45:08.454883+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 14,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "8ba5c3b42ea96276",
+      "title": "US soldier killed in Iran war has ties to Spotsylvania County - WTOP",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkxJTjFrdEZPcVY1d2VDRldFSi0tdlE4OFJOeHRpRlFkbXhUQ0MyT05fN2xKbk9TbnU1dTJUNkFpeER3UHpmZ1pIUW5JR19LN18yMmZyazlscnVkSzdSbmZpU00wRmhvOEFNZTVGa0lwRjN0LWFrcFRXR1RsbG1ZdVRNN2xfYUxLclNOSVJBUWVfMmVWbFVpbFRhNTNQQQ?oc=5",
+      "summary": "US soldier killed in Iran war has ties to Spotsylvania County&nbsp;&nbsp;WTOP",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:42:18+00:00",
+      "fetched": "2026-03-08T20:45:08.289371+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "4ecb2888c03b93fc",
+      "title": "Live updates: Iran selects new supreme leader as Middle East war enters second week - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWJOT0luYlNhUlJ5b0hPajFwZU8ySkdnUWRpLXdjcE93VUFOMFpKVGt6X1dxeVBoTnY0OV92c2VHV1RkUUtmY3dIY0FpN1NXRy1pOWVfT29pTEdMRXlDVGtoVHZaejBKM3lJUHF1RjczZ290cjFFVkt1amsyX09ZdTBUYTVieENlQkNtRm5qT3ZMX2E3eDFybnhORmZUX18wNFlSb2Zvdzk4RDJ4UVY2Nzh3cjN3TW8?oc=5",
+      "summary": "Live updates: Iran selects new supreme leader as Middle East war enters second week&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:39:49+00:00",
+      "fetched": "2026-03-08T20:45:08.289403+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "4e20ab2de0fcef27",
+      "title": "Pezeshkian rejects Iran’s responsibility for drone attack on Nakhchivan",
+      "link": "https://tass.com/world/2098617",
+      "summary": "Azerbaijani President Ilham Aliyev says it is important to investigate the incident",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T20:39:03+00:00",
+      "fetched": "2026-03-08T20:45:07.206648+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "73bdee7317cf2af5",
+      "title": "Colombia elects Congress, chooses presidential candidates amid US tensions",
+      "link": "https://www.aljazeera.com/news/2026/3/8/colombia-elects-congress-chooses-presidential-candidates-amid-us-tensions?traffic_source=rss",
+      "summary": "Colombians will choose from more than 3,000 candidates vying for 102 Senate seats and 182 House seats.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T20:37:01+00:00",
+      "fetched": "2026-03-08T20:45:03.849810+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "20464c65cb5538ba",
+      "title": "Saudi Arabia intercepts drones heading toward Riyadh, air base and oil field",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-two-drones-intercepted-north-riyadh",
+      "summary": "\n\n  \n      \n      \nSaudi Arabia intercepts drones heading toward Riyadh, air base and oil field\n\n    \n    \n\n        \n    \n                Saudi Arabia’s defence ministry says a ballistic missile launched towards Prince Sultan Air Base was intercepted and destroyed.\n\nThe ministry said in the last thr",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T20:36:33+00:00",
+      "fetched": "2026-03-08T20:45:08.381680+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
     {
       "id": "b7091c2141554362",
       "title": "Iran says targeted Tel Aviv, Negev desert in Israel, US bases in region",
@@ -16,6 +76,42 @@
       "category": "regional",
       "published": "2026-03-08T20:21:13+00:00",
       "fetched": "2026-03-08T20:30:06.190873+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c2329ba63c528d30",
+      "title": "Thousands flee Akobo after South Sudan army issues forced evacuation order",
+      "link": "https://www.aljazeera.com/news/2026/3/8/thousands-flee-akobo-after-south-sudan-army-issues-forced-evacuation-order?traffic_source=rss",
+      "summary": "Army tells UN and aid workers to leave as forces close in on one of the last opposition strongholds.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T20:17:38+00:00",
+      "fetched": "2026-03-08T20:45:03.849879+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "97d77712d7960d86",
+      "title": "Seventh US service member killed in Iran war after being wounded in attack in Saudi Arabia - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tQlctMWplaExmRmVNVC1uMjdHNl81dlg2Tm5iQlFOZlZuU2prS3pGZEExbVptWGVqX0xER3VqZHUzaW0yMjlGOUxEN3REeWh1SjdGTnlVdEVSaDJGVFFxNVRSQnJzWnNkYWhLQ3o2MFRTS2pYcDYzRUFsTmFldw?oc=5",
+      "summary": "Seventh US service member killed in Iran war after being wounded in attack in Saudi Arabia&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:17:09+00:00",
+      "fetched": "2026-03-08T20:45:08.289608+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "5baec809772e4bf4",
+      "title": "A 7th American is killed in Iran operations, military confirms - Live 5 News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQempjYmdPcVRZa0tVc0YzM3htWWtWazdMUlZwVmdiYVdrbWtVXzNiNk1XakJyTWVic2ozck1MQURDTnRMOHZNdGc5M1F3aEQzV2VjVXlRZ2RwR1pmRTYwaWcwNHEyYmwycG93bFhtUHFZa21LV2hZRE1FMTZ4VjVYUnRZVU0zR1lCXzZiMHY1aDZBZ1Z2T0FEaEhn0gGuAUFVX3lxTE9uNmI0NU9OZWlncTFnT21sU2M3Mmh1d3BMalhQbldFcnZvUm1McGVfZ1JCQnF6YVQ1eGU5WUVNdjBfSHVHQVI4VW8xbEphbmxoVTE3dVF4UktIVW53N1EwX01xcVNOOGtNTERsaV8yMThrZWpVNVhGYWJNVzlubFJvaDlWeTFhQ2JDWDdpVDh0bVI5NFpONXBsbkE3TVRmaG5PQjFUOFBrekw0RTJEUQ?oc=5",
+      "summary": "A 7th American is killed in Iran operations, military confirms&nbsp;&nbsp;Live 5 News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:17:00+00:00",
+      "fetched": "2026-03-08T20:45:08.289863+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -234,6 +330,18 @@
       "fetched": "2026-03-08T19:15:05.621152+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "97561ef4dd847cb3",
+      "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWlLZ3BFX044V3dDVDZCRG81WlJab2JpaUpMU1JfM2NmRnlzby14TG02XzlEaF9OVm94YjlpOWNfbm5KUzk4RDFyb0pKSWxMUEJETjZmZWpiYlFuYlVwSDNkNzRfNTkzTTJENVpVaEw2X0xiVGw4VGJOOVdENzBqNHA0QU1Vd2R3aU9GazBvcG0yX3BlS2VIS2FfcTUyRjIzR1Nxejg2OTBaZUZOODF2eDlqUWNsUdIBuwFBVV95cUxOWDhPMVRuUDRkNFdFWl83WE93MUp3NmpKWHh2VmpiMzJwZTMwOGFsOWVOM0lCWnhtODZfN0VHVy1qak5naHZkbkRDX2NzTUlzUERuZHRjWC0ydmItNTZPWV9MVjVWdGQ4M1lXRVhfU1E3dTd3NlhsSnJjTHVBMWplSGtmOThsMGp0MHFfdjR0RDJhYU5Xc2lKbGJtRWNiOEkzZ1hCVjNnZ3dqZzBTT0t2LUktTVE3SkhjeFlz?oc=5",
+      "summary": "Trump vows control over Iran leaders as officials seek to calm oil concerns&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T19:03:22+00:00",
+      "fetched": "2026-03-08T20:45:08.289902+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "cdf84b1e3fccbc95",
@@ -932,6 +1040,18 @@
       "iran_specific": true
     },
     {
+      "id": "9cc9a9fa962c000e",
+      "title": "In maps: Strikes across Iran and the Middle East - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRUpYN0FvVmZYemhQRWd5aE8wVXk0VVhVWkNBVkZQQVRvWDd1OThuSGdvclZBaTd4UFpjS3ctUjlBZlBodnNLaUNYbnJFUDBLenR2cnZzVV9lZw?oc=5",
+      "summary": "In maps: Strikes across Iran and the Middle East&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:38:52+00:00",
+      "fetched": "2026-03-08T20:45:08.289525+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "1779c04cc504c1ed",
       "title": "UAE officials deny Israeli reports of strike inside Iran",
       "link": "https://www.middleeasteye.net/news/uae-officials-deny-israeli-reports-strike-inside-iran",
@@ -1228,6 +1348,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T20:30:06.070900+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "04e554a62aa30425",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQWENDY3czSW5HbjhnTzlvbE9rMTVKZGl0a29Vd0JnajhWOUpiUjFFZG5NcHJaNkUwRzFZRFU4WFZMRWJwb0tWeHhtTjJLNVNsSElLa3lsZTNqSjFnSWg3eW1RM2FJeVBoU2RFUWkySGgyTFJGRUtNdmJZZWdINkJmQklZZjd6UHZBUEROalQ2VlVWTHVUQTk2QWs5NTNzcTAzZVhHdGpmakFTczZQV0lnZldfdE5wRlFxaWhIMzFhZjV4dFFrdXVmZG5uWWdXZDM5WFlZeG9ULURsTUFOMTFmb2h1UUJ3SndQd2VPWFcxcW0teXdaSzEyTWpGRWxpa0JkNUJ3T2RGb0tvMTJJVGhpdWlXTEtrc2g2eVlacVo4MGRrSURwd2Zzak9jeWxJSjhGUHUzaUhreE5mYnRROHIxNjRuWnZMT0VvQ2hlNW1GclhTR0d0djhaTlg2dUgxdkZ4cUpNejd4eUltWlNySGhsZFpJYw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T20:45:08.289652+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1684,6 +1816,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T20:30:06.070804+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0d7b7108edd84db6",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOR0RjUmQ0OFl2VWx4UHV6dU9iYVhTN210ajRfVWl6MG0zMWxTSDgyb2xvNGtVc0h4QkJ0Q2ttWnB6dEE3ZV9QWG9ES1FCSzMtaXJYdC1YTlFpSWZQZk1qZHZLcm45Q0IwT1Mxall0MjZZSTBCT2hUeGo4SUVibDFBczZDSXNYSXZXUTRQd3FTbkx4ODM3d1U3VHlxM0JZeVNhNG9zMjNfeXc3cGFYNlVoc2VzUjc0MnlvSkdDMExKVmxhUlJ5MDRfYXN0dmQ2QnV5eV9DZ05ZWTdsZTlLY1hmRTA3MjlENndYenBKb3dsWWVqTEs0T3pLM2F5b0J2cmVRWFNtUk1OOWZRUDM3ZHZpRkx4cUhScmo0VHpFel9JMjd3dHcwVEZILVFoa3FFdEdTQmx6Z0FxV3dUS0dzd2xtdXBXNGlOZHdHc1Z6RWhVWnZDU2VyYjZQODhuUzBRcU16S0w5M0lYZ204NHg2QzdTR3A0bVhSN2VzUHBRTk1WdmoxNUtVRGJYbnNIaTZqWU02TDgwUi13ZjlNZzljd3Y5ZUFnd1RjaGVlYXF5dU82WEVFZE40QnlkMA?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T20:45:08.289571+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5420,6 +5564,18 @@
       "iran_specific": true
     },
     {
+      "id": "baaa6b7c6d5a0363",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOb19WNGprelE2S1hMVWEyeXgySDBLWDUya3NvOHgtRmVfRlJEeU1odnczbTU2WTQwTzNFQl94ckVEb0htQ2JjaUNoSEJ6MGhoV1ZPeUdqNDYyVGtib3BTN1JYS2hMZjAtUE9sZ0hVNkhxOGdnLVo5OUEwRG50VjZMWmJMWEI2d0Jmc3RRR1B2VnFSaV9zZ09GTnlOLVAyaGs1U3lzZTV4YklDUDYtQk5FbDdkeU5RMUlkbmFVdDJ5c2R0LTQ4dzJuc3lDc1AyMFRJZlRYa3VsUS1jQVFWLVZlT25NVm95TE5zUGNwVmRSMXZSaEdJZ0FUSERsVWlZNzF5NkJOcm0xQ09jOEh1VkVZaW9oX29zemJmVmxIYXlqVVlCZ19EUHg3RGx4T3N6QTI4ckhZQ1BOalNTRWJEU3FsNFFzTG5Va241YnFSWGpUY3V5amxwampoRnlfNThJWjBPOEJoby1XdHhNOFVpaWMyUy12ZGp6SlBnS3gwaUlUV0ZEaGJpRE5PRXRRcGRxaTRzVTd1SkJhZkNqemx5S1czNEFwNm1PZW9neS1aYnczeFN5djZIZzBR?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T20:45:08.289813+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5848,162 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-08T00:16:00+00:00",
       "fetched": "2026-03-08T02:00:05.723234+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "54f2136b7a790f5d",
-      "title": "Iran Navy announces wave of fresh drone strikes on US bases, strategic Israeli sites",
-      "link": "https://presstv.ir/Detail/2026/03/07/765060/Iran-Navy-announces-wave-of-fresh-drone-strikes-on-US-bases-strategic-Israeli-sites",
-      "summary": "The Iranian Navy has conducted massive drone strikes on American bases in the region as well as Israeli sites in the Israeli-occupied territories.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T00:15:03.803099+00:00",
-      "fetched": "2026-03-08T00:15:03.803105+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "12fad3ee79da3c39",
-      "title": "Iranian missiles, drones dominate skies over the occupied territories: Military spox",
-      "link": "https://presstv.ir/Detail/2026/03/06/765045/Iranian-missiles-drones-dominating-Israeli-occupied-territories-skies",
-      "summary": "Iranian missiles and drones are dominating the skies over the occupied territories as the war escalates, according to the spokesperson for Iran's armed forces.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T00:15:03.803073+00:00",
-      "fetched": "2026-03-08T00:15:03.803076+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "25f44a2f1e70b9a6",
-      "title": "Iran's response to mediation efforts is 'clear': President Pezeshkian",
-      "link": "https://presstv.ir/Detail/2026/03/06/765037/Iran-president--Several-countries-initiate-mediation-efforts-to-stop-war",
-      "summary": "Iran’s President Masoud Pezeshkian has affirmed that several countries have initiated mediation efforts to halt the brutal, imposed war waged against the Islamic Republic by the United States and the Israeli regime.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T00:15:03.803041+00:00",
-      "fetched": "2026-03-08T00:15:03.803045+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8703ccb2bf87b046",
-      "title": "Iranian Navy fires missile towards USS Abraham Lincoln after promise of revenge",
-      "link": "https://presstv.ir/Detail/2026/03/06/765054/Iran-attack-aircraft-carrier-Abraham-Lincoln-United-States",
-      "summary": "Iran's Navy launches a coast-to-sea missile towards the USS Abraham Lincoln (CVN-72) aircraft carrier.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T00:15:03.803001+00:00",
-      "fetched": "2026-03-08T00:15:03.803005+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e3016508ffce883a",
-      "title": "‘Painful blows await’: IRGC spokesman warns of long war and new initiatives",
-      "link": "https://presstv.ir/Detail/2026/03/06/765014/Painful-blows-await-IRGC-spokesman-warns-of-long-war-and-new-initiatives--",
-      "summary": "The spokesperson for the Islamic Revolution Guards Corps says Iran is fully prepared for a \"prolonged war\" and is set to introduce a new generation of strategic weaponry that has not yet been seen on the battlefield.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T00:15:03.802967+00:00",
-      "fetched": "2026-03-08T00:15:03.802973+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5ab9386eed01adaa",
-      "title": "IRGC announces 27th wave of Operation True Promise 4 targeting American, Israeli positions",
-      "link": "https://presstv.ir/Detail/2026/03/08/765096/Iran-Israel-United-States-IRGC",
-      "summary": "The IRGC announces carrying out the 27th wave of Operation True Promise 4, its ongoing set of retaliatory strikes against fresh unprovoked US-Israeli aggression.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T00:15:03.802491+00:00",
-      "fetched": "2026-03-08T00:15:03.802523+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "427c7057914ed92f",
-      "title": "Donald Trump refuses to rule out deploying ground troops in Iran - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ZnNTRk1xRjJMZkhFYjVqdFN5RkNpSnBlZVB0VlZ4OHNvX3lUaWZYVk9LYTJzUGV2VkFSNG9aY1p5UzdhcjNzdnc1c3FZa2M0dmR1RERvOThRUEdfWUZwaFNaWWlUMVozOVdRTGZEU3Z0cGNfRS0wSTFR?oc=5",
-      "summary": "Donald Trump refuses to rule out deploying ground troops in Iran&nbsp;&nbsp;The Guardian",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:14:00+00:00",
-      "fetched": "2026-03-08T01:15:06.999404+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7af7cad40c0c9265",
-      "title": "Trump vows to escalate war as divisions in Iran emerge - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQV9uMnJLNEpsdVBBSk5aUmVkQWlIUVZ5S2pJbTlKSmZLbFpzWEt6a3ZvWmVtaFRsdWtVVVZaY0pWM1c3U0o2ODQ4QVFiUXJJVjNEMUFmeUxmT2hrWmpETEJoWFAyOWR1TFpVOVkyX3M3cGdyb2hIVFZaSXVPVjMyRzdSQ3JSRGo3Q3R5V1B4TjcxRUYzUzRQWDk5T2FERzFGUEN3TGc4UQ?oc=5",
-      "summary": "Trump vows to escalate war as divisions in Iran emerge&nbsp;&nbsp;Los Angeles Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:12:00+00:00",
-      "fetched": "2026-03-08T01:11:07.824089+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3b8ba039e459a834",
-      "title": "Iran live: Israel bombs Tehran oil depots; attacks on Gulf states continue",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
-      "summary": "Qatar, Saudi Arabia and UAE report more attacks despite assurance from Iran&#039;s president that the strikes will stop.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-08T00:00:00+00:00",
-      "fetched": "2026-03-08T01:11:04.482686+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8e1fabc4656f51fb",
-      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlYbmMydTlkOUx2d2lPd3QyTFh6SnpBY0pfOFVPMC1JNDRLN0JNUVlXbG1jSDNpbnItT3dPS0FtanVSQTdSWWpqZ0dmNC1OTFJQT0ZMam83dlNlTDJVZzByUXh6RVp6cHc0SGlMMlpIWkhzVW1mRFd4dUl0S3RRYkJCLU4wSWNPVEJVbElIaFJzejVCTDZYOEVFTEhQa1BlRnRBMU9xYTVLX1JHaTB5Rl9mMEJSc0VUN2FxSU9iTndTNTVFd2xPelFDalFwZE9EbDlGbFNmWkdKVFh4ajFMUG5tR0dZWTkxS1ZBbE40YzNoZDFzS2hpcWdPQ3RFVjIxNGp3S2tiUnFrVnp1UTRWM3J0VlQyamFCN3JRYkZweUdJbnktOGZ2SGpUZ1NING8tSGhRM2JoSUNCaXBLaHZKZGRPT0lMLXppaGZKdmV6a0tudU5XbkMtRTl4eEZRNjAzVHhoXzRHc2JFN1lZYzZYdy1BYTVKMW8?oc=5",
-      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:00:00+00:00",
-      "fetched": "2026-03-08T02:15:06.135187+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "f99f73db54c40761",
-      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRThoaUgtRmxtQkROVFcyUk83VHZrUTZkUU1JNXQ4RlZXSmRjd3RLczREZm14Vm5UVzVJa21zSlFzVE9wME8xR05vTVV5N1F5cWZZWmpYZEppT2JZb3VvQktYNEh4dDFrS0RmcVRRSDJnUHA2eUphdlhGemlncXd5RUJqUXlOSkdHMHFER2hXWERuWlpYdTdvV003VnNaUDhpY3d5UXoxOF9jbEI3YnAtTkl1MThWRk1OUC05MlV5ZXNDb2Y0ZGpiRi10WHlHUjc0REptYlljc3VZOHJiWkRZYXVHdlBiOERtYnNGaVhzblN2YWFuNGZ2bXc0VUVJeXJ3b29xMUFBajQ4X3dZTWZWN2l6V0tOTE5HT2RZLTVBN1IwalhmaHJ3Zkh2TldickFLdFpvVFlxLWVmVUV1bEhrRUlFMmd2QzN1S2MyXzl1YWpiS2t6SkZlNWNFOEJyU2U2aWdhLVh5ZVRmZHNTQ255ZWNwcVZSeGc?oc=5",
-      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:00:00+00:00",
-      "fetched": "2026-03-08T02:30:06.276664+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1f566c750cb40ad5",
-      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQenFpdkthUE9tUFBoRmFhc2k5NEVXZVhMbjJRazM0X3dZdG5zd1JwX2Z1c0RHcUNLOFJMMnJLS042d3FmTUhNN3VaaWZCOXNwdzJmRlc5OFJKdmY4dWVfc0RYb3JwZ2ZDSDIxS2Z6dDhFTENkYkxXa1FzYTdhTmxIUXc0RUJEMVQ2SmNaYTA1VE5TZlJXMm0zOFZEdVRuVXZWSi1pMFRHcHM3dUpDVTVmMTJWaE05V2J0OW05Q1R3ZWljVk1IcHdsZ0FSblM3c0hhc2NEY0FzcEFYTHpyVEF0a1RONDFCTHV4LVVFWjhzYTljTlRvejlNZnhwNDdDME1xR2E1Ni1IcVRjbzc2MFVpRVd4NGxsOUU2RXJfRGliLUtmcEFaTDR4Z0hVU1kzU3hZZV9nWVg2bW1TbEJ4eWVrVFJNVXJ5T0RmbnNxcUtvMW5LRDBKZ3dNREc2Z1pfbGV6SmVYc2szS1hKTWd4NTczU1htcTNLVTQ?oc=5",
-      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:00:00+00:00",
-      "fetched": "2026-03-08T02:45:06.038480+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ee0be2c4097e420d",
-      "title": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQcmpOU3c2Qk9adzM0aGJITlhZeEE5eEdmWTJLZ2EtX0w1a2dfZkpRMmtkYnVIeTN1RGFyVGVSemVTWUN3NktpLW91Uk82YzdYRkFCWkdza0QybnFRNWJZQXhvRmFTYmpXZ0c1RFZXRC1GdnoyVml2bExsMS1WdmpXZHZteExocjNMVS1iYWtfcWFJWjExYllEXy1lZWQ4U2xSd2N0NDlCME5kdDR6WlVXWXFMc3A2NkpGMkpkS0hDSi1sRmlCQXFJR0pJazViczc3RUFIV2IzOXI5cjBLeXJrd21DMDNLa2Qta3Q3OWx3blVJdkgyQWNmMkdnV3o0ZmRvN0o3eFZzdXpId1VVZGlKbUZhaEtIMXFETmFXWlNHNXdPTlRQLUVDOEFXTUVGQzNleTdtaHJGNC1KanBoM04yWEpsX1Q1R0FvNmFhNEtvazhycnQycDY3bFh4Mm5RYy14YVlrN3U5MlVNcUdJa0hEUUVLdU5pN2s?oc=5",
-      "summary": "America’s Military Is Focused on Iran. Its Biggest Challenge Is China.&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:00:00+00:00",
-      "fetched": "2026-03-08T03:00:06.303500+00:00",
       "relevant": true,
       "iran_specific": true
     }
