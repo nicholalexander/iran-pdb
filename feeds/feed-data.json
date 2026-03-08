@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T16:30:06.915553+00:00",
+    "last_updated": "2026-03-08T16:45:06.737848+00:00",
     "total_items": 500,
-    "new_this_run": 6,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "e6935a6c13ee2a4c",
+      "title": "Iran rejects calls for ceasefire, seeks ‘permanent end’ to war",
+      "link": "https://presstv.ir/Detail/2026/03/08/765127/Araghchi-says-Iran-rejects-calls-for-ceasefire,-seeks-%E2%80%98permanent-end%E2%80%99-to-war",
+      "summary": "Foreign Minister Araghchi says Iran rules out calls for a ceasefire with the US and Israel.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T16:45:04.472168+00:00",
+      "fetched": "2026-03-08T16:45:04.472188+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "36deb5b5ca1d61ce",
+      "title": "Iraqi oil production collapses as Hormuz still blocked by US-Iran war, sources say",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-oil-production-collapses-hormuz-still-blocked-us-iran-war-sources",
+      "summary": "\n\n  \n      \n      \nIraqi oil production collapses as Hormuz still blocked by US-Iran war, sources say\n\n    \n    \n\n        \n    \n                Iraqi oil production from its main southern oilfields has fallen by 70% to just 1.3 million barrels per day as the country is unable to export oil via the S",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T16:42:08+00:00",
+      "fetched": "2026-03-08T16:45:06.260013+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f3d95eaf8cc9ea85",
+      "title": "Kapikoy Border crossing into Turkey has become one of the few ways out of Iran during the war - PBS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbjdlekhVZTl3dlB3cmQ1ZGhrZUViN1pnSVVUQk40NE0xQzdsMGVBT25oTVBMX19KaF9lRXpSdXpkZjhlc2NxbDBuM1VzTWg4RWpfWF95dXp1REdWNEFoY3h2VENJMXNoWlU1cGt6WXkxWjZLeGYzTlNIc24zbllsdTg4QWFFQjh3ZERKQWYtaFNlVThrWU05NnNYcTJzMUJMWHloTXJDRDJDQVJMRUFlWEo4MldPYk9GaFVxYVFzVHdhV0JFVEdv0gHMAUFVX3lxTFBvb0pNT19RTGVxZDhiY3htYXd1V3hOM2oyT19WTTBYOHhZQkVMZVNHRFVla1Y5NGFaYkVpNkk2aElDMGFxWWt1cGl5ZnN3Tm9oUVBvdFcyNmRFSDEwMVhMRVJmcFdZeEE2VUdPRVdSSThnNFh4RHNEWkFSejlWYm5TUlNISGcxQUN1WVItS1lYQ1lJRnltRlJUNjVGX1NNNE9WUG83TUpVb2l5WDZkVnV6SExPb0tlU2RGNkdRaGVUaEI1LS1rZ1dLSF9ZQw?oc=5",
+      "summary": "Kapikoy Border crossing into Turkey has become one of the few ways out of Iran during the war&nbsp;&nbsp;PBS",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:32:35+00:00",
+      "fetched": "2026-03-08T16:45:06.120102+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "296e5bc67e2768cb",
+      "title": "Israel escalates attacks across Lebanon as two soldiers killed",
+      "link": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
+      "summary": "Israeli military confirms first fatalities in Lebanon a week after fighting resumes with Hezbollah.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T16:31:19+00:00",
+      "fetched": "2026-03-08T16:45:04.012372+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "6636476c4ec6a949",
       "title": "Iran destroys four advanced US THAAD radars, downs Israeli drone",
@@ -16,6 +64,18 @@
       "category": "iranian",
       "published": "2026-03-08T16:30:04.751961+00:00",
       "fetched": "2026-03-08T16:30:04.751992+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "cfc0f7be19c60a14",
+      "title": "US energy chief says spike in gas prices will fall ‘before too long’ amid Iran war - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakV6MXZhSkUxbGdPcFRNelRFSmtmUWVyVVpENl9zakh3WWVWT3pMX19nMkZiODdKOUgxTm96SWZyeHJ5ZGJfblhUX2RBNERTdmFlY3dKdk5jMXZWN1hyREM2b3FpemZMUW82bmI5UEZ5UnlBQk9FeC16YTEwQWp1R1dqOUo?oc=5",
+      "summary": "US energy chief says spike in gas prices will fall ‘before too long’ amid Iran war&nbsp;&nbsp;The Guardian",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T16:30:00+00:00",
+      "fetched": "2026-03-08T16:45:06.120198+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -160,6 +220,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T16:30:06.639515+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0bb945a463587a7d",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNdldaU19nRDFGMW9CNFpfTG9URGZIZklXN1lpRWNkWldnQkllWTZkUHlFekRFZUlMMVNoWUl6LTlXQkR5aTQ1dl9ZOVBPaFJ6RWVMeWxyQjJ6cktpZDVGVDlsWGlBTlFPdndHM1VnTWlXa2ktcmFENktuOGhKVWhfMkY3ajNBbUs1bGF3ci1WOTRuZTFEVTJwMGZHQUFtZTJERnFQRWFoT3Fmczk1SXJBekRJUWRGdjN1SEk3dWNXOHdrczVpQm9jOV9LX2NlWmY2UWkxMXhqU2RtbVRLT0lrcF93anM3dGlWVUxsMWZzR2VjbzhWcFdlRzBiQks1ZGVJeWRyOC1aMVdQTTh0Vm1hRlFMTEhwbmh3dFpzLVZwa1ZnUFJTczJoRWZkaktWSUw5U0FUUXk1WHhGLWV6bElTV283NS01U0JIcG95VWVVT1VKSmQ0UVRiaWhBUFRXRVYxdDMtSmVaUWh4R2VfZXhLTzFvYw?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T16:45:06.120157+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -448,6 +520,18 @@
       "category": "aggregator",
       "published": "2026-03-08T14:14:00+00:00",
       "fetched": "2026-03-08T16:30:06.639647+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "42a130b1f53f95e7",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQdlpqU3NKRnFaV0c5V2tUanExRER2anlRcTYxdV9BeVFhb2d1UUpMaVVtX3RPRmdVaVluX1drRk9VSHRsV2VJRThvSngxMHVUWjh0V0MzbGJaME5RUG5ETnFibXhXTEF6aGJ5MTI0UjBwSUlkU2NadndwSmxYTG5NaVloVkFVOUxvaXBXN1l2VjE0MndwVDQtQXE5NGF2VkdpQnJVUmRxNEpfQUczeWdiM2QzMHdxS3Jyd3RGZVF1NThCLTZnZmVVeENVNE5lS3lxQzlOTTd3Snh0V2dpV0w2MnpMcVdMVFpZQmVTMnJ3ejQyUWZfZ0dTVzhSQjd4ZHFXRmQtU1FmalVTRmtiZXFXNzRzVDAycnZfVTM4aVlGeTk4V1RVTGh0b1FyQnpMc04wVU01b1NxTDczRUU0MjJTcTdkQmlCS2NaX1RYZHhxOXRpdnRJa2NoUXNjY2RZMGxKV3k3bFBDa1lvSks1YU4taE9iRk9UbHh0Si13S1VDYXFEOHVmRlZreGcwdkpPTWpQX1V0LVA2dzZXblp2QVd3emQ1RGtiV0FldmZCcmFqclBoZ0k3OE1aOQ?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T16:45:06.120353+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1924,6 +2008,18 @@
       "category": "aggregator",
       "published": "2026-03-08T09:34:23+00:00",
       "fetched": "2026-03-08T12:14:35.546339+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "01f2b54ad70bcaca",
+      "title": "Trump says US does not need Britain to win Iran war - ایران اینترنشنال",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfY3ZmME5nbkZjbXFXRlVqWllOeDRITkQ1aEdYREpzcnV6WHdZNG44RkdSdG1EcEc2LWZfQ2JiekdHN0Y5aVZkVDJ3TzJ1R21nVHc?oc=5",
+      "summary": "Trump says US does not need Britain to win Iran war&nbsp;&nbsp;ایران اینترنشنال",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:33:56+00:00",
+      "fetched": "2026-03-08T16:45:06.120865+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3956,6 +4052,18 @@
       "iran_specific": true
     },
     {
+      "id": "7f85e3555a6066b9",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPLUFrS09NeWpXbU54NnN6d0JuV09CdkhQLTMwbjhOU2tVLVQzcHdkOUdPNjRUUmZ0VVZwNm9BWkpjSWQ1RjQ1WHpFMzBRRzFRY3NaUDF3Z0pEUzBxVWFka2pvaVRpWGRGWjZhZW5EdzV0aVRvbkR1VDFNNnlyb3ZESWNzQm51dWh4M3lCT211ZEQyZlJ4eXo5WGllRWF3Sk5jYnduMVR1cUQ4c19HNGpKSV82RXRrbXR0R2M2MW5IWXduUWVwVDBES2d5cWlCZkVmeWtHd2dkclpLOC1xS0dybHE1M0V4NXlSTnY5d3Q5ZDNZblRTWGhfeW00bzlsbmNFX0ltY25TQkc2UHNjdnZOX3FzRWNRS2daQXVKcGo2d3JHWkFzc2d1ZHBPYTg0dTQzRmNzVURPdVJkR2liYV9ndFBRNzBwalNHSjhWZDhkLS15OEZDcHVoYURwQ3R1VDBiX18ycmR4LVNuWWJ3bXNrRFRzUndMRXlCeFl1bHhHakdDUHpPMTlvcGo1clVTSktzenFBZGZJR3FiMXh1VjBaTjhHV3A2blQ1R2g2Z3k3Y2VFSFQ0RlFn?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T16:45:06.120623+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5896,114 +6004,6 @@
       "category": "iranian",
       "published": "2026-03-07T20:47:33.641514+00:00",
       "fetched": "2026-03-07T20:47:33.641518+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5fc4b0ab5ee5bc05",
-      "title": "Lavrov: Russia 'will do everything’ to make US-Israeli aggression against Iran ‘impossible’",
-      "link": "https://presstv.ir/Detail/2026/03/05/765000/Lavrov-Russia-will-do-everything-to-render-US-Israeli-strikes-against-Iran-impossible",
-      "summary": "Russian FM Sergey Lavrov has said that Russia will do “everything” to create conditions that would make the American-Israeli war of aggression against Iran “impossible.”",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641479+00:00",
-      "fetched": "2026-03-07T20:47:33.641483+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "dc6318018a7a0ab8",
-      "title": "US F-15E Strike Eagle multi-role attack fighter jet downed by IRGC air defenses",
-      "link": "https://presstv.ir/Detail/2026/03/05/764991/US-F15e-strike-eagle-multirole-attack-fighter-jet-downed-irgc-air-defenses",
-      "summary": "​​​​​​​An American F-15E Strike Eagle multi-role attack fighter jet has been successfully targeted and downed by the Iranian air defense systems.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641429+00:00",
-      "fetched": "2026-03-07T20:47:33.641433+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "96262eb665d344a0",
-      "title": "Iran destroys US radars in UAE, Jordan, satellite images show",
-      "link": "https://presstv.ir/Detail/2026/03/06/765021/Iran-destroys-US-made-radars-in-UAE-Jordan",
-      "summary": "Several US radars in the UAE and Jordan have been successfully hit by Iranian missiles and drones as Iranian Armed Forces continue retaliatory campaign against American and Israeli aggression .",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641392+00:00",
-      "fetched": "2026-03-07T20:47:33.641396+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c6b8a422352cac7d",
-      "title": "IRGC deploys new-generation missiles in latest wave of Operation True Promise 4",
-      "link": "https://presstv.ir/Detail/2026/03/06/765053/Iran-Israel-United-States-missiles-Bahrain-Kuwait-Jordan-IRGC",
-      "summary": "The IRGC announces the launch of the 23rd wave of Operation True Promise 4, highlighting the deployment of new-generation missile systems.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641360+00:00",
-      "fetched": "2026-03-07T20:47:33.641369+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "9d9290b29adeafff",
-      "title": "Iran Army drones strike US bases in Kuwait, wreaking havoc",
-      "link": "https://presstv.ir/Detail/2026/03/06/765036/Iran-Army-drone-barrage-striking-US-bases-in-Kuwait",
-      "summary": "Iranian Army announced a large-scale strike on US military bases in Kuwait, with satellite imagery indicating precise hits on key facilities inside the American-run Arifjan base.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641327+00:00",
-      "fetched": "2026-03-07T20:47:33.641332+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d1d1b8d5973c47ce",
-      "title": "Op. True Promise 4: Iran launches 22nd wave with new generation missiles",
-      "link": "https://presstv.ir/Detail/2026/03/06/765034/New-generation-missiles-on-way-as-Iran-launches-22nd-barrage",
-      "summary": "The Islamic Revolution Guards Corps (IRGC) has launched the 22nd wave of Operation True Promise 4.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641212+00:00",
-      "fetched": "2026-03-07T20:47:33.641216+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a21b46d7676788e6",
-      "title": "Iranian Khayber missiles pierce Tel Aviv’s defenses in massive joint strike",
-      "link": "https://presstv.ir/Detail/2026/03/06/765013/Iranian-Khayber-missiles-pierce-Tel-Aviv-defenses-in-massive-joint-strike",
-      "summary": "Iranian aerospace forces launched the 21st wave of Operation True Promise 4 early Friday morning, utilizing swarms of suicide drones and the advanced Khayber missiles with cluster warheads to saturate and bypass the Zionist regime's multi-layered air defenses.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641184+00:00",
-      "fetched": "2026-03-07T20:47:33.641188+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2a39830e38528717",
-      "title": "USS Abraham Lincoln flees after precision strike by IRGC drones in Sea of Oman",
-      "link": "https://presstv.ir/Detail/2026/03/05/765006/US-aircraft-carrier-flees-after-precision-strike-by-IRGC-drones-in-Sea-of-Oman",
-      "summary": "IRGC Navy has targeted the USS Abraham Lincoln aircraft carrier using advanced drones, forcing the strike group into a retreat from Iranian waters.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641146+00:00",
-      "fetched": "2026-03-07T20:47:33.641150+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1d65532a5d590439",
-      "title": "IRGC strikes critical Israeli military sites with Khorramshahr-4 missiles in latest wave",
-      "link": "https://presstv.ir/Detail/2026/03/05/764993/irgc-khorramshahr-4-missiles-struck-Tel-Aviv-Ben-Gurion-and-Israeli-air-base-in-latest-wave",
-      "summary": "Iran’s Islamic Revolution Guards Corps (IRGC) announced early Wednesday that its Aerospace Force launched heavy Khorramshahr-4 ballistic missiles toward key Israeli military and infrastructure targets in the 19th wave of True Promise 4 Operation.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.641107+00:00",
-      "fetched": "2026-03-07T20:47:33.641121+00:00",
       "relevant": true,
       "iran_specific": true
     }
