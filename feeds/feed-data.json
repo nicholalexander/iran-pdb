@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T05:45:06.347946+00:00",
+    "last_updated": "2026-03-08T06:00:06.539804+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "f1aa438bff66b6f9",
+      "title": "Retaliatory operations only target ‘origin’ of anti-Iran attacks: Envoy",
+      "link": "https://presstv.ir/Detail/2026/03/08/765100/Retaliatory-operations-only-target-origin-of-anti-Iran-attacks-Envoy",
+      "summary": "Iran’s UN ambassador stated that the country’s retaliatory operations only target the places from where the enemies launch their criminal attacks against the Islamic Republic.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T06:00:04.531269+00:00",
+      "fetched": "2026-03-08T06:00:04.531300+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "b55c91a9da27c034",
       "title": "IRGC missile attacks target US base in Kuwait, separatist positions",
@@ -40,6 +52,42 @@
       "category": "regional",
       "published": "2026-03-08T05:23:14+00:00",
       "fetched": "2026-03-08T05:30:08.201984+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "da4197dfce53e59a",
+      "title": "Iran-US war latest: Trump blames Iran for strike on girls’ school as Israel bombards targets in Tehran and Beirut - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1p2UEtMb2M3eWE0d0ExNF91cjdBS1VwTEVZbjlza3drVENDV2FnUkF4VGtCUzd5azFIekpQMWZ0bFlqUDhjUzNScUFFYUg1ZUltLURsX0RvQmhkNkhDX0RsREpOWU1vZVgtZlFBS0VYTVFzS2MwMVRjUzdHNEtRYmQtUkJrdUpZRllQVEpEX242ZEQ0MUJMcnF4bkUxZ1BOWXpVTzVrMktwYmJGdjQ3eWVNbUc?oc=5",
+      "summary": "Iran-US war latest: Trump blames Iran for strike on girls’ school as Israel bombards targets in Tehran and Beirut&nbsp;&nbsp;The Independent",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T05:22:00+00:00",
+      "fetched": "2026-03-08T06:00:06.306412+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3378785e78f6b6e9",
+      "title": "Russia sits back as the Iran war escalates, expecting long-term gains - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVG5XT3Mwd0w3Um1XN05lTlJmZGxuQWw4eXVNcVVlT3NBTVF4RVJYLWJzdzYyMW50b3lwTGhQQ193aHhhRFB2aG5Cb3Z0cXNVZTFzQ2xPQ2p1WUdrd0U2dlR3SU1KSjFnYlkwRDJpa0RKU05JVmIzWVRJTjNHcC1NRlNGX0kwanRCbzJTelhzS2VtR3VDUENGVEJOUElHb1A1ZFlGMU5sWVVVOFJGUmJqSkRxazliYS12SGdJLTcweDNURXUyMEdTRQ?oc=5",
+      "summary": "Russia sits back as the Iran war escalates, expecting long-term gains&nbsp;&nbsp;The Washington Post",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T05:16:13+00:00",
+      "fetched": "2026-03-08T06:00:06.306474+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b1f38a81fa579e46",
+      "title": "Iran war: Drone, missile attacks hit Kuwait, Saudi Arabia - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDZWWFdYSzJxSU1rSklnY3pRdzNKYU9QNmktOTd0U0lqUmttSmZmTTdTSTVTS2RHWHhaN2FKYnVtV2ZuYzRYbGUwMnRKU25OanBXY2wzTGJtVnRINUtuNG1hbFFmcFNOZVpkemswd3NXTGhSTUItd3FWd2ZpMUdNSXByeTREVVh3T0RlQlBVc05lTy1R?oc=5",
+      "summary": "Iran war: Drone, missile attacks hit Kuwait, Saudi Arabia&nbsp;&nbsp;DW.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T05:08:15+00:00",
+      "fetched": "2026-03-08T06:00:06.306349+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -848,6 +896,18 @@
       "iran_specific": true
     },
     {
+      "id": "8b6f17dd24e45942",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNdW8yWjZOQkZ2czlrRV9LSGVBcEswdjlaMURuLXFmTWY4MDA2c2o0bHJqbzVmbDBSVFVOTnRmY1NjOWE0OFV6ei1Ja0FNSmhaLWpyM2c5WWp6QlNOSEhHRTRQTHJfcW5PSDJENDBpeXZFeFJqWTVCY0N1UXYtRllmVHpvU05jNXFINlZuY0JhN3oyV0R4VkdoZ0otMEl0MmFsVUNIMFBqeUhGbXk1ckwxU3k2RW9NMTlMYUJfU3JhUXpZeHM1LXNtOEhPUVFRdTZQR1NFNGtmTzBQb2Y0X2VrNnJxZ19wQnNuYlVOV1pWbUhIQzdybVdBU2NOSWxyOThzcXhQNmprbERtQlJUNWE1RV9jcENTc0VUU1RCRWdIV1FGMllQVEZrb1VyVmdjaC1rMkdrS3hLQ2dBZ0dXNElzX0ppeDU5cDYyRkVpV0hyaHBqcmZ0VEY0UTB6MG9tMXRkREtNTGM1US1mcmNqdlk4UkwyMmpwZk5leWZXXzAzQUdwTjNac3l6VWdDTGNQZWZpYk5DamV6cDFiM25telpEVDMyR0oxSWpHV0sybGlBYW1NZ0JPV1Ew?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T06:00:06.307120+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1048,6 +1108,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T05:45:06.155800+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "abafd7053e709127",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQaXpnWjZ5RXJ6dkNaeFZDQk90Nno5TW5qX3pIS0xlTzZ4YndBYVhqUHJFNzNWeTRkWWJ6bHpRODNvOWNJRGxON09UTzlnQnB3REppZ3JrT3cyLXdRZjhlRDlxazQ3RXRSOWJqM0JzVGM3aVJiUEZXbHc5Xy02N2ZtRzltd1Npb19DT1J4UU1veWJjTEY5NU1NV05yWnBkNHlBYjRMSkg4WGFHZHB1QVl3LXhUYmhqQXc1dFFkODZETXo1dG9TbmJfQkQwTnNDU19QdkYtUjJFZmNvQno0VFJUMVFTaFhqSFJaQWdDbXVTOHBXSENPODAwR1E0OWg3MUFhWVdDY0tKMzNKN2pTYnoxY2oyRVFHQkdBd093QVBzdS1HZzhma1dHbEpycGhjaHJUbElHRGt2bXd1bHRlbVp5V2ZKSGNJQ3haZnBPU0l5TURRUFROTE8wSV9Od1ZFM2NDV1hzRm5vNlVxNGE1SHQ5cG9RRGk5d3NBYWRWVDhTaS13N0NwT2JWc1VXNmpWbndTdE9BTWdnY3FzLTZfRjJ6RUNxRGRSM01VbVFBaUNHSQ?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T06:00:06.306913+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -4700,6 +4772,18 @@
       "iran_specific": true
     },
     {
+      "id": "d26e180a4c1589c7",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPVXlxbmZPZUE5YWxaT1VxZjNSb0xEdGVvOVJyT0xaNV9yRkU1T01jeHRwRjlrMk5mMFZDeFdfLUdzbGRvRG1LYWQ4TjhJSlpOOEhrckRKRmhiRDhuSjRTcTY3d1dpOXA2VVhXRWpmNENjblgxZFRJcThBYXFndVYzdXdoQ3JQRGVIajdOOWNKVk1RM0lFVV9RUWlWeTBDTVo3VENqOEVMNjhabDh5LVBuQXB6bS1yV3o5dUFlT25Wc19LWGZobU1Na2dfbkZJbGZIQTBSOGl0Z1A5TlRqNV9kWGtIMGxhRXNlUENvcHlkWW9aSWJqbTc0YV9vam9sYUFka2xKeWpWdzMtZjYtOXVlZTdLcDBqZUUyMFBFWlBuTUJMdlUwTnpFUV9jX1dPVDQyS041U1hFS3pEd0tmNVFDbGxVRE9TY3VXd1dXRVV6Qlp3QzhNTTF3elNON21ON1BkN0tmcjhlWU9Kd3VaWnVpN0hGU1FpVTFXWU9SZmdDV0RrVE9jb2N3?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T06:00:06.306696+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5920,90 +6004,6 @@
       "category": "aggregator",
       "published": "2026-03-07T11:00:00+00:00",
       "fetched": "2026-03-07T23:03:51.467063+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "fa2728c7e73ab913",
-      "title": "8 dead, flights disrupted and military deployed after heavy rains pound Kenya’s capital overnight",
-      "link": "https://apnews.com/article/kenya-floods-nairobi-heavy-rains-d110ed756054d1ca6869aa3254b20d1f",
-      "summary": "People climb on top of their cars after heavy rains flooded roads in Nairobi, Kenya, on Friday, March 6, 2026. (AP Photo/Andrew Kasuku)2026-03-07T05:48:41Z\n                                        NAIROBI, Kenya (AP) — Eight people died, flights were disrupted and the military was deployed as motoris",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T10:53:01+00:00",
-      "fetched": "2026-03-07T20:47:33.082872+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ca3310dafb5269c9",
-      "title": "Iran strikes US military base in UAE — army press service",
-      "link": "https://tass.com/world/2098147",
-      "summary": "It is the Al Dhafra air base",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T10:51:29+00:00",
-      "fetched": "2026-03-07T20:41:22.708754+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0ff72618353e644f",
-      "title": "Russia launches massive strike on energy sites used by Ukrainian military — top brass",
-      "link": "https://tass.com/defense/2098145",
-      "summary": "Russian servicemen also destroyed a Ukrainian Air Force Mi-8 helicopter and struck Ukrainian transport infrastructure facilities",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T10:26:54+00:00",
-      "fetched": "2026-03-07T20:41:22.708799+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "79efad8f28fefcaf",
-      "title": "Protests in Cuba after thousands without power following blackout",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss",
-      "summary": "There have been protests in darkness in Cuba, as thousands of people still remain without electricity after a blackout.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T10:18:45+00:00",
-      "fetched": "2026-03-07T20:41:04.689211+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "8422fad2ecce2665",
-      "title": "Southern Peru flooded after torrential rain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/southern-peru-flooded-after-torrential-rain?traffic_source=rss",
-      "summary": "Southern Peru flooded after torrential rain",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T10:08:25+00:00",
-      "fetched": "2026-03-07T20:41:04.689232+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "e383f3b105a03c2e",
-      "title": "Where does Trump's presidential approval rating stand amid Iran war? - PhillyBurbs",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUY3YUhiTWdRTUdrTEk2eUU5TDhEZmlYUmZ2c24wM3VtVlJsMXZLSlU5aDhDeTJoU043ZkZYMkR5dkpvUFZIVUo4Wkw1WGFzWjA4OFJPQkozakZ4ZERhTmFhT0dmSWdtU3luRVloRVRBSERDRWxCRTVGQVEtR3JFVjlnVkkwSktHbXFhbEFPVEI3ZUlJNUlRdS1JRTRBUDBPLTVfdm9jU3BGLWxvUlpFbmkzOFFZaURBaGFpYWQxZXNIbXh3b1QwTno0WDhBRkE?oc=5",
-      "summary": "Where does Trump's presidential approval rating stand amid Iran war?&nbsp;&nbsp;PhillyBurbs",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T10:05:00+00:00",
-      "fetched": "2026-03-07T20:47:34.882640+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2360e84ef7bf7f42",
-      "title": "Europe Didn’t Want War With Iran. But So Far, It Can’t Stay Out of It. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUERmTWQ3MUN6Q1QwSmE1UnBnMm52d0VnX2dzTDM2cXhPWWlNV0F3RmV0UW5rVjVzLXhxLU1NY2JILU9BX0RjLWQ1Rzg0bnh4WWVvMXZUUmFFUnFybnk1WEJVaUdNNS1zbW55d1M3SzFWZERlQy0wdU1EZEFGRUNvZVJYS3laMDNGeUE?oc=5",
-      "summary": "Europe Didn’t Want War With Iran. But So Far, It Can’t Stay Out of It.&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T10:02:03+00:00",
-      "fetched": "2026-03-07T20:47:34.881909+00:00",
       "relevant": true,
       "iran_specific": true
     }
