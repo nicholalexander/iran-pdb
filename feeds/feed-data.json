@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T03:45:06.709903+00:00",
+    "last_updated": "2026-03-08T04:00:05.945859+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 6,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "d0a8f70d25d2efd5",
+      "title": "Over 1,300 killed in Iran, more than 100,000 displaced",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-1300-killed-iran-un-says-100000-displaced",
+      "summary": "\n\n  \n      \n      \nOver 1,300 killed in Iran, more than 100,000 displaced\n\n    \n    \n\n        \n    \n                Iranian officials say more than 1,300 people have been killed since the US-Israeli war began, with thousands more reported wounded.\n\nThe humanitarian toll continues to rise as air stri",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T03:47:56+00:00",
+      "fetched": "2026-03-08T04:00:05.853989+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "7bbccb460dab4fca",
       "title": "US can't keep hiding truth about its captured forces: Iran's security chief",
@@ -68,6 +80,18 @@
       "iran_specific": false
     },
     {
+      "id": "2ff8cac079fff301",
+      "title": "Iran Guards say can fight ‘intense war’ for six months - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTl0bWhIUFg3LTFwUGhlNWFXTzVKcjg1RGktNzRxR29BaVEtQ3hCd2k5QkE1bTRJLUJ4R01BRGw0dFlkdTNpVlc0Z1EtMHB0YUh2NVJ0Vy1BUnY3VmFUd0xsTDZxVmYxRTJTT3cxdTZBVERfQ21XVGRzQWNsSUJwVG5fTkItSE1CWnRjVGhJazRtblU1Y2NLREhNVlRRZDg?oc=5",
+      "summary": "Iran Guards say can fight ‘intense war’ for six months&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T03:16:35+00:00",
+      "fetched": "2026-03-08T04:00:05.766093+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "7acc78c8d226be48",
       "title": "China urges to immediately stop hostilities in Middle East — Wang Yi",
       "link": "https://tass.com/world/2098329",
@@ -88,6 +112,18 @@
       "category": "aggregator",
       "published": "2026-03-08T03:07:00+00:00",
       "fetched": "2026-03-08T03:45:06.493549+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "684ccd73e35c4f3d",
+      "title": "China Eyes ‘Landmark’ Year for US Ties, Urges End to Iran War - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG5pTnktWDI1QzRMVnBWaElOZnNFVGt6RVNCR05IdzRPdUk5Uno4S3NLdlNhMmI1cFczTWpEOC00SkNCc0xyQko3VXQ3akNVSjV2Z2o1Vm5ZSE0yRTBkYXltXzVVal93T1NBYk9nNDF6UUZuSkMxcWVJbGt6elR0RlVxTktKU0pteGRDN0NMVU40Y21hcDN0eS02eFczZk4xS2ZWb1J5a1JqclFuSGc?oc=5",
+      "summary": "China Eyes ‘Landmark’ Year for US Ties, Urges End to Iran War&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T03:07:00+00:00",
+      "fetched": "2026-03-08T04:00:05.766049+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -544,6 +580,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T03:45:06.493834+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "4175151ce82e0b1f",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPdUs3cHRKZC1uNVJjejQ0VVd1d0NGd2w3UVlLc1E4S1NyLVhsc3FaY0RXN19DNlFrTW5nWE1UUUxHQ25LdjBKWlp2Wi1zVWw2MWdjbHdyb3p6WFcwaTNHaW1FSS1pWnVMNXYxMzJOWVlKUmQ2Vk9HV1ZHWDlZdDVHN3BWUkxOb1FzWTB0ZVdPVHdFS090RXVlUDdDTXljTV9BNjd4c0pzRXhTbTB3SzZIcWIydjI2cTEzMmFuQ2lldHdaMGNFQzRBeDg0NWFkaFA3bUowek8yc3JkejdLdDJfNWlMUk5lT2IyeE45eGNPakRpZEliZWwzU2c4U2xqelRnT2ZIa0RvSTVpZldjOVJGLS16Y21xem1rcVBIeGdlTFozSENWUjFpaDRoWkJ6cGkzdmFhVzFLTHZNaTZ1SXhKOVRjRElBMDZUa3JGMGdCS0RWeEhDS2dwNC04OEhpOFNjUldadnhwblI0emlwSHhUdEtneU5ocEJFOTljbU1wV3BiZmFPV1hVc1Z2U0xKZlFuRGQ0eVA5cEt0bm5veW41WXVrdHRNM1pqNkk5aGxEaw?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T04:00:05.766408+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -4016,6 +4064,18 @@
       "iran_specific": true
     },
     {
+      "id": "c01a29bf98173bf0",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPdW91M2lRRC01Tnhyc2w5ZDdQZDZncnlWZDhiYmZSbVY5aERsV2FGYy0xUnRRWFhEWE9qdXVZdkdFSFcySkNFN3kxQmkzcVFWU2RpUTlpbFhnRUlyOFowS0hEdTMwWFJOTEItWWRuWFVlMTdUSXk1dkp2RTRicWw4WWVxTUVCVWhXdGpvUi1ZYU15enhfSUxXZWRxMHZYbDkxUGhGUlpjaUhweF9ObWVGRHN6akc5dGRMdWhFdGhXR1JJbVpFTlI0TW9vXzBiNS1MQW8tS2hDWDZVSVVad3pQV2lna2NkbGJkUHphOFdLRm9RYjBzR2V3TmlRdjJUWDVULTJJQnB0eHdBZkdXalJ3N2ROWHZKb0F2VkpydnlnVnYtS3kta0FxM3VHeXg3Sl9nTFVnUzZJcERTWHBCb0dHaktqYU5QXzQzT3RHaWhWeXQ1bVMwLTZsX2hQbEswR2JLdjgyZi1HRHJnUHdSb0pTa2RIdGFuVXZ0b3lrNFVHcU0teDVxYWU0?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T04:00:05.766260+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5946,66 +6006,6 @@
       "fetched": "2026-03-07T20:41:22.709389+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "243cae3878baf5a6",
-      "title": "US State Department approves sale of air bombs to Israel worth $151 million",
-      "link": "https://tass.com/world/2098065",
-      "summary": "The deal also includes engineering, logistics, and technical support services provided by US contractors",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T03:30:59+00:00",
-      "fetched": "2026-03-07T20:41:22.709422+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "8db9a235faabc760",
-      "title": "US military says 43 Iranian vessels sunk or damaged since start of conflict",
-      "link": "https://tass.com/world/2098063",
-      "summary": "3000 targets were struck in total, the US Central Command reported",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T03:11:01+00:00",
-      "fetched": "2026-03-07T20:41:22.709454+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2b167d16fabde84e",
-      "title": "Ukraine losing race for Patriot missiles to Middle East — Russian diplomat",
-      "link": "https://tass.com/politics/2098061",
-      "summary": "Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik noted that since the beginning of the crisis in the Middle East, Vladimir Zelensky has been calling Arab leaders, \"trying to stay on the agenda\"",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T02:57:57+00:00",
-      "fetched": "2026-03-07T20:41:22.709496+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "c08895f4080d8f50",
-      "title": "Iran apologises to Gulf but war still rages across region - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVcyeGpqZVhLT2NDXy0zRUtFZV9IQnFhdEJtN2ZQVDVvRTZheUhuaHJ0X0dHeUdsN2N3cFFTS0JiZEREaEV5OEFLOWZyZEhmUXJWVXY4WHdHeC1rS1VtQUxDbEpESjNsUWVzM3BVVHBNelltQ3ljYmpMWm9zTEZzZ1Jzb0JxeEZMWXBSeFJMYXFDUXNuV1JDZ0dOYW0tMVdxbVRkeHkwOHNvajRJemIyQU80MXozTGx2bExR?oc=5",
-      "summary": "Iran apologises to Gulf but war still rages across region&nbsp;&nbsp;Reuters",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T02:55:00+00:00",
-      "fetched": "2026-03-07T20:47:34.882701+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d3c35a5d7ff8cb05",
-      "title": "Trump Maintains That U.S. Has Ample Weapons as Iran War Depletes Stocks - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0NQanlYbVhnVHBMRG9pSF92Mjhpb0U2SWlnS2ZBZjU0UXAxYV9hVDJoeHItTVg0emhnVzlnVlk4bWxINFRVWkZPRnBRWFRMMVNIbXpWejU1WVFVS09RTVVRYlNMYkxEa05feWhPQ0lNR1drZG4wdXVqdVRxTTRldQ?oc=5",
-      "summary": "Trump Maintains That U.S. Has Ample Weapons as Iran War Depletes Stocks&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T02:25:37+00:00",
-      "fetched": "2026-03-07T20:47:34.883357+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
