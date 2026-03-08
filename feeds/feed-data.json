@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T07:45:06.026061+00:00",
+    "last_updated": "2026-03-08T08:00:06.177429+00:00",
     "total_items": 500,
-    "new_this_run": 8,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
@@ -20,6 +20,18 @@
       "iran_specific": false
     },
     {
+      "id": "dc87eb06ec81e148",
+      "title": "Iran war: What is happening on day nine of US-Israel attacks? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFJkeTNPZWl1R2RaTVJLd1pqbjRnUlJLSlJ0Q2h3Y1BEcGxrLUUtWFhwUm5RN2R2SzRfcFh6QVUtcDRvRVh6OTJGODJ4cGl6WUxsWXNNSnVPM3M3SWdtVnRwTnRpOG02YU1wa1hmRlUzMVNjSmxiWk9aQzdlM3pfNnREUEIzQWFsWUdCTFZQbzc5dWZ2bFJwX1JxS0JxRkM10gGmAUFVX3lxTE5PbUhKQUh1MTRLOHVCZ1FBNlBRMnp0eGpFUkxIUk1oajRPUkQwVlpTS3dtS2d3ZE1qOTVMaUxvMGFobmVhdFRaUFRTQ3NGQzhJRnNxVHVDWlVjdnBEbTYwdHhfRVVDb21Sd29VZWxXdjNRaFVzeG5BNlhQZ25oZW5RbTJ1TDBIZENlamZsNzNyTTR5azJsdng1V2QzcjFUYnlSeTMyRkE?oc=5",
+      "summary": "Iran war: What is happening on day nine of US-Israel attacks?&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T07:57:18+00:00",
+      "fetched": "2026-03-08T08:00:05.954102+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "a586b33663f7a7ae",
       "title": "Israel warns it will target those naming Iran’s next leader",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-warns-it-will-target-those-naming-irans-next-leader",
@@ -28,6 +40,18 @@
       "category": "regional",
       "published": "2026-03-08T07:42:28+00:00",
       "fetched": "2026-03-08T07:45:05.951090+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c4ceffe9490def07",
+      "title": "Israeli attack on hotel in Lebanon’s Beirut kills four",
+      "link": "https://www.aljazeera.com/news/2026/3/8/israeli-strike-on-hotel-in-lebanons-beirut-kills-four-people?traffic_source=rss",
+      "summary": "Israel says it targeted key commanders of Iran&#039;s elite Quds Force of the IRGC but did not name them.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T07:31:09+00:00",
+      "fetched": "2026-03-08T08:00:03.522037+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -64,6 +88,18 @@
       "category": "iranian",
       "published": "2026-03-08T07:15:03.936232+00:00",
       "fetched": "2026-03-08T07:15:03.936251+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "57a20028a2c95fbf",
+      "title": "Iranian Sailor Told Father Of US Ultimatum Before Torpedo Attack: Report - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXQtbHBCazkzanRoWFdfZkp6eXBlY3ZGV3VfN2RPeEd2VlJrNEU0Wi1aN0stYVFSMlhVcUNLekJfNlhDZnBUVnNDZVZiTVdrWTlMRFNkZWowblk4T3N2YTdaa2JlZE1WX3lTX0NWOU9CVnBfcnpMM2pqZmh6NGpKWkd2N1I3ZHlrMkhtSXVmTHBGSlNvMXlCbE81V2F1RzMxZjRBQzhHbTJ0aExBRkFjUWQxUmNYdVMzbU1nakdxVUNYc2ZtZDVj0gHPAUFVX3lxTE0zVmRJVkhKQkhleF9CdDh6dVBCamgyZFA5XzdFQlF4RmxWbVNUV1UtOG14Y0lEeHh3NnNyZmFnbEE0dHN0OXpsa0ZZTjUyc2VUdXVRaG5NYS1PclVDUk1Db1c4VVgybFhRdEJyUkhXTVRlVUYzT0lTWjItZl9QY0RtcG1lODkwSm42aWIzeDdfOU91Vjk3OWFEb1ViM1ZrME5nUUR3ZDc3RFgwZG9ic3U1MVF0b1lmWTlfb2tOZEhkaEtSVC1CNHpMN25PWWRpOA?oc=5",
+      "summary": "Iranian Sailor Told Father Of US Ultimatum Before Torpedo Attack: Report&nbsp;&nbsp;NDTV",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T07:13:55+00:00",
+      "fetched": "2026-03-08T08:00:05.953756+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1340,6 +1376,18 @@
       "iran_specific": true
     },
     {
+      "id": "ba5f84d19ee7d407",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPVWZtYm5xX1I0RzBWTHkzWTRucmRPOHVDVm1oZXRzZXZhRFJkM28zajYybjBua2xpS0JkazQzZTlXWmhGOEsyTTNJd0NlWWxESXVWOGdKNjdyaUttTzlxMDJnU1pqNEpMOFY4d2VKV1lsYVZKc3pxcm9UY0VhU3ZqR1RuNTZvbUVmdTRiZmJRMmE1NGk0NkhxeEJqS0JoOWhzaGxxZ3U1UGdjY2FyZFhIR3RVbFBINlRtbnVoaTM4Q1J3aFVVZGM2SFZRWUhuUExOX0FCaHZ2cHdDWUNGZjh1U2lja052NlVyMWVtODZQOHpRWkNkcnNGTWY3Y2dIX0lQcDQ5TERFbTcwVVo3T21malFZTV9RcVpDTXRhMG5zQnJDVkF3aDJfLVcwQmNfaE83Y0Mzb3lHY202N01xNk12YTdUNVRUOGw5dEJoMHh2ajczTFJ0N1hna0Fyby1KQWhzMzBQNkx4MEtNZm1CcXNpSlF0VjlCX0tJZ1U5QzhLQ3FlWWVwSXpOanFLTlh5VGlFMzVEZ2tRV01ZRUVjWmxUTTVIQ1B4T09TczZkcXVBVDN1MlVHUk9N?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T08:00:05.954349+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1636,6 +1684,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T07:45:05.856784+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "85007dad677eecf4",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOaXpqa1NEUGVCTVRVU1NMalFFQWluLU5PZU8zbW9lMEZSVkJZWktna2tveHkxc2s3Qk1VOXNCVjBZdlZJWWl0YVM2dVR4UTBUa3BEOGZHN2FscXlLV1Jzak5pYXhiZlJRTEZ4bDJsRHJ3YWVSWUJNejNOZnFvcnhUTjY3VEp3RDFpTmFUNGJPMGVjNE02S3kyb0NjS3FjeGhlN25GYUlROUR1TTg2NXhTMm54b1VyNWJ1MnVha3dfenhPVjFLZzVTbmpPM1A5N0tKNi1fMVFyb0Zqdi1DNWRVeXZ6MWxlVDlOU25fdTZxZWFBdDJNTG1OR1lHQnloV3JKTTlJN0s5WWsyLXpaMFVsb3dvYmFMd0d2ajRxRng0dEJad2JIY3FrenhERXNXMGswRzNzRWN4MHNQR3RKSGZNS0RjMk5lcENxSThYUEdPTTJjX0RjdHU2RVptc19VWlA4bW5KVFIycjRfREtKM2xMMDdLeHhZS1NBcFJ0X1FkOGJDWm9QRDhNam5kMGtZRjZvaWtCc0VWVktNYUF3OXFPRm9ZOEMxMTU3OUxSMzB0NA?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T08:00:05.954162+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -5396,6 +5456,18 @@
       "iran_specific": true
     },
     {
+      "id": "9c9bbbe1fe271d28",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTTBleGtfM2tyaXp0b09OU3NsWHVyRkxZSXFYVloyaWh6U1F3cnd4elJNNGxhQU5BMU5ibWk3dm1QS0tRV3Bwei1VdnNJR3ZydmFQVW5rV2RQUUVUc3VxSVNRanpsUTkxZ3lqQVpOQVNqWHRyVTNIZnFxdmVyLWw4Q2JoTkwwOW5fMGdjb0l6LVpvc3VXaC1kVS1meGw0T2xYNVR3SGV5VnlWN1JWdk9lcDh5YVFlVnpVTFRSMnRsdVZqUzNrMjMteGhxcW5tMTI0ZDR3MnZQd3FRQ01fV2JBeXNIQVFmcTJoNFpIZ0RKQ1dmX0thNGRmSm5uU1RES1l1QXZZQ3E4dnB5a29oWXdvZEt2LWJZWU92WHAtd2tlRUZQb2hUOHNOVE5Ic0Y0eDEzdGxzTjdhdHF0OVc5U0xMcHlTVlJXck51NjBoN1NaNnB2RzladVdVc1lOaW53eXpCMEJKSzZsQy1zZl82ZURRc3RJeGRBQkdYRExmb0NBVWFfUnUtcEFR?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T08:00:05.953901+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-07T20:41:22.708258+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "12993fcda33f81e5",
-      "title": "What the U.S. and Israel Have Targeted in Their Iran Blitz - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGk1S3ZKRllET0wyOHdNQkQyeFY0WHhiWTlkQ0hrMG9hRnRXOVRfSl9meWxINkVEUTlZTm5JQjZZdlhuSGh4Sk9BTFdsLVZvbHlrTnVwZ1FNdXF4cC11RC1uNWhmeVdGcnhjeW1KTnQxZ01RaGpZNlFYeVZrQ1FDcTZ3ZmlwUQ?oc=5",
-      "summary": "What the U.S. and Israel Have Targeted in Their Iran Blitz&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T15:12:44+00:00",
-      "fetched": "2026-03-07T20:47:34.881873+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d34014c7a7dee68f",
-      "title": "Gas Prices Surge in U.S. as Iran War Chokes Oil Supply - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GLXNLOHlabWRmT1YzZ3RSS0xaNGZkNDVRY2l3RTFUVzQxNEY0MXBiVklqMHlBWEhQTzJDY0R1VGdKU3U1bEoxcW5PM2NuYWVROGJJMlVUaXRCUWZSc0E?oc=5",
-      "summary": "Gas Prices Surge in U.S. as Iran War Chokes Oil Supply&nbsp;&nbsp;Time Magazine",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T15:05:10+00:00",
-      "fetched": "2026-03-07T20:47:34.881846+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "bc1985ef151401e3",
-      "title": "Under threat, Iraqi Kurds resist pressure to join Iran war - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kcGVzU19HSnk1R2dNMTdyUk9PUVlGellaRVNaOTZzaUh3MXIxRGp2NDk0cVYxdV9ZZTZTd3ZwdUIwVkRmYnU3eE92QU1ya1FZR2lMdFpPQVd0U3d1T2VTMXlIV2FncV96VDJIQ1lHaXBDaklMS2ZianNZWVE?oc=5",
-      "summary": "Under threat, Iraqi Kurds resist pressure to join Iran war&nbsp;&nbsp;Axios",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T15:01:15+00:00",
-      "fetched": "2026-03-07T20:47:34.881792+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b0f752536a157061",
-      "title": "Saudi Arabia Has Intensified Direct Line to Iran to Defuse War - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWW1FVnRWaVU1eWpIUXQ0a1d3dVJQb1JIb0NjVHpfQll6TWQ0VTZFT3dVbFlmT3IwYzZMSFg2MFpaODE4RWRSZWZZZHc5Y0czczJRcXE2UTFfNzNyVkR2bUNhYVh2VGowOGRUWG9ucnk4VzJVeUQydXl5RE5LcmhmOWpsNTNtQUp5Z2tkRkVIaFdxNTNoMk9YN1FwX21sbWZzcUhEVncyMGF1OFRwdzFIcmhZOA?oc=5",
-      "summary": "Saudi Arabia Has Intensified Direct Line to Iran to Defuse War&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T14:54:49+00:00",
-      "fetched": "2026-03-07T20:47:34.882424+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e5b281c0b9ccb016",
-      "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up",
-      "link": "https://apnews.com/article/oil-gasoline-iran-war-inflation-1a1b7c3e5fbd735aa87c43ac664501cb",
-      "summary": "Gas prices are manually increased in Beverly Hills, Calif., Tuesday, March 3, 2026. (AP Photo/Damian Dovarganes)2026-03-07T05:01:06Z\n                                        NEW YORK (AP) — The price of oil surged higher and showed no signs of halting its rapid climb a week after the U.S. and Israel ",
-      "source": "AP News",
-      "category": "western",
-      "published": "2026-03-07T14:53:02+00:00",
-      "fetched": "2026-03-07T20:47:33.082548+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b3d5abc8a04c3b2e",
-      "title": "Air defenses destroy 37 UAVs over Russian Regions in seven hours",
-      "link": "https://tass.com/defense/2098193",
-      "summary": "The Defense Ministry said that 20 of them were destroyed over the Belgorod Region",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T14:32:01+00:00",
-      "fetched": "2026-03-07T20:41:22.708289+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
