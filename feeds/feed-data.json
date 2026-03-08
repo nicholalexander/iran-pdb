@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T19:30:06.618537+00:00",
+    "last_updated": "2026-03-08T19:45:06.367681+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "2538037df0bc29d0",
+      "title": "Pentagon Announces Seventh U.S. Death in War With Iran - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDlxekJabFMyNDlWRFRyTXVhcXp0SENJTEF0MjN0WTBWVGNXb3ZzNVQ2bXpqeUVLMjgwTm9rQXJrRS1nV0JRYmVKUW1kTkVhbXp2c2J5akkwZXdWYk5YVGQ4b0xUNjNIWmJMS2NrNlRFUUc0OV9BcUVmajAtdUU3TERoVFhoMWxwbmNlWVJZMUtLclk?oc=5",
+      "summary": "Pentagon Announces Seventh U.S. Death in War With Iran&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T19:35:42+00:00",
+      "fetched": "2026-03-08T19:45:06.190948+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "21cd877adc7dfcc8",
+      "title": "Turkey extends Mideast flight cancellations due to war",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-extends-mideast-flight-cancellations-due-war",
+      "summary": "\n\n  \n      \n      \nTurkey extends Mideast flight cancellations due to war\n\n    \n    \n\n        \n    \n                Flights to Iraq, Syria, Lebanon and Jordan by Turkish Airlines, AJet, Pegasus, and SunExpress have been cancelled until the end of 13 March, Turkish Transport minister Abdulkadir Uralo",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T19:35:28+00:00",
+      "fetched": "2026-03-08T19:45:06.292421+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "e327476e1e60d547",
       "title": "Israel military chief warns state of emergency could last 'much longer'",
@@ -18,6 +42,30 @@
       "fetched": "2026-03-08T19:30:06.496915+00:00",
       "relevant": true,
       "iran_specific": false
+    },
+    {
+      "id": "b11fbc3cc7d6295c",
+      "title": "Rangers vs Celtic turns ugly as fans clash on pitch after Scottish Cup tie",
+      "link": "https://www.aljazeera.com/sports/2026/3/8/rangers-vs-celtic-turns-ugly-as-fans-clash-on-pitch-after-scottish-cup-tie?traffic_source=rss",
+      "summary": "Scottish FA launches investigation after fans fought on the pitch following the Scottish Cup quarterfinal in Glasgow.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T19:25:13+00:00",
+      "fetched": "2026-03-08T19:45:03.858786+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "e131553048151faf",
+      "title": "Concord rally urges Congress to halt military attacks on Iran - Concord Monitor",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2dqdHRQRS1DUmlTUm9QNVFXU3Atc2FidjltVEhESWRsajk1Z0ROT2VRWmZLZFdaQU5ZNnNnUGp4ZWkyNVFsdUU4d0R4MGluSG9DQjg4cTZOa2EtRFM2YklOQXdWclpFYndZVURxbk42VUdTLVRHb09GYWE3SmI4RDg4TURkMWZiQlZJd2lqYXhtU3dzd180RWYzS2VJb0hmZVpnRjBiWQ?oc=5",
+      "summary": "Concord rally urges Congress to halt military attacks on Iran&nbsp;&nbsp;Concord Monitor",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T19:20:18+00:00",
+      "fetched": "2026-03-08T19:45:06.191315+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "c6230a411b03538e",
@@ -126,6 +174,18 @@
       "fetched": "2026-03-08T18:45:04.309688+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "68527b6849549a21",
+      "title": "U.S. Embassy in Baghdad Targeted as Iraq Gets Drawn Deeper Into Regional War - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdk81bGhxY0F0d0xxNFdVcFZCNDlpWkhLRmpXSk9fMkI1anVUSGcxUkFPT0FnRU1TLWhST2ZfMk5JQUhzb1VIVHdnNk5fVW81Tml5RlJiYTlDUUZpc3VrQWhCaGc2LVY1WWlGR1hMVkJLeW5pa2hONjE5Mm53WGhlRWRMdmJCYWVObW5GdU04WGdEYnc?oc=5",
+      "summary": "U.S. Embassy in Baghdad Targeted as Iraq Gets Drawn Deeper Into Regional War&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:38:52+00:00",
+      "fetched": "2026-03-08T19:45:06.191922+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "725d4c7a8d0124e1",
@@ -364,6 +424,18 @@
       "category": "aggregator",
       "published": "2026-03-08T17:34:56+00:00",
       "fetched": "2026-03-08T17:45:06.818196+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "bc44d1782fb85f2f",
+      "title": "Israel launches new wave of strikes across Iran, warns it will target every successor of Khamenei - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3I5Um41Y2JVQUhUN0RBSU03SngtWnpicjVyLXhYcTlCUzN1bS04Q2xGN2d5ZG5QaUp1TnpxVWVSSUZzSk9BbEV4SzlubjNBOU95N0NmMmNuS0dCV2RXOS1aUUpuZmxJMjNfYXJIaGdmeG92NW9nV2I0MFdEa2JaRW04UTJsX0HSAYwBQVVfeXFMTWw0U245RnM1MDh1RElDMWZLYlFmV1BvUXhXMVF4MlNHaUVwblh5NmhaelZFbEwzZ0huQlJ6aG4wOVlsTFozNVVod3R2M0JRLTJLek9LUGZqenBpbDlzb0FMd0J4VlhzVWxzMmhCU0ZuOHpGYzRqZDBsQi1udHdiVGpsZkhzVjJHdi1lQ1U?oc=5",
+      "summary": "Israel launches new wave of strikes across Iran, warns it will target every successor of Khamenei&nbsp;&nbsp;Fox News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T17:34:47+00:00",
+      "fetched": "2026-03-08T19:45:06.191030+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -916,6 +988,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T19:30:06.342204+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1c62c05dca532c04",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZ043YjY3T2g0bzJtWVhUWGJTYUFFSUhTRnV6alFuSElBdndlRWhfYTE3T2N4cHRtcXFuOHo1Tm82aHdVcE1aUlFHaWlMV3pzc3l2ekZBeXlUbThTcndpZzdnNEFoa28zNmpjTHltdFFxUVlCMlNCdTVDdkwwRUg2N2hScUJPZUQtVUs3b1NpUVdaakhzcldSN1RDVnV1ekx4NWFOSzhwVTlSUVczTFdoWjl4dkFLdzJUX3l3bU1kNzY4d1JZMFdLQTdfVV9PdVZZeXBtUnp2OEdxSUwtQ0tPSkZvdlZUcVk2bFFKNUx2U3FObWNWSHJ4Q1dBVXU3UzFBaVBWdWZ4SGpoRktvcTdIV2RnWUdkd3JxaXpUSGJreVVCbG9xQkxPQldnWG43LUxHTmhHOUVTWTZwa1VTY0xubFlIMHlVRkt0UmlQRDVrRU1PUTJ1NkpjX19QU1BxVXk4a2pNWHJ1MWd5bW5pcFpUUzk1MA?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T19:45:06.191168+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5036,6 +5120,18 @@
       "iran_specific": true
     },
     {
+      "id": "081098d1e491abb7",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPZGc3MGVVZE9TQWFaX3NpaW5xMEg5dHNhcjZPMFlpakJBTEVkNVNKN0piZG9Dd2kzcUd4dm5VNnlCTUYzZmMyeDlnOFZCZlh5THc5eGl4UWJPRTIyeDR0VjFpWktnYjlpMjJKRU45U2thZ1VUNWxMVFFCaXhUT2lZTS1lX1RkaVdsZjZianZ2LVFpUTVxNFUwa3FUcFl2V2owVkhRc0dCdG9Fc0EwLTJsaFFZZHV1VUVJN2dac0ltSzdaU0dGTW1hVmI2eldlRmpDSnhycnJxXzBxTWt6aHZlNGRVTlpablowTzc5VlVrZzNaU0kyTFp6ZE92OVZOLXpSSTItNFNTMFBuMFdBSDVLaVprNjJZYWJ5eVV2RjN3aC1jN1FhNjFzOE15WlBhTkpmMVpYdGFHTjk2MFl2SnNTZTJST2MyM3dTbC15c0haemU1RWFyZzJBczRjd1dFeXJaS2g1N2VaMkFtV1l2anVLVWdzZ2M3TlVDckQ2dlVyaXpJZm9iSnZpd0VacGxQdXFlcmFYVWctRXp5ajBrNnlHdnJpeTR2UVA0cHE4UWgycTVtbE4zOVpZ?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T19:45:06.191411+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5908,102 +6004,6 @@
       "category": "regional",
       "published": "2026-03-07T23:22:49+00:00",
       "fetched": "2026-03-07T23:30:06.081323+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "42a0d5b82eaf7378",
-      "title": "Trump on more dignified transfers of US service members killed: ‘It’s a part of war, isn’t it?’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmhDSm13b25lWllOSHJacE1mZUdqdnktY0E3ZGV1RHF4TUZFdUlzdk0ydE12QkZObUdWOUVPbXhpdXZLcXprU3J5d1RNMGMwM2JHWjhLSXh3ZUV3bXhWQnNoVXQ5WlJVWkpBeDhaUm8wU1liaHBxWUlLd2ZDVXRIQzB5eWU0bi1VeW000gGQAUFVX3lxTFBBcEVfRDRLVms1OGQ3TjA3dkR1RGNWV2pqamJ2S0ozcVVGYkFULVJtdm5OZF9oelg0SlRZTWFqelNVQ3FKdU12UWlwUVJtREttVHJadVhIOFRkbmJYMjZ4OU1OdGVieDVYT3RGWkhMcDRmd0Z2RHpWVnAydG9oekF6Q0ViN3cxb0dmRjFGbmtGaQ?oc=5",
-      "summary": "Trump on more dignified transfers of US service members killed: ‘It’s a part of war, isn’t it?’&nbsp;&nbsp;The Hill",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:19:00+00:00",
-      "fetched": "2026-03-07T23:45:05.676527+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "84d61ac2f5db627f",
-      "title": "Iran war latest updates | FOX 10 Talks - FOX 10 Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TVWRGR08zSmZNUGsxSTVWc3hybFpGUVNxbjZ6UDlxOW5fX19HWlI1eVU5bDZPdTBXOVQ4MEFVR19PenFKNzZHWUFNMHVoMndsaGM4ckF5SFoyUlhFWl9CWWE4WmpGQdIBa0FVX3lxTE1NM05RbHFQVGpiRXFjdjAtWVp6YlZ0TUtXZF92THFwUWd6aTljbzNzbXd3Nk15eU1xcHlqUU95MWtGOEVJR21tX3psNjVmLUpKdUJENjRJaGhBYUtZNlUxR0U1TU8tQ2dLZTFn?oc=5",
-      "summary": "Iran war latest updates | FOX 10 Talks&nbsp;&nbsp;FOX 10 Phoenix",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:19:00+00:00",
-      "fetched": "2026-03-08T00:00:07.481776+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3ba8acb1a3de3d9d",
-      "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWFhdXc1N1VqSENGNk0wZmNzRkFLd3phakJsdzk5S05NLUdlUUphVjNzZTBGWDhFcndrMmdFeVZ4TUJnNF9rM1VLLVpVaGdIYmMzZXdzSXV2Tzh4aWd2bjFDSml3d2VqZ2Fta2V0ZlkxMXRheE5EdzhBRms3SzFJbnNhZ3RVNEZEcm5QU1U5aVpoeDVKWVJ0VzZfVjA2ZkwwdzlmNmlQYWlQWWQ5TWRN0gG0AUFVX3lxTFBKQWMxU3plcmxiWGkxTWFZb2RvMEZ6Tk5EN080UWpsdm1VbjRQdDU5TnRRZ3VQcW8xUks2azItOV9weTJjWkRvUmcwTjJaUGRERlBWUjNYQVRjQWgwWlFUYUxMU3FnUjRnVUpEWUE2T1pvOGlmVVVvWDFweF82cmJSbGp6MUtLbEpwRTJsTkx2Z3pUS3FLNkdLdFdrc2lBZEk5bWFnZ2tFTy1LeXdEWXFrN1dkag?oc=5",
-      "summary": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:15:52+00:00",
-      "fetched": "2026-03-07T23:45:05.676078+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d9272373fa731f52",
-      "title": "Live Updates: Trump vows to hit Iran \"very hard,\" says he has no war timetable: \"Whatever it takes\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFh4c0djeTJobnBEVmtQeVUyTVJubkw5UGducS02T1pUMjE2QmhDQnM4aVRlSnRacFoxelVIazZnSExCdGZvMnZKcFU2dmt6dzg3WHcwN2FfQjZLaFNKNXpuemRSckxubXdYdGxXeWptek92dXhfaVNSVmlVWTNJaHJjVDY0Z9IBiwFBVV95cUxNNmVWRVloV2N6OHFickp4MVNwT1BLZGd1ckYxWlhYUll2NVNwNHNOVHpTSDJNQXpNM0lhaDJFN1lCYzYzTlBvb1hZVVRwb05RbjkxZS1TdTYyRkl5bGZ2T0o2WTk3aHJSSGVXTWl1MkFBZU5heG9fNDRyTE8zVjJ3QXB5dFMzci1tRDVB?oc=5",
-      "summary": "Live Updates: Trump vows to hit Iran \"very hard,\" says he has no war timetable: \"Whatever it takes\"&nbsp;&nbsp;CBS News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T23:13:00+00:00",
-      "fetched": "2026-03-07T23:45:05.675913+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "34d84a0ae69266eb",
-      "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
-      "link": "https://www.aljazeera.com/news/2026/3/7/zelenskyy-offers-saudi-arabias-mbs-help-with-countering-iranian-drones?traffic_source=rss",
-      "summary": "Ukraine&#039;s president seeks leverage with low-cost interceptors, as US and Gulf nations burn through Patriot missiles.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T23:11:51+00:00",
-      "fetched": "2026-03-07T23:30:03.625404+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b3c06ae6537da503",
-      "title": "Trump claims deadly school strike 'done by Iran'",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-deadly-school-strike-done-iran",
-      "summary": "\n\n  \n      \n      \nTrump claims deadly school strike 'done by Iran'\n\n    \n    \n\n        \n    \n                US President Donald Trump on Saturday blamed&nbsp;Iran&nbsp;for a deadly strike on an elementary school in the southern Iranian town of Minab.\n\n\"We think it was done by&nbsp;Iran. Because th",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:07:56+00:00",
-      "fetched": "2026-03-07T23:15:06.746761+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1f83b995e2f810a7",
-      "title": "Israeli opposition leader says Israel must destroy all of Iran's oil fields",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-says-israel-must-destroy-all-irans-oil-fields",
-      "summary": "\n\n  \n      \n      \nIsraeli opposition leader says Israel must destroy all of Iran's oil fields\n\n    \n    \n\n        \n    \n                Israeli opposition leader Yair Lapid said, \"Israel must destroy all of Iran's oil fields and energy industry on Kharg Island.\"\n\nIn a post on X, Lapid said \"that is",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T23:01:52+00:00",
-      "fetched": "2026-03-07T23:03:51.548891+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e7f89f024c7f4872",
-      "title": "Turkey warns over 'dangerous' bid to stir civil war in Iran - France 24",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3RvQWpjWFRfYWhMSVB3SEJPdXVMb3A3MGV6QWVfTkMtdmNBXzV2bmNONlM2WTFaY0V6TDQtRnVDbEJKTHNTeUVnVlYwVjFiLW40NVV2N2VETVNRV1l0alFlNGRTNUh4ZnVVRGVNaEhHdDMwMUlnRFpIZU04R1FDSWZweWRDWVpMR1B5Tko4T2szY0JWMUxhSnpkLU00UHJWSUhTY3Z0NA?oc=5",
-      "summary": "Turkey warns over 'dangerous' bid to stir civil war in Iran&nbsp;&nbsp;France 24",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T22:59:13+00:00",
-      "fetched": "2026-03-08T00:00:07.482025+00:00",
       "relevant": true,
       "iran_specific": true
     }
