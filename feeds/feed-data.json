@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T14:30:08.894236+00:00",
+    "last_updated": "2026-03-08T14:45:07.222380+00:00",
     "total_items": 500,
-    "new_this_run": 9,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
@@ -44,6 +44,18 @@
       "iran_specific": true
     },
     {
+      "id": "1bf5b70b386e9d46",
+      "title": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14dFVyakJJUUI2YWFhd3JYaEsxUm1yaEkwa3U0Q3Rjb3VOcl9aTTYxYWVrRTVJWGVZcGtEemd6RGpVUDVyR3FBRko5ZW43RF9sbzBYRDVmNS1PSXo5M2RtQjBoanY4X1BzdUU4LTd5SnF3LTdM0gF6QVVfeXFMTl9YUkJNQzg0X1VmMHhwRlJTU1JEdjl4V3N4QTRRV3JkdXBBTHNsN2tqMFhDdzNaRHZMcm1FRXBCYUNZRUdhWGk1SmlSM3FJNXFHLVpzdjVrSmFQWm01dENGazkzbDJsTV9kMzhJZm9QNG1XbWwyZGRPWUE?oc=5",
+      "summary": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright&nbsp;&nbsp;CNBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:23:23+00:00",
+      "fetched": "2026-03-08T14:45:06.954111+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "a32c94112e58b584",
       "title": "3 Palestinians killed in West Bank clash, bringing toll from week of violence to 6",
       "link": "https://apnews.com/article/israel-palestinians-west-bank-settlers-violence-900ad24fd46e0ca5ae0de07c0328c960",
@@ -56,6 +68,30 @@
       "iran_specific": false
     },
     {
+      "id": "ba2baac2ab01a7f8",
+      "title": "How targeting of desalination plants could disrupt water supply in the Gulf",
+      "link": "https://www.aljazeera.com/news/2026/3/8/how-targeting-of-desalination-plants-could-disrupt-water-supply-in-the-gulf?traffic_source=rss",
+      "summary": "The military targeting of desalination plants poses a huge risk to water security in the water-scarce Gulf region.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T14:22:47+00:00",
+      "fetched": "2026-03-08T14:45:04.396481+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "0b0a32bfefff30bc",
+      "title": "Uganda’s Jacob Kiplimo regains half-marathon world record in Lisbon",
+      "link": "https://www.aljazeera.com/sports/2026/3/8/ugandas-jacob-kiplimo-regains-half-marathon-world-record-in-lisbon?traffic_source=rss",
+      "summary": "The 25-year-old Ugandan regained the record in Lisbon, five years after first setting it on the same course.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-08T14:18:54+00:00",
+      "fetched": "2026-03-08T14:45:04.396563+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
       "id": "2cfb0ad4d034ee56",
       "title": "Countries can avoid Iranian attacks only by blocking US-Israeli use of territory: Official",
       "link": "https://presstv.ir/Detail/2026/03/08/765122/Countries-can-avoid-Iranian-attacks-only-by-blocking-US-Israeli-use-of-territory-Official",
@@ -64,6 +100,30 @@
       "category": "iranian",
       "published": "2026-03-08T14:15:04.187227+00:00",
       "fetched": "2026-03-08T14:15:04.187250+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3543cbd84cdceb22",
+      "title": "Attacks on Desalination Drag Water Supplies Into the War With Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQbkdhS19rMUZMdktBR05XSG5jbDdKNDFzUG9LVE1aQ2MxSGxhQTJuY0pPcEw1V2c1Q2pGTVgxSFkzUDRZSjEySGtsN2dOMmlncW1wSmJmR0Nzazh4WGhaamlBMXBQbEJDVHpUa3RqbEZjVnpsQzhVdTl6d0ZvSk1xSFIwMFhOZi04NEFiRFgydF92OXNuVXhmNU9DU0k3MTVQZFBIQkRrbloyMjRzV2FNWGNXMlg2b1JaaExSM0k5VDdrZlpYaHZ6U01EZ1NBSkt6WlF4bm52U1NFQmVDdmc3OUw4VVRLR2NkSkdVS3hSaEFMNllMcUZmTjVyZGhkeXpiSWh2MEZobTZfbzJiU1AzWmY2VWxaQmhLanA4YkVtbGllZVdsaGs1SGI0M0pGdHg2VktpMUM2bDJlekdpZjRkWHZ2NmJjQXN0R1dweEFWbTB0T3BJckZlZG5aczZnVmxFLUhCTTg3bEpmZVI1S2tUTnVZVVN5VWNCSFB4ZjJoYmVIX2hYQVBueG5Yam5leDBQSXZxSmJxRHR3WnJ6el9IOGRxckplZFJQY1o5UkIxM253dFdtbFp5bg?oc=5",
+      "summary": "Attacks on Desalination Drag Water Supplies Into the War With Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:14:00+00:00",
+      "fetched": "2026-03-08T14:45:06.953740+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b25489b7609cc13a",
+      "title": "Amid escalation, Iran religious scholars signal new leader to be named soon - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHBfd0wyZ3dZZU91SkVZMUxrd09rMUdPbUJId1FGSlJLQW43eUxQR3hJa1lFWDdLYTh0czVOamdscU13SF9tVUZTSjlVS2JNeURrQWxYOXl1N19rTTBEMWlIaTNYakVlU3ZqN3pZUjJxSWt5eXVUT0o0NEtaMWllc1BtTFRkREcwQW5rbFNTNThBdWNGLUp0UDJqYTBPQ01WUU5OSXFHZGw4SGfSAbABQVVfeXFMTjRRZld6WDB3Zm5BMktTZEN0N1doTk5wU1Rsc3Q3TUpQNldVZUdBNjRPMGlUZjBtOEZTSE02empuaGtYd0l6c01KdV84RGE3T3BUckctSUFoeS03QXYyNlV2NWdQcnpyQlZwX3BJSHZ6ZUJKVEhVamRiU0NDY21ET1FMVU9aUC1LT1ZyTUhXUWpCMGFXRDB0eWY1Wl9pQkIwUlVhVG11TGRJMFpuYW5TOTM?oc=5",
+      "summary": "Amid escalation, Iran religious scholars signal new leader to be named soon&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:07:16+00:00",
+      "fetched": "2026-03-08T14:45:06.954131+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -90,6 +150,18 @@
       "fetched": "2026-03-08T14:15:04.858135+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "267350f4fbd8bf03",
+      "title": "Option Frenzy From Oil to Corn Highlights Iran War Market Stress - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3paWjY0alVfYndBRG84bEEyemY5aElsLXZsREIzSEF1OU5pelFFYnJhVzVXOVJseEpyZTFNYjBaRGFGYmVYb20xblB5ZEFwX0RTbVVWeVExY3BsTzMybDF6UUk3d3VvWVc4bzQ3LVRCTnd5ejFJM3BhWWJfQ0R5M2VjTDJScXRvd3JTZ09fSGxBZGhwTUh4VGtWUDZQMlgzeG1qa1FCc0ZmeEJZREkzOGlGNDRyZw?oc=5",
+      "summary": "Option Frenzy From Oil to Corn Highlights Iran War Market Stress&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T14:00:00+00:00",
+      "fetched": "2026-03-08T14:45:06.953712+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "0e887ff1a519b2f0",
@@ -5932,78 +6004,6 @@
       "category": "iranian",
       "published": "2026-03-07T20:47:33.639653+00:00",
       "fetched": "2026-03-07T20:47:33.639657+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "8b06fc1032c43df6",
-      "title": "Pro-Palestine protesters rally in Melbourne on final day of Israeli president's Australia trip",
-      "link": "https://presstv.ir/Detail/2026/02/12/763927/Pro-Palestine-protesters-rally-in-Melbourne-on-final-day-of-Israeli-President-s-Australia-trip",
-      "summary": "Pro-Palestine protesters rally in Melbourne on final day of Israeli President Isaac Herzog's trip to Australia.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639607+00:00",
-      "fetched": "2026-03-07T20:47:33.639610+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "b4588aa3d58a6483",
-      "title": "Protesters rally in Vienna against headscarf ban in schools",
-      "link": "https://presstv.ir/Detail/2026/02/14/764023/protest-Vienna-headscarf-ban-",
-      "summary": "Hundreds of demonstrators gather in Vienna to protest after Austrian lawmakers vote by a large majority in favor of a law banning headscarves in schools for girls under 14.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639561+00:00",
-      "fetched": "2026-03-07T20:47:33.639565+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "7765cb5129f1d11b",
-      "title": "Mexico’s historic battle reenactment draws over 200,000 visitors",
-      "link": "https://presstv.ir/Detail/2026/02/17/764208/Mexico-Huejotzingo-carnival",
-      "summary": "The 158th edition of the Carnival of Huejotzingo brings music, dance, and gunpowder back to the streets, celebrating the region’s rich cultural heritage and historic identity.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639514+00:00",
-      "fetched": "2026-03-07T20:47:33.639518+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "8d75bfb613c922c1",
-      "title": "Aerial shots of floods in western France's Maine-et-Loire department",
-      "link": "https://presstv.ir/Detail/2026/02/17/764236/Aerial-shots-of-floods-in-western-France-s-Maine-et-Loire-department",
-      "summary": "Aerial footage reveals the scale of the flooding across the Maine-et-Loire department, as the national weather service Météo-France maintains high-level alerts throughout western France.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639427+00:00",
-      "fetched": "2026-03-07T20:47:33.639432+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a05040a4db7eaf54",
-      "title": "Police battle opposition protesters in Albanian capital",
-      "link": "https://presstv.ir/Detail/2026/02/21/764451/anti-corruption-protest-Albania-Democratic-Party-",
-      "summary": "Albanian police fire water cannon and tear gas to disperse fresh anti-corruption protests by right-wing opposition demonstrators who hurl fireworks and homemade petrol bombs.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639360+00:00",
-      "fetched": "2026-03-07T20:47:33.639363+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "6354b5eb89972cc1",
-      "title": "Gazans break Ramadan fast amid rubble of their destroyed homes",
-      "link": "https://presstv.ir/Detail/2026/02/23/764585/Gazans-break-Ramadan-fast-amid-rubble-of-their-destroyed-homes",
-      "summary": "Palestinians eat their Ramadan Iftar meal amidst the rubble of their destroyed homes in the Al-Shati refugee camp, west of Gaza City.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-07T20:47:33.639317+00:00",
-      "fetched": "2026-03-07T20:47:33.639321+00:00",
       "relevant": false,
       "iran_specific": false
     }
