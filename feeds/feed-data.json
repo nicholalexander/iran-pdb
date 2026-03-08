@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T20:45:08.454883+00:00",
+    "last_updated": "2026-03-08T21:00:06.623923+00:00",
     "total_items": 500,
-    "new_this_run": 14,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "03b9fc5820bbfe6e",
+      "title": "Russian, UAE foreign ministers seek end to attacks on Iran, Gulf states, Russian ministry says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russian-uae-foreign-ministers-seek-end-attacks-iran-gulf-states-russian",
+      "summary": "\n\n  \n      \n      \nRussian, UAE foreign ministers seek end to attacks on Iran, Gulf states, Russian ministry says\n\n    \n    \n\n        \n    \n                Russian foreign minister Sergei Lavrov and his counterpart from the United Arab Emirates called on Sunday for an end to all attacks on both&nbsp",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T20:55:26+00:00",
+      "fetched": "2026-03-08T21:00:06.546081+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "64f9f8382720af96",
+      "title": "Top Russian, UAE diplomats call for immediate de-escalation in Middle East",
+      "link": "https://tass.com/politics/2098621",
+      "summary": "The foreign ministers paid special attention to the cessation of attacks resulting in casualties among civilians",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T20:50:34+00:00",
+      "fetched": "2026-03-08T21:00:05.374981+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "1f9635297ebd5bbc",
+      "title": "Russia is sharing intelligence with Iran about U.S. military targets - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVJOUmwxWUdfM3VkYkJ4blNIN2VGRV9weXpvOUhrVnJPbEw5eC0zUFlCU0sweWlkQWw2RVdqNndKWXBydTgtZGJVUzE3akpGOHVSMGdMR082TEVmMFJ0ZVdaei1PMEZwaC1nR3kwNHNRZE1JV1ZsYjREMmZPSE5GbmFTZEFrZXJiMWdrZHJqQk41TXFXR2sydTdNaUhHR0tVRGc?oc=5",
+      "summary": "Russia is sharing intelligence with Iran about U.S. military targets&nbsp;&nbsp;Fortune",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:48:07+00:00",
+      "fetched": "2026-03-08T21:00:06.454462+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "8ba5c3b42ea96276",
       "title": "US soldier killed in Iran war has ties to Spotsylvania County - WTOP",
@@ -1040,6 +1076,18 @@
       "iran_specific": true
     },
     {
+      "id": "2d1cc0c8405a3b2a",
+      "title": "Iran's next supreme leader won't 'last long' without my approval, Trump says - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX3RvSkROQ1dUcVdOb0hGTHNHM092RlZncjZweFNZTFZ2Wm5vM0xSUE1CQVYwZl95ZnZrTUVWbHFaR2Utc1hTMW5WMFNNUlRYOTJQTzR2OUNGMjhjdzRZZ0FZekRDWGlyQkhuNXYxVGtmVzRSaUV2NHU2YllOMUNFQmgwakd2dUJxSGxVbVMwOWZNUdIBlwFBVV95cUxPbGdERVM5X3ktZTVvSDNXNmxvb2FEQllES1NLRVFfOWFvNllwNUdWbi1pZE96Tml2a2U0TEFuREJ4bnAwOVktS1o0TXNuZTRlTlZVV3pnSExrenpianBHZDFqSXo0YTZ3aHVYT0VjVFJpWlAta1BEbHhSZW1UeHhYUU1DQ29aS0Y0aWFiUm9lMGtRbENwbDRz?oc=5",
+      "summary": "Iran's next supreme leader won't 'last long' without my approval, Trump says&nbsp;&nbsp;ABC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:48:58+00:00",
+      "fetched": "2026-03-08T21:00:06.454511+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "9cc9a9fa962c000e",
       "title": "In maps: Strikes across Iran and the Middle East - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRUpYN0FvVmZYemhQRWd5aE8wVXk0VVhVWkNBVkZQQVRvWDd1OThuSGdvclZBaTd4UFpjS3ctUjlBZlBodnNLaUNYbnJFUDBLenR2cnZzVV9lZw?oc=5",
@@ -1360,6 +1408,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:28:00+00:00",
       "fetched": "2026-03-08T20:45:08.289652+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3faf18597e1c576a",
+      "title": "Opinion | America’s Uneasy Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxObmJmUDZCeDRzSVg4UXpEeC1CaVNqUWlSQnE3c3E0Q1V3dUM4UEE0c1FTQWNCVG1wVkRxWjRTVVh3TlBRVkt1alhlTVhpV2JlRW0xZ1dJa1Ruc0tnc2NENzNhR0dOTVA2SU9YbkF4MjhkbFRBT2FrTUxYcXdfakdFUDBPT25SZkN0MVlIbXZTYV9IUExWSGk4cVpFbnpPTXRiWWltejdiR09lcndIVXB4ZTFZTnlENHp3M0xYMG5nbFVNZ2hUOFpkUjZtTFA0ZlBCVHhva2hmTDNwX1lnOExBMHJSdFVKaS1pSWRZNll1eFc3aVdCd2tuYlBYY3hCVlExT0lfRlptNWR3WUVYY0dWLURlQVJETHR2SUs1dHFfTTVpOElDNjE2RXZjVEpLV0RCMmVUWnBjNEgwU1FNSk9mcm4xa05JSG9ubmtLSkNDTDhPS3lCU3lzY3FiZTN2WDN3TVlfWHlpaW0xeVBxSFlrMHNMOA?oc=5",
+      "summary": "Opinion | America’s Uneasy Iran War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:28:00+00:00",
+      "fetched": "2026-03-08T21:00:06.454659+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5576,6 +5636,18 @@
       "iran_specific": true
     },
     {
+      "id": "b58d538be9505808",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQbVpXNG5zMWpOYVIxWHJldGItWThnS1ZfS25nZHF4WmFyQmU5RTI3UmN0ZFVsSHVHRU4teXJUQ0ttZEVCbmR6TFFLeEJwWnhFZGNlZ2dPUFM4WW1EODlJOERQYkdqY2E4SFRvSlZMZ1ZtY1BvTmlmcEFBdGhzWTlUSUtRXzdfZk5UMGhQa1NPYnFrTlNHUjFNUTYteUJLMFAwRllleHE0VkxjQ2xlVGdYYnZtUE1ScU52WHAwcUJJTlh6ZmZoVDBSVlpEQTNTZGpzdVg0S1ZPZWJkcGF2NzlLNDBSRmdtcDRFX2VaamUxWTYtSnh2MGZVWjNpMFIxZk9jM2VhWnE4ckI3bVZEaGJfUlpqTFI1MmFiVlpPRmVaakFmd1hxUTV1MV9QaEV6SVI0aklXb3ZUa0hicDVFSEd6NDg0RmFMXzE1MzdCUTU1TWJSOVNaMWp0RkFQNGRoOFpsbmx4X05EdFpIbDROa0gtek1mdFNRcjRCNjBSSldvWVlsaUY5Si11WUtIb0ZIOERTbWsyNkU5cWFQZ0hSa3pZZGRRc1NScVFnNGhMVHBMUk5aX2VvcTBz?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T21:00:06.454817+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-08T01:11:06.547343+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "665831654414dc8e",
-      "title": "Saudi military downs wave of drones near capital",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-military-downs-wave-drones-near-capital",
-      "summary": "\n\n  \n      \n      \nSaudi military downs wave of drones near capital\n\n    \n    \n\n        \n    \n                Saudi Arabia’s Defence Ministry said its air defences intercepted seven drones east of the capital, Riyadh, within the past hour.\n\nThe announcement came shortly after officials reported that",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T00:28:25+00:00",
-      "fetched": "2026-03-08T00:30:06.084382+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "edc71dd12552e72b",
-      "title": "Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYzNQLWxQaTh1aVZuNzhJR19xc2tXcFhsZmRjS0dFU0RNYXdSd29QckVfd1Y0MzdaWjdsN1pXdTRKVWI2QV9JMG1HMUxuSzg0Ml8tYWZwenJ3NV93cUV1dkNmalkwYWV5QTRUZlB0bWQ0ZVB2X1FDcGRfMDZ5dE0?oc=5",
-      "summary": "Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:26:40+00:00",
-      "fetched": "2026-03-08T01:11:07.824019+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8a0ded3425eef199",
-      "title": "Trump says he told Kurds not to enter war against Iran, citing risk of escalation - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUtXenhMYWRUd2dKVVd4MlpsQTRpZTNBcVFCckZhVGJKeXM0WjNEN3dQRFZYMnhybTJEaG45V01lVjJtbFkyN2k1ZG5yUFhtQjByZDVHUThXSzIzVXRRU2o0cXVlNG5IX2lsOUJER1Z4TUpmR3QtNTFjWlBZdWxqa3FjLTlNYUJwdzBwNnlGR0VVNTB4VmdiRE9uUUJFaWVUMXdNVnVKTklMZ09SM0d4VkJhYjBFTkROd01TQ0FCOA?oc=5",
-      "summary": "Trump says he told Kurds not to enter war against Iran, citing risk of escalation&nbsp;&nbsp;Anadolu Ajansı",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:25:52+00:00",
-      "fetched": "2026-03-08T01:11:07.824610+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0b8784fa8e1cb42e",
-      "title": "Video: Israeli warplanes strike oil and fuel storage facilities in Iran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vide-israeli-warplanes-strike-oil-and-fuel-storage-facilities-iran",
-      "summary": "\n\n  \n      \n      \nVideo: Israeli warplanes strike oil and fuel storage facilities in Iran\n\n    \n    \n\n        \n    \n                Israeli warplanes struck Iran’s oil and fuel storage facilities in Shahran, Fardis, and Karaj, marking a major escalation by targeting the country’s energy infrastruct",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T00:24:12+00:00",
-      "fetched": "2026-03-08T00:30:06.084474+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8ae0b3912486dbfc",
-      "title": "Report: Israeli strike hits ambulance in Tehran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-strike-hits-ambulance-tehran",
-      "summary": "\n\n  \n      \n      \nReport: Israeli strike hits ambulance in Tehran\n\n    \n    \n\n        \n    \n                An ambulance was hit and destroyed in a reported Israeli strike in the Iranian capital, Tehran, Fars news agency said.&nbsp;\n\nVideo shared by the outlet showed the vehicle engulfed in flames ",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T00:21:12+00:00",
-      "fetched": "2026-03-08T00:30:06.084516+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "51eb30d96836ca81",
-      "title": "Trump says he ruled out having Kurdish forces join Iran war - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdVlpLUNmaXRudGpJLTRvUUZFRGV1aHd1a0JBcTdCaWN4U2U2TGhCaG1XUjVoZmtUYXlVazh1U3F2c1RXeXdQcU5pbzdEQlBRYzBqRkF5QjlwV0lKajV4dTBnbzdwd3dDeW5SS0Jud3d3cnM4cWZJOXNUbE0yUjl3VmhrOWw2b0pNN2NaQ3hISQ?oc=5",
-      "summary": "Trump says he ruled out having Kurdish forces join Iran war&nbsp;&nbsp;Fortune",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T00:16:00+00:00",
-      "fetched": "2026-03-08T02:00:05.723234+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
