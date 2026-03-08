@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T08:00:06.177429+00:00",
+    "last_updated": "2026-03-08T08:15:07.020970+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 9,
     "feeds_configured": 9,
     "errors": {}
   },
@@ -18,6 +18,30 @@
       "fetched": "2026-03-08T07:45:06.025864+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "dbee64ec67318351",
+      "title": "Pezeshkian: Iran has to respond to enemy attacks originated form any country",
+      "link": "https://presstv.ir/Detail/2026/03/08/765105/Pezeshkian-Iran-has-to-respond-to-enemy-attacks-originated-form-any-country",
+      "summary": "President Masoud Pezeshkian reaffirms Iran’s legitimate right to respond to enemy attacks launched from any country.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T08:15:04.883008+00:00",
+      "fetched": "2026-03-08T08:15:04.883040+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "63ddbee27a48b728",
+      "title": "Iran Red Crescent warns of toxic rain after US-Israeli attacks on fuel depots",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-red-crescent-warns-toxic-rain-after-us-israeli-attacks-fuel-depots",
+      "summary": "\n\n  \n      \n      \nIran Red Crescent warns of toxic rain after&nbsp;US-Israeli attacks on fuel depots\n\n    \n    \n\n        \n    \n                    \n                  \n                  \n\n  \n\n\n                  Iran’s Red Crescent warned civilians that rainfall could become toxic following fuel tank",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T08:01:16+00:00",
+      "fetched": "2026-03-08T08:15:06.912177+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "dc87eb06ec81e148",
@@ -546,6 +570,18 @@
       "fetched": "2026-03-08T05:00:06.027205+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "e18fa590dc3a4ff0",
+      "title": "Iran Update Evening Special Report, March 7, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEFpN2lSdDFUZnBGaDBMbWEwbzl6eFZ6RWRLSWxxQ2lxSDJtbDN1d0JPR2JVTm95Mk5iZXFLeVZPX3ZibWRDOWlZZjhFR1N4ZGxsbFpJVlh4cHViNVNTdENVZHVzbW5WaFFvSzZuZU9maGVodWVlUndtMExsQTNxZHI3aVVBSWNGY1dLRDBPUXd2THpjcWJYOTJuMWhyM3M?oc=5",
+      "summary": "Iran Update Evening Special Report, March 7, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T04:46:46+00:00",
+      "fetched": "2026-03-08T08:15:06.761066+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "ebe3ec5b475ce4a2",
@@ -1388,6 +1424,18 @@
       "iran_specific": true
     },
     {
+      "id": "752887f05729212a",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPdnNIUjJUVHBrYXlaNjBtd1lMclI0ZlA2VGFUUGdKbGgzdlB0bFpUREFKdDFmamloMDMwV3RnM0lvcC0wbnFEZFgxeURyd1JFOGtqVjRycVlJNXoyRS14MDRWdFg4dy05aEVnblR3dng4N1R6ZnRfdFNkZEVnYm9PYVgzeVZMYUdfcTZkQUctSFdTX000ZERYY19BZTE3dGFiZ1pFSnJMNnZPeTk0QjlMZHFLLVZfcnpFV1BaMmlIdUw4ZVdHX2RtWlpFY3BrSnFUT1BxdURLTWQtdUpTd1Fib3BKWVFuTlN3UGNGdkg2LXo4SE9xUzAtam1ac0x6X012RF9qUk9kZ0FWQ0swbkhJTjVTX05yR09RMVphOWp1eUE0Tk5zWWt1azlBVkxJajZvTHAxdW9VWTllYmVZZ1BOQXBST2FmVlpPUjJ6OF9XdHh4MFlrZ1RvWUI0VlNlMlVFOTR5RE1IeHRQRVczMnVzSlgtb29oanlzSFBvc0ZNLWFNR3F3UE52UjFVOUVnTGVYeU93SlRrX3dOYkE4SWtOSGxWa0RTMHh6WWhBS3JjbTJLSFV1eVdF?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T01:00:00+00:00",
+      "fetched": "2026-03-08T08:15:06.761009+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "237221d7e6e32709",
       "title": "Baltimore County woman stranded in Middle East during war in Iran successfully makes it out - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjBCQ2RpY003SVlJNzB6SXM1MWJPRTZ4VXN5S3lqZV9lSWxSV2R5akZFSWZSRjB1ZFhMdmY3amJmQ19lQmVPeGktSTl3Si1hTTh1b1M3cXR4SlNKQ2F6LUxpbVVaenh3SXAxZXlBUWF2cnlLR3BZblk3TlI5V0hud29vWVczYzE3amxkTDdUWTBJMjV3WVpZQUVPWnE5UE5oTkJ5Q2ZLOGJiWlNreVB2VzFWMHBlWFExRkNFeUV0eDNHbERaaG1Mb2hrYmQ?oc=5",
@@ -1696,6 +1744,18 @@
       "category": "aggregator",
       "published": "2026-03-08T00:33:00+00:00",
       "fetched": "2026-03-08T08:00:05.954162+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "7927e4967367e18e",
+      "title": "British help is too late, says Trump — as it happened - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNT1cxOFZiYy1CWkd3ZzZDU1RYNTRLYVZGTDdhaUxXczhFeHF2ZlVDT293N2NNaGZmU3VEelZ2M1NadXZqUEhsT1NFSmdzY1ktN19KNEYwSS0xZWlCbnVqd09ldmUwQXE2ck1xdmZxTzcwUVJvZV9hUmxsbmxLdnRFUm5tbkZFbXZuSS1LeHBYWFRiR1ZDTEN1UTZGQzRQUDUyb2JsRlhLSFpUeC0ycGdId3NyNHpEaUZXSDRjNmZTOTdSV25scXU3UDVNU1Fsb2h6NGV1VjF0cHZoUVQtZFlKV0VXaVRtVWd1M1M0NkpWcjZic1JlYmliUWJDWmdkTVAxVGliVVFxQlIwMVFCMmM4QVA1Z0t5Slh0aFd4WWZvTWhWWHNKSVI3aG91amZrWXBteWNDLWk1cjdGRjZDUEExTHp1SWlJZThWZEJRTDY5Z2ljRUtBc1pRcFZJN3V0WUtHRko5U2ZBYTlPNE9jaS1VRV9QNFl4dnQwUnVqVXJRclZ5RjNxV0p4eDFsYmVOQVg4SUJaZ3AtOUJCZXlMazBLcHdpVFdmWnFTS3BzM2tONA?oc=5",
+      "summary": "British help is too late, says Trump — as it happened&nbsp;&nbsp;The Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T00:33:00+00:00",
+      "fetched": "2026-03-08T08:15:06.760833+00:00",
       "relevant": false,
       "iran_specific": false
     },
@@ -5468,6 +5528,18 @@
       "iran_specific": true
     },
     {
+      "id": "1f1639754f748fc8",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOaWxPamlqV01QNTY1QTZnTmRuMXVpYVR5TEZYZDlIcXdaSXBvRmQxdWItR2JwRTVpc1l6TWJ4NE4wZTJ0SjZ5NjBHaVdjVEpHd0pDQmgwTFJqSEZ5RkJmb2tfdWpNb2ZPSmhXWDVUYlVfMkdJakJtWDFyRkY1MHZRMm5fdHBMbTIwSUUyNkdEYkFvVlY5LXBjd19kT1ZSMUNLVlZGdnFVMUJXQ3lhNVNrcUJOc1pZbzNoYUViOUx5UWpvVnluajloNFFCbjROWmFpNThLaWFUUjROOFp2SEFuLWhBcEJjNkZvVE1kWWNBSjk5UnlVNWJCakJlcU9TakxneTAxb18tOWN6LTZkcVVDTmE0MFgyalJvMUl1TnhlaURkakZVVFFUM0g1MFpzb2tfTTFiUGVELTluZ05jTF9iLUlmcjhsQlExZWtIRkc5Q0R5QURFX21FU1pWRW5DaEFySEQ3eS0xbDN4UUo0LS04U1ljVm5kMFZlTXhJV2dWYzJ2cmlyOHQw?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T08:15:06.760551+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5932,78 +6004,6 @@
       "category": "western",
       "published": "2026-03-07T15:43:35+00:00",
       "fetched": "2026-03-07T20:41:04.877187+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "1048f886ebf79928",
-      "title": "Why did US and Israel attack Iran and how long could the war last? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
-      "summary": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T15:43:35+00:00",
-      "fetched": "2026-03-07T20:47:34.881819+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a45c555d18c5e14e",
-      "title": "Iran ready for normal talks, rejects current US posture — ambassador to Russia",
-      "link": "https://tass.com/world/2098203",
-      "summary": "The current US position makes dialogue impossible, Kazem Jalali said",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T15:42:22+00:00",
-      "fetched": "2026-03-07T20:41:22.708229+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "07a26f7b97f25482",
-      "title": "War against Iran: How far will it go?",
-      "link": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss",
-      "summary": "Redi Tlhabi challenges former US Ambassador to the UN John Bolton on why he supports war and regime change in Iran.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T15:40:58+00:00",
-      "fetched": "2026-03-07T20:41:04.688750+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8ceec612c6c9093a",
-      "title": "India vs New Zealand: T20 World Cup final – ‘No pressure, no fun’ for hosts",
-      "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-no-pressure-no-fun-for-hosts?traffic_source=rss",
-      "summary": "India have a treble of firsts before them in T20 World Cup final and the expectations of 1.4 billion fans behind them.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T15:30:46+00:00",
-      "fetched": "2026-03-07T20:41:04.688803+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "11008e357629e5ad",
-      "title": "US/Israel: Investigate Iran School Attack as a War Crime - Human Rights Watch",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUFuMFpvdkRlWlNGTDR0LUc4aXpSeVVLU1EwLU1tenQ2NGN5YXp1M3lCMm1iNENzWTY3OTlRTWlwSXFNYkpaOTh2WXdHaFUyd25TRUtvVlFuUUlhN3ZNOWNjejhpRG0zUVQ0bExlb0RQYjk5OUcwNURpS25rRFZWWW1NN0kyY3pVTnRCT0hsZ3ZWNnBkM1E?oc=5",
-      "summary": "US/Israel: Investigate Iran School Attack as a War Crime&nbsp;&nbsp;Human Rights Watch",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T15:30:00+00:00",
-      "fetched": "2026-03-07T20:47:34.881458+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0bcf3b413e36f52c",
-      "title": "Iran has no plans to acquire nuclear weapons — ambassador to Russia",
-      "link": "https://tass.com/world/2098201",
-      "summary": "Tehran strictly adheres to international nuclear standards remains unchanged, Kazem Jalali said",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-07T15:21:47+00:00",
-      "fetched": "2026-03-07T20:41:22.708258+00:00",
       "relevant": true,
       "iran_specific": true
     }
