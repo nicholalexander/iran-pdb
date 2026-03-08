@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-08T09:00:08.252800+00:00",
+    "last_updated": "2026-03-08T09:15:06.041671+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "2212389d618d6e43",
+      "title": "IRGC drone, missile strikes target US Al‑Udairi helicopter base in Kuwait",
+      "link": "https://presstv.ir/Detail/2026/03/08/765109/IRGC-missiles-target-US-military-base-in-Kuwait-terrorist-positions",
+      "summary": "The Islamic Revolution Guards Corps (IRGC) says its navy forces carried out a combined drone and ballistic‑missile operation against the US Al‑Udairi helicopter base.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-08T09:15:04.211045+00:00",
+      "fetched": "2026-03-08T09:15:04.211075+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6802f7e771d01cb1",
+      "title": "How Trump’s War in Iran Has Echoes of Putin and Ukraine - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamRHd1ktcWhaaWFSVHN3dVVNM0lQdU1oS3l4bzQ2Ulo1QktzZU8xWFc3dVI1XzVRYlhjLVpET1Y0bmlERFpLOUwtRFJrc1NxdGFIYW9DbHRiZm1yNzB2MnR1bGFka1JSRlhheGFwWHZxcWNFUzFjOEtWdnJTZnRURGJRY2pheXE5?oc=5",
+      "summary": "How Trump’s War in Iran Has Echoes of Putin and Ukraine&nbsp;&nbsp;The New York Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T09:08:55+00:00",
+      "fetched": "2026-03-08T09:15:05.828412+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "8e742df9d2bcf5ee",
+      "title": "Iran president says remarks on neighbours ‘misinterpreted by enemy’",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-remarks-neighbours-misinterpreted-enemy",
+      "summary": "\n\n  \n      \n      \nIran president says remarks on neighbours ‘misinterpreted by enemy’\n\n    \n    \n\n        \n    \n                Iran's President Masoud Pezeshkian said his remarks were \"misinterpreted by the enemy that seeks to sow division with neighbours\", state TV reported on Sunday, after they ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T09:06:36+00:00",
+      "fetched": "2026-03-08T09:15:05.964901+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e0e1212a7a92845e",
+      "title": "Kuwait says two interior ministry officers killed 'while performing duties'",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-two-interior-ministry-officers-killed-while-performing",
+      "summary": "\n\n  \n      \n      \nKuwait says two interior ministry officers killed 'while performing duties'\n\n    \n    \n\n        \n    \n                Kuwait’s interior ministry said two officers were killed early on Sunday while performing national security duties.\n\nIn a statement posted on X, the ministry said ",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-08T09:02:47+00:00",
+      "fetched": "2026-03-08T09:15:05.965007+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "99cefec040847b79",
       "title": "Inside the secret US-led talks to solve the Western Sahara conflict",
@@ -18,6 +66,18 @@
       "fetched": "2026-03-08T09:00:08.184528+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "ea60c0e5e7f766eb",
+      "title": "Scotland's papers: 'Day of glory' and Blair rebukes Starmer over Iran war - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keUhVZDJVLVZFTHpURXBnSzNBYUZ4WHlmT3ZqTmh4RTF2RHNQM1RkMkJhaF81eUpKc0o0bTBBX3hKS2hNeEpRb3hub1lBMzhxaThvYTBBNnFydw?oc=5",
+      "summary": "Scotland's papers: 'Day of glory' and Blair rebukes Starmer over Iran war&nbsp;&nbsp;BBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T08:48:20+00:00",
+      "fetched": "2026-03-08T09:15:05.828461+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "2c6d0787ed3414b4",
@@ -5888,6 +5948,18 @@
       "iran_specific": true
     },
     {
+      "id": "a92c5a78b62c7f2d",
+      "title": "How AI Is Turbocharging the War in Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNNy12Wjd2aFUtUERZRjJTQURzcmNPc2Y4Qi1uelJNMUNtb3ZLUkV0Xy1JQkRfU3BHVDRQRW9IVWxxLXQxa29NOTBwUEhIMEdnMVQzZ1A3RUVsZDhoMUFnSG90YVVpSVZWUXZ6TFdBenhLZzBtMkF0R1JxWndqWHQ1M203V0JtN1lNeGdRMjlmSlJMVmdYbTNsWk9XeXJWUk1lNWtESVQxTDhkZmgtWlV3RGZueWtJRnRMRU5hanRsODZLU0RTQnByNDBCbEFDRmlzV2x1dTVwM0RNTU1jY3BKbmZaX2ZiNmNFd01OWHJwX2FNekZZNTZPNml0ZWIxVkZ6NUd6TVJvLXJLUFZ3VXF1T0M1UFhXMURmMEJnSUl6ZHp3VlhxOVRMbEFNTTVaVDFXaWhudDdfZzU4LWhhT2Exc1FNQ3RrUVhNbmZ6VmkzbjdlQUNtU1V3WjF6ZXFCV1piaDNWWm5hR3JFdjlyeXg4NENCUnRnTV9iRkdxbnpXTlJMOGZUNXNz?oc=5",
+      "summary": "How AI Is Turbocharging the War in Iran&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-07T17:00:00+00:00",
+      "fetched": "2026-03-08T09:15:05.828680+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "13f10d85383dcdea",
       "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pQSnBRdFpmVUVqY01IT2RNX295dWhsRGFxRHNGaks3U052LUVlTFlnZGJjbm5pdEF3Z3lvWW1neHlmTngyTm5ldkZleXZJYndPdERLc0NvMVhzYkN6QngzWExfMHpXWWNGaVNkNUphVmtnbjNzT3hiTFctbHV4MlNGaWtSVVFEU18wLWJxTlU5U05BY2NUTjQzeFd1emp0OUVJNkVINVV0UlluWEFEMzdoREVZMFZjV1Q1SzdNOA?oc=5",
@@ -5932,78 +6004,6 @@
       "category": "regional",
       "published": "2026-03-07T16:56:01+00:00",
       "fetched": "2026-03-07T20:41:04.688682+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "1b3186621fe321ae",
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNnZabUZITnhNM19qZlIxdmZZSnROTjFJVC1zRDdsT1IxSEU4OUtadUF3UkJ1VFBmNlU3UXhfU1FXdmwzcU1NQ0YwM1J4SDA0ekdBWjJxSUkwQQ?oc=5",
-      "summary": "Iranian ambassador warns UK to be 'very careful' about further involvement in war&nbsp;&nbsp;BBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:53:57+00:00",
-      "fetched": "2026-03-07T20:47:34.881540+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "46be88a7a2ef4bfa",
-      "title": "Did the Iran War Really Move Grain Prices Higher This Week? - AgWeb",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN05tUnBad2NXeGNvRndaeF9KOG8xR3F3QmpmQ3FEc21uVFhlNGJsTTY5aG5CNW5nWllRUl9MVVNBSUR2NGhWNXljQVRHMkpfeHN0QmduM0IwTE5RYjhoQThEeDBHZEtqVVVsRjJiZldiY0JBRnRtUGNhaWJQQmRybTk4eTQ1dw?oc=5",
-      "summary": "Did the Iran War Really Move Grain Prices Higher This Week?&nbsp;&nbsp;AgWeb",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:52:00+00:00",
-      "fetched": "2026-03-07T20:47:34.883671+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ffa8684de4b768ea",
-      "title": "Why did Iran's president apologise?",
-      "link": "https://www.bbc.com/news/articles/cz7g2qrz8vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The apology may hint at a political repositioning inside Iran, writes BBC Persian's Amir Azmi.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-07T16:51:14+00:00",
-      "fetched": "2026-03-07T20:41:04.876747+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ef418f7e3df9792c",
-      "title": "Why did Iran's president apologise? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85eEp6WTFUeWJUZUZZNlVHTm9CTVJYd3BacF9sYW1qUEFaLXhLUHpXWWplWkhiZzdTRTYxUVpOcnRFdHF0YzBUV3NQMU5wdFVsU21fdWdHSHhMdw?oc=5",
-      "summary": "Why did Iran's president apologise?&nbsp;&nbsp;BBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-07T16:51:14+00:00",
-      "fetched": "2026-03-07T23:03:51.466777+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b641777b51df3b28",
-      "title": "Loud explosion heard in Dubai: Report",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosion-heard-dubai-report",
-      "summary": "\n\n  \n      \n      \nLoud explosion heard in Dubai: Report\n\n    \n    \n\n        \n    \n                A loud explosion was heard in Dubai on Saturday evening, AFP journalists reported, while Iran continued to launch missiles and drones at targets across the Gulf.\n\nThe Emirates had earlier reported \"inc",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-07T16:50:36+00:00",
-      "fetched": "2026-03-07T20:47:35.015180+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "966e17498aba2f71",
-      "title": "Tornadoes across central United States kill at least eight people",
-      "link": "https://www.aljazeera.com/news/2026/3/7/tornadoes-across-central-united-states-kill-at-least-eight-people?traffic_source=rss",
-      "summary": "Tornadoes leave behind destruction in states of Oklahoma and Michigan, and authorities say more extreme weather ahead.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-07T16:46:25+00:00",
-      "fetched": "2026-03-07T20:41:04.688724+00:00",
       "relevant": false,
       "iran_specific": false
     }
