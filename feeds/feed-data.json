@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T00:15:06.416306+00:00",
+    "last_updated": "2026-03-09T00:30:08.262050+00:00",
     "total_items": 500,
-    "new_this_run": 3,
+    "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "13c88c5bca0dcc07",
+      "title": "President Pezeshkian welcomes Ayatollah Mojtaba Khamenei’s election as new Leader",
+      "link": "https://presstv.ir/Detail/2026/03/09/765140/president-pezeshkian-welcomes-ayatollah-mojtaba-khamenei-election-new-leader",
+      "summary": "Iran’s President Masoud Pezeshkian has felicitated Ayatollah Seyyed Mojtaba Hosseini Khamenei following his election as the new Leader of the Islamic Revolution.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-09T00:30:05.808612+00:00",
+      "fetched": "2026-03-09T00:30:05.808634+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "9e744261044460b1",
       "title": "Pezeshkian: Enemies will take dream of Iran’s surrender to grave",
@@ -28,6 +40,42 @@
       "category": "iranian",
       "published": "2026-03-09T00:12:08.928045+00:00",
       "fetched": "2026-03-09T00:12:08.928085+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3c0c1014d04e8c9f",
+      "title": "South Korea Stocks Plunge as Oil Spike on Iran War Hurts Outlook - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1lObkhBQ1hnaFcyWTBvMXJNdXpfaWZwTXJyUHpBeVJqNmZzWVRZQjZON2xRb2h4R0h1SklkWVU5WnYyVEM2LU4wdUx6eHdubkttWGJmVE9PV1FHZndaelJQeWdzcWpucUlLTS1tdXJRUWs4ZEVMZy1iem12QnhISHFEUDhfX0FSdTY5S0QydlhVb28zTTBWUmtZX3RaT3VpamZaVHppM0lqZEhzcnV3bnpyTHpaUQ?oc=5",
+      "summary": "South Korea Stocks Plunge as Oil Spike on Iran War Hurts Outlook&nbsp;&nbsp;Bloomberg",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:11:00+00:00",
+      "fetched": "2026-03-09T00:30:07.694230+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b47b23dd5e5e6bce",
+      "title": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNOTlYTkh0TmlQajliMTh4cHhGY1AzT3BWZnhxQzd4cV9ucWxFZzVXNVR5Yjh2aVlhc2trMnRxd3FoYlI3SDhicEU2U0FRWDVjVHg2MnJaOXpfRlUzdjI4TWkzSjVndmdZbFNPanhlLTlyM3prU1B6UjFEMlNNTnl4SDFqZDl3NjlxM0RLLWMxQUhzQkt4T0RpckhweWZ3bmxKNUNUMG1pcHNOUGdLNURhWUNLS3RMM0Q0cUpKUXdLRmk0UTd0LWN1dzRPZkpMamdFSzk1bjA3YnJ0M1o4LWRmUXBvZmh3OEFpZ014T2RmTXJmUTB2YUFicTdldDhYZG55QlJFTkVqVUN5QUFFMTBJVmZ1YUtHb3NxdW1jcmliTnZUOVotSDdDNXh0aS1yX1dJdGJpaERHUEJwNllrVGxNUV9ETzNFbVlGMFNZMXdRcGtNNWh4SHVPNWotX2VjNk16LWd4RW1aaEZHd3Qyd1lZM0tZZmU3a3J1a2ZBT0t0bTRWVnlFTWZVdTI1dTFYNGpBTVJ3YjBtaGJOdEV6TVZGSGVobXFUNTEwVGQ2dzFGTzUyQ3BFcFE?oc=5",
+      "summary": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:10:00+00:00",
+      "fetched": "2026-03-09T00:30:07.694738+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b1e4346ea57f5934",
+      "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss",
+      "summary": "Iran&#039;s military and political leaders pledge allegiance to Mojtaba Khamenei as US-Israeli attacks continue.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-09T00:00:00+00:00",
+      "fetched": "2026-03-09T00:30:05.317838+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -280,6 +328,18 @@
       "category": "aggregator",
       "published": "2026-03-08T22:20:03+00:00",
       "fetched": "2026-03-09T00:12:10.731026+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c0cbff4cd703ea28",
+      "title": "Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Q2NWQWd1WUZPMU5xeks2WGlUaTJBMElPU1d1Vm1jREJ4T0w2b3kzTnBJNi1uYWxUQm9kYmdsNDVnMFBvcmhWcWNldnZ2cU01NFQyTVZpdDk2NW9Fb0oyN2dGMGwwY3d1cDc3RUMzZVBLb25leVJOVnE1WDcya2c?oc=5",
+      "summary": "Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T22:19:22+00:00",
+      "fetched": "2026-03-09T00:30:07.694686+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1852,6 +1912,18 @@
       "category": "aggregator",
       "published": "2026-03-08T15:48:58+00:00",
       "fetched": "2026-03-08T21:00:06.454511+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "feffb7916e05ddef",
+      "title": "Iran's next supreme leader won't 'last long' without my approval, Trump says - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX3RvSkROQ1dUcVdOb0hGTHNHM092RlZncjZweFNZTFZ2Wm5vM0xSUE1CQVYwZl95ZnZrTUVWbHFaR2Utc1hTMW5WMFNNUlRYOTJQTzR2OUNGMjhjdzRZZ0FZekRDWGlyQkhuNXYxVGtmVzRSaUV2NHU2YllOMUNFQmgwakd2dUJxSGxVbVMwOWZNUQ?oc=5",
+      "summary": "Iran's next supreme leader won't 'last long' without my approval, Trump says&nbsp;&nbsp;ABC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T15:48:58+00:00",
+      "fetched": "2026-03-09T00:30:07.694304+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-08T01:45:07.220051+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "a5020289edfd2e34",
-      "title": "Trump honors 'heroes' killed in Iran war - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk41c2l5MktWVHVVRXpDV21jNnM1Vkdya1RZUExIenB2bmxCX3pWMDhHbVRXSXpObG1uSURERWdxWmw4OFRjZ0JRT2M5Ni01VWw1QTBRc3V2VU11UnBNVFBMbTAycXZwa2RCQVY3QlpDVlA2VUhEZU9HVjBrVkt6aVZpdy1melNBOXNGbE9fZm5Jdw?oc=5",
-      "summary": "Trump honors 'heroes' killed in Iran war&nbsp;&nbsp;NBC News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:31:48+00:00",
-      "fetched": "2026-03-08T01:45:07.094948+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "25d212125ea647b7",
-      "title": "Trump accuses UK PM of seeking to 'join wars after we've already won' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uU0J6UV9fMG9Ndld6UmI0ZGdCY2s4Y0tLenlyMWVQaURFR2lXNms3dE16MEJEOHVsUVNZSjZaUDZxa3ZWVGp4QTRQYkJuTURaUExZdW1BVnpjUQ?oc=5",
-      "summary": "Trump accuses UK PM of seeking to 'join wars after we've already won'&nbsp;&nbsp;BBC",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:31:10+00:00",
-      "fetched": "2026-03-08T05:45:06.156086+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "409f9c00292a43ad",
-      "title": "Cracks emerge in Iran’s leadership as it reels under a war seen as existential - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPem1HZ3hMM0hHMmRqV1hlV1VtbmJWVXBkb0hUOEllUUM0WUhOYkVrMGhJRmhBalRPZkRNR2tVMk4tSHR4Sm1rT2FPWThxeDRsNi0tVU5FWkZPS3VtNVB0TUc0ek4yeDNtWXdjX0JUbjZ0Skh2b1RsZ1dtWVFPMkdlU0RlOEFDSkF3WjE4UFVPeENJbC15UTRRbW51OFdiWGVfdjhzSnNVTnhKQnB50gGyAUFVX3lxTE85NTgyUi10REJXRkZSOEVhRlo0NWpnWGxlT0s5bjYyMzhOTDI4Z1dJaFB4aUZXWUpEUXJVeGJfbE0tN3k2YXNwQVRhSTE5ZTBMckFZY1VzRjRjZlNKaUxEaExNSzZwNDQ0MzJYSUwxS1I0TUk4SndFSlJaQkgzUXdBNGNLT2wxV2pNTFRHM3BsaVB0cFF1T0JDTDVKdEhqZjhtY3BDM0RYUlExcWs3dXZtREE?oc=5",
-      "summary": "Cracks emerge in Iran’s leadership as it reels under a war seen as existential&nbsp;&nbsp;The Times of Israel",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:26:37+00:00",
-      "fetched": "2026-03-08T03:30:05.410196+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "ebd74997c4cc020f",
-      "title": "Lula da Silva postpones March visit to United States — minister",
-      "link": "https://tass.com/world/2098307",
-      "summary": "The president scheduled the trip for the second half of March. The sides could discuss  bilateral trade, including the possibility of reviewing current tariffs",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-08T01:21:43+00:00",
-      "fetched": "2026-03-08T01:45:06.060167+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "6e1dd597e33d3d45",
-      "title": "Loud explosion heard near US embassy in Norway",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosion-heard-near-us-embassy-norway",
-      "summary": "\n\n  \n      \n      \nLoud explosion heard near US embassy in Norway\n\n    \n    \n\n        \n    \n                Norwegian police said a loud blast was heard near the United States embassy in the capital, Oslo, Al Jazeera reported.&nbsp;\n\nAuthorities said it was not immediately clear what caused the blas",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T01:15:36+00:00",
-      "fetched": "2026-03-08T01:30:06.206133+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "12897ef35011174f",
-      "title": "Drone attack targets fuel tanks at Kuwait airport, officials say",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-targets-fuel-tanks-kuwait-airport-officials-say",
-      "summary": "\n\n  \n      \n      \nDrone attack targets fuel tanks at Kuwait airport, officials say\n\n    \n    \n\n        \n    \n                A drone attack targeted fuel tanks at Kuwait International Airport, officials said, adding that firefighting teams and other emergency crews were responding to a blaze at the",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T01:03:26+00:00",
-      "fetched": "2026-03-08T01:11:07.909647+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
