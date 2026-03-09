@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T08:15:07.020245+00:00",
+    "last_updated": "2026-03-09T08:30:06.611680+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 8,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "a43c4f036fc4b46c",
+      "title": "US missiles launched from residential areas of neighboring countries: Tehran",
+      "link": "https://presstv.ir/Detail/2026/03/09/765150/US-missiles-launched-from-residential-areas-of-neighboring-countries-Tehran",
+      "summary": "Iran’s Foreign Ministry spokesman says US uses residential areas of neighboring countries to launch missile strikes against Iran, jeopardizing regional security.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-09T08:30:04.716595+00:00",
+      "fetched": "2026-03-09T08:30:04.716615+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7cbf07721349dadd",
+      "title": "Turkey deploys six F-16 fighter jets to Northern Cyprus on March 9 — defense ministry",
+      "link": "https://tass.com/defense/2098717",
+      "summary": "\"Additional measures will continue to be taken based on further developments, if deemed necessary,\" the ministry said",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-09T08:26:03+00:00",
+      "fetched": "2026-03-09T08:30:05.410980+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "ff9d4a1bf8cf813e",
+      "title": "China says Iran’s leadership change is an internal matter",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-irans-leadership-change-internal-matter",
+      "summary": "\n\n  \n      \n      \nChina says Iran’s leadership change is an internal matter\n\n    \n    \n\n        \n    \n                China has said that Iran’s decision to appoint Mojtaba Khamenei as the country’s new supreme leader is a domestic matter for Tehran.\n\nSpeaking at a regular press briefing, Chinese f",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T08:25:12+00:00",
+      "fetched": "2026-03-09T08:30:06.505919+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "65cde8ef881b13eb",
+      "title": "UAE releases video of Iranian drone interception",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/uae-releases-video-of-iranian-drone-interception?traffic_source=rss",
+      "summary": "The UAE’s Ministry of Defence released video it says shows Iranian drones being intercepted and destroyed.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-09T08:10:54+00:00",
+      "fetched": "2026-03-09T08:30:03.853878+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "fe9569a806e058f2",
       "title": "There was no nuclear threat. US-Israeli war on Iran is blind vengeance",
@@ -100,6 +148,18 @@
       "category": "iranian",
       "published": "2026-03-09T08:00:04.654870+00:00",
       "fetched": "2026-03-09T08:00:04.654895+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "00dfa61a93b18e74",
+      "title": "Wall St futures slump as Iran war drags on, oil near $120 stokes inflation worries - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ25yUEVjdzA5eDR6QmJUYThwbHc0Rk9KYXRpcFVMNnYwZkZsYXQ0S1g2RXExRTVhbGFzMHV6dDE5ZHhHdjhfV0VUTkNMdmtMaUpVZTFOQ3h0WEhwM05xNV84STRSSjREUF9Ka204QVZ4WEtCUXZsZWY3c3h3My1zUEdBdTRTc3Q3ek1NVXdBYjJ5UFZHcUd1aU11ay01emx2S0JIeWVTU2tfQzA3Ti1qSTEwQlJ2eVVtbW5z?oc=5",
+      "summary": "Wall St futures slump as Iran war drags on, oil near $120 stokes inflation worries&nbsp;&nbsp;Reuters",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T07:58:41+00:00",
+      "fetched": "2026-03-09T08:30:06.375926+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -532,6 +592,18 @@
       "category": "aggregator",
       "published": "2026-03-09T06:38:00+00:00",
       "fetched": "2026-03-09T08:00:06.321602+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "9a0a35f45580e59b",
+      "title": "Trump to Times of Israel: It'll be a 'mutual' decision with Netanyahu regarding when Iran war ends - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFNV1NpY1dmRDVrcmxOTktkaFN3Zl8xWDdhU3QzVFZ3T1dhVjg4eWNtVE15X3ZSWWRpNE5UZ0toNURPYmtpWVR4a1BEWG5KMTVWUGM2X2xnaE4yeFhGWk9UWTVYbE1VRWZESUQzVG1PblNVWlk1SmhLTGkxaVBEODR1QUZEdjRTZlZMdkQxd2RBWWFBdlcyQ1hGOFFTaFI5M1F4SlJYdG9Qck5QS0d0UFVndDBBQkZ4NV90MHptZGF1WTg?oc=5",
+      "summary": "Trump to Times of Israel: It'll be a 'mutual' decision with Netanyahu regarding when Iran war ends&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T06:36:49+00:00",
+      "fetched": "2026-03-09T08:30:06.375750+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -3076,6 +3148,18 @@
       "category": "aggregator",
       "published": "2026-03-08T18:30:55+00:00",
       "fetched": "2026-03-09T08:15:06.798478+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e24e929e5901e00a",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNXzNNVmZ1and2ZkFRTmhmWjRhSFV1dVphVWdxbENvem9ZcWFoUTdRSDNvMHlYV1RqRkVLclpGSlFEWENINDhMU0c2MHhtOE9xVDR3eWx2ZEZLTWFoUEZxUzJYR0E2Y0xwSkxzOFlQT2VNZWlBUFhFYVNraFlNTV9iSDlNLTZWQ1pja0MwNGljUXcxUUdqSmxvdy1DdkxPRnpjdi1zVFhOc3FNOUp6RmplMzlJcHZ4RlBTaEhnTkVlRlhPS01FSFlmWWZOaXNoZVVIWHk2WFFBQ1l6alhUSzBsb0lBQmpwOXRtdkRDdHBud1ZsekJmWUU2Wk9zblg5RTVkNnNuQkFpSUZkZmFJRVl1aUNVNUVvZE9yRHlrck9lQ0hVNVVwZFVBdTd1SjRGaG1iQTdkeXdmSFhOVGNQUmZpQk85Tm0xNUtUQlBwaU1jWjJydHFSNWFxWjNSaE1Iek11TzNZZjRHZXk4NXU4QkdhelhfZG54VkdEXzZLY1Y3VkZ3NzR5REZXZS1aM0tBLUJmZG1PX1pqNlhSZ1VXT05fTldtZ3NOUVhoLUp4LTFNTG9RU1RzTWdF?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:30:55+00:00",
+      "fetched": "2026-03-09T08:30:06.376178+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5920,90 +6004,6 @@
       "category": "regional",
       "published": "2026-03-08T10:45:31+00:00",
       "fetched": "2026-03-08T11:05:29.181220+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "cee8d5d259691080",
-      "title": "Trump faces economic squeeze as Iran conflict escalates - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04ZWIwNTFxaXlFTVlvYzNtT3V0LVg3ZFEtR1BtNDlpQjVxVDRMQ2Zacm1tazNwSFE5c0UzVk9VVFFzbkpQSGoycENaemhpNDBldDJjMXVZR3BOOXJVcnVPbFFyYXBONDQ1SkVmX9IBckFVX3lxTFBZQWtGcGpQclEwQ3JEZHF3d25DUDVqaG9BUDh0eGZnUkhyd09OTk55ZzdzMFE3ZjFBd3FfN0Q4U1h5TVNjYmxHOXo0T3ZEanRtaWg1QWVlUmZYY0Q2dm41cFl2OFltQ3JCM05rOTZDNlZ1dw?oc=5",
-      "summary": "Trump faces economic squeeze as Iran conflict escalates&nbsp;&nbsp;The Hill",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T10:44:56+00:00",
-      "fetched": "2026-03-08T13:15:05.899615+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3602af95d1a53031",
-      "title": "Iran Live Updates: U.S.-Israeli Strikes Grow as Fuel Depots Burn in Tehran - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTF2UmZ4MDRscktJcF9Vdm8ydTZtLTZzMnFRTUhsaUcyR1RoNk9wY0NQT0FLRzZwTlBYb2tfSU5RcWlpYU5qRUpRYUQxWkNDVFV6eWxGdWxHRTJPS2VVOVh0ZlZoWEN3M3dTTWtsWVZzUDBJVHQ1U1E2Z1dVWkZucQ?oc=5",
-      "summary": "Iran Live Updates: U.S.-Israeli Strikes Grow as Fuel Depots Burn in Tehran&nbsp;&nbsp;The New York Times",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T10:40:12+00:00",
-      "fetched": "2026-03-08T10:45:06.037634+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a26aa910b7755d2b",
-      "title": "Israeli settlers kill two Palestinians in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/3/8/israeli-settlers-kill-two-palestinians-in-occupied-west-bank?traffic_source=rss",
-      "summary": "Two Palestinians shot in the head by Israeli settler,  a third dies from inhaling tear gas used by Israeli soldiers.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-08T10:32:37+00:00",
-      "fetched": "2026-03-08T11:05:24.992272+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "cf857ab71ede13d7",
-      "title": "Iran says exercising right to self-defense under international law",
-      "link": "https://presstv.ir/Detail/2026/03/08/765112/Iran-says-exercising-right-to-self-defense-under-international-law",
-      "summary": "The Foreign Ministry spokesman reiterates Iran’s inalienable right to self-defense against the illegal US-Israeli act of aggression.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T10:30:04.499932+00:00",
-      "fetched": "2026-03-08T10:30:04.499959+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c2a0a83e4346276d",
-      "title": "China warns of spread of ‘flames of war’ from Iran - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3JiV1dCZGVSZl9BRDhaRi1PdDZadXROWFVLME84MGxib1c3MTdWRjlRRGF5NEg5NkNHM0ViZm9qQnVJNk80LTFoVUtwZWRtZ3liMlpacWtzRHBTWVVVTU44WWZ4clFWYUppclA3ME80TTEwWDBoVGEyM0F3d1d2Sm9WNGg?oc=5",
-      "summary": "China warns of spread of ‘flames of war’ from Iran&nbsp;&nbsp;CNN",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T10:30:00+00:00",
-      "fetched": "2026-03-08T11:05:29.088335+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "e6625d6553c6f4fa",
-      "title": "Hundreds march in New York condemning US-Israeli attacks on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/hundreds-march-in-new-york-condemning-us-israeli-attacks-on-iran?traffic_source=rss",
-      "summary": "Hundreds of activists filled the streets of New York City in protest of the Israeli-US war on Iran.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-08T10:24:54+00:00",
-      "fetched": "2026-03-08T11:05:24.992309+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "c899e5a779c9ce8d",
-      "title": "Iran selects new supreme leader",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/new-iranian-supreme-leader-selected",
-      "summary": "\n\n  \n      \n      \nIran selects new supreme leader\n\n    \n    \n\n        \n    \n                The Assembly of Experts, the clerical body responsible for selecting Iran's new supreme leader,&nbsp;has announced it has reached a decision.\n\n\"The vote to appoint the leader has taken place and the leader h",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T10:19:56+00:00",
-      "fetched": "2026-03-08T10:30:06.210485+00:00",
       "relevant": true,
       "iran_specific": true
     }
