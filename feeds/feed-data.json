@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T00:12:10.930977+00:00",
+    "last_updated": "2026-03-09T00:15:06.416306+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 3,
     "feeds_configured": 9,
     "errors": {}
   },
@@ -56,6 +56,18 @@
       "iran_specific": true
     },
     {
+      "id": "b2aa3b9ab3be0f2a",
+      "title": "Brent crude price rises by 19% oil on London ICE Exchange",
+      "link": "https://tass.com/economy/2098651",
+      "summary": "The price reached $111.40 per barrel as of 1:15 a.m. Moscow time",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T23:48:14+00:00",
+      "fetched": "2026-03-09T00:15:05.168720+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
       "id": "0f9a64fd6ec12009",
       "title": "Trump says oil price spike on Iran war a 'small price to pay'",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-oil-price-spike-iran-war-small-price-pay",
@@ -66,6 +78,18 @@
       "fetched": "2026-03-09T00:12:10.832649+00:00",
       "relevant": true,
       "iran_specific": true
+    },
+    {
+      "id": "3efb4e58d7580ef7",
+      "title": "Kiev troops bombard Donetsk People’s Republic six times over past day",
+      "link": "https://tass.com/politics/2098647",
+      "summary": "Four civilians died, 10 were injured over the period, according to reports received by local authorities",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-08T23:23:09+00:00",
+      "fetched": "2026-03-09T00:15:05.168812+00:00",
+      "relevant": false,
+      "iran_specific": false
     },
     {
       "id": "c37fe50a45e0d8bf",
@@ -5982,30 +6006,6 @@
       "fetched": "2026-03-08T01:11:07.909647+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "672b1d49bc3fafaa",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQX3l2WmdHcGFVbXZBUHNxT0Q2emk1VTlnTjJoQ3BpVllBbGFlY0NqQjRFRkRuaXpFekFFOEQ4VGI4Vml0elFCV09hVjlHdlltMXVDNmxwN0pEUGRqN0F3SmNkckoyckN0R3F0T0o5MFV3OXFsdzRsTnJja2xKdUI3WXEwVEwtODh1cWtYbVhvM2FZRFFvYU1YX2lsWmdBYTBTT3pPSlNsdVdqNlNtYjhLZmFKTW9fY1JlZVFEWFVOanBEdEJraTBKTEJiaThIM2VHcmgzZy1jZlBLU2pQeThXd1o1R2hsX0xueHRpNVRFVTI4NURaemxQb05KSnR0ZUw1SzVFbkdnTzJHRURaRXRRdFJMMmJBUGZwV3h2bXRndnprNDVUbFBZMTZqbjhTdmJQM1NLRGpRbEt6ZExqY3N1RnA3YnpmaXRueVVoLWFrYkEwdERHOVIzRXZnOTl2OVF0OTRkQW40OUs3bFhqYnZSVHZPd0pvMVJ4XzJ3aGNRVjFLVGdlVG5WSmxVY1RHRDNlai1SdG85M3JSYnQ3MEZDbGkzYm1ncW54cDRjV2lEUnNLV0xEOWNB?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T02:15:06.134686+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b594e2bcddee0bbf",
-      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQQmVya2NGR1RDUDMtcEpBZnZNM2hHWHNiRkxDOW9YR2wwNjUyOVQyLXA4WWt5dVNHcUN5Vl9ueUlHaWNRdDM5Y2lESlczRmZRRHBhUlJpX1RFX1Q5T1JLRHZ5WGxwbFR1bDFiMk5YT3RHU0ZhQzEyNl9mMW1rbW1Ucm52b3dqSkg4c0UtTW9iVDJYWW1GT3JLMUFnM1BwcHJxZEhVcE9oRHd1QU5KQWotWEItakI4WEJmODlvNUVIQ1h2N0I3LWZFSGE3MnR1bktzOXNXbkhxSlNCVWpiQ1Ftdmd3NXFOYXdVWFR3Wnp0TFNlX1N0Z2g2aW1FSFpOLWZGSC1pbE1fVWd2bElWRnJ0WjdNRXNmRkdmQmVBdm02TnNFMDJYMEkyMmpPYm5mdXExVXpvb3pCWEdzclliYktzVnlCdE45bkV3NGU5VzZZVGxicjJlb1BaM1F5QXhoU2ZtSmt0ZlNPaWkzcGFWc1k5QTRkYUVrLVQ1U2c5ek5Id282SDJ2ZDZKVldSVXVORmdlSVRsOV80RVVIYlhmTUdULWZVOXBnMjJHM2pOUzF6V2RvQUsyOGYw?oc=5",
-      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:00:00+00:00",
-      "fetched": "2026-03-08T02:30:06.276112+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
