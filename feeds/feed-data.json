@@ -1,12 +1,84 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T01:15:07.364599+00:00",
+    "last_updated": "2026-03-09T01:30:06.201402+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "dcc83c9b775c4f6a",
+      "title": "Resistance groups congratulate Iran on Ayatollah Mojtaba Khamenei’s election as new Leader",
+      "link": "https://presstv.ir/Detail/2026/03/09/765142/resistance-groups-congratulate-iran-ayatollah-mojtaba-khamenei-election-new-leader",
+      "summary": "Regional resistance movements have congratulated the Islamic Republic of Iran on the election of Ayatollah Seyyed Mojtaba Khamenei as the new Leader of the Islamic Revolution.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-09T01:30:04.227162+00:00",
+      "fetched": "2026-03-09T01:30:04.227187+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d061c38222a273c5",
+      "title": "Video: Eastern Lebanon village mourns 41 killed in Israeli commando raid",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-eastern-lebanon-village-mourns-41-killed-israeli-commando-raid",
+      "summary": "\n\n  \n      \n      \nVideo: Eastern Lebanon village mourns 41 killed in Israeli commando raid\n\n    \n    \n\n        \n    \n                Mourners in eastern Lebanon’s Nabi Sheet held funerals for victims of a failed Israeli commando raid that authorities say killed 41 people and wounded 40 during an op",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T01:28:31+00:00",
+      "fetched": "2026-03-09T01:30:06.075703+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
+    {
+      "id": "ccb55bbfebab4c4d",
+      "title": "New video suggests US strike near Iran girls' school, report says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bellingcat-footage-shows-us-tomahawk-hitting-iran-girls-school-site",
+      "summary": "\n\n  \n      \n      \nNew video suggests US strike near Iran girls' school, report says\n\n    \n    \n\n        \n    \n                New video footage appears to show a US Tomahawk missile striking a facility in Minab, Iran, on 28 February, according to the open-source investigative group Bellingcat.\n\nThe",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T01:21:20+00:00",
+      "fetched": "2026-03-09T01:30:06.075768+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "2ee5ccd7257d7619",
+      "title": "Russia calls for ceasefire in Middle East in UN Security Council draft resolution — source",
+      "link": "https://tass.com/politics/2098661",
+      "summary": "The document expresses deep concern \"over the current military escalation in the Middle East and beyond\"",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-09T01:20:26+00:00",
+      "fetched": "2026-03-09T01:30:04.923056+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
+    {
+      "id": "b00782a1a6a2db4b",
+      "title": "CNBC Daily Open: Oil surges past $100 per barrel as Iran war rages - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVXVQOUNVbllMQVR1dnZhTk8yeng5ZjF5Zy1qRWM3UHBMd3ZKTThEY2NHN2RER0Y4ajZKNUYzX1diYjk0OW1SX1d1dEY1LWF3VVRlTTBsSExfMzVmYlgzVmc4VV9LazBwRDJib0thRUhVc0I1emthaExjTUFDS3JzcmhmVk93WldWRm9jclRDRjBMREx1SmJTSXRoZGZiVVptR0Nv0gGoAUFVX3lxTE9wU3dNZUxLSzdYSkc0bU9HS3VyWFZ4YmJSdlhuRFZEUms0TWJQZzN6bEliNmhJeGpYM2Zqc0VxcUExd3dwclJjWG9TeUo0amRkVjFPbUZGcXpvV3doenZVS3U0RGVhVWIySHpaTENSSXJZYmF4aVdYaFVVR1d1VFFraFcyaHZfT3hWYVZkVWl5ZzZRZlpQWGc3b2ZzeHNoT1h4QkFhdnR3bQ?oc=5",
+      "summary": "CNBC Daily Open: Oil surges past $100 per barrel as Iran war rages&nbsp;&nbsp;CNBC",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T01:17:00+00:00",
+      "fetched": "2026-03-09T01:30:05.946337+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "a51bbefbb4049794",
+      "title": "Seventh American dies from war with Iran - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ19DZ3g1djFUN2pIcktiU0k2RUdRazZYY1hXQ18tTmE2WDM2ZEpCbmR1OGdRdnlGc2VqdmpOUWZKclhCRXZTelVSM3A5Zk12ODMydlA1blVsazFuLU1YMkN4d19GNGlQN2pnbU9Qa2pWZ21MM1oxNVBWY0ZaZzJSNDMtXzlBb0E3eHptdVlxaG80aTlN?oc=5",
+      "summary": "Seventh American dies from war with Iran&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T01:16:36+00:00",
+      "fetched": "2026-03-09T01:30:05.946313+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "47e88a0f35e75804",
       "title": "Triumphant unity: Top Iranian officials rally behind new Supreme Leader",
@@ -40,6 +112,18 @@
       "category": "regional",
       "published": "2026-03-09T01:09:39+00:00",
       "fetched": "2026-03-09T01:15:06.508694+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "7624c8be4b143a38",
+      "title": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNWTRZVHZidXB3bEJkUjZZcy1DQl9rc21VbE4zcjlQRUNUeFRBM2poeXlpVUtTTmQyakItQnJZelF0b1hvM3BvWS1EblFIbnVuYkxpaWxLb3owSndUT094QjFKcTlLSVdXaWdlM3JWZUE2WXVkcUpMcWswcDNtNUtfNl9wQ0JzRGEzZTVqY05ob1EzUDFBWmVHMU9zRzBhcGt5REFzVmNIbkkzWVdyUkI0UjVTdm5pQ0NhT1VRX3k1bXhGWnNPQVhXZTB4cmtJdjY4RldjUklpX3RJVlNNUnNzd1Y4S0I4Y0dzMTRGdTh4bXBLY09WWERrYzNNX3NqWFEzTDdDR1BUaDUtSUVJemliTzZyVGRiNGR4UW1XR3NtQVF1bmxTTGlkM1U1NXp6SVNkVG1EdlRGNkNFMHZ6SlQ5V3dJZEFjY1F6TWhwd2dNTkdrOEV1WG5teHdFVE5VQThlQTg5alNKREFoOEVMTmViUGVjbW5BeHd1OGZiRUM0bnB0ak11R09ibFNFbmhneHd6eGRfUEhrcTdwT1ZlRzlVRGFoV2ZaaHAwVG0xZS1NUEd6ZnFpZGc?oc=5",
+      "summary": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T01:08:00+00:00",
+      "fetched": "2026-03-09T01:30:05.946600+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -90,6 +174,30 @@
       "fetched": "2026-03-09T01:00:04.998258+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "651ab52bafc5f22f",
+      "title": "Oil soars past $100 a barrel amid Iran war",
+      "link": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss",
+      "summary": "Crude oil prices rise by as much 20 percent as sprawling regional conflict threatens global energy supplies.",
+      "source": "Al Jazeera",
+      "category": "regional",
+      "published": "2026-03-09T00:52:24+00:00",
+      "fetched": "2026-03-09T01:30:03.622743+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6332f30cd04d715e",
+      "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckZLWHE4WEFvUlZKUlFCNmVvcW50dHlIU3NpZ1EzTUZQVjBtWGtGUmdydGJkQXRFMHhhS2hta1RnWElDcnlNMFZtNnR1bUI5YjJwbi1WcVVsM2E3LVR0Q2RzajdBMnNxSXZoMkNGYzFfTFJOclhZX1pHa1NmaHF2em5GOWZaVURtcjl6TXhlcXA3MGktVTItLTJ0RWFVQ3pzQkZlT25zV1c0NFBvbl8xb2ViNFBOdTV6V1JWb9IBwgFBVV95cUxPSGI4MzhaWFV3RVRUd3o0QnhRcmdMWUZ2eFg4cWFtSzlKVURLOWVZUE9jREdrN1d1aDN4dkJ1a0hXZEFHWmNMYWNJQjR5NjNPWDJUT01VNnJBdnh4WVFwVTV0QzRIb2xaeUFtOUpINng0T2VqOERSODU1ZTFhbVVia2F6TV92dVVnMnp6SU9BU3FVMkhuN0k2eUdpZF9JYjFneF9RbFRiaXRhWHZONXptUTN2dTFwNDdHRGxITGVzeW9QQQ?oc=5",
+      "summary": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:42:35+00:00",
+      "fetched": "2026-03-09T01:30:05.946286+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "05551bcbe2302df2",
@@ -5898,114 +6006,6 @@
       "fetched": "2026-03-08T05:30:08.112542+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "6d3a7d586ca9c90a",
-      "title": "China Eyes ‘Landmark’ Year for US Ties, Urges End to Iran War - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmdQNFlNdEY4QXRCVjZfd0VMcFBscFlMdVg0d0c5V0tkX2JTbVk1R3dLZWpTTC1FVEN5QnVCdVlDM1p0ODRkY2JTRWtfQkQ3OUN0ZWhiTk03SVVnbFd2bnZDZnNkdHlzSXpYRlg2QXFkT2laSy1yczZMT2hsVWFmc3JfZE1TSkNjVXFsRy1aakxDVGEteVF3QWJFTS1GQzctbjhSS3pJLWxlSHVmT0JJMlBhWVJlVmdNMmpuQ0xEeUZ1cldxeF9GbmV3?oc=5",
-      "summary": "China Eyes ‘Landmark’ Year for US Ties, Urges End to Iran War&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T03:07:00+00:00",
-      "fetched": "2026-03-08T03:45:06.493549+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "684ccd73e35c4f3d",
-      "title": "China Eyes ‘Landmark’ Year for US Ties, Urges End to Iran War - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG5pTnktWDI1QzRMVnBWaElOZnNFVGt6RVNCR05IdzRPdUk5Uno4S3NLdlNhMmI1cFczTWpEOC00SkNCc0xyQko3VXQ3akNVSjV2Z2o1Vm5ZSE0yRTBkYXltXzVVal93T1NBYk9nNDF6UUZuSkMxcWVJbGt6elR0RlVxTktKU0pteGRDN0NMVU40Y21hcDN0eS02eFczZk4xS2ZWb1J5a1JqclFuSGc?oc=5",
-      "summary": "China Eyes ‘Landmark’ Year for US Ties, Urges End to Iran War&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T03:07:00+00:00",
-      "fetched": "2026-03-08T04:00:05.766049+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "75971a754f432870",
-      "title": "US-Israel-Iran War Live Updates: Israel strikes Beirut targeting Iran Guards commanders; drones, missiles hit Kuwait airport, Saudi Arabia - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNczVadDRTdVRHczBYS1FCaFNpWG9ickVJMmg3UFlBT2ZLWVZYLV9obXJnQjV0aV9fYnFyQk9YYXJjUjVNYkZ6X3VIZTZoWWdNSVlnYU5Vb2gwRTJOUEdZWV9KaTJYenBRQktWMmFfY3RZUnp2T1NTSVFNcmlNSFJucFUwak9CX1JiT2FwNmV6Ty1IQW5zU0IwRGFxRmNfVzhNZVZrOFNpZUFLQVBIR2dYSGM1amY1WUFBdVRRQlZSRC1DWVpJTVFWZG9NUGFJem9sdjFITHRleWdleXFLZkRaaDVYOFpiSlBkNE5Sd1hVMmFIZldyczRWV3VNMXlCd2pYSTdZUXFZOW9XdG9xN0J0X3FZZmYxY0VEb21td2g0M2FUV3hNaGdaME84eXpqRHhfclMxX0R1Z05jWEVVZ1JLSXlMamtRVlA1T0pHeU51MGNvOE8ydlMzODczYkhsdWRGUE5DWkdIaW5MamtxWld2X3pmUS3SAfoCQVVfeXFMUFpjNWRzWUMtZHhJSVJPN2RQT1VQaHlKckJybVpMRy1wTXMyUDM2dmJTN2N1dFdkUU5JVWlLY0l6V1lOY0dvM2xnUWFMY2FKNDlvYW14Z0NNRTJHalJUOEhubzAtdnZKM0Y4VHZvVExIRWFsRlB4NVpZbml5OXJ5d2JfaExZaXl1SUxyQ3hMYmUtdjJjSkM2Q3lUN0RvQ0ZLV0hZUWI3aHlWc0ZiS0d2a3lIXzJWWC1sQldwU1U0ZFFrVXpEa0ctcmJ2S1hWZVJmNkhWR0ZZZG51OEV4eFFFazJDTFNYZHVfOTUtbzJNMzY4S19WcXk1ZHZnZGFKTjhKZW5rY1YyMlNYUmxEUk9HdGdxNG1ucFg1aW5VcVh6aWp6ZVE0NlZDczFRY3oyQmM1VkxHNF9uUVVGVkNELUNrZTM4emZhN3V1ZXBRLW5hd3RkZ1pYMGx0N1hyckxaamVfSEpEbk0tMUxTbWx6Z0VMNE9Dczg0azlmVERR?oc=5",
-      "summary": "US-Israel-Iran War Live Updates: Israel strikes Beirut targeting Iran Guards commanders; drones, missiles hit Kuwait airport, Saudi Arabia&nbsp;&nbsp;The Times of India",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T02:57:23+00:00",
-      "fetched": "2026-03-08T03:15:05.469341+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "94df3388594753b0",
-      "title": "Ukraine war briefing: Zelenskyy offers help to Saudi Crown prince on combatting Iranian drones - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYVJfWmtHb3NnNjQ5eGFwT0tKMUhYRXRzQmdhN3I5Y3ZoNjVUdlZ4X1BTcHJQdW5IT3hrNUtFRWdFeDBDRTdTMTZXanBJdURxOXgwemFBeXIxQWtSXzJtd3lodnM1dTlVYkRlTlVZMWhYNk5WS2llRFVFY2NrZkxLUnJxYkRONG55bnRqbC1wV01wcUlLcjJWSmpTTlBSaXlOcGs3bl9DS2kxN0Jveld3TldXRnN1UXpYVW5HUVdIVUdhOEZIc3N0Vm4yamFuUW5zQUluYUxB?oc=5",
-      "summary": "Ukraine war briefing: Zelenskyy offers help to Saudi Crown prince on combatting Iranian drones&nbsp;&nbsp;The Guardian",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T02:57:00+00:00",
-      "fetched": "2026-03-08T04:15:07.157855+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "2a5ae4877e4e635f",
-      "title": "Iran war: Drone attacks hit Kuwait, Saudi Arabia - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQm93WXdLQ0lHTzlpWmR5YXFEQnN4Q29GbEM0VW5wYk9Sb0JRdkdvZ24zRzJzZUhHS1ladXRSUW9zNmRJS1dvSXI2a0p0RnY5TzhYNXlXSlpUXzV0dzdHT1VYQnpJOThteUVQR2c3VUZsNWFWWDRHMy1xYXFXOWNBN09LNm15UXN1VGc?oc=5",
-      "summary": "Iran war: Drone attacks hit Kuwait, Saudi Arabia&nbsp;&nbsp;dw.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T02:55:18+00:00",
-      "fetched": "2026-03-08T03:15:05.469600+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d9e65c760fa7142e",
-      "title": "‘Make Iran Great Again’: The SF counter-protest you didn’t expect - The San Francisco Standard",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmZPTmRNNW1UamZ4OVNGUGw1d1haaGRBRi1aOEJjc1I3SWtyblAtb1FXdjNJYWFDZDJ2QlVJZk80bjhmT0ZyVlJIdXNFVkhtSUMxeDl2X29qU29CaWtjdnFEUjNaWE1uMlBiZWJwNVZFcDF6WmdpNUVQbWhSUkg5U1htd05HMDhvTW9KVjM4VXY5dmpYTTY1N1EyN2hFQ3R2VzhSWQ?oc=5",
-      "summary": "‘Make Iran Great Again’: The SF counter-protest you didn’t expect&nbsp;&nbsp;The San Francisco Standard",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T02:52:44+00:00",
-      "fetched": "2026-03-08T06:30:06.268634+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "66efdee17dc8d675",
-      "title": "Blast at US Embassy damages entrance, local media says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blast-us-embassy-damages-entrance-local-media-says",
-      "summary": "\n\n  \n      \n      \nBlast at US Embassy damages entrance, local media says\n\n    \n    \n\n        \n    \n                Norwegian police said an explosion occurred early Sunday at the consular entrance of the United States Embassy in Oslo, causing damage but no injuries,&nbsp;Verdens Gang reported.&nbsp",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T02:48:17+00:00",
-      "fetched": "2026-03-08T03:00:06.428964+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "ab232812a2ad4ae4",
-      "title": "Report: Trump considering special forces option in Iran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-considering-special-forces-option-iran",
-      "summary": "\n\n  \n      \n      \nReport: Trump considering special forces option in Iran\n\n    \n    \n\n        \n    \n                US President Donald Trump is considering options that could include deploying special forces to Iran to target key nuclear facilities, according to a report by the American news websi",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T02:42:41+00:00",
-      "fetched": "2026-03-08T02:45:06.134325+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "dc689023b2f22d8c",
-      "title": "Trump rejects settling Iran war, raises prospect of killing all its potential leaders - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFh3VW9kcGVhakNiREpuNVJiM1hCRFdkQ3dmQU43QWtMM3dDdmJEWW8zcTdrRDc5MDZDbkwzUDJQVU41N1N5OTNXWjFMaTlzdFpfakZhSTgxbFc2UFZjNXZBTm1uUjh4aF9oRS02c0o3TDBHY1JaVXZ6Nno4ZmtOZGU1Rm1uUF9QRFl6TjNXR0Z2cUx0YVJrVlBOeDJ5Sm1RLXJNWDRFQlAzR1FvQjRaV2RIdjUzQi1fbXpib0xObw?oc=5",
-      "summary": "Trump rejects settling Iran war, raises prospect of killing all its potential leaders&nbsp;&nbsp;Reuters",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T02:39:00+00:00",
-      "fetched": "2026-03-08T03:15:05.469420+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
