@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T00:30:08.262050+00:00",
+    "last_updated": "2026-03-09T00:45:06.433429+00:00",
     "total_items": 500,
-    "new_this_run": 7,
+    "new_this_run": 4,
     "feeds_configured": 9,
     "errors": {}
   },
@@ -68,6 +68,18 @@
       "iran_specific": true
     },
     {
+      "id": "e9068d20bbb56c6c",
+      "title": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNWmNLMUFWQzBMSy1HMlZpS1Jxd0VLcFdqM0pib2xUZkxwVEFudnd6RzlscGRmMFc1bkt6ekdlbmd6b0d2U2ZmUERXLUlsTWFCSUYwRV9BOFU1Zm5JZlNGTmhvQ0EteWpQd3A1Zy1sR01PN0RqeHAxMEZNcm9PTlBPSHhFaF9JcTNqRVBzRzJGRmVKQm9WeFVlWUVNbjd1aHhnVFU3NzA3cjlFMG9yZEVLODJiVGJjM2NEMno2clhnRlJjR192c0wxbFI3cXY0N0Q0UkFqNjNRWVM3RFlMOWl4dUxVMHBYRURLRWZXbG1sbFMtT3VhNi1PeFBSMWdnVVBOQU1RR182OGZ5MC11YXJOQ1hxWVpiemd4RGNhOW9PUFo2QnhsaXBUR1BxbmZ4QU5tVlJXMktMeTd3aHdVaXhhSGtjaXFicm9LMmNoZkl5Q1dRTHQxSmFpcGNaVGZjNEpCZlY2QlBoTlBkMzBJNTlTOG8tMzU2endKS1I3dng3TEVLRWtYN2xUTXZhSmVJLXoyTFB2Unp1d1JFZEY0MWJMRjdsMEF3SWV1UFJhbmw2VDFjWFo5RVE?oc=5",
+      "summary": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:10:00+00:00",
+      "fetched": "2026-03-09T00:45:06.277523+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "b1e4346ea57f5934",
       "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss",
@@ -116,6 +128,18 @@
       "iran_specific": false
     },
     {
+      "id": "98da52e494c12f3c",
+      "title": "March 8: Iranian state media say new supreme leader has been selected, Iran war disrupts gas prices - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkRPVUNWRVlRZ0tUNnVYeEVYaVQ5OXpKeXRQMjR0WWt3My12N0pIWldTeXpIbjVIaTN1SjV1Q3h6UEVlbi1oX2lWQmZyVW1HVWZybF9IQ2NLVzNrM25uWFE4X2ZfTC1wbmp1TVRKaUUzUU96YXI2ZTN4Z2I0RXBkNXRVT0YyeWF1amlZT0dPVUt6VGw0anVEVTd3d2xiZW9kWmZR?oc=5",
+      "summary": "March 8: Iranian state media say new supreme leader has been selected, Iran war disrupts gas prices&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T23:41:15+00:00",
+      "fetched": "2026-03-09T00:45:06.277311+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "0f9a64fd6ec12009",
       "title": "Trump says oil price spike on Iran war a 'small price to pay'",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-oil-price-spike-iran-war-small-price-pay",
@@ -160,6 +184,18 @@
       "category": "aggregator",
       "published": "2026-03-08T23:08:13+00:00",
       "fetched": "2026-03-08T23:15:06.320048+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "e5624f1d00143f89",
+      "title": "On U.S. strikes against Iran, Pete Hegseth says, \"this is only just the beginning\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0RmUTRaQktNamdYd3NIZWYxamZvLUxlV3pCaWZfNFhWYWdRQ0lrdEdIQXNpajNIaDY5eEQ3MVF1ckw1bFFiSVFTV3l1LUdoYjdRLVh6Q1BIT09BS2RmX3Y1b2pIYzhBRUNWY1k4VHRjZDJXb3duWnRXbnVIVV9NMUUxUkJWVUhpOHhQS1hhaS3SAZYBQVVfeXFMUGt1c3VMMXR2NUptT25lcm9IZ2c1dUJOdVpkLVFVbDdiZTI4SVYwelhscks2YlhXREEwa0lXV1FFZVdLX05JRDgzRDRDaFVJN09GVUFfbF92dnN3SVRSanBycVlrdFRRMzdoRjlzaW5KS2stMnFRcW95THpPNkhTWmNrcnppSGI3Zi0yVXRhaE9DYUNwUFNB?oc=5",
+      "summary": "On U.S. strikes against Iran, Pete Hegseth says, \"this is only just the beginning\"&nbsp;&nbsp;CBS News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T23:02:00+00:00",
+      "fetched": "2026-03-09T00:45:06.277500+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5970,42 +6006,6 @@
       "fetched": "2026-03-08T01:45:07.219987+00:00",
       "relevant": false,
       "iran_specific": false
-    },
-    {
-      "id": "e3a1036b43b9e938",
-      "title": "Trump confronts ‘bad part of war’ as troops killed in Iran conflict return home - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3FROThZVUlNRjRERDVqenNFVTVWM2gzMmFCckYtYWZKX2k5RTVMM2I1aGRlaHZvcjdoNk5GNGFCTEZUckRkaUc4ZW9SYWlRTi1VcmZzZEtZTVdzRlg4RXYxbnQ0MmJsRzJHZVJUVzZZRlc2VW0wV1hzend4QmFCOGJWYU1TTmJGQXVyTjlLN1ZJdzBtV3FqNEJkVWo?oc=5",
-      "summary": "Trump confronts ‘bad part of war’ as troops killed in Iran conflict return home&nbsp;&nbsp;The Washington Post",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:34:04+00:00",
-      "fetched": "2026-03-08T03:00:06.302896+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "aa37c3eb2118ed3c",
-      "title": "Laden Iranian ships depart Chinese port tied to key military chemicals - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVVWOFdsLWlQbHBqQzgwMXJaX0xFZHFXRDVjZWtCRmhNX040ZWdMeDBQa3F1Z2VWYk5nWm5jcFZLdlNNbERyUUpHV3JiYWdWdzBQVXpTd0pxalVLUG9NTzlKcHlVYXVYWFhReEs2cC04SXV2VWZsckNSUzRzUGZQdFBKa3UwUHd3NTMxUnBwSGFIWlhDNDQ4bDB1RTZHbjBFNlRjU0ZDMzlMdXNUdzFoajM3R21LUHBaNFhNdUIxeDItN00?oc=5",
-      "summary": "Laden Iranian ships depart Chinese port tied to key military chemicals&nbsp;&nbsp;The Washington Post",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T01:33:20+00:00",
-      "fetched": "2026-03-08T02:30:06.276849+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "05ae5bd4c6beb04a",
-      "title": "IRGC claims kamikaze drone strike on US-operated oil tanker",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-kamikaze-drone-strike-us-operated-oil-tanker",
-      "summary": "\n\n  \n      \n      \nIRGC claims kamikaze drone strike on US-operated oil tanker\n\n    \n    \n\n        \n    \n                Iran’s Islamic Revolutionary Guard Corps (IRGC) on Sunday said it targeted a US-operated oil tanker in the Persian Gulf with a kamikaze drone, Press TV reported.&nbsp;\n\nIn a state",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T01:33:14+00:00",
-      "fetched": "2026-03-08T01:45:07.220051+00:00",
-      "relevant": true,
-      "iran_specific": true
     }
   ]
 }
