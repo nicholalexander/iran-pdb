@@ -1,12 +1,24 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T01:30:06.201402+00:00",
+    "last_updated": "2026-03-09T01:45:06.471935+00:00",
     "total_items": 500,
-    "new_this_run": 10,
+    "new_this_run": 6,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "7b1a19cd5eeffa31",
+      "title": "Oil surges above $100 as Middle East conflict rattles markets",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-surges-above-100-middle-east-conflict-rattles-markets",
+      "summary": "\n\n  \n      \n      \nOil surges above $100 as Middle East conflict rattles markets\n\n    \n    \n\n        \n    \n                Oil prices surged above $100 a barrel Monday at the start of Asian trading, reaching their highest level since July 2022 as markets reacted to the escalating conflict in the Mid",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T01:32:18+00:00",
+      "fetched": "2026-03-09T01:45:06.383695+00:00",
+      "relevant": true,
+      "iran_specific": false
+    },
     {
       "id": "dcc83c9b775c4f6a",
       "title": "Resistance groups congratulate Iran on Ayatollah Mojtaba Khamenei’s election as new Leader",
@@ -16,6 +28,18 @@
       "category": "iranian",
       "published": "2026-03-09T01:30:04.227162+00:00",
       "fetched": "2026-03-09T01:30:04.227187+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "c55faf0502fbddf5",
+      "title": "Trump calls rising oil prices small price to pay for national and global security",
+      "link": "https://tass.com/world/2098663",
+      "summary": "The US president says the prices will fall soon \"when the destruction of the Iran nuclear threat is over\"",
+      "source": "TASS",
+      "category": "russian",
+      "published": "2026-03-09T01:29:42+00:00",
+      "fetched": "2026-03-09T01:45:05.198686+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -30,6 +54,18 @@
       "fetched": "2026-03-09T01:30:06.075703+00:00",
       "relevant": false,
       "iran_specific": false
+    },
+    {
+      "id": "b1f77e172c6b348b",
+      "title": "Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran",
+      "link": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
+      "summary": "Brent crude reached its highest price since Russia invaded Ukraine in 2022. Gasoline prices in the U.S. are expected to continue to rise.",
+      "source": "NPR World",
+      "category": "western",
+      "published": "2026-03-09T01:24:34+00:00",
+      "fetched": "2026-03-09T01:45:06.471724+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "ccb55bbfebab4c4d",
@@ -124,6 +160,18 @@
       "category": "aggregator",
       "published": "2026-03-09T01:08:00+00:00",
       "fetched": "2026-03-09T01:30:05.946600+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "d2625990fa6bd4e8",
+      "title": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNV1hBUmh4YklyMlo1WnNLWGRob29CdGtYeWl3M19YSzEtVDdIMVV4TVFBYUVuT2RUOWthUVZ2THpkUkNmV2pHUEJJRS1FeFhSckxaZVk5RzRSV2pqV0ZMcDRVS3RTQ1lQRHVKdEJNVXVlNHRxX012Mi1tMFZiQTJBTDdOMGFmTEdSSkdxOUdoV08zUDlYV2VNVVd2bjN1MjkzTWdJc0V2bEJ3akc1Mks5eWhfbDBJV0NnX1FlX0Noc0JlbC1ZdkpBSmR3Sm55S2JvalRLeWd4anJOclRnTDU4dDlMZUdCTG1JSGxRdEZZLW1PaUowUy1pRVlFZE0tM1Zlb3pBMzJJQ0tNYTh1VXZXWUZTZm5rZkJDNXgxV3hRSzd0LW9obk80Q210RE9vSHpxdFo3X2R5V1F2QVFyNkotbFhCY2tjWUdEMVdXdE80WkluT1laZkFyZ1VBcWQ3ZV8xRk84cmxsTVBwTDVOUEtYOGI4aWRRUVhhZWJMN1RDcnNCVnZTbkxuMlNHVEpvLXoxRUktcU9fV2lyZWhicm9ZV1pteGlOckZIeEd5QmpodVZvcnowOEE?oc=5",
+      "summary": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T01:08:00+00:00",
+      "fetched": "2026-03-09T01:45:06.268034+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5956,54 +6004,6 @@
       "category": "russian",
       "published": "2026-03-08T03:19:06+00:00",
       "fetched": "2026-03-08T03:30:04.418139+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "2ff8cac079fff301",
-      "title": "Iran Guards say can fight ‘intense war’ for six months - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTl0bWhIUFg3LTFwUGhlNWFXTzVKcjg1RGktNzRxR29BaVEtQ3hCd2k5QkE1bTRJLUJ4R01BRGw0dFlkdTNpVlc0Z1EtMHB0YUh2NVJ0Vy1BUnY3VmFUd0xsTDZxVmYxRTJTT3cxdTZBVERfQ21XVGRzQWNsSUJwVG5fTkItSE1CWnRjVGhJazRtblU1Y2NLREhNVlRRZDg?oc=5",
-      "summary": "Iran Guards say can fight ‘intense war’ for six months&nbsp;&nbsp;The Times of Israel",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T03:16:35+00:00",
-      "fetched": "2026-03-08T04:00:05.766093+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7acc78c8d226be48",
-      "title": "China urges to immediately stop hostilities in Middle East — Wang Yi",
-      "link": "https://tass.com/world/2098329",
-      "summary": "The foreign minister called for preventing further escalation, spread of the conflict outside the region",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-08T03:14:05+00:00",
-      "fetched": "2026-03-08T03:30:04.418219+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "77d329450034927e",
-      "title": "Trump's shifting Iran goals highlight war's weak legal basis - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzdydk5WeHFWVUdoNWRCUklRejJ1d2k1TWZ3S2tJa2lTeGF0alBfVTg0eW16ZUtLUjdyZlNqNG9UM1ZaMWtPcm42VzhMdXBVQ08yenJtZlVySzVIQTQwZWhLT1IzRXRIVHJCZmhzTzJuZnVJcVhHZm5YSmEtSnhxaFdpdUpHTEtyelZKWWxGSEpWdnZBT05rVkVRVQ?oc=5",
-      "summary": "Trump's shifting Iran goals highlight war's weak legal basis&nbsp;&nbsp;dw.com",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T03:09:19+00:00",
-      "fetched": "2026-03-08T09:00:08.071482+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8e96534cab53fa8b",
-      "title": "China warns ‘flames of war’ spreading and calls on US to help manage differences ahead of Xi-Trump meeting - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rVjltb3lUcC1oQUtZaVlHYVg2U1M3WXJ1MkhjNkJiR0NwTHFxNWZMU0pNVWF5d3dDOFZVR1ZIZHZyTkw2ZXhSOHBZelpLZ0Y4R09SUmZKNlZKNmdvcEJUR0pMOHVTZ1lEMVZvYU5EMnBkYmJ2M0E?oc=5",
-      "summary": "China warns ‘flames of war’ spreading and calls on US to help manage differences ahead of Xi-Trump meeting&nbsp;&nbsp;CNN",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T03:09:00+00:00",
-      "fetched": "2026-03-08T05:30:08.112542+00:00",
       "relevant": false,
       "iran_specific": false
     }
