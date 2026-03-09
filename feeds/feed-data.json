@@ -1,12 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T08:00:06.545033+00:00",
+    "last_updated": "2026-03-09T08:15:07.020245+00:00",
     "total_items": 500,
-    "new_this_run": 104,
+    "new_this_run": 10,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "fe9569a806e058f2",
+      "title": "There was no nuclear threat. US-Israeli war on Iran is blind vengeance",
+      "link": "https://www.middleeasteye.net/opinion/there-was-no-nuclear-threat-us-israeli-war-iran-blind-vengeance",
+      "summary": "\n\n  \n      \n      \nThere was no nuclear threat. US-Israeli war on Iran is blind vengeance\n\n    \n    \n\n          \n      \n      \n        Submitted by \nAbdelkader Abderrahmane\n on \nSat, 03/07/2026 - 21:06\n\n        \n      \n    \n      \n    \n                This short-sighted strategy of miscalculation ca",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T08:07:58+00:00",
+      "fetched": "2026-03-09T08:15:06.930863+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "eae5ff06da1a5f0c",
+      "title": "AI-Ready Biodata Is America’s Next Strategic Infrastructure",
+      "link": "https://warontherocks.com/2026/03/ai-ready-biodata-is-americas-next-strategic-infrastructure/",
+      "summary": "There is little doubt in Washington that AI is a powerful technology that will help determine which country rules the 21st century. Policymakers from the Hill to the White House have made U.S. AI leadership a priority and invested significant resources towards staying ahead of competitors. Yet the U",
+      "source": "War on the Rocks",
+      "category": "defense",
+      "published": "2026-03-09T08:00:18+00:00",
+      "fetched": "2026-03-09T08:15:06.204033+00:00",
+      "relevant": false,
+      "iran_specific": false
+    },
     {
       "id": "cb5923c5e9105e74",
       "title": "Iran's defense and security institutions unite in steadfast allegiance to new Leader",
@@ -76,6 +100,18 @@
       "category": "iranian",
       "published": "2026-03-09T08:00:04.654870+00:00",
       "fetched": "2026-03-09T08:00:04.654895+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f36603df6fb6ab29",
+      "title": "Live updates: Oil prices soar; Iran names Khamenei's son supreme leader - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUtTV1I0UGpveTk1YWtLWkM1SGdhcE1CdzZ5UUhaYVEtVGpNdDc3Z1JHamFJZi1oYU13UFFXOHVIek5LakpDS29sZmxnSWQ1U205VGJwemItWC1MWmhvenN1dUpZX0M4QmRueWdRa2J4eThDdmNucU1vX1E0aGpGX2E5RWJVdGNPUXlCYUNDNUpXaEc3TTFZYjVNUGx5SFVoU2hGcHBmcTRaV0hSYnZncTViQXNYaEpCcWJJX01YZExObXM?oc=5",
+      "summary": "Live updates: Oil prices soar; Iran names Khamenei's son supreme leader&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T07:55:46+00:00",
+      "fetched": "2026-03-09T08:15:06.798000+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -260,6 +296,18 @@
       "iran_specific": false
     },
     {
+      "id": "07a083a5b9cac356",
+      "title": "What asymmetric warfare may tell us about Iran’s fighting chances - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2RCZVJHU3NGU0QzUkVUY3FJdGh6M1NwR05BZVBSU2ZCWlRGT0hxb3BhQ0g1SFVMR1JmTDJxYlFrblJrSGdrNWRZVHRYOVZ4NWdXWWZqbTRkUXhWemI0aTBSWXhVQ010N3dFVWoxV0V2V18yWnZYOEZWZVFFQ0k3TnRBYjh1Xy1wcUJVUkxsdXQ5Q1RCWV9WeG04eTE0VTJ4MFlZT0lyZ09OMTjSAbABQVVfeXFMTnNKa1BGNzBCSjBKdlpHYjRPcmlOLWF4MHpwUHBEQVREcTdaa25BaUltSUY5TlF1TDZQc0xRTXhyMGxKSmhETGhOQmk5WG02OWNvOUg0Q0N4YVNNSGJrUjdmeFFmSFRpTlJSc0tFY2QzbGtVb1NQemVCbzBIWEhtQmFWQzYyVzFkYmpnTTBCejUxVW1uTjNvNEY1UGpxQ0JLclF0aEVsb2pMajZIUThWbnE?oc=5",
+      "summary": "What asymmetric warfare may tell us about Iran’s fighting chances&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T07:38:39+00:00",
+      "fetched": "2026-03-09T08:15:06.798152+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "dadebcd56b6bba3d",
       "title": "Iran says it will confiscate assets of diaspora who 'cooperate with Zionists'",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-confiscate-assets-diaspora-who-cooperate-zionists",
@@ -416,6 +464,18 @@
       "iran_specific": true
     },
     {
+      "id": "5ff68dc71ab60389",
+      "title": "White House Sent 'WTF' Message To Israel After Iran Oil Field Strike: US Report - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY3VudFhQaDJwWndGc1BNT25pWVo2NG9NTmY3bUYzYlFjdzJqM2ZpMkpfR2ZYajVha01rMlBfZXhveC00UDVRSEJYUmlPZFlnZVlfYm9lR3Z4ejJSdFF5ZGZPbmEyYkdfTlZHT0QxalpIM2VSYWhSemttRnhRbnRpMkFsc3puc3dMRG5Zd3RvY2JaSDkyeDVsXzVad2tzdXdRQzVab3lKNWJ3SlI3blBCb3g5ajU1cWQtQmhTZG1HeTNsNG9IdXJRUFhDQWNleXdfRVpaSy1pazgxd9IB4gFBVV95cUxQSW15MlZ4dmNfaXFDVmprYXBPZTI5OWhKbzlQNW0zQjdzRURGd1lEcjZKdWRkbF9VNkw5QjlDem5heUN5MUJYdWoyVDEyWk5tVy1PWkhTYjlDQlhSZVA1WEdlSTAteVRXWnVkSHNtOE9Eak9BeXVWS3lURktqT1RLckcxTEZQdEQ3d0RTdk5ocHVwYTcySTl3eG5RZmxXdDB5c0VJT0dLbGtNU2FuTWNNOGZoSjFQTXRyVGhVTlU1cnVLZ002QXRDUmU2T0ZfWV9TaFdzYTR4RkNhMTlWQ09PV2tR?oc=5",
+      "summary": "White House Sent 'WTF' Message To Israel After Iran Oil Field Strike: US Report&nbsp;&nbsp;NDTV",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T07:07:48+00:00",
+      "fetched": "2026-03-09T08:15:06.797951+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "e9b960412d2d8415",
       "title": "Israel unlawfully used white phosphorus in Lebanon: HRW",
       "link": "https://www.aljazeera.com/news/2026/3/9/israel-unlawfully-used-white-phosphorus-in-lebanon-hrw?traffic_source=rss",
@@ -436,6 +496,18 @@
       "category": "regional",
       "published": "2026-03-09T06:53:11+00:00",
       "fetched": "2026-03-09T08:00:06.432738+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "f9b12919fa7c1dc2",
+      "title": "Live. Europe Today: European leaders set for emergency talks as Iran war enters day 10 - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM05MTWk4LXk5R0xBR1lyWDVtTTZsQkVLMUpCRUY5ZnlXcnBZc3BHMzFybFlIdk90VllvWV9UUy1JeUlrZUcyZjdkUm54OXQwS1YtV3NuM0oyRFpsNzFZV2MyUjlUQkdGNnhzdC1La00zVlBKZnVHcmJoTWhRcUthei1YYV9vbkZVVURSdlJBS0VnbTFBVVI5TlloanhBSXNCTHdnSzRxOUJzZXJJNGloWmxjNENxS0JyMkZPeWEzTlY0VGc?oc=5",
+      "summary": "Live. Europe Today: European leaders set for emergency talks as Iran war enters day 10&nbsp;&nbsp;Euronews.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T06:49:28+00:00",
+      "fetched": "2026-03-09T08:15:06.798311+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -772,6 +844,18 @@
       "category": "aggregator",
       "published": "2026-03-09T04:24:00+00:00",
       "fetched": "2026-03-09T08:00:06.321954+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "1deaa6f50a1c9d05",
+      "title": "Iran Update Evening Special Report, March 8, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDBGa3NwcHZvRFlYZnRYWEpkdnpvUm9BUWN5elpEcXdLLVE5LTlFdW1heEVvYzluSm1hR0x2Ymk2RnhWSHNLeUtjS01ZdUZBVTZwLTAwQVhWejBPYll4TzRUNXE1ZXJVWnZRWmxVVlRSRnNnN3kzdmU3dWlVR1dPZUltNW1YMWo1RlY5MDRlWGFEczFueHcwQmc4Zk9RUGs?oc=5",
+      "summary": "Iran Update Evening Special Report, March 8, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T04:21:49+00:00",
+      "fetched": "2026-03-09T08:15:06.798680+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1782,6 +1866,18 @@
       "fetched": "2026-03-09T08:00:06.321714+00:00",
       "relevant": true,
       "iran_specific": false
+    },
+    {
+      "id": "95300fe6ae96a5a9",
+      "title": "Iran Sustains Strikes on Arab States, Oil Supply Shock Deepens - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTW9OTW53cjZ4M2FBb2RISmp5MXNwMFhUeDhTVnhpTXlGUThONWZRY1RSVzhLeUZWaXZhNWg3ZHE5SDVTc1h0M3V5UjE5VGY4V3JNcjBGWWRidk13TktzZ3l4YU45NUdNRjVVT1NCeWtzRURqaGl3VTk4ZVVNZVVyVjV4YTVMOW9HVXNiTjVNR2trcFhrMUlnSlFGNDVHbTl3OU1QbzZaYzNwOXdKZWV6MWFR?oc=5",
+      "summary": "Iran Sustains Strikes on Arab States, Oil Supply Shock Deepens&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T23:02:45+00:00",
+      "fetched": "2026-03-09T08:15:06.798201+00:00",
+      "relevant": true,
+      "iran_specific": true
     },
     {
       "id": "e5624f1d00143f89",
@@ -2968,6 +3064,18 @@
       "category": "aggregator",
       "published": "2026-03-08T18:30:55+00:00",
       "fetched": "2026-03-09T08:00:06.322499+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "3584de0508551778",
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNamdDR0c1OGxVSUpjZVkzdXlxTVluYWxaY3BLT2VQdlI1b1FKVWd5ZmlOZkVFOFV4d2NDVjIyX0JISHRVdHdtbDNQX0h5ZWhZQWR2SVQzekJBNE5raDNGSERRU25BbVZnS2FfM3VyNTdxMllRc0p1aURHMldCLTM1b3l2a19zUDhfSzVPOXljM3NZMG5oa0N3ZFE5X0tNYS1GYklwWFYyYk1zZ0hZQUIyXzhZYjl2Y2QzOGdHQ2pzVlNPQTBCQ01NN1JiYnVoRlQwLTZDVnN0N2Z3ZXJhUThCN201LVVHMXA3S0M3YmxBVkhZMGhSVFVhQTdJbEdfeThlZGpMSDdaTVFNVUlMaEZfNmVDR1ljTVZMTEJySG1JdE9aWDVMX0piUGNuV3Y4dGJtdkV6S3lSY2IzX2o4Y0l3R3R5RXl1cTZGZmFlRHllS0Z0dTdsbnNtOUpqNFNDZ2ctWXR2LUdzMGJ4MGtBN1YxVGJNRlJMSkdGOFN4MmZaLVNWX3FwTjkycm5uSnJqSFFpOUJYZ3dTRnpBMElXV2dpb2xDMUhnX3hnaVdNQmNkM1pDQ0JaVW40?oc=5",
+      "summary": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T18:30:55+00:00",
+      "fetched": "2026-03-09T08:15:06.798478+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5896,114 +6004,6 @@
       "category": "regional",
       "published": "2026-03-08T10:19:56+00:00",
       "fetched": "2026-03-08T10:30:06.210485+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "3f05895374730b6d",
-      "title": "Bahrain says water desalination plant damaged in Iranian drone attack - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkRjM1V5WlBnUTZ3SE1LZmE0RXJCYXBLTFlSdG1yMmR6YWdZSEktLUZzZTBVMG52RVg4RE16X1FqZXJGWkM3TVpiT0VaQ2hFWHdUT0prTE9XVklsWlhtRjZaTWpnNXRRNlZWU3NrU1BsaDFfWG9BOHR2cDE4LVI3MUU4LW5DX05ZUnNFdlBZemZ2UGpXUmxXcnM4NGJzbFpsWGhZMndwdVVkMUhhU1HSAbMBQVVfeXFMTnZ4TmVqNGM5YUo5Wkh2M3A3YjFnSk1uSlFKN2tSWnY3QWc2R1o5WDdnQXhnNTJKcm5FQjI0bUJOR2J4LURZM0NMV0xYb05TcF9zQ1NwZUN3U0F4TVpYa040SVV6VUp6RjFMZ2w2eHFrZVZ1SW15VndfQ2JGRWg4WWlER3E1bHFydk13M2V0WnRrSGs2OV9TWU9Sb3VLdERhYlgwbFRzUnFKcFhPVGRVSTdwa1E?oc=5",
-      "summary": "Bahrain says water desalination plant damaged in Iranian drone attack&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T10:18:45+00:00",
-      "fetched": "2026-03-08T10:45:06.037540+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "8caf08d0866676e3",
-      "title": "Bahrain says water desalination plant damaged in Iranian drone attack",
-      "link": "https://www.aljazeera.com/news/2026/3/8/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack?traffic_source=rss",
-      "summary": "&#039;Iranian aggression randomly bombs civilian targets&#039;, Bahrain says, adding three people were injured in latest raids.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-08T10:17:02+00:00",
-      "fetched": "2026-03-08T10:30:03.801015+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "0a949259ba379726",
-      "title": "US-Israeli bombing of Tehran’s Azadi Stadium shatters moral facade of global sports",
-      "link": "https://presstv.ir/Detail/2026/03/08/765102/us-israeli-bombing-tehran-azadi-stadium-shatters-moral-facade-global-sports",
-      "summary": "The selective morality of global sports bodies, including FIFA, has again been exposed after the US-Israeli aggression targeted the Azadi Stadium in Tehran, reducing it to rubble.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T10:15:04.211784+00:00",
-      "fetched": "2026-03-08T10:15:04.211810+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "08b4e6270ff4e211",
-      "title": "T20 World Cup: The Final",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/aje-onl-t20_wc_final_v3-080326?traffic_source=rss",
-      "summary": "After a rollercoaster month of cricket, the T20 World Cup comes down to India and New Zealand.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-08T10:07:43+00:00",
-      "fetched": "2026-03-08T10:30:03.801081+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "c5309c8588fdb0d4",
-      "title": "Kuwaiti government high-rise hit by Iranian drone",
-      "link": "https://www.bbc.com/news/videos/c9wnex8g5dyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage shows flames tearing through the building in the early hours of Sunday, following more attacks on the gulf state.",
-      "source": "BBC News",
-      "category": "western",
-      "published": "2026-03-08T10:06:13+00:00",
-      "fetched": "2026-03-09T08:00:04.143767+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d5c52e363950f79a",
-      "title": "Smoke rises over Beirut after Israeli strike on Raouche building",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/smoke-rises-over-beirut-after-israeli-strike-on-raouche-building?traffic_source=rss",
-      "summary": "Smoke rose over Beirut after an Israeli strike hit an apartment in the Ramada Hotel building in the Raouche district.",
-      "source": "Al Jazeera",
-      "category": "regional",
-      "published": "2026-03-08T10:04:24+00:00",
-      "fetched": "2026-03-08T10:30:03.801140+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "798aa7e286ab8edb",
-      "title": "It’s Been One Week of War in Iran. Here’s What We’ve Learned. - The Free Press",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTDVqUDdVLUZaTHQ3Y3ZKQ2VHUEtTU1lLTGlyTXZvVl9NVWNnNzlra3BDYlZ0Q3R5ZEpqRmc5d0lVbWFMb2FJY3pqN3NCUFV3RVdtOWtwQnR4c1pzY2J6Wko1V3pEN3RLNGJ4TQ?oc=5",
-      "summary": "It’s Been One Week of War in Iran. Here’s What We’ve Learned.&nbsp;&nbsp;The Free Press",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T10:03:18+00:00",
-      "fetched": "2026-03-08T10:15:05.866559+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "01d57f26473c39f7",
-      "title": "Vance, Rubio and others in Trump’s inner circle preached caution on Iran. Now they’re on board - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9INUE1b3VPVEtWQUZRREhpMFVsOGtrT2xIa0M5MHRPaWRJQ1hraTZBd01VdW1IOTdUMXNWV2hBQTBLNHpfckxISlRqbzR5cnNqU0F0X0ZfOUNiczdFZ001VXV1RUxNR0FLSm9uTzdWeE92aUJWWW9LWWhTc3I?oc=5",
-      "summary": "Vance, Rubio and others in Trump’s inner circle preached caution on Iran. Now they’re on board&nbsp;&nbsp;CNN",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T10:00:35+00:00",
-      "fetched": "2026-03-08T12:45:07.642543+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "00fff282c7fed4de",
-      "title": "Longtime Trump critic reveals why she thinks his Iran actions are wrong, warns it's a 'much bigger war' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWd1b2s0TUtGZjMxMUFFa1ZadWlROHRRSGlsbGRWRWw3RlhqTlhEbk9iZTdjUjhZbmNXYjM2QlNpNW1Dd1dHZjJJeXdsNlp6V2dYUzBVRFl0cXZWcGdJYVFPazB3Z1U1eVlrU1FyR0lJdmpWWnYwWVpMbkFScDEtblY1U1BBbGUxdThHQW1Xem9ieG5VX2hERkJDaHTSAaIBQVVfeXFMTVNGUzJieEpiZ2xJSXJOXzRRSERubmgyc2VGbG0tNW1iTVgxamc5bFdGVzM3N0lwY1FQT0pXVFpGUk9ZQlFONTV3MzFfWU0xbTRWbDUzLXNpd3RQRWZsbDZsd0lFMEFQT1o2WU9xVWI3a0hNeFJ3ZFlGb21tN0Y5SU01MzhhYkNtLUxDdGdJNGxuV2xCQmxOajFkdG1pV3RVN25R?oc=5",
-      "summary": "Longtime Trump critic reveals why she thinks his Iran actions are wrong, warns it's a 'much bigger war'&nbsp;&nbsp;Fox News",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T10:00:04+00:00",
-      "fetched": "2026-03-08T10:15:05.866393+00:00",
       "relevant": true,
       "iran_specific": true
     }
