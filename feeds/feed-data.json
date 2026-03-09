@@ -1,12 +1,48 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T01:00:07.211539+00:00",
+    "last_updated": "2026-03-09T01:15:07.364599+00:00",
     "total_items": 500,
     "new_this_run": 7,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "47e88a0f35e75804",
+      "title": "Triumphant unity: Top Iranian officials rally behind new Supreme Leader",
+      "link": "https://presstv.ir/Detail/2026/03/09/765141/Triumphant-unity--Top-Iranian-officials-rally-behind-new-Supreme-Leader",
+      "summary": "Iran has witnessed an outpouring of unwavering support from its top officials following the historic election of Ayatollah Seyyed Mojtaba Khamenei as the Supreme Leader of the Islamic Revolution.",
+      "source": "Press TV",
+      "category": "iranian",
+      "published": "2026-03-09T01:15:04.770785+00:00",
+      "fetched": "2026-03-09T01:15:04.770817+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "abeae90745be7cc7",
+      "title": "US defence chief says Iran will have 'no choice but to surrender'",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-defence-chief-says-iran-will-have-no-choice-surrender",
+      "summary": "\n\n  \n      \n      \nUS defence chief says Iran will have 'no choice but to surrender'\n\n    \n    \n\n        \n    \n                US&nbsp;Defence Secretary Pete Hegseth said Iran will eventually have no option but to surrender as the conflict continues.\n\nSpeaking to CBS News, Hegseth said Washington is",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T01:13:55+00:00",
+      "fetched": "2026-03-09T01:15:06.508638+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "75aeb5313f98f135",
+      "title": "Iran attacks Israel in first missile wave after Mojtaba Khamenei appointment",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-attacks-israel-first-missile-wave-after-mojtaba-khamenei",
+      "summary": "\n\n  \n      \n      \nIran attacks Israel in first missile wave after Mojtaba Khamenei appointment\n\n    \n    \n\n        \n    \n                Iran launched a new wave of missiles toward Israel on Monday following the appointment of Ayatollah Mojtaba Khamenei as the country’s new supreme leader, accordin",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T01:09:39+00:00",
+      "fetched": "2026-03-09T01:15:06.508694+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "c9090a7ad95451a7",
       "title": "Saudi Arabia says drone heading for Aramco-operated oilfield intercepted",
@@ -32,6 +68,18 @@
       "iran_specific": true
     },
     {
+      "id": "d05d6b17dcc155bb",
+      "title": "Oil soars past $100 a barrel amid Iran war - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDB5Y2w4bjdKUXQ2RHJVdDd6b2NubFJGZTZaS1Z6aThMdVhrVGJUaE4xY0pyMkZmcUhKeThHWWpoYldSYmpXaUVFckZsUmhVN0ZlaHVLVHBSQVVwUmwtOHMwaHVUZk5Kd1B3SjBpNjNEcWg1eHZWY1BOSGtUSWdZUEdJT1FWNDlGR0R1cdIBkgFBVV95cUxNWlJTemtJc01fZFo5X2NmZ0ozUHZCREVrZzYzVnNSbjU2RDRHMExfNWlaTTNaOEd3Ny1oTjd6ZmdPWjhKZnJ0ZnJsMkRYNXFXOFVlbDdCSEVCMDRFeEcySVNOMjhBVVBCM2hoR1F6cXFGZVZDQjZJcFVWTE9sSkd6Q1VRRHZYRGNwX3ludW9yUFl3QQ?oc=5",
+      "summary": "Oil soars past $100 a barrel amid Iran war&nbsp;&nbsp;Al Jazeera",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:56:15+00:00",
+      "fetched": "2026-03-09T01:15:06.412026+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "1fc658d47a5fb8d1",
       "title": "‘Country’ Joe McDonald, ‘60s rock star, proud protest counterculture icon, dies at 84",
       "link": "https://apnews.com/article/country-joe-mcdonald-vietnam-protest-woodstock-hippie-b4eca4ef494e4d78916eb1e8ef229eb7",
@@ -52,6 +100,18 @@
       "category": "aggregator",
       "published": "2026-03-09T00:36:44+00:00",
       "fetched": "2026-03-09T01:00:06.988712+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "0476e694c0c07b77",
+      "title": "Iran war causing pain at the pump; 7th U.S. service member dies | Nightly Roundup - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDR0cVk3ZjZvMHVoY2oxbnRsRWl3d3JGX24za2huaWZFcm1GSjlLRXdWcTF0SDA1LTIwT19rb3lVUDMxZjJsbzlNZURiM0c5am1VbkM0RXoyVjY2bXg4UmwyZ0RiOU1sWGVMZFFtTnNkRjZ1WDVvYlItMG82b1dTUWhUQVpCX3NKTTU3eEp4T29LX25kdzFxNVU1T1RTb21reWY0ckhyRdIBrAFBVV95cUxQTUw4WVBQbmNVYjB3QlhzSml2Nkp0TmJGWDJLd2JGNl80cndpU0pKZGVmX2R1OUZldzRWVUREelM4WHRYSW9qbUVadjlkU2Jwbk5Sa25pMnNVUUM4dXVsSER5a01IUFozQ0psdGxTVmtkek5BdEZmLV9JeElIQlhwcWNyM0lEWTlNU3l6eTY0QTVxRTBLTnFkWlFPMjZrQzNLMGtsQXZFWkN2a0JO?oc=5",
+      "summary": "Iran war causing pain at the pump; 7th U.S. service member dies | Nightly Roundup&nbsp;&nbsp;FOX 10 Phoenix",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:34:26+00:00",
+      "fetched": "2026-03-09T01:15:06.412125+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -136,6 +196,18 @@
       "category": "aggregator",
       "published": "2026-03-09T00:10:00+00:00",
       "fetched": "2026-03-09T01:00:06.989223+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "fadcff8f6a02767c",
+      "title": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNWldhWHdXUG1VN01RQjB4cTFRRFhZcUZicTV3N1JqaHl5cHdRUzNmbWNMb3RwMWtiTzNoTmxSZmszME94WDBKeHkyZG1kYlVNb2hMMEF3cHBMQmRhR18zRVhFNVNOUzRhTEFoOUdqMFdrX0VqRlNDYkE1OW0xa3F1XzdBdVcxd29oQXNxUVJLWHF0aHdOSFFjeFhPVWhDdktjVUZtZzMxNkp6cmdNOWN0dWZFS1pWdmFQZnptNG9ucHl4dU53eTE3dmRsd2lNbFhVdWZaX2IzZERXT0ZsUGpHd2x2R2xyS2hNZC1wRDJDRVhkdmFFT3dPMTEyUmh1MFl0dDVLUW1iWmwxM2RFY2JxZ1pWR1U4UktuLUNlZkV5U1Rqdk5lUGNaTHFlaWFkbVpsbnJxalo4UWdIcVh6ZFZJRjFSQzhoVGw0M3Y4dm44UGNQUVZNSjRBeFhweTBwLUFYdm5sWjJueDZBVDFpX3NWMmxTei1zd1hQRmdQdTd2ZnZlaDFoTVRoSmFqZi1TMm9JSk1qRVIwRkk3NGZ6T3VfSHRfRU9RVkhrdUZDQWktckJNcUkxcEE?oc=5",
+      "summary": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:10:00+00:00",
+      "fetched": "2026-03-09T01:15:06.412054+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5934,78 +6006,6 @@
       "fetched": "2026-03-08T03:15:05.469420+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "7ed5a56539d8a500",
-      "title": "Ukraine hit Belgorod Region by missiles — Governor",
-      "link": "https://tass.com/politics/2098323",
-      "summary": "Vyacheslav Gladkov says that according to preliminary information, nobody was injured, but energy infrastructure is seriously damaged",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-08T02:30:12+00:00",
-      "fetched": "2026-03-08T03:00:05.259468+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "e1d03f9dc7377917",
-      "title": "Iran conducts missile strike on US base after attack on desalination facility",
-      "link": "https://presstv.ir/Detail/2026/03/08/765097/Iran-missile-attack-United-States-base-Bahrain-IRGC",
-      "summary": "Iranian forces carry out a missile strike against a US military installation following an attack on a desalination facility in southern Islamic Republic.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T02:30:04.263819+00:00",
-      "fetched": "2026-03-08T02:30:04.263844+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d668b6b41768d42f",
-      "title": "Protesters rally in Tunis in solidarity with Iran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protesters-rally-tunis-solidarity-iran",
-      "summary": "\n\n  \n      \n      \nProtesters rally in Tunis in solidarity with Iran\n\n    \n    \n\n        \n    \n                Anti-war protesters on Saturday gathered along Habib Bourguiba Avenue in central Tunis to demonstrate in solidarity with Iran amid the attacks by the United States and Israel.&nbsp;\n\nDemons",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T02:22:43+00:00",
-      "fetched": "2026-03-08T02:30:06.412577+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "a944a931e1faa5a8",
-      "title": "Middle East war live: Deadly strike on Ramada hotel in central Beirut - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjFIOWFQYzFKYzRfSzhqOU1YOEQtSjFDY1pNaGFUeGZCY2hsSFlkTGtqX2pyTF9ubXB2SGlrV3d1YlE1Z1hib2pIQzRhSVl5VVB4TWs0YktaRFM0QTc3S1lwWXhrWjhjdFhTcGxiNnM5NVh4QTU3S3RkM0dCODg3WXJlWk9rUElhM0VCQVdMWDMzTzdKUURublBndUM2b1NvMHF5bDUzNUdGNTNxcy1HSndQeXNqYlA2TTVJNDFvSzdvdlZrY21xWXJyd3ZYTER0ZkExWk0xRGtwWklEb09FLWtHVnU?oc=5",
-      "summary": "Middle East war live: Deadly strike on Ramada hotel in central Beirut&nbsp;&nbsp;France 24",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T02:20:54+00:00",
-      "fetched": "2026-03-08T03:30:05.409467+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "f40b2d0a342d3834",
-      "title": "Drone attacks in Saudi Arabia continue, Riyadh’s diplomatic quarter targeted",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attacks-saudi-arabia-continue-riyadhs-diplomatic-quarter-targeted",
-      "summary": "\n\n  \n      \n      \nDrone attacks in Saudi Arabia continue, Riyadh’s diplomatic quarter targeted\n\n    \n    \n\n        \n    \n                Saudi Arabia’s defence&nbsp;ministry on Sunday said its forces foiled a drone attack targeting Riyadh’s diplomatic quarter.\n\nIn a statement posted on X, the minis",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T02:16:49+00:00",
-      "fetched": "2026-03-08T02:30:06.412659+00:00",
-      "relevant": true,
-      "iran_specific": false
-    },
-    {
-      "id": "4399c5b2b69c05bd",
-      "title": "Trump vows to 'take care of Cuba,' praises Venezuela cooperation at summit",
-      "link": "https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit",
-      "summary": "Trump made the promise in front of an assembled meeting of Latin American leaders.",
-      "source": "NPR World",
-      "category": "western",
-      "published": "2026-03-08T02:02:27+00:00",
-      "fetched": "2026-03-08T02:15:06.299371+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
