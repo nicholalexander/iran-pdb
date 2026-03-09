@@ -1,12 +1,60 @@
 {
   "meta": {
-    "last_updated": "2026-03-09T01:45:06.471935+00:00",
+    "last_updated": "2026-03-09T02:15:06.110006+00:00",
     "total_items": 500,
-    "new_this_run": 6,
+    "new_this_run": 11,
     "feeds_configured": 9,
     "errors": {}
   },
   "items": [
+    {
+      "id": "e044b773e13c8bcf",
+      "title": "Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDBPWVRGRjBPd2tWeURIQ1VNT0syZG5qdi1ZYXZ5WFlST3NMYjdsV2NBVEU4aGdfdHkyRkhObHhMV2lzUVhjTUZhM2ZsZ2hMamV6SmFGcTRib3pMblVPc0tJQU1jSnZEcXpRb09PTC1oQ0I1MVl2eG9oOGxXNHFwR2dfZ2Rnbmp4dDlTNmNZeUpSZkJvTnpFMl9DRk1HcW9adVlCdm1VdE9oVGZ2RVFiMFRaLUFoS1ZRWERGMS1RNGVTcnp0UU4xdA?oc=5",
+      "summary": "Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping&nbsp;&nbsp;Los Angeles Times",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T02:02:07+00:00",
+      "fetched": "2026-03-09T02:15:05.938359+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "6b788b6d9203c044",
+      "title": "Explosions heard in Doha as Iran attacks multiple targets in Gulf",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-doha-iran-attacks-multiple-targets-gulf",
+      "summary": "\n\n  \n      \n      \nExplosions heard in Doha as Iran attacks multiple targets in Gulf\n\n    \n    \n\n        \n    \n                Explosions were heard early Monday in the Qatari capital Doha as Gulf countries reported new missile and drone attacks linked to Iran’s retaliatory campaign in the region, A",
+      "source": "Middle East Eye",
+      "category": "regional",
+      "published": "2026-03-09T01:56:30+00:00",
+      "fetched": "2026-03-09T02:15:06.030192+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "aa96699d84adc7f7",
+      "title": "Aluminum Rises to 2022 High as Iran War Stokes Supply Crunch - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVW1ScG11M000akE0alBzMUhsRkFTOXp4UzhXdzktdkctOXkwRmRTSWdVTlZvVjhCOFJuNW01U29LYXZWNkRFamllYnVFdVZKX2o3ZHFBUHp4bFNhaHloeDlJb290bk9TR2NoUEFxM1h0Rlpsdld4UWJNbHNfRC1xSTZRcFVJdFI4VGhJZDZjRG1NTmp0aUVKcGZJbEg0aEdadlRBSjVEVUd2bVFaaThqNw?oc=5",
+      "summary": "Aluminum Rises to 2022 High as Iran War Stokes Supply Crunch&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T01:46:00+00:00",
+      "fetched": "2026-03-09T02:15:05.938105+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "b8db9a22eb9049a0",
+      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUNjTWNHaEdGVXN3NUM1U1I3SE56cE1IU0s2RUx6NVJmUUlKTUllTEQ1cUk2d3duRGlhNUpnTjNUaVFUNVFkaWd0ZFlpU3BCbFJzN0Fvb3ZIMk4zUENZMnBLcWhUaUtUX2ZoQTBqQmpGMDVjb0xaek5McTNiLVFUcWx3V01Eb0lpMjlTUUd6cS04V2JObkpVR3NMWHY5SnpwOEZiSFVPN3VqRi1qcGJuMFYxbWlpSllLaW1r?oc=5",
+      "summary": "Trump says ending Iran war will be 'mutual' decision with Netanyahu&nbsp;&nbsp;Reuters",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T01:45:00+00:00",
+      "fetched": "2026-03-09T02:15:05.938241+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
     {
       "id": "7b1a19cd5eeffa31",
       "title": "Oil surges above $100 as Middle East conflict rattles markets",
@@ -176,6 +224,18 @@
       "iran_specific": true
     },
     {
+      "id": "9b2e504ab96eee7a",
+      "title": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxONkg1Z3pKQzlINDk3OU83akpDNzlaYURpcnVSaHZrWkViLWxNUkV0cUo1NFd0ZHVacHpzN3FRa2dsMy1NaGZBcnlKeHN6WkdaZWczTEdPel9PVkZuVXVfZVU0UkJjRW9wZEJ0S19KUjEtRjJ4eXhXSEZzUVU1Mlh0YVhWUG5remp5Ny1xMHhQM1Fnb3ZDNWpMM3dONjlmbFd4alpSTEtVZ1N1dDZBQUVPa1B3NmFWRVJDd3lOOEJYTkRJZFQ1Nk0xMTVaSXdYVDZ4cW53ZUJyNXZ0clJtSmp0cUpjSjRwZTFlQkNGUk1xeHdjVE9LbUw2aDFQam13dmg3MmdSdjFrNnpBbGE5TDJxZU9vTzV5eUZxVjFyTV8zM3FJbjVEeVNveS1vYkdPV0tVLW9zRmY2ZUJHWTh4M0JCdktkbHZrQWJrNW5MY2h2TF82Wm0wMHU5UkxKQWhPc3I3YnpWM0ktWHJPbjlUYnR6ZlY5bDlYakVWQnhWc1ZJbG9IUm5IcTVfYnZleTZ4b3FoQU5mTmUycjJqbXctSHg3Rl9hYjY3d1kzdkcyYncxMXlyNngtbVE?oc=5",
+      "summary": "Trump Comes Under Pressure to Address Gas Prices, Iran War Strategy&nbsp;&nbsp;WSJ",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T01:08:00+00:00",
+      "fetched": "2026-03-09T02:15:05.938566+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "c9090a7ad95451a7",
       "title": "Saudi Arabia says drone heading for Aramco-operated oilfield intercepted",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-drone-heading-aramco-operated-oilfield-intercepted",
@@ -232,6 +292,18 @@
       "category": "regional",
       "published": "2026-03-09T00:52:24+00:00",
       "fetched": "2026-03-09T01:30:03.622743+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ea32511b2060b07a",
+      "title": "Trump to Times of Israel: It’ll be a ‘mutual’ decision with Netanyahu regarding when Iran war ends - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFNV1NpY1dmRDVrcmxOTktkaFN3Zl8xWDdhU3QzVFZ3T1dhVjg4eWNtVE15X3ZSWWRpNE5UZ0toNURPYmtpWVR4a1BEWG5KMTVWUGM2X2xnaE4yeFhGWk9UWTVYbE1VRWZESUQzVG1PblNVWlk1SmhLTGkxaVBEODR1QUZEdjRTZlZMdkQxd2RBWWFBdlcyQ1hGOFFTaFI5M1F4SlJYdG9Qck5QS0d0UFVndDBBQkZ4NV90MHptZGF1WTjSAcgBQVVfeXFMTmMyakJnZ2JwVS1VWkZYbVpPZ1BsR2YxYy1QLUpJLTc2RFRaLUR0bUc5S0RVM3JPRUNkR2hKVFpKdWd1Mms3TGszalphZzJpRlRwV2d5aEVJVVpuQl9qeDZTc1dicjFyS215S1dkeXZWV0tKQ21oemdWOGJ5OENiWlNSbENWMV9YY1NOVEc1RkQ4cGxMTnpxVllFNU5OZmtOdXprS3p4Qmt4SVdTdjFpdV9qU2laalhXUXZ3Y1Yxd0diaF9EY2FjTlc?oc=5",
+      "summary": "Trump to Times of Israel: It’ll be a ‘mutual’ decision with Netanyahu regarding when Iran war ends&nbsp;&nbsp;The Times of Israel",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-09T00:43:54+00:00",
+      "fetched": "2026-03-09T02:15:05.938339+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -452,6 +524,18 @@
       "iran_specific": false
     },
     {
+      "id": "be79b51796e06b36",
+      "title": "Seventh American service member dies amid U.S. war with Iran - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2lYaUxlempRRzBmUU5SOVdkSEZJeUZNb3gwNUwzTkc4bWRvNDJyYVd1dXlLdXBXcWNwc2dfRllYYURiTWtiX05Kc1ZDSVRUQlFyaUROcVFySVlBdVhiWkd4MHVrdmwzeDBQM1hUd0N5NGtQOVpsQV9xWExwazNOYWhhUmo3dDJjVFpkaVpFRmRNSW1qdkh1b0NfR0NYUzBkQUJUWA?oc=5",
+      "summary": "Seventh American service member dies amid U.S. war with Iran&nbsp;&nbsp;NBC News",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T23:19:40+00:00",
+      "fetched": "2026-03-09T02:15:05.938679+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "c37fe50a45e0d8bf",
       "title": "Top Iranian officials back Iran's new supreme leader",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/top-iranian-officials-back-irans-new-supreme-leader",
@@ -572,6 +656,18 @@
       "iran_specific": true
     },
     {
+      "id": "d4ca57a863085820",
+      "title": "Oil prices surge 20% as expanding US-Israeli war with Iran cuts supplies from Mideast - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSW4zRHJ6c00zS0xXbUQ0MWhUdDQ4dGt3R2xTM1VNdkRLQVNpT0JWOTBxeVI5ajlZMno2cmNCTGs2MmlQdzhheVQ4enk4VUs3MGc5WF9JMWZQejhDd19EUTZQZGNBdjRJb1Zuc3lmR2ctMHJZT0tNU2RaVUJxSDZuN3dNOXdfTVBqdFQxU3JiNmlxX3hESS1rMVhaYWFYUnUySzlESmFWZWpBaGhOYlRmdnM0OVRqajhHT2p3ZnR6akI?oc=5",
+      "summary": "Oil prices surge 20% as expanding US-Israeli war with Iran cuts supplies from Mideast&nbsp;&nbsp;Reuters",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T22:39:33+00:00",
+      "fetched": "2026-03-09T02:15:05.938598+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
       "id": "f930507f47031279",
       "title": "Qatar PM urges de‑escalation amid Iran war",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-pm-urges-de-escalation-amid-iran-conflict-sky-news-says",
@@ -592,6 +688,18 @@
       "category": "aggregator",
       "published": "2026-03-08T22:39:03+00:00",
       "fetched": "2026-03-08T22:45:05.889643+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "ebf6f8a10dcb66f4",
+      "title": "Week 2 of Iran: Military momentum meets economic and political reality - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUFob1hmSng4WE9UWGRCdVVWbTBjU1lQaUpJUkl2ZVVLWUJCb0FuT2JMSWM4OEh1cWVyOEliVE9ZdVlqYkVzUnlpYlNLWTBVNFFzb0NQanhXWFRKWXZkektUU3BLamF1aWp1U01xSllxaTlvRkRLWjQ2T1hiXy0wQWtaZTlCZk1nRGpISmEzbzVkTHpLSWI5bnZkQzlPM1BnUHc?oc=5",
+      "summary": "Week 2 of Iran: Military momentum meets economic and political reality&nbsp;&nbsp;CNN",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T22:32:39+00:00",
+      "fetched": "2026-03-09T02:15:05.938300+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -1240,6 +1348,18 @@
       "category": "aggregator",
       "published": "2026-03-08T20:17:00+00:00",
       "fetched": "2026-03-09T00:12:10.730650+00:00",
+      "relevant": true,
+      "iran_specific": true
+    },
+    {
+      "id": "bb0f60774b2890a8",
+      "title": "A 7th American is killed in Iran operations, military confirms - WDBJ7",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTktENjBFSkh5Y2dXUWNQTjRSUUNzLUl1ZUNTaVpULW42OGF3WExpYVRRbUxOdzVYaC1CcUFsamphVXJkbmdIUHJwOFVfSVQwTi1KWkNyWjE4SVhySDVHZWVMbWxORXh1MkRtbEtEMW5fZVJRelRUMkxPdHZRUTVkWEdSci1EeW5yUDJiOUJmVkh0TjJP0gGoAUFVX3lxTFBLZXB3V0d6YURZbkRzX01Nank4dnRpWnRiaEpKOFhUUlZpS2FTbmpFUFJnOHRRUVAxTUFnLVhBODZOcThacE5UcVJVNXUtc1lKUHNMZVAxV3lXWDJnd25NOG1wRUNFMS0zN0hCVml5anNIOENQVlFUc1ZPSlJ1VWhmMDlHc0x4NlhrTk5FQUN0d3k1RFlmaW5xUDEzaXlkenNJUTVpSF9nTQ?oc=5",
+      "summary": "A 7th American is killed in Iran operations, military confirms&nbsp;&nbsp;WDBJ7",
+      "source": "Google News Iran",
+      "category": "aggregator",
+      "published": "2026-03-08T20:17:00+00:00",
+      "fetched": "2026-03-09T02:15:05.938501+00:00",
       "relevant": true,
       "iran_specific": true
     },
@@ -5886,126 +6006,6 @@
       "fetched": "2026-03-08T04:15:07.253731+00:00",
       "relevant": true,
       "iran_specific": true
-    },
-    {
-      "id": "7c03380f968e4541",
-      "title": "What we know on the ninth day of the US and Israel’s war with Iran - CNN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUxTenl1WTdqajFUa0ZlWXVPVmk4SFJ3aHNYTTdPN2ExdTdIRE1UQ3NqRUxsVXNFX2FHSmlTLXN2cUtEUmNwYnpfYW0tblloNnJKOXlOMnFNR2dxS3ptOTJmTW1Ibi0xdWVUUEpHUWFRazlpOWNzQldhUUFjVlpqT2xoV2VNc09DUE4yLTZwNnlsSHdCSExlOGpR?oc=5",
-      "summary": "What we know on the ninth day of the US and Israel’s war with Iran&nbsp;&nbsp;CNN",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T03:57:00+00:00",
-      "fetched": "2026-03-08T04:30:06.161991+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "d0a8f70d25d2efd5",
-      "title": "Over 1,300 killed in Iran, more than 100,000 displaced",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-1300-killed-iran-un-says-100000-displaced",
-      "summary": "\n\n  \n      \n      \nOver 1,300 killed in Iran, more than 100,000 displaced\n\n    \n    \n\n        \n    \n                Iranian officials say more than 1,300 people have been killed since the US-Israeli war began, with thousands more reported wounded.\n\nThe humanitarian toll continues to rise as air stri",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T03:47:56+00:00",
-      "fetched": "2026-03-08T04:00:05.853989+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "7bbccb460dab4fca",
-      "title": "US can't keep hiding truth about its captured forces: Iran's security chief",
-      "link": "https://presstv.ir/Detail/2026/03/08/765098/Iran-United-States-soldiers-captured-Larijani",
-      "summary": "Iran says reports indicate that several American forces have been captured during the latest round of unprovoked American-Israeli aggression towards the Islamic Republic.",
-      "source": "Press TV",
-      "category": "iranian",
-      "published": "2026-03-08T03:45:04.674368+00:00",
-      "fetched": "2026-03-08T03:45:04.674392+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b7b8082bd161dd96",
-      "title": "Relations between Russia, China, remain strong and sound — China’s Foreign Minister",
-      "link": "https://tass.com/world/2098335",
-      "summary": "Wang Yi says Sino-Russian relations remain unshakable amid twists and turns in the international situation",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-08T03:45:00+00:00",
-      "fetched": "2026-03-08T04:15:06.047492+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "56343a55374c52df",
-      "title": "Tough Questions About the Iran War — Answered - American Jewish Committee (AJC)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByMzhCb1cyVXRxMHFlZ0pZdUZoUHZtT0FzSHQ4LUE1ZnFaOHM3OWM4ZDlWaWxrZm9IVFRIX2pMb0RSTmdlLWJDQVl6emR2UXpmODU1TXk0cWN2QlAzajJTcnUwYW9LcDNIM0VWUl9aRl8?oc=5",
-      "summary": "Tough Questions About the Iran War — Answered&nbsp;&nbsp;American Jewish Committee (AJC)",
-      "source": "Google News Iran",
-      "category": "aggregator",
-      "published": "2026-03-08T03:41:48+00:00",
-      "fetched": "2026-03-08T08:45:05.661952+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "5e8235da537d325e",
-      "title": "Fire breaks out at Kuwait airport after drone attack, local media says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-breaks-out-kuwait-airport-after-drone-attack-local-media-says",
-      "summary": "\n\n  \n      \n      \nFire breaks out at Kuwait airport after drone attack, local media says\n\n    \n    \n\n        \n    \n                Kuwaiti authorities on Sunday said a drone attack targeted fuel tanks at Kuwait International Airport, sparking a fire that firefighters were working to contain.\n\nThe K",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T03:36:27+00:00",
-      "fetched": "2026-03-08T03:45:06.603209+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "a49bd7814e31186c",
-      "title": "IRGC says new strikes launched on Israel, US targets in Kuwait",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-new-strikes-launched-israel-us-targets-kuwait",
-      "summary": "\n\n  \n      \n      \nIRGC says new strikes launched on Israel, US targets in Kuwait\n\n    \n    \n\n        \n    \n                Iran’s Islamic Revolutionary Guard Corps (IRGC) said it launched a new wave of retaliatory strikes against Israeli and US targets in the Middle East, Press TV reported.&nbsp;\n\n",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T03:32:37+00:00",
-      "fetched": "2026-03-08T03:45:06.603276+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "b206982530bfb861",
-      "title": "China, Russia not afraid of external pressure — Wang Yi",
-      "link": "https://tass.com/world/2098333",
-      "summary": "China's foreign minister says \"back-to-back relations became the essence of Sino-Russian ties\"",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-08T03:32:00+00:00",
-      "fetched": "2026-03-08T04:15:06.047573+00:00",
-      "relevant": false,
-      "iran_specific": false
-    },
-    {
-      "id": "d2efbfe2eb60e6dd",
-      "title": "GCC: Stand with Bahrain and Kuwait in protecting their sovereignty",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-stand-bahrain-and-kuwait-protecting-their-sovereignty",
-      "summary": "\n\n  \n      \n      \nGCC: Stand with Bahrain and Kuwait in protecting their sovereignty\n\n    \n    \n\n        \n    \n                The Gulf Cooperation Council (GCC) condemned what it described as Iranian attacks on Bahrain and Kuwait, calling them dangerous acts that threaten regional security and sta",
-      "source": "Middle East Eye",
-      "category": "regional",
-      "published": "2026-03-08T03:29:35+00:00",
-      "fetched": "2026-03-08T03:30:05.509136+00:00",
-      "relevant": true,
-      "iran_specific": true
-    },
-    {
-      "id": "849af73d3fddd210",
-      "title": "Battlegroup West destroyed 59 heavy Ukrainian drones in 24 hours",
-      "link": "https://tass.com/defense/2098331",
-      "summary": "The battlegroup also destroyed nine unmanned surface vehicles and 33 drone control stations of the Ukrainian army",
-      "source": "TASS",
-      "category": "russian",
-      "published": "2026-03-08T03:19:06+00:00",
-      "fetched": "2026-03-08T03:30:04.418139+00:00",
-      "relevant": false,
-      "iran_specific": false
     }
   ]
 }
