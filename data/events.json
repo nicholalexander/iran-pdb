@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2026-03-08T20:30:00Z",
+    "category": "political",
+    "title": "Mojtaba Khamenei selected as Supreme Leader",
+    "description": "Assembly of Experts selects Mojtaba Khamenei as third Supreme Leader. IRGC pledges total obedience. Dynastic succession.",
+    "sources": [
+      "Reuters",
+      "Guardian",
+      "Al Jazeera",
+      "NYT"
+    ]
+  },
+  {
+    "date": "2026-03-08T21:00:00Z",
+    "category": "political",
+    "title": "Trump threatens Mojtaba assassination",
+    "description": "Trump on ABC: new leader must get approval from us or not going to last long.",
+    "sources": [
+      "ABC News",
+      "Reuters"
+    ]
+  },
+  {
+    "date": "2026-03-08T21:00:00Z",
+    "category": "economic",
+    "title": "Oil breaches $100/barrel",
+    "description": "Brent $108.68 (+18%), WTI $108.33 (+19%). First >100 since 2022. Goldman warns $150 possible.",
+    "sources": [
+      "NYT",
+      "Reuters",
+      "CNBC"
+    ]
+  },
+  {
+    "date": "2026-03-08T21:30:00Z",
+    "category": "economic",
+    "title": "Kuwait declares force majeure on crude",
+    "description": "First Gulf state to formally declare. 20M bbl/day removed from market.",
+    "sources": [
+      "Guardian"
+    ]
+  },
+  {
+    "date": "2026-03-08T22:00:00Z",
+    "category": "military",
+    "title": "Wave 28 \u2014 new generation missiles",
+    "description": "IRGC launches Wave 28 with new generation missiles targeting Beer Sheva, Tel Aviv, Al-Azraq (Jordan). Contradicts gen 1-2 claim.",
+    "sources": [
+      "Shafaqna",
+      "Tabnak"
+    ]
+  },
+  {
+    "date": "2026-03-08T21:40:00Z",
+    "category": "political",
+    "title": "State Dept orders diplomats out of Saudi Arabia",
+    "description": "Bloomberg/NYT report evacuation order.",
+    "sources": [
+      "Bloomberg",
+      "NYT"
+    ]
+  },
+  {
+    "date": "2026-03-08T23:00:00Z",
+    "category": "diplomatic",
+    "title": "Saudi ultimatum to Iran",
+    "description": "Reuters 4 sources: continued attacks -> retaliation + US base access. Dual message.",
+    "sources": [
+      "Reuters"
+    ]
+  },
+  {
+    "date": "2026-03-08T19:00:00Z",
+    "category": "diplomatic",
+    "title": "Macron speaks with Trump and Pezeshkian",
+    "description": "First Western leader to engage both sides. Visiting Cyprus Monday.",
+    "sources": [
+      "RTL",
+      "TF1"
+    ]
+  },
+  {
+    "date": "2026-03-08T18:00:00Z",
+    "category": "military",
+    "title": "7th US service member KIA",
+    "description": "Died from wounds from Saudi Arabia March 1 attack.",
+    "sources": [
+      "CENTCOM"
+    ]
+  },
+  {
+    "date": "2026-03-08T17:00:00Z",
+    "category": "military",
+    "title": "IDF kills Babaian \u2014 Supreme Leader military secretary",
+    "description": "Second person in role killed. IRGC Aerospace HQ destroyed.",
+    "sources": [
+      "IDF",
+      "Haaretz"
+    ]
+  },
+  {
+    "date": "2026-03-08T16:00:00Z",
+    "category": "military",
+    "title": "IRIS Dena \u2014 104 killed confirmed",
+    "description": "Iranian army reveals 104 killed, 32 wounded in US submarine attack March 4.",
+    "sources": [
+      "IRNA",
+      "Reuters"
+    ]
+  }
+]

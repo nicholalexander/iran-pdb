@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-03-09T00:00:00Z",
+    "brent": 108.68,
+    "wti": 108.33,
+    "gold": 5345,
+    "usd_irr": 1664000,
+    "lmt": 671.77,
+    "gas_us_avg": 3.45,
+    "dow_futures_change": -950,
+    "sp500_futures_pct": -1.5,
+    "tehran_stock_change_pct": -39,
+    "notes": "Oil >100 first time since 2022. Kuwait force majeure. Goldman warns 150."
+  }
+]

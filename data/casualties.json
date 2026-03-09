@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-03-09T00:00:00Z",
+    "iran_killed_claimed": 1332,
+    "iran_killed_verified": 1045,
+    "iran_injured": 10000,
+    "iran_children": 200,
+    "iran_women": 200,
+    "lebanon_killed": 394,
+    "lebanon_children": 83,
+    "israel_killed": 11,
+    "us_kia": 7,
+    "us_non_combat": 1,
+    "uae_killed": 4,
+    "kuwait_killed": 5,
+    "bahrain_killed": 1,
+    "iris_dena_killed": 104,
+    "iris_dena_wounded": 32,
+    "civilian_installations": 6600,
+    "schools": 66,
+    "hospitals_out": 9,
+    "notes": "1045 funeral-verified vs 1332 claimed. 7th US KIA from Saudi wounds. IRIS Dena 104 confirmed."
+  }
+]
