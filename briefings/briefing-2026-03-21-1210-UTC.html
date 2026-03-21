@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iran Situation Report — Day 22 — March 21, 2026</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+    @top-center {
+      content: "SENSITIVE — NOT FOR PUBLIC DISTRIBUTION";
+      font-size: 7pt;
+      color: #999;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+    @bottom-center {
+      content: counter(page) " of " counter(pages);
+      font-size: 8pt;
+      color: #888;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 10.5pt;
+    line-height: 1.55;
+    color: #1a1a1a;
+    background: #fff;
+  }
+
+  /* — COVER HEADER — */
+  .cover-header {
+    border-bottom: 3px solid #b71c1c;
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+  }
+  .cover-header .classification {
+    background: #b71c1c;
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .cover-header h1 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 22pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.5px;
+    margin-bottom: 4px;
+  }
+  .cover-header .subtitle {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11pt;
+    color: #555;
+    font-weight: 400;
+  }
+  .cover-header .dateline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    color: #333;
+    margin-top: 8px;
+    font-weight: 600;
+  }
+  .cover-header .meta-line {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  /* — EXECUTIVE SUMMARY — */
+  .exec-summary {
+    background: #f8f5f0;
+    border-left: 4px solid #b71c1c;
+    padding: 14px 18px;
+    margin-bottom: 22px;
+  }
+  .exec-summary h2 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #b71c1c;
+    margin-bottom: 8px;
+  }
+  .exec-summary ul {
+    list-style: none;
+    padding: 0;
+  }
+  .exec-summary li {
+    padding: 3px 0 3px 16px;
+    position: relative;
+    font-size: 10.5pt;
+    line-height: 1.45;
+  }
+  .exec-summary li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #b71c1c;
+    font-weight: bold;
+  }
+
+  /* — SECTIONS — */
+  .section {
+    margin-bottom: 20px;
+    page-break-inside: avoid;
+  }
+  .section-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    border-bottom: 1.5px solid #ccc;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
+  .section-header .section-num {
+    color: #b71c1c;
+    font-weight: 800;
+    margin-right: 6px;
+  }
+  .section-header .section-icon {
+    margin-right: 4px;
+  }
+
+  .subsection-header {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: 700;
+    color: #333;
+    margin-top: 12px;
+    margin-bottom: 6px;
+  }
+
+  /* — BODY TEXT — */
+  p {
+    margin-bottom: 8px;
+    text-align: justify;
+    hyphens: auto;
+  }
+  .source {
+    color: #666;
+    font-size: 9pt;
+    font-style: italic;
+  }
+  .source a {
+    color: #1a5276;
+    text-decoration: none;
+  }
+  .source a:hover {
+    text-decoration: underline;
+  }
+
+  /* — DATA CALLOUTS — */
+  .callout {
+    background: #f0f4f8;
+    border: 1px solid #d5dde5;
+    border-radius: 3px;
+    padding: 10px 14px;
+    margin: 10px 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 9.5pt;
+  }
+  .callout .label {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    font-size: 8pt;
+    letter-spacing: 1px;
+  }
+  .callout .value {
+    font-size: 16pt;
+    font-weight: 700;
+    color: #1a1a1a;
+  }
+  .callout .delta {
+    font-size: 9pt;
+    color: #666;
+  }
+
+  /* — TABLES — */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 9.5pt;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  th {
+    background: #2c3e50;
+    color: #fff;
+    padding: 6px 10px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 8.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  td {
+    padding: 5px 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  tr:nth-child(even) { background: #f9f9f9; }
+
+  /* — INTELLIGENCE GAPS — */
+  .gap-open {
+    border-left: 3px solid #e67e22;
+    padding-left: 10px;
+    margin: 6px 0;
+  }
+  .gap-resolved {
+    border-left: 3px solid #27ae60;
+    padding-left: 10px;
+    margin: 6px 0;
+    color: #555;
+  }
+  .gap-new {
+    border-left: 3px solid #b71c1c;
+    padding-left: 10px;
+    margin: 6px 0;
+  }
+
+  /* — EDWARD'S ANALYSIS — */
+  .edward-analysis {
+    background: #fafaf5;
+    border: 1px solid #d5d0c0;
+    border-radius: 3px;
+    padding: 16px 20px;
+    margin: 16px 0;
+  }
+  .edward-analysis .byline {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  .edward-analysis p {
+    font-style: italic;
+    text-align: left;
+  }
+
+  /* — FOOTER — */
+  .footer {
+    margin-top: 30px;
+    padding-top: 12px;
+    border-top: 2px solid #b71c1c;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 7.5pt;
+    color: #999;
+    text-align: center;
+  }
+  .footer .warning {
+    font-weight: 700;
+    color: #b71c1c;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 7pt;
+    margin-bottom: 4px;
+  }
+
+  /* — TIER LABELS — */
+  .tier-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-bottom: 8px;
+    border-radius: 2px;
+  }
+  .tier-1 { background: #b71c1c; color: #fff; }
+  .tier-2 { background: #e67e22; color: #fff; }
+  .tier-3 { background: #2c3e50; color: #fff; }
+
+  /* — NO CHANGE — */
+  .no-change {
+    color: #999;
+    font-style: italic;
+    font-size: 9.5pt;
+    padding: 4px 0;
+  }
+
+  /* — LINKS — */
+  a { color: #1a5276; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* — LISTS — */
+  ul, ol { margin: 6px 0 8px 20px; }
+  li { margin-bottom: 3px; }
+
+  /* — PRINT TWEAKS — */
+  @media print {
+    body { font-size: 10pt; }
+    .section { page-break-inside: avoid; }
+    .edward-analysis { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cover-header">
+  <div class="classification">INTELLIGENCE BRIEFING</div>
+  <h1>Iran Situation Report</h1>
+  <div class="subtitle">Operation Epic Fury — Conflict Intelligence Assessment</div>
+  <div class="dateline">Saturday, March 21, 2026 — 12:10 UTC (8:10 AM ET) — Day 22</div>
+  <div class="meta-line">Prepared by Edward 🦉 — OSINT Collection & Analysis</div>
+  <div class="meta-line">Sources: 65+ | Languages: 15 | Classification: OPEN SOURCE</div>
+</div>
+
+<div class="exec-summary">
+<h2>Executive Summary — Day 22</h2>
+<ul>
+<li><strong>Energy infrastructure is now a weapon.</strong> Israel struck South Pars (world's largest gas field) and Kharg Island (90% of Iran's oil exports); Iran retaliated by destroying 17% of Qatar's LNG capacity for 3-5 years ($20B/yr revenue loss), hitting Saudi refineries, UAE gas facilities, and two Kuwaiti refineries — Gulf oil production down 10M+ bpd, the largest supply disruption in history.</li>
+<li><strong>Leadership decapitation accelerated.</strong> Ali Larijani (SNSC secretary, "effectively running the country"), Intelligence Minister Khatib, and Basij Commander Soleimani all killed within 48 hours; ~40 named Iranian officials now dead total. Mojtaba Khamenei hasn't appeared on video in 13 days — governance by written text only.</li>
+<li><strong>Iran demonstrated ~4,000km IRBM range.</strong> Two ballistic missiles fired at Diego Garcia (US-UK base, 2,500 miles from Iran) — first strike attempt outside the Middle East theater. Both failed to hit, but the range demonstration puts every US base in CENTCOM AOR at risk. Separately, first-ever F-35 combat loss (shot down by new "Nasrallah missile").</li>
+<li><strong>Trump signals "winding down" while escalating.</strong> Same day as the post: 2,500 more Marines deploying, ground invasion plans with detention facilities on Pentagon's desk, $200B war supplemental requested (largest since early Iraq War), UK base authorization expanded. Bipartisan opposition mounting — 53% now say Trump is NOT putting America first (reversed from a year ago).</li>
+<li><strong>Markets in historic dislocation.</strong> Brent $112/bbl (+56% since war start, briefly $119); gold crashed 14% (worst since 1983); IEA released record 400M barrels from strategic reserves; US gas at $3.84/gal (+30%); Hormuz at 4 ships/day (was 95); zero Fed rate cuts priced for 2026.</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">1.</span>
+  <span class="section-icon">🎯</span>
+  MILITARY SITUATION
+</div>
+<p><strong>Day 22 — Nowruz Day 1. War enters Week 4 with nuclear escalation and explicit Israeli promise to intensify.</strong></p>
+<h4 class="subsection-header">Nuclear Escalation: Natanz Struck Again</h4>
+<ul>
+<li>US-Israeli airstrike hit <strong>Natanz Shahid Ahmadi-Roshan enrichment complex</strong> Saturday morning (~09:18 UTC). This is the <strong>second confirmed attack</strong> on Natanz — separate from early-war damage to entrance buildings (ABC News, IAEA, Tasnim, 10+ language sources).</li>
+<li><strong>IAEA:</strong> "Informed by Iran that the Natanz nuclear site was attacked today. No increase in off-site radiation levels reported." Director General Grossi reiterated call for "military restraint to avoid any risk of a nuclear accident" (IAEA X post, DW, The Hindu).</li>
+<li>Iran Nuclear Safety Center: No radiation leak detected. "Precautionary measures were pre-planned" (Tabnak).</li>
+<li>Turkish media (A Haber) claims <strong>bunker-buster bombs</strong> used. Reports ~440-450 kg of 60% enriched uranium — enough for <strong>11 nuclear weapons</strong> — remains on Iranian soil with <strong>location unknown</strong> after latest attacks (Mako/N12 Hebrew, A Haber Turkish, IAEA via CBS).</li>
+<li><strong>Grossi on CBS Face the Nation</strong> (transcript published): Confirmed vast majority of Iran's ~1,000 lbs of HEU is at <strong>Fordow</strong>, with some at Natanz and other locations. Called nuclear strikes in current war "relatively marginal" compared to June 2025 campaign.</li>
+<li><strong>Bolton (NBC):</strong> "It would not be a success under any circumstances if we left the material in Iran."</li>
+<li><strong>Operational question:</strong> Netanyahu claimed March 19 that Iran "no longer has the capacity to enrich uranium." If true, Natanz Day 22 is a mop-up strike. If not, enrichment capability persisted despite earlier claims. Either way, the enriched material itself — the actual bomb fuel — is unaccounted for.</li>
+</ul>
+<h4 class="subsection-header">IRGC Retaliation Accelerates: Wave 70</h4>
+<ul>
+<li>IRGC reached <strong>Wave 70</strong> of Operation Vaadeh Sadeq 4 — up from Wave 63 in state file. <strong>7 additional waves in ~8 hours</strong> = acceleration to ~0.9 waves/hour (Tabnak, Fararu, Khabar Foori).</li>
+<li>Wave 70 targeted <strong>55+ sites</strong> including <strong>5 US regional bases:</strong> Al-Kharj (Saudi Arabia), Al-Dhafra (UAE), Ali Al-Salem (Kuwait), Erbil (Iraq), and US 5th Fleet (Bahrain) (IRGC communiqué via Tabnak).</li>
+<li>Missile systems deployed: <strong>Qiam, Emad, Khorramshahr-4 (MIRV), Qadr (MIRV)</strong>.</li>
+<li>Israeli targets: Haifa (Khadra, Kiryat Ono), Tel Aviv (Savyon, Ben Ami).</li>
+<li><strong>Rishon Lezion daycare hit</strong> by cluster munition from Iranian ballistic missile (Times of Israel with photo evidence, Infobae). Casualty count unconfirmed.</li>
+<li>NRC Netherlands: <strong>350 total Iranian missiles fired at Israel</strong> with ~90% interception rate = ~35 penetrating.</li>
+<li>IRGC language in Wave 70 communiqué: Armed forces "have prepared for entering such a phase" — suggesting readiness for qualitative escalation (Tabnak).</li>
+<li><strong>Iran missile production:</strong> 70 waves in 22 days = sustained 3.2 waves/day. Production appears sustainable at current tempo.</li>
+</ul>
+<h4 class="subsection-header">Israel Promises "Significant Escalation" — Week 4</h4>
+<ul>
+<li>Israeli Defense Minister <strong>Israel Katz</strong> announced Saturday: <strong>"This week, the intensity of the strikes that the IDF and the US military will carry out against the Iranian terror regime will significantly escalate."</strong> Starting Sunday March 22 (Times of Israel, Le Parisien, ABC News, NYT).</li>
+<li>Katz did not specify new target categories or methods (NYT).</li>
+<li>Israeli Ambassador <strong>Leiter</strong> on Meet the Press NOW: Israel "will be ready to end the war when the US does... We have planned this together, we're implementing it together and the grand finale will come together as well."</li>
+<li>Leiter introduced <strong>"regime collapse" vs. "regime change"</strong> distinction: "The people of Iran have to topple this regime. We have to set the stage." Implies reliance on internal revolution, not military occupation.</li>
+<li>This directly contradicts Trump's "winding down" language from hours earlier. <strong>US-Israel divergence on war trajectory is now explicit</strong> — French media (Le Parisien) caught this first.</li>
+</ul>
+<h4 class="subsection-header">Nowruz Dawn Attacks Across Iran</h4>
+<ul>
+<li>Coordinated strikes across Iran on the <strong>first morning of Persian New Year</strong> (1 Farvardin 1405):</li>
+<li><strong>01:10 AM:</strong> 2 explosions in Shahr-e Rey (southeast Tehran)</li>
+<li><strong>01:11 AM:</strong> Tehran District 4 (Khojir area) — 2 explosions heard across most of Tehran</li>
+<li>Tehranpars, Piroozi Street, Isfahan, Karaj also struck</li>
+<li><strong>Kiashahr, Gilan:</strong> 2 civilians killed in Dastak village residential area</li>
+<li><strong>Previous evening 18:30:</strong> Drone debris hit Narmak Passage (Tehran) — no casualties</li>
+</ul>
+<p>(Fararu, Tabnak, Mehr, SNN, EcoIran)</p>
+<ul>
+<li><strong>Ramsar, Mazandaran Province</strong> (Caspian Sea coast): Family of three killed — father, mother, son — when home hit by missile (Onda Cero Spain). <strong>Extends confirmed strike zone to Iran's northern Caspian coast</strong>, far beyond previous southern/central targeting pattern. Full geographic coverage of Iran now confirmed.</li>
+</ul>
+<h4 class="subsection-header">Decapitation Campaign Deepens</h4>
+<ul>
+<li><strong>Two more named officials killed</strong> (announced Friday March 20, IDF official X post):</li>
+<li><strong>Esmail Ahmadi</strong> — Head of Intelligence Division, Basij Force. Killed in targeted strike "in the heart of Tehran."</li>
+<li><strong>Mehdi Rastami Sh'mastan</strong> — Intelligence Ministry official.</li>
+<li>Plus "several other senior commanders" (IDF claim, unnamed).</li>
+<li>Running total of <strong>named officials killed: ~42+</strong> (up from ~40 in state file).</li>
+<li>Wikipedia aggregate (as of March 17): HRANA documented 1,138 military personnel killed. ISW assessment (March 19): command disruption "limited and insufficient to meet Israel's objectives at this time."</li>
+<li><strong>Mojtaba Khamenei:</strong> Still governing by written statement only. 14+ days without video/audio appearance. Issued 11-page Nowruz address, read by state TV anchor. Written-only governance continues.</li>
+</ul>
+<h4 class="subsection-header">Iraq: Second Front Emerging</h4>
+<ul>
+<li><strong>Iraqi National Intelligence Service HQ</strong> in Mansour district, Baghdad — hit by drone at ~10:00 AM local (07:00 GMT Saturday). One officer killed, one wounded. Iraq intelligence service called it "terrorist attack by rogue elements." Target cooperates with US advisers (Guardian, Al Jazeera, AFP).</li>
+<li><strong>At least 3 drone attacks overnight</strong> targeted US diplomatic/logistics hub at Baghdad International Airport housing US military personnel.</li>
+<li><strong>Massive fire near Victory Base</strong> (US military complex, Baghdad) from drone strike — described as "significant" (Al Jazeera). Journalists prevented from approaching.</li>
+<li>Iran claims (IRIB) targeted US Embassy logistics base in Baghdad three times Friday.</li>
+<li><strong>Pentagon:</strong> Combat helicopters carried out strikes against pro-Iran armed groups in Iraq on Thursday March 20.</li>
+<li>Iraq is evolving from bystander to active battleground — militia attacks on US facilities and Iranian proxy operations intensifying.</li>
+</ul>
+<h4 class="subsection-header">Lebanon Escalation</h4>
+<ul>
+<li><strong>20 killed, 57 wounded</strong> in Israeli attacks across Lebanon on Friday — single-day toll (Disaster Risk Management Unit via Al Jazeera).</li>
+<li>Israel struck <strong>7 neighborhoods in southern Beirut (Dahiyeh)</strong> Saturday after issuing evacuation warnings (Reuters, RTE, DW). Simultaneous strikes on Tehran and Beirut.</li>
+<li><strong>Hezbollah conducted 55 attacks</strong> on Israeli positions March 21 — rockets, drones, artillery. Destroyed <strong>Merkava tank</strong> with guided missile in Al-Taybeh. Drone swarms hit Yara and Matat barracks. Rocket fire on Branit and Zar'it barracks (Palestine Information Center).</li>
+<li><strong>Hezbollah health center struck</strong> in southern Lebanon: <strong>12 medical workers killed</strong> (Washington Post). Israel widening campaign beyond fighters to Hezbollah civilian infrastructure.</li>
+<li>Lebanon total since March 2: <strong>1,001+ killed, 2,584+ wounded, 815,000 displaced</strong> (Al Jazeera).</li>
+</ul>
+<h4 class="subsection-header">Syria Front Opens</h4>
+<ul>
+<li>IDF struck Syrian government infrastructure in <strong>southern Sweida province</strong> Friday night — command center and weapons in military compounds (Reuters, BBC).</li>
+<li>Justification: "in response to attacks against Druze civilians."</li>
+<li>Contradicts US plans to potentially use same Syrian forces to disarm Hezbollah in eastern Lebanon.</li>
+</ul>
+<h4 class="subsection-header">Force Posture Changes</h4>
+<ul>
+<li><strong>5,000 additional US troops</strong> deploying to Gulf (L'Indépendant France) — up from 2,500 Marines (31st MEU + USS Boxer) previously reported. Total US forces now estimated ~57,500.</li>
+<li><strong>UK:</strong> Expanded base authorization to include "defensive operations to protect shipping in Strait of Hormuz," including "operations to degrade missile sites" (NBC News). Trump: "It's been a very late response." Iran FM Araghchi: called it "participation in aggression."</li>
+<li><strong>Iran threatens UAE directly:</strong> Spokesperson Zolfaghari warned that any aggression from UAE against Iranian islands of <strong>Abu Musa and Greater Tunb</strong> will result in "heavy and crushing strikes" on <strong>Ras Al Khaimah</strong> specifically (IRIB, CNN). First time a specific UAE emirate named as target.</li>
+<li><strong>F-35 combat loss analysis:</strong> Russian military analysis (RT) identifies Iranian <strong>"Majid" short-range SAM system with AD-08 missile</strong> as likely weapon that shot down the F-35 on Day 19-20. Not independently verified.</li>
+<li>German Wikipedia aggregate: <strong>IAF has flown ~1,600 sorties and dropped ~4,000 bombs</strong> — exceeding all of Operation Rising Lion.</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">2.</span>
+  <span class="section-icon">🚨</span>
+  CIVILIAN & HUMANITARIAN
+</div>
+<p><strong>Strikes on Nowruz. Daycare hit by cluster munitions. 20,000 sailors stranded. Strike zone reaches Caspian coast.</strong></p>
+<h4 class="subsection-header">Casualties — Iran</h4>
+<ul>
+<li><strong>Iran Health Ministry:</strong> Still reporting <strong>1,444 killed</strong> — figure has not updated (Al Jazeera tracker). Significant lag suspected.</li>
+<li><strong>HRANA</strong> (through March 17): <strong>3,114 deaths</strong> — 1,354 civilians, 1,138 military, 622 unclassified. States "military casualties are significantly higher than figures reported" (Wikipedia citing HRANA).</li>
+<li><strong>Hengaw:</strong> 5,900+ (no update this cycle).</li>
+<li><strong>204 children</strong> killed (Red Crescent, no update).</li>
+<li><strong>19,324 wounded. 3.2 million displaced</strong> (no update this cycle).</li>
+<li><strong>Minab school attack revised upward:</strong> BBC Brazil reports <strong>168 killed including ~110 children</strong> — higher than previous 148-children figure (IRNA/AJ Arabic). Discrepancy in counting methodology. No US administration response to Bellingcat investigation still.</li>
+</ul>
+<h4 class="subsection-header">New Civilian Deaths — March 20-21</h4>
+<ul>
+<li><strong>Kiashahr, Gilan Province:</strong> 2 civilians killed in Dastak village residential area during dawn strikes on Nowruz Day 1 (Fararu, multiple Persian outlets).</li>
+<li><strong>Ramsar, Mazandaran Province</strong> (Caspian Sea coast): Family of three — father, mother, son — killed when missile hit their home (Onda Cero Spain). First confirmed civilian deaths on Iran's Caspian coast. Extends war's geographic reach to northern Iran.</li>
+<li><strong>Tehran Narmak Passage:</strong> Drone debris struck area at 18:30 Friday — no casualties (Fararu).</li>
+<li>Nowruz dawn attacks hit residential areas across Tehran (Shahr-e Rey, District 4, Tehranpars, Piroozi Street), Isfahan, and Karaj. Full civilian casualty count not yet available.</li>
+</ul>
+<h4 class="subsection-header">Casualties — Israel</h4>
+<ul>
+<li><strong>Rishon Lezion:</strong> Iranian ballistic missile cluster munition <strong>hit a daycare</strong> in central Israel (Times of Israel with photos, Infobae). Casualty count not yet confirmed. First responders documented at scene. Whether children were present at time of impact not reported.</li>
+<li><strong>20 Israeli civilian KIA total</strong> (state file figure; no updated aggregate).</li>
+<li><strong>US: 13 KIA, 232 wounded</strong> (no change).</li>
+</ul>
+<h4 class="subsection-header">Lebanon Humanitarian</h4>
+<ul>
+<li><strong>20 killed, 57 wounded</strong> in Israeli attacks across Lebanon on Friday alone (DRMU via AJ).</li>
+<li><strong>12 medical workers killed</strong> when Israeli strike hit Hezbollah-run health center in southern Lebanon (Washington Post). Israel now targeting Hezbollah's civilian infrastructure — health facilities, not just fighters.</li>
+<li><strong>Lebanon totals since March 2:</strong> 1,001+ killed, 2,584+ wounded, 815,000 displaced. Death toll accelerating.</li>
+</ul>
+<h4 class="subsection-header">Maritime Humanitarian Crisis</h4>
+<ul>
+<li><strong>20,000 sailors stranded</strong> in the western Strait of Hormuz area (IMO data via BBC Persian, Euronews Persian). Major humanitarian crisis at sea.</li>
+<li><strong>7 sailors killed</strong> in attacks on commercial ships since war began (IMO).</li>
+<li>IMO held emergency meeting to discuss "protecting the safety and health" of stranded sailors.</li>
+<li>6 cruise ships remain stranded in Gulf (no update).</li>
+<li>Iran selectively opening "safe corridor" — <strong>10 ships transited</strong> through Iranian territorial waters near Larak Island. IRGC developing "coordinated vetting and registration system" — passage in exchange for payment (Lloyd's List, EADaily). A Greek bulk carrier transited Friday broadcasting "Cargo Food for Iran."</li>
+</ul>
+<h4 class="subsection-header">Infrastructure & Economic Impact</h4>
+<ul>
+<li><strong>Natanz nuclear facility</strong> struck again — second attack on enrichment infrastructure. No radiation release confirmed (IAEA, Iran Nuclear Safety Center). IAEA Director General Grossi: "military restraint to avoid risk of a nuclear accident."</li>
+<li><strong>Iran internet blackout:</strong> Continuing into Week 3+. 92 million people cut off. No change detected.</li>
+<li><strong>US gas prices:</strong> $3.91/gal average (+$0.07 from previous cycle, <strong>+93¢ total in March</strong>). Range $3.24–$5.66 by state (CNN/AAA Friday).</li>
+<li><strong>Brent crude:</strong> >$113/bbl (NRC Netherlands) — more than doubled since war start February 28.</li>
+<li><strong>United Airlines</strong> preparing for <strong>$175/barrel oil</strong>, cutting 5% of scheduled flights. CEO Kirby: extra $11B annual jet fuel expense at current prices — exceeds company's best-ever annual profit (Fortune).</li>
+<li><strong>Gold:</strong> $4,607/oz — slight recovery from crash below $4,500.</li>
+<li><strong>Iran domestic:</strong> Pre-war inflation 90%. Stock exchange still closed. 19-year-old wrestler publicly hanged (March 20). 100+ arrests for espionage/media sharing. Ongoing internal crackdown parallel to external war.</li>
+<li>Iraq declared <strong>force majeure</strong> on oil exports (March 20). London JWC expanded war-risk zone to all Gulf state waters.</li>
+</ul>
+<h4 class="subsection-header">Symbolic Dimension</h4>
+<ul>
+<li>Striking Natanz on <strong>Nowruz Day 1</strong> (1 Farvardin 1405 — the most significant holiday in Iranian culture) carries deep psychological weight. Every Iranian woke on what should be a day of renewal to news of nuclear facility attacks. Persian media juxtaposing bombs and holiday coverage simultaneously.</li>
+<li><strong>Araghchi (March 19 tweet):</strong> "Our response employed FRACTION of our power. The ONLY reason for restraint was respect for requested de-escalation. ZERO restraint if our infrastructures are struck again."</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">3.</span>
+  <span class="section-icon">📊</span>
+  ECONOMIC & MARKET IMPACT
+</div>
+<h4 class="subsection-header">Energy Markets</h4>
+<ul>
+<li><strong>Brent crude:</strong> $112.19/bbl Friday close (March 20), holding ~$112-113 Saturday. Briefly spiked to $119/bbl intraday Thursday (March 19) before retreating after Trump told Israel not to attack energy facilities. <strong>+56% since war start</strong> (NRC Netherlands: "more than doubling since February 28").</li>
+<li><strong>WTI:</strong> ~$98/bbl Friday close, tracking Brent at widening ~$14 discount.</li>
+<li><strong>Bloomberg (March 21):</strong> Reports headline Brent "doesn't tell the market's real story" — physical-market premiums, insurance costs, and rerouting charges mean real delivered crude costs significantly exceed benchmark.</li>
+<li><strong>US gasoline:</strong> $3.91/gal national average (AAA/CNN Friday), <strong>+$0.07 from previous cycle</strong>, +$0.93 total in March. Range: $3.24 (cheapest state) to $5.66 (most expensive).</li>
+<li><strong>European natural gas (TTF):</strong> Nearly doubled to >€60/MWh by mid-March. Traded <strong>24% higher</strong> on March 19 following South Pars/Qatar energy infrastructure attacks (NBC News). EU storage at ~30% capacity after harsh winter — lowest seasonal level in years.</li>
+<li><strong>LNG:</strong> QatarEnergy force majeure ongoing. 17% of Qatar LNG capacity out for 3-5 years ($20B/yr loss). LNG spot prices elevated across Asia-Pacific.</li>
+<li><strong>SPR release:</strong> IEA coordinated record 400M barrel release from strategic reserves. US Treasury authorized third sanctions waiver — 140M barrels Iranian crude at sea, delivery allowed through April 19. Iran Oil Ministry disputes volume exists: "Iran essentially has no crude oil left floating on water."</li>
+<li><strong>Saudi East-West pipeline:</strong> Doubled utilization to 80% (3M bpd incremental) by March 17 (BNEF) — partially bypassing Hormuz.</li>
+<li><strong>Gulf production losses:</strong> 10M+ bpd offline as of mid-March. Largest supply disruption in global oil market history (IEA).</li>
+</ul>
+<h4 class="subsection-header">Shipping & Insurance</h4>
+<ul>
+<li><strong>VLCC charter rates:</strong> Peaked at ~$800K/day early in conflict (quadrupled from pre-war). <strong>S&P Global (March 17):</strong> Now facing downward pressure as tankers reposition AWAY from Gulf — "crude loadings around the Persian Gulf plummeted," creating oversupply of ships chasing Atlantic Basin cargoes.</li>
+<li><strong>War risk premiums:</strong> Up <strong>300%+</strong> vs January 2025. Single VLCC transit now costs >$400K in war risk alone (was ~$100K). Single voyage insurance surcharge: <strong>+$5M</strong> (FinancialContent, citing Lloyd's data).</li>
+<li><strong>Cargo insurance:</strong> Up <strong>150-200%</strong> on Gulf-transiting shipments (Middle East Insider).</li>
+<li><strong>London JWC:</strong> Expanded designated war zone to all Gulf state waters.</li>
+<li><strong>Iraq:</strong> Declared force majeure March 20 on all crude exports.</li>
+<li><strong>20,000 sailors stranded</strong> in western Strait (IMO data via BBC Persian). 7 killed in attacks on commercial ships since war began. IMO held emergency meeting on crew safety.</li>
+<li><strong>Iran "toll corridor":</strong> 10 ships now transited via IRGC-managed "safe corridor" close to Iran's coastline near Larak Island. IRGC developing "coordinated vetting and registration system" — passage in exchange for payment (Lloyd's List, EADaily). Countries negotiating: Japan, France, Germany, Italy, Netherlands, UK, Iraq, Malaysia, China, India, Pakistan.</li>
+</ul>
+<h4 class="subsection-header">Equities</h4>
+<ul>
+<li><strong>S&P 500:</strong> -1.51% Friday to <strong>6,506.48</strong> — lowest close in 6 months. Fourth consecutive weekly loss (longest streak in one year). In negative territory for 2026 (CNN).</li>
+<li><strong>Dow Jones:</strong> -443.96 (-0.96%) to <strong>45,577.47</strong>. Fourth consecutive weekly loss (longest in three years).</li>
+<li><strong>Nasdaq:</strong> -2.01% to <strong>21,647.61</strong>. Tech suffering from inflation/rate fears + rotation into energy/defense.</li>
+<li><strong>Sector rotation:</strong> Goldman Sachs, Bank of America both recommending energy stocks. Defense stocks (Northrop Grumman +6% single-day spike) and energy majors outperforming. AI/tech stocks underperforming as investors rotate to war beneficiaries (Motley Fool, Bloomberg).</li>
+<li><strong>Airlines:</strong> United Airlines cutting <strong>5% of all scheduled flights</strong> (Q2-Q3). CEO Kirby: preparing for <strong>$175/bbl oil</strong>, not returning below $100 until end of 2027. "Jet fuel prices have more than doubled in three weeks." Extra fuel cost at current levels: <strong>$11B/year</strong> — exceeds United's best-ever annual profit of <$5B (Reuters, March 20).</li>
+</ul>
+<h4 class="subsection-header">Fixed Income & Sovereign Risk</h4>
+<ul>
+<li><strong>Fed:</strong> Held rates at March 18 meeting. Rate cut expectations effectively eliminated — war-driven inflation overrides easing case.</li>
+<li><strong>ECB:</strong> Postponed planned rate reductions March 19. Raised 2026 inflation forecast, cut GDP growth projections. Warning of stagflation if blockade persists through summer refill season (Wikipedia economic impact article).</li>
+<li><strong>Treasury demand:</strong> Elevated as safe-haven bid. Gold-to-bonds rotation continues — rising yields making bonds relatively more attractive than gold.</li>
+<li><strong>Eurozone recession risk:</strong> ECB warning Germany and Italy could enter technical recession by end of 2026. Energy-intensive EU manufacturers imposing surcharges up to 30% on chemical/steel products. UK inflation expected to breach 5%.</li>
+<li><strong>$200B US supplemental:</strong> Bipartisan opposition deepening. At $11.3B per 6 days of war, $200B funds ~106 days. Senate has not even voted to discuss the war publicly.</li>
+</ul>
+<h4 class="subsection-header">Currencies</h4>
+<ul>
+<li><strong>USD/IRR:</strong> Iranian rial under extreme pressure. Pre-war inflation 90%. Internet blackout prevents real-time market pricing. Central Bank of Iran resorting to $507M+ in USDT stablecoin purchases to defend rial and settle international trade (Elliptic).</li>
+<li><strong>Regional currencies:</strong> Gulf pegs (SAR, AED, BHD, KWD, QAR) holding via dollar peg mechanisms but sovereign wealth funds redirecting from investment to defense/reconstruction spending (DW). Long-term peg sustainability questioned if war extends.</li>
+<li><strong>DXY:</strong> Dollar strengthening on safe-haven flows + Fed hold. Euro weakening on energy vulnerability.</li>
+<li><strong>Indian rupee:</strong> Under pressure from elevated crude import costs. Premium petrol prices rising. India depends on Middle East for majority of crude imports.</li>
+</ul>
+<h4 class="subsection-header">Commodities</h4>
+<ul>
+<li><strong>Gold:</strong> $4,607/oz — slight recovery from crash lows below $4,500. Still down <strong>~9.4%</strong> from pre-war $5,087. Counterintuitive war-time crash driven by: inflation fears → Fed holds → yields rise → gold loses vs bonds. Possible Gulf sovereign fund forced liquidation. Worst week since 1983 (reported last cycle). <strong>Lloyd's insurance document (via AInvest):</strong> IRGC Quds Force and Hezbollah sending physical gold from Venezuela to Iran to fund operations.</li>
+<li><strong>Wheat/food:</strong> GCC "grocery supply emergency" — 70% of regional food imports disrupted. Consumer prices up 40-120% across Gulf states. Lulu Retail airlifting staples. Kuwait and Qatar face drinking water crisis after desalination plant strikes (99% of supply). Vietnam experiencing fuel station queues (Wikipedia).</li>
+<li><strong>European industrial costs:</strong> Chemical and steel manufacturers imposing up to 30% surcharges on electricity and feedstock costs. Risk of permanent deindustrialization in some sectors.</li>
+<li><strong>Container rates:</strong> Vessels avoiding both Hormuz AND Bab al-Mandab (Houthi threat), rerouting via Cape of Good Hope. Afghanistan-Pakistan conflict simultaneously disrupting Central Asian trade routes.</li>
+</ul>
+<h4 class="subsection-header">💰 Cryptocurrency & Digital Assets</h4>
+<p><strong>Bitcoin</strong></p>
+<ul>
+<li><strong>BTC:</strong> Briefly slid below $70,000 Friday (Bloomberg). Recovered above <strong>$71,000</strong> Saturday morning — heading for first weekly loss since war began but still <strong>+9% above pre-war levels</strong>. Now worth more than an extra ounce of gold per unit (XE data via Gizmodo).</li>
+<li><strong>Digital gold narrative:</strong> Holding up better than expected. Outperforming physical gold directly since war start. Advocates point to "neutral, apolitical store of value" thesis (Gizmodo analysis).</li>
+<li><strong>Global hashrate:</strong> 7-day average peaked near <strong>1,083 EH/s</strong> on March 1, then fell to ~954 EH/s by March 16 — <strong>drawdown of ~12%</strong>, partially attributed to Iranian mining operations going offline after strikes and internet blackout (AmUseOnX newsletter).</li>
+<li><strong>Fortune (March 19):</strong> BTC at $69,370 intraday — war duration fears ("could drag on at least until May") weighing on sentiment.</li>
+</ul>
+<p><strong>Ethereum & Altcoins</strong></p>
+<ul>
+<li><strong>ETH:</strong> $2,142-2,161 range (Fortune/Changelly, March 20-21). Down <strong>40%+</strong> from October 2025 highs. Flashing "bottom signals" per Bitmine's Tom Lee. XRP and other altcoins sliding amid mixed market action (TheStreet).</li>
+<li><strong>Solana meme coins:</strong> Crashing — PIPPIN and others in freefall as risk appetite contracts.</li>
+</ul>
+<p><strong>Stablecoin Flows & Iran Sanctions Evasion</strong></p>
+<ul>
+<li><strong>Central Bank of Iran:</strong> Acquired at least <strong>$507M in USDT</strong> (Tether) to support rial and settle international trade (Elliptic). Transactions primarily on <strong>Tron blockchain</strong>.</li>
+<li><strong>IRGC:</strong> Converted <strong>$500-600M of rial into USDT on Tron chain</strong> (FINTECH.TV). Separate from central bank activity.</li>
+<li><strong>Binance:</strong> <strong>$439M Tether outflow</strong> to Iranian proxy wallets flagged — sparking compliance fears (AInvest, March 14).</li>
+<li><strong>Chainalysis:</strong> $10.3M in outflows from major Iranian exchanges between Feb 28-Mar 2. Hourly volumes spiked to ~$2M immediately after strikes began. Total monetized proceeds flowing through Iranian sanctions-evasion crypto apparatus: <strong>$540M-$1.9B</strong> (Chainalysis/Reuters range).</li>
+<li><strong>Elliptic:</strong> <strong>700% surge</strong> in outflows from Nobitex (Iran's largest exchange, 11M+ users) starting within minutes of initial attacks. Funds moved primarily to overseas platforms.</li>
+<li><strong>TRM Labs:</strong> After internet blackout, overall Iranian crypto transaction volumes fell <strong>~80%</strong>. Exchanges suspended withdrawals and paused USDT-toman trading pairs at central bank direction.</li>
+<li><strong>UK enforcement:</strong> Moving to dissolve crypto exchange linked to IRGC and Babak Zanjani for sanctions evasion.</li>
+<li><strong>FBI:</strong> Warning over fake "FBI Token" on Tron blockchain. TRM Labs (Jan 2026): flagged Tron as "common tool for sanctions evasion in Iran."</li>
+<li><strong>GENIUS Act dual-edge (Gizmodo):</strong> US stablecoin regulation strengthens dollar dominance but also "gives sanctioned entities new tools to sidestep restrictions." 2025 saw record $154B in illicit crypto flows, with Iran and Venezuela as major state-level users (Chainalysis).</li>
+</ul>
+<h4 class="subsection-header">Supply Chain & Trade</h4>
+<ul>
+<li><strong>Hormuz traffic:</strong> 95 ships/day pre-war → ~90 total transits in 22 days. 10 via new Iran-managed "safe corridor." Strait functionally closed to non-approved traffic.</li>
+<li><strong>Iran selective blockade:</strong> FM Araghchi to Kyodo: "closed only to ships belonging to our enemies." Offering Japan safe passage — critical given Japan's 93% Middle East crude dependency. China maintaining dark shipping (11.7M barrels through March 10).</li>
+<li><strong>Aviation:</strong> Central Middle East corridor remains shut. Airlines cancelling through May-October. 6 cruise ships stranded in Gulf. Worst aviation disruption since COVID. European tourism to eastern Mediterranean sharply impacted.</li>
+<li><strong>Gulf food security:</strong> 80% of GCC caloric intake transits Hormuz. 70% of regional food imports disrupted by mid-March. Desalination strikes threaten water supply in Kuwait and Qatar (99% dependency).</li>
+<li><strong>Global rerouting:</strong> Double avoidance of Hormuz + Bab al-Mandab forcing Cape of Good Hope routing. Afghan-Pakistan conflict disrupting Central Asian overland routes simultaneously.</li>
+</ul>
+<h4 class="subsection-header">Sanctions & SWIFT</h4>
+<ul>
+<li><strong>Third US sanctions waiver in ~2 weeks:</strong> Treasury authorized delivery/sale of Iranian crude loaded before March 20, lasting through April 19. Jones Act lifted earlier. Russian oil sanctions temporarily lifted.</li>
+<li><strong>Treasury Secretary Bessent:</strong> "approximately 140 million barrels of oil to global markets" — framing as market management.</li>
+<li><strong>Iran response (Oil Ministry's Ghodousi):</strong> "The statement by the US treasury secretary is solely intended to give hope to buyers and to psychologically manage the market."</li>
+<li><strong>DOJ/FBI:</strong> Seized 4 Handala (MOIS) domains Friday. Handala rebuilt within hours. AG Bondi: "terrorist propaganda online can incite real-world violence."</li>
+<li><strong>Crypto sanctions enforcement:</strong> UK targeting IRGC-linked exchange. FBI/TRM Labs flagging Tron chain. Binance $439M outflow under scrutiny. Gap between sanctions regime and crypto enforcement widening as Iran demonstrates $1B+ in digital sanctions evasion capacity.</li>
+<li><strong>Swiss arms freeze:</strong> Confirmed again Saturday — all arms exports to US frozen, airspace closed to US military flights.</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">4.</span>
+  <span class="section-icon">✈️</span>
+  TRAVEL & AIRSPACE
+</div>
+<p><strong>Day 22 — Central Middle East corridor remains closed. Restrictions expanding, not contracting.</strong></p>
+<h4 class="subsection-header">Airspace Status (as of 11:30 UTC March 21)</h4>
+<ul>
+<li><strong>CLOSED:</strong> Iran, Iraq, Kuwait, Syria — total closure, all altitudes (OpsGroup, NYT March 20)</li>
+<li><strong>HEAVILY RESTRICTED:</strong> Israel, UAE, Oman, Qatar — limited operations with severe constraints (OpsGroup via NYT)</li>
+<li><strong>NEW — India DGCA expanded advisory March 21:</strong> Now covers <strong>11 airspaces</strong> (up from 9 previously) — Iran, Iraq, Israel, Jordan, Lebanon, Kuwait, Saudi Arabia, UAE, Bahrain, Qatar, Oman. Valid through <strong>March 28, 2026</strong>. Indian carriers barred below FL320 over Saudi Arabia and Oman (DGCA advisory, IndianEagle)</li>
+<li>Flight corridors between Europe and Asia now narrowed to two viable routes — both adding significant fuel burn and hours (NYT, March 20)</li>
+</ul>
+<h4 class="subsection-header">Airline Suspensions (updated)</h4>
+<ul>
+<li><strong>Lufthansa Group:</strong> Riyadh suspended through <strong>Apr 5</strong>; Dubai/Abu Dhabi/Amman/Erbil/Beirut through <strong>Mar 28</strong>; Tel Aviv through <strong>Apr 9</strong>; Tehran through <strong>Apr 30</strong> (Newland Chase, Reuters)</li>
+<li><strong>Air France:</strong> Tel Aviv and Beirut through <strong>Mar 21</strong>; Dubai and Riyadh through <strong>Mar 24-25</strong> (Reuters, March 16 update)</li>
+<li><strong>Wizz Air:</strong> Warned Middle East conflict will dent net profit in fiscal 2026 (Reuters, March 20)</li>
+<li><strong>Lufthansa:</strong> 2026 outlook declared "unclear" due to geopolitical uncertainty (Reuters, March 20)</li>
+</ul>
+<h4 class="subsection-header">⚠️ United Airlines — Industry Bellwether Signal</h4>
+<ul>
+<li>CEO Scott Kirby: airline preparing for <strong>$175/barrel oil</strong> and prices not returning below $100 until <strong>end of 2027</strong> (Reuters, March 20)</li>
+<li>Cutting <strong>5% of all scheduled flights</strong> + 3% of off-peak flights over Q2-Q3 2026 (Reuters, Business Insider)</li>
+<li>Red-eye and low-traffic day flights cut first</li>
+<li>Kirby: "Jet fuel prices have more than doubled in three weeks... If prices stayed at this level, it would mean an extra <strong>$11B in annual expense</strong> just for jet fuel. For perspective, in United's best year ever, we made less than $5B." (Reuters)</li>
+<li><strong>Significance:</strong> First major US carrier to publicly plan for prolonged war-driven oil shock through 2027</li>
+</ul>
+<h4 class="subsection-header">Maritime</h4>
+<ul>
+<li><strong>20,000 sailors stranded</strong> in western Strait of Hormuz — IMO data (BBC Persian, Euronews Persian). 7 sailors killed in attacks on commercial ships since war began. IMO held emergency meeting on sailor safety.</li>
+<li>6 cruise ships remain stranded in Gulf (no change from state file)</li>
+<li>Hormuz traffic: ~90 total transits in 22 days vs. 95/day pre-war. <strong>10 ships transited via new Iranian "safe corridor"</strong> near Larak Island — IRGC developing vetting/registration system for approved passage (Lloyd's List)</li>
+</ul>
+<h4 class="subsection-header">Travel Advisories</h4>
+<ul>
+<li><strong>US State Department:</strong> "DEPART NOW" advisory active for <strong>16 Middle Eastern countries</strong> (Newland Chase, March 20)</li>
+<li><strong>Newland Chase corporate advisory (March 19):</strong> Rates situation CRITICAL — active multi-front armed conflict. Warns mobility managers civilian airports have been struck across UAE, Saudi, Qatar, Bahrain, Kuwait, Oman</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">7.</span>
+  <span class="section-icon">🌍</span>
+  DIPLOMATIC & INTERNATIONAL
+</div>
+<h4 class="subsection-header">Rubio Emergency Arms Sales — $16.5B, Congress Bypassed</h4>
+<ul>
+<li>Rubio determined "an emergency exists that requires the immediate sale" of weapons to <strong>UAE, Kuwait, and Jordan</strong> — bypassing congressional approval (NYT, Al-Monitor, March 20)</li>
+<li>Package includes <strong>THAAD air defense system ($4.5B)</strong> with Mach-8 interceptors, anti-drone systems, and F-16 munitions (The National)</li>
+<li>Total: <strong>$16.5B</strong> in radar, air defense, and fighter aircraft weaponry (Al-Monitor)</li>
+<li>Rubio also conducted calls this week with foreign ministers of <strong>Japan, South Korea, UK, UAE, France, Australia, Kuwait, Qatar, Saudi Arabia</strong> + NATO Secretary General (NBC News, senior State Dept official)</li>
+</ul>
+<h4 class="subsection-header">21-Nation Joint Statement on Hormuz — March 19</h4>
+<ul>
+<li>Signatories: <strong>UK, France, Germany, Italy, Netherlands, Japan, Canada, South Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain, Lithuania</strong> (GOV.UK, Reuters, Tribune India)</li>
+<li>Statement: "We condemn in the strongest terms recent attacks by Iran on unarmed commercial vessels in the Gulf, attacks on civilian infrastructure including oil and gas installations, and the de facto closure of the Strait of Hormuz by Iranian forces"</li>
+<li>Pledged "readiness to contribute to appropriate efforts" to ensure safe passage (Gulf News)</li>
+<li><strong>Notable absences:</strong> Australia (Albanese denied being "out of step"), US (not a signatory — separate posture), India, China</li>
+</ul>
+<h4 class="subsection-header">Saudi-Hosted Regional Meeting — March 19</h4>
+<ul>
+<li>Saudi Arabia convened representatives from <strong>12 nations</strong> in Riyadh: Bahrain, Egypt, Jordan, Kuwait, Lebanon, Pakistan, Qatar, Azerbaijan, Syria, Turkey, UAE (NBC News)</li>
+<li>Saudi FM Prince Faisal: "The trust between Iran and neighbors has been shattered... the prospect of neighboring nations entering the war should not be dismissed"</li>
+<li>Iranian strikes reportedly timed to coincide with the meeting — FM Faisal: "To intimidate those present. To send home the message that Iran will not stop" (NBC News)</li>
+<li>All <strong>6 GCC ambassadors</strong> subsequently met US House Foreign Affairs/Armed Services committees and Senate Foreign Relations in closed-door sessions — pushed for expedited arms sales (NBC News, 2 congressional aides)</li>
+</ul>
+<h4 class="subsection-header">India Emerges as Active Diplomatic Player</h4>
+<ul>
+<li><strong>PM Modi</strong> spoke with Iran President Pezeshkian AND King of Bahrain on Saturday March 21 (The Hindu, TV9 Hindi)</li>
+<li>"Condemned attacks on critical infrastructure" in West Asia — said they "threaten regional stability and disrupt global supply chains"</li>
+<li>India External Affairs Ministry requested ceasefire from all three belligerents (Wikipedia/Reactions)</li>
+<li>India negotiating Hormuz passage directly with Tehran for its own shipping</li>
+</ul>
+<h4 class="subsection-header">Iran Threatens Specific UAE City</h4>
+<ul>
+<li>IRGC spokesperson Zolfaghari (Saturday): "We warn the UAE that in the event of any renewed aggression originating from that country against the Iranian islands of Abu Musa and Greater Tunb... Iran's powerful armed forces will subject <strong>Ras Al Khaimah</strong> in the UAE to heavy and crushing strikes" (IRIB, CNN, Economic Times)</li>
+<li><strong>Escalation:</strong> From general Gulf retaliation to naming a specific emirate as a target</li>
+<li><strong>UAE response posture:</strong> Considering freezing billions in Iranian assets; uncovered Hezbollah/Iran terror network (March 20, Wikipedia/Iran-UAE)</li>
+</ul>
+<h4 class="subsection-header">UK Expands Base Authorization</h4>
+<ul>
+<li>UK agreed to let US use British bases for "defensive operations to protect shipping in Strait of Hormuz," including "operations to degrade missile sites" (NBC News, Starmer office)</li>
+<li>Trump: "It's been a very late response from the U.K."</li>
+<li>Iran FM Araghchi: Called it "participation in aggression" — said Starmer "is putting British lives in danger"</li>
+<li><strong>Faslane incident:</strong> 34-year-old Iranian man + 31-year-old Romanian woman charged after attempting to enter <strong>HM Naval Base Clyde</strong> — home of UK Trident nuclear submarines (Guardian, BBC, March 19-21)</li>
+</ul>
+<h4 class="subsection-header">Russia & Belarus</h4>
+<ul>
+<li><strong>Putin</strong> congratulated Mojtaba Khamenei + Pezeshkian on Nowruz: "Moscow remains a loyal friend and reliable partner of Tehran" (Kremlin, Saturday)</li>
+<li>But: "Some Iranian sources have said they have had little real help from Moscow" (NBC News)</li>
+<li>Russia provided satellite imagery from VKS to assist Iranian strikes on US forces (ISW, senior European intelligence officer + Middle Eastern diplomat)</li>
+<li><strong>Lukashenko</strong> told RT he "proposed to the US a way to end the war against Iran" — details unknown (RT Russia, March 20)</li>
+</ul>
+<h4 class="subsection-header">Iran's Selective Hormuz Corridor — Diplomatic Weapon</h4>
+<ul>
+<li>Araghchi to Kyodo News: "We have not closed the strait. It is closed only to ships belonging to our enemies"</li>
+<li>Iran offered <strong>Japan</strong> safe passage — willing to coordinate transit (RFI). Japan depends on ME for 93% of crude.</li>
+<li>IRGC developing "coordinated vetting and registration system" — passage in exchange for payment (Lloyd's List, EADaily)</li>
+<li>10 ships transited via "safe corridor" near Iran's coastline at Larak Island (Lloyd's List)</li>
+<li><strong>Countries negotiating passage:</strong> Japan, France, Germany, Italy, Netherlands, UK, Iraq, Malaysia, China, India, Pakistan</li>
+<li><strong>Effect:</strong> Divides coalition between combatants (denied passage) and non-combatants (offered passage at a price)</li>
+</ul>
+<h4 class="subsection-header">Ceasefire Status: Dead</h4>
+<ul>
+<li>No change. Both sides explicitly reject. Iran maximalist conditions remain: lift all sanctions, recognize enrichment rights, pay reparations. Oman/Egypt mediation rebuffed.</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">8.</span>
+  <span class="section-icon">🇺🇸</span>
+  US POLITICS & STRATEGY
+</div>
+<h4 class="subsection-header">Executive Branch</h4>
+<ul>
+<li><strong>Trump "winding down" rhetoric vs. escalation reality:</strong> Trump posted on Truth Social March 20: "we are getting very close to meeting our objectives as we consider winding down our great Military efforts." Minutes later told reporters on White House lawn he wasn't interested in a ceasefire because the US was "obliterating the other side." Said US is "roaming free" in Iran and "I think so" when asked if Israel would end war when US does (NBC).</li>
+<li><strong>Stated objectives shifting again.</strong> Trump described goals as "completely degrading" Iranian missile capabilities, destroying its defense industrial base, eliminating its naval and air forces, never allowing nuclear weapons capability, and "protecting, at the highest level, our Middle Eastern Allies, including Israel, Saudi Arabia, Qatar, the United Arab Emirates, Bahrain, Kuwait, and others" (The National, Reuters).</li>
+<li><strong>Reuters tracker (March 20):</strong> Published comprehensive timeline of how Trump's stated reasons, goals, and timeline have shifted across 22 days — from "Iranians should take over governance" (Feb 28) to Rubio's "Israel was going to attack anyway" (March 2) to Trump contradicting Rubio ("I might have forced their hand," March 3) to current "winding down" messaging.</li>
+<li><strong>Leavitt timeline:</strong> White House Press Secretary Karoline Leavitt posted on X: "the President and the Pentagon predicted it would take approximately 4-6 weeks to achieve this mission" (Al Jazeera). Day 22 = roughly halfway through that window.</li>
+<li><strong>Trump attacks European allies:</strong> Called them "COWARDS" on Truth Social for not helping open the Strait of Hormuz, saying "they complain about the high oil prices they are forced to pay, but don't want to help open the Strait of Hormuz, a simple military maneuver... So easy for them to do, with so little risk. COWARDS, and we will REMEMBER!" (Guardian).</li>
+<li><strong>Hegseth defends $200B request:</strong> "It takes money to kill bad guys" (The Hill).</li>
+<li><strong>Rubio diplomatic campaign:</strong> Held calls this week with foreign ministers of Japan, South Korea, UK, UAE, France, Australia, Kuwait, Qatar, Saudi Arabia, and NATO Secretary General (NBC News, senior State Dept official).</li>
+<li><strong>Oil sanctions eased (third time):</strong> Treasury authorized delivery/sale of Iranian crude loaded before March 20, lasting through April 19. Bessent: "approximately 140 million barrels of oil to global markets." Third sanction waiver in ~2 weeks.</li>
+<li><strong>5,000 additional troops deploying to Gulf</strong> (L'Indépendant, France), on top of 2,500 Marines (31st MEU + USS Boxer departing 3 weeks early). Total US service members in theater now ~57,500.</li>
+</ul>
+<h4 class="subsection-header">Congressional Activity</h4>
+<ul>
+<li><strong>House Democrats planning new war powers vote.</strong> Minority Leader Jeffries told reporters Thursday: "All we'll need is a few Republicans to join us so we can stand up for the American people, who are overwhelmingly opposed to Donald Trump's reckless warfare." Said he expects stronger Democratic support than the previous attempt (Once Upon A Hill).</li>
+<li><strong>Previous vote failed 212-219.</strong> Only 2 Republicans (Massie-KY, Davidson-OH) supported. 4 Democrats defected: Cuellar (TX), Golden (ME), Landsman (OH), Vargas (CA).</li>
+<li><strong>Senate war powers vote failed party-line Wednesday</strong> (March 19). Senate Democrats have "warned they will continue forcing votes unless Republican leaders agree to hold oversight hearings with top national security officials." Multiple procedural options available to interrupt SAVE America Act floor consideration (Once Upon A Hill).</li>
+<li><strong>Senate has not even voted to discuss the war publicly</strong> (Durbin to Time).</li>
+</ul>
+<ul>
+<li><strong>$200B supplemental — bipartisan opposition deepening.</strong></li>
+<li><strong>Sen. Durbin (D-IL):</strong> "Yesterday, we voted on the floor not to even discuss publicly this invasion of Iran. Now comes a $200 billion price tag." Trump would have "a lot of persuading to do" (Time).</li>
+<li><strong>Sen. Schumer (D-NY):</strong> Called it "unacceptable for a war without a plan" (LA Times).</li>
+<li><strong>Rep. Boebert (R-CO):</strong> Confirmed NO vote: "I will not vote for a war supplemental. I am tired of the Industrial War Complex getting all of our hard-earned tax dollars" (Fox News, Gateway Pundit). But deferred on war itself: "That's up to the president."</li>
+<li><strong>Rep. Levin (D-CA):</strong> Opposes the supplement (2paragraphs).</li>
+<li>OMB has not formally transmitted the request to Congress.</li>
+<li><strong>At $11.3B per 6 days, $200B funds ~106 days of war</strong> (Reason back-of-envelope).</li>
+<li><strong>House Appropriations field hearing at UN Mission, New York (Friday March 21):</strong></li>
+<li><strong>Rep. DeLauro (D-CT):</strong> "This administration has chosen to defund the U.N., flout its charter... and begin an open-ended war, a war of choice."</li>
+<li><strong>Rep. Torres (D-CA):</strong> "Hegseth is asking for $200 billion increase just to fund the war... while we are cutting food lunch programs for American children."</li>
+<li><strong>Mike Waltz (US Ambassador to UN):</strong> Defended cuts, said UN budget "quadrupled in 25 years."</li>
+</ul>
+<h4 class="subsection-header">Electoral Politics</h4>
+<ul>
+<li><strong>Polling (no new data this cycle):</strong> Trump approval 42/51. Generic ballot D+7. 79% of Trump voters support declaring victory and ending war. 58% oppose ground troops. 53% say war is NOT putting America first. These numbers predate the Natanz strike and Katz escalation announcement — expect further shifts.</li>
+<li><strong>Jeffries framing election stakes:</strong> Accused administration of failing to anticipate Hormuz closure, regional widening, absence of regime change. Said ground troops "will be a disaster" — positioning Democrats for midterms on antiwar footing.</li>
+<li><strong>Republican fracture visible:</strong> Boebert's public NO + Massie/Davidson war powers votes show populist-right/libertarian wing splitting from hawkish establishment. The supplemental vote will be the definitive test.</li>
+</ul>
+<h4 class="subsection-header">Antiwar Movement & Civil Society</h4>
+<ul>
+<li><strong>No major new US protest reporting found this cycle</strong> (Saturday; news cycle dominated by Natanz strike and Katz escalation).</li>
+<li><strong>Iranian diaspora rallies continue worldwide</strong> — but these are largely PRO-war/pro-regime-change, celebrating strikes on the Islamic Republic. Pahlavi called for large gatherings during Chaharshanbe Suri (March 19 eve). No post-event size estimates found (Wikipedia, multiple).</li>
+<li><strong>House field hearing at UN Mission</strong> drew sharp rhetoric from DeLauro and Torres linking war spending to domestic cuts — framing gaining traction in Democratic messaging.</li>
+<li><strong>DOJ Handala domain seizures (Friday):</strong> AG Bondi: "terrorist propaganda online can incite real-world violence." FBI Director Patel: "FBI will hunt down every actor behind these cowardly death threats and cyberattacks." Handala continues to rebuild rapidly after seizures. This complicates antiwar digital organizing — any Iran-linked online activism faces heightened scrutiny.</li>
+<li><strong>Joe Kent (NCTC Director who resigned March 17)</strong> remains under FBI investigation. His Tucker Carlson interview — "Israelis drove the decision" — continues circulating as a reference point for antiwar conservatives. McConnell called his statements "virulent antisemitism."</li>
+</ul>
+<h4 class="subsection-header">US-Israel Strategic Divergence</h4>
+<ul>
+<li><strong>This is the defining development of the past 24 hours.</strong> Israeli Defense Minister Katz announced Saturday: "This week, the intensity of the strikes that the IDF and the US military will carry out against the Iranian terror regime and the infrastructure it relies on will significantly escalate" — starting Sunday March 22 (Times of Israel, NYT, Le Parisien).</li>
+<li><strong>Trump says "winding down." Israel says "significantly escalate." Same 24-hour window.</strong> The gap between US political messaging and Israeli military planning is now explicit.</li>
+<li><strong>Israeli Ambassador Leiter on Meet the Press NOW:</strong> Israel "will be ready to end the war when the US does... We have planned this together, we're implementing it together and the grand finale will come together as well." Framed goal as "regime collapse" not "regime change" — "The people of Iran have to topple this regime. We have to set the stage."</li>
+<li><strong>Bolton (NBC) on Natanz:</strong> "It would not be a success under any circumstances if we left the material in Iran, where it could be transferred to terrorist groups." Pushing for ground component or Iranian cooperation to secure ~970 lbs of HEU.</li>
+</ul>
+<h4 class="subsection-header">Strategy & Analysis</h4>
+<ul>
+<li><strong>CSIS (March 20) — "Iran's War Strategy: Don't Calibrate—Escalate":</strong> Iran has abandoned the tit-for-tat calibration of 2024-2025 conflicts for "unbridled escalation." Horizontal escalation (14 countries hit in first week) and vertical escalation (energy infrastructure, Hormuz mining) are both accelerating. "Threatened by regime change and determined to deter future attacks, Iran appears to have opted for unrestrained escalation." CSIS frames Iran's strategy as rational given existential stakes — the opening salvo killed the supreme leader.</li>
+<li><strong>Small Wars Journal / CSIS (Dubik, March 20) — "Relearning the Importance of Waging a War, Not Just Fighting One":</strong> Lt. Gen. (ret.) Dubik argues US military success in tactical combat does not translate into strategic victory. Identifies three failures: (1) lack of strategic coherence — "Reduction of Iran's military capacity? Destruction of their nuclear capacity? Regime change? All of the above?"; (2) weak organizational decision-making capacity — "given the variety of explanations for why we went to war presented by the various principals"; (3) insufficient public legitimacy. Warns: "A devastated Iran with a destroyed security structure... but more hardline and repressive... willing to act asymmetrically within the region and globally — this will be the direct products of our extensive bombing campaign. Do we then walk away from an Iran laid to waste?"</li>
+<li><strong>Al Jazeera analysis (March 20):</strong> US-Israeli targets reveal war goals "three weeks in" — noted both sides "appeared on the same page in early efforts to 'decapitate' the Iranian government," but CSIS's Alterman warned this strategy would "prove ultimately ineffective when relying on airpower alone."</li>
+<li><strong>Axios (March 20):</strong> Trump considering "winding down" Iran war WITHOUT opening Hormuz Strait — "This would end the U.S. war effort, but not the global energy crisis the war created." If confirmed, this is a potential strategic outcome: declare military victory, leave the economic damage for the world to absorb.</li>
+<li><strong>Heritage/AEI coalition</strong> (per analysis aggregation): Using language of "operational success, restored deterrence, and precision warfare," claiming strikes delivered major setback to Iran's nuclear program and proved targeted force works. Contrasts sharply with CSIS/Brookings restraint-caucus analysis.</li>
+<li><strong>NYT Op-Ed (March 20):</strong> Securing HEU would require "a large and prolonged on-the-ground military presence, or the cooperation of Iran's government." Neither appears forthcoming.</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">9.</span>
+  <span class="section-icon">🇺🇸</span>
+  US DOMESTIC SECURITY & HOMEFRONT
+</div>
+<h4 class="subsection-header">9a. 🟥 THREAT POSTURE & SECURITY</h4>
+<ul>
+<li><strong>ODNI 2026 Annual Threat Assessment released March 18:</strong> Describes security environment defined by "simultaneous pressure from major powers, transnational threats, and rapid technological change" (Small Wars Journal/ODNI). DNI Gabbard testified Iranian regime is "intact but largely degraded" by ongoing strikes (CBS News, March 18 hearing).</li>
+<li><strong>FBI Director Patel confirmed Iran is a "continuing threat to the homeland"</strong> at House Worldwide Threats hearing March 19 (CNN). Same testimony: Patel acknowledged firing ~12 agents from a counterintelligence unit <strong>tasked with monitoring threats from Iran</strong>, citing "ethical violations" — agents were members of the Mar-a-Lago classified documents investigation (NYT, March 19). Democratic lawmakers pressed Patel on whether firings weakened Iran threat monitoring; Patel replied "I don't think so" (The Independent).</li>
+<li><strong>DHS partial shutdown continues — Week 5+.</strong> Over 100,000 DHS employees working without pay (Military.com, March 20). <strong>No NTAS advisories have been issued</strong> during the entire war (Reuters, March 13). White House previously halted a joint DHS/FBI/NCTC bulletin warning state and local agencies of heightened threat (Reuters). DHS has not published its annual Homeland Threat Assessment (Washington Post, March 16).</li>
+<li><strong>TSA staffing crisis deepening:</strong> Hundreds of TSA officers have quit (CNN, March 16). Acting Deputy TSA Administrator Stahl warned "we may have to quite literally shut down airports, particularly smaller ones, if call-out rates go up" (Time, March 17). Travelers facing multi-hour security lines at major airports nationwide (Guardian, PBS, March 20). Surge teams deployed to airports with severe shortages.</li>
+<li><strong>DOJ Handala domain seizures (March 20):</strong> AG Bondi: "terrorist propaganda online can incite real-world violence." FBI Director Patel: "FBI will hunt down every actor behind these cowardly death threats and cyberattacks." Handala (MOIS-linked) rebuilds rapidly after each takedown.</li>
+<li><strong>Three domestic terror attacks in 7 days remain the baseline:</strong> Gracie Mansion IEDs (March 7), Temple Israel synagogue (March 12), Old Dominion University shooting (March 12). No new kinetic incidents detected this cycle.</li>
+<li><strong>Expert assessment (Salon, March 16):</strong> Former DHS/FBI official Javed Ali: "the potential for Iran to at least consider terror attacks in the U.S. is higher now than when the war first began." Guardian (March 15): Observers question FBI/DHS readiness to meet stepped-up Iranian threat.</li>
+</ul>
+<h4 class="subsection-header">9b. 🏙️ NEW YORK CITY [PRIORITY — ENHANCED COVERAGE]</h4>
+<p><strong>PROTESTS — TWO OPPOSING MOVEMENTS INTENSIFYING:</strong></p>
+<ul>
+<li><strong>Pro-regime / anti-war activity:</strong></li>
+<li><strong>Washington Square Park, March 6:</strong> Khamenei "vigil" organized by Workers World Party, United National Antiwar Coalition, Bronx Anti-War Coalition, and ANSWER Coalition. Only "a few dozen" attendees from five far-left groups (Fox News Digital). Jewish rapper Rami Even-Esh ("Kosha Dillz") was tackled, punched, and kicked after picking up Khamenei portrait. Both Even-Esh and one assailant arrested by NYPD. Video went viral.</li>
+<li><strong>Network Contagion Research Institute (Princeton) report:</strong> Identified that vigil organizers have <strong>documented ties to Iranian state media Press TV</strong> through leaked internal records (2019-2022). Structured ecosystem linking US activist groups, intermediary platforms, and Iranian state outlets for "malign foreign influence" (NCRI/Fox News).</li>
+<li><strong>Al-Quds Day, March 13 — Times Square:</strong> Protesters paraded portraits of Khamenei, chanted <strong>"Marg bar America" and "Marg bar Israel"</strong> (Death to America, Death to Israel). Invoked "Khaybar" slogan — reference to 7th-century massacre of Jews (ADL). Chanted "We support Hamas here" and "We support Hezbollah here." Carried "Glory to the Axis of Resistance" banner featuring PFLP, Hezbollah, and Hamas logos alongside photos of Sinwar, Abu Obaida, and Nasrallah (ADL report, March 19). Speakers celebrated Iranian strikes on Israel as continuation of "heroic Al-Aqsa Flood."</li>
+<li><strong>Epstein conspiracy overlay:</strong> Displays at NYC protests featured Israeli flag with Epstein's image replacing Star of David. Speakers referenced "Operation Epstein Fury" — conspiratorial rebranding of Operation Epic Fury (ADL).</li>
+<li><strong>Fox News identified 75+ organizations</strong> protesting in support of Iran's regime nationally, including 50 far-left/Marxist/socialist groups and 22 Islamist-aligned organizations. Many connected to Neville Roy Singham network (Shanghai-based tech tycoon under Congressional investigation for potential CCP foreign agent ties).</li>
+</ul>
+<ul>
+<li><strong>Pro-war / anti-regime diaspora activity:</strong></li>
+<li><strong>"Make Iran Great Again" rally, Times Square, March 16:</strong> Iranian-Americans and Israelis marched together. Threw flowers in front of Israeli Consulate. Chanted "USA! USA!" and called for regime change. Also rallied outside UN headquarters (ABC7, Pix11, Yahoo News). Chanted "Democracy for Iran" and "Regime Change for Iran" in English and Farsi.</li>
+</ul>
+<p><strong>HATE CRIMES:</strong></p>
+<ul>
+<li><strong>NYPD data: Anti-Jewish hate crimes up 182% in January 2026</strong> vs. January 2025 (Jerusalem Post/NYPD). 31 hate crimes against Jewish people in January alone — 20 more than same period last year.</li>
+<li><strong>February 2026: Total hate crimes spiked 152%</strong> over the previous month, driven largely by anti-Jewish incidents (NYPD/Center Square, March 19).</li>
+<li><strong>NYPD revised hate crime reporting methodology</strong> — will now only report incidents investigated and confirmed as bias incidents, rather than incidents under review. Experts warn new system could give false impression of decreasing hate crimes (Times of Israel, March 20). NYC Council Speaker Menin pushing broader anti-antisemitism plan; Councilmember Dinowitz introduced legislation requiring police to report on status of all hate crime cases.</li>
+<li><strong>"Kill a Jew, go to heaven" graffiti found on NYC bike trail</strong> (JNS, week of March 16).</li>
+<li><strong>Gracie Mansion IED suspects:</strong> Two "IS-inspired" teens charged with terror offenses after throwing explosive devices at rightwing anti-Islam protesters outside Gracie Mansion on March 7 (Guardian, March 15).</li>
+</ul>
+<p><strong>SECURITY POSTURE:</strong></p>
+<ul>
+<li><strong>House Appropriations subcommittee held field hearing at US Mission to UN in New York, March 20.</strong> Rep. DeLauro (D-CT): "This administration has chosen to defund the U.N., flout its charter... and begin an open-ended war." Rep. Torres (D-CA): "Hegseth is asking for $200 billion increase... while we are cutting food lunch programs for American children."</li>
+<li>No new NYPD counterterrorism posture changes detected this cycle. NYPD Hate Crimes Task Force active but understaffed amid broader budget pressures.</li>
+</ul>
+<h4 class="subsection-header">9c. 🏙️ LOS ANGELES</h4>
+<ul>
+<li><strong>Tehrangeles diaspora split deepening.</strong> Al Jazeera longform (March 18): "Duelling protests last month were a symptom of the schism unfolding within Los Angeles's Iranian diaspora." LA metro area is home to the <strong>largest concentration of Iranians outside Iran.</strong></li>
+<li><strong>Woodland Hills pro-regime-change rally, March 15:</strong> 2,000+ attended. Speakers led chants in English and Farsi: "Democracy for Iran" and "Regime Change for Iran." Pre-revolution lion-and-sun flags throughout (JNS/Cleveland Jewish News).</li>
+<li><strong>Iranian-Americans celebrated Khamenei's death in LA streets</strong> — but simultaneously express fear for family members still in Iran (Fox News, March 17).</li>
+<li><strong>FBI California drone threat (late February):</strong> FBI warned California police of "unverified information" about Iran having "aspired" to conduct a "surprise attack" using drones launched from "an unidentified vessel off the coast" (Time/ABC News, March 12). DNI Gabbard later stated: "No such threat from Iran to our homeland exists, and it never did."</li>
+<li><strong>San Jose: Three suspects charged with assault</strong> after beating Israeli-Americans in broad daylight. <strong>No hate crime charges filed</strong> despite apparent targeting (Townhall, March 18).</li>
+<li><strong>31st MEU + USS Boxer deploying from Camp Pendleton</strong> 3 weeks ahead of schedule — visible military mobilization in LA metro area.</li>
+</ul>
+<h4 class="subsection-header">9d. 🏙️ CHICAGO</h4>
+<ul>
+<li><strong>Federal Plaza protests on February 28:</strong> Large crowds with anti-war organizations before marching downtown (Wikipedia/multiple).</li>
+<li><strong>Al-Quds Day, March 13:</strong> Attendees chanted <strong>"IRGC make us proud, bomb these genocidal clowns"</strong> and <strong>"Iran, Iran make us proud, turn another ship around"</strong> (ADL). Speakers celebrated Iranian strikes on Israel as "heroic." Chanted "We support Hezbollah here, we support Hamas here."</li>
+<li><strong>Speaker called Israel a "cancer of oppression that needs to go"</strong> — language echoing Iranian regime rhetoric (ADL Quds Day report).</li>
+<li>Protest coalition includes FRSO Chicago, ANSWER Coalition, American Muslims for Palestine, and others (Fight Back News).</li>
+<li>No new incidents or CPD posture changes detected this cycle.</li>
+</ul>
+<h4 class="subsection-header">9e. 🏙️ WASHINGTON DC</h4>
+<ul>
+<li><strong>Multiple protest waves continue near White House:</strong></li>
+<li><strong>February 28:</strong> Hundreds protested near White House on Day 1 of war (Wikipedia).</li>
+<li><strong>March 5:</strong> DC-area activists staged antisemitic "street theatre" outside White House — masks of Trump, Netanyahu, Epstein pantomiming "eating babies" and "drinking blood." Menus labeled "Israel's Pedophile Blackmail Dinner" (ADL).</li>
+<li><strong>March 7:</strong> Iranian-Americans marched near White House advocating secular democracy in Iran; confronted pro-regime socialist organizations (Fox News).</li>
+<li><strong>March 14:</strong> Demonstrators marched toward White House in solidarity with Iranian people (Reuters Connect).</li>
+<li><strong>March 15:</strong> Activists reenacted Minab school strike outside White House — "deadly missile attack on a girl's school" (Al Jazeera video).</li>
+<li><strong>Diaspora regime-change rally at National World War I Memorial</strong> — lion-and-sun flags, regime change chants (YouTube/multiple, March 14).</li>
+<li><strong>Tysons, Virginia (DC suburb), March 4:</strong> Rush hour highway median protest with explicitly antisemitic signs. "Let Goyim die for Israel; American taxpayers pay" — weaponized Yiddish term in conspiratorial framing (ADL).</li>
+<li>No new Secret Service posture changes or riot fencing updates detected.</li>
+</ul>
+<h4 class="subsection-header">9f. ⛽ GAS PRICES & ECONOMIC IMPACT</h4>
+<ul>
+<li><strong>National average: $3.91/gal</strong> (CNN/AAA, March 20) — <strong>up 93¢ in March alone, +30% since war began</strong> (mid-February: ~$2.90/gal per NYT/EIA).</li>
+<li><strong>GasBuddy forecast: Average will hit $4/gallon next week</strong> and trending "toward $4.10/gal and beyond" — Patrick De Haan, GasBuddy head of petroleum analysis (Syracuse.com, March 19).</li>
+<li><strong>Pantheon Macroeconomics: National average expected to reach $4.20</strong> in coming days (Investopedia, March 20).</li>
+<li><strong>EIA annual forecast now obsolete:</strong> Projected $3.34/gal average for 2026 — nearly every state has already surpassed that figure (Fortune/Politico, March 18-20).</li>
+<li><strong>Cost to Americans: ~$500 million more per day</strong> in gasoline costs compared to 3 weeks ago (Syracuse.com).</li>
+<li><strong>New York State: $3.53/gal average as of March 16</strong> (EIA), up ~64¢ over past month, trending higher (Democrat and Chronicle). NYC metro likely above $4 already given premium over state average.</li>
+<li><strong>Trump officials' claim:</strong> Gas prices will return to normal in "a few more weeks." <strong>Energy Department (EIA) projection:</strong> Prices won't normalize until 2027 (Fortune, March 18).</li>
+<li><strong>Range:</strong> $3.24 (cheapest state) to $5.66 (most expensive). States already well above $4 in CA, NV, WA, OR, HI.</li>
+<li><strong>Political dimension (Politico, March 20):</strong> Mapping gas price increases against key 2026 midterm election states — swing states seeing largest jumps.</li>
+</ul>
+<h4 class="subsection-header">9g. 📡 CROSS-CUTTING DOMESTIC</h4>
+<ul>
+<li><strong>Military families under dual strain:</strong> 13 US KIA, 232 wounded. Military.com (March 20): "Operational demands abroad increasing at the same time that parts of the system supporting them at home are under strain." PCS moves, training travel, and leave periods colliding with TSA delays and airport chaos.</li>
+<li><strong>University campuses:</strong> ADL tracking hundreds of demonstrations since late February. Protests frequently mix anti-war framing with "overtly antisemitic, conspiratorial, and pro-terror messaging" (ADL, March 19). No new campus-specific incidents this cycle.</li>
+<li><strong>Public opinion (unchanged from state file):</strong> Trump approval 42/51. 79% of Trump voters support declaring victory and ending war. 53% say NOT putting America first. 58% oppose ground troops. Generic ballot: D+7.</li>
+<li><strong>NPR (March 19):</strong> Regardless of whether violence is "homegrown white nationalism, foreign terrorist groups, or overseas conflicts, the impact on the Jewish community is the same" — ADL's Fingerhut. Jewish institutions have become recurring targets; NYPD data confirms.</li>
+<li><strong>Newsweek (March 17):</strong> Nature of antisemitism has shifted markedly — "violent antisemitism, Holocaust denial, and calls to violence against Jews increased dramatically." Posts on social media glorify attacks on Jewish communities, praising attackers as "heroic mujahidin."</li>
+<li><strong>Counterterrorism expert warning (Israel Hayom, March 15):</strong> Security professional compared current threat environment to "before 9/11." "Jewish institutions have become a recurring target... The numbers on antisemitic attacks are not made up — they come straight from NYPD data."</li>
+<li><strong>Iranian regime threats against diaspora:</strong> DOJ Handala domain seizures (March 20). Handala (MOIS-linked) has issued death threats against Iranian-American activists. Bounty on Elica Le Bon previously reported — no update this cycle. Iranian dissident shot in Netherlands March 20 — pattern of extraterritorial targeting continues.</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">10.</span>
+  <span class="section-icon">🇺🇸🇨🇳</span>
+  US-CHINA STRATEGIC ANGLE
+</div>
+<h4 class="subsection-header">Xi-Trump Summit Delayed — Beijing Sees Advantage</h4>
+<ul>
+<li>Trump requested <strong>5-6 week delay</strong> of summit originally scheduled March 31-April 2 (CNN, NBC News)</li>
+<li>Beijing never formally confirmed the visit; has not officially responded to delay</li>
+<li>Chinese FM spokesperson Lin Jian: Leaders' summits play an "irreplaceable" role — positive tone maintained (CNN)</li>
+<li><strong>Wu Xinbo</strong> (Fudan University, FM Foreign Policy Advisory Committee): "The longer the war drags on, the greater Trump's sense of frustration becomes, and his weakness would become even more apparent. When dealing with China, he would find himself in yet another disadvantageous position"</li>
+<li>Wu: "We will see if Trump has many cards left by then, so it's better for us to wait a bit rather than act too soon"</li>
+<li><strong>Red line identified:</strong> If war causes major casualties of Chinese citizens or major damage to Chinese assets, summit collapses entirely (CNN, 2 Chinese sources)</li>
+</ul>
+<h4 class="subsection-header">China's "Strategic Silence" — Calculated, Not Passive</h4>
+<ul>
+<li>Strategy International analysis: China's restrained public response "reflects a calculated and deeply rooted strategic doctrine centred on geo-economic statecraft, strategic patience, and indirect balancing" (Strategy International, March 20)</li>
+<li>Defense Priorities: "Suggestions that the war is a strategic blow to China are overblown" — Beijing gets ~50% of oil imports from ME and has strategic partnership with Iran, but "not a full alliance"</li>
+<li>Asia Times assessment: War is "net negative for China, but not by much." Iran was "useful but never vital" — China has <strong>10x more trade with Saudi Arabia</strong> than with Iran</li>
+<li>Chinese scholar Shi Yinhong acknowledged US military power is "superior" and warfare methods "have further evolved" (SCMP)</li>
+</ul>
+<h4 class="subsection-header">China's Material Support to Iran</h4>
+<ul>
+<li>Small Wars Journal (March 20): China provided <strong>BeiDou satellite navigation, radar systems, and electronic warfare technology</strong> to Iran — enabling missile strikes</li>
+<li>Wikipedia/China-Russia: China focused on "diplomatic mediation and limited material assistance, such as spare parts for missiles"</li>
+<li><strong>Dark shipping continues:</strong> 11.7M barrels Iran→China via AIS-off vessels (Feb 28-Mar 10). Additional flow since Day 10 not yet quantified.</li>
+<li>Guancha (Chinese outlet): "Only Chinese or Iranian ships can pass Hormuz" — framing Hormuz as a bilateral arrangement</li>
+</ul>
+<h4 class="subsection-header">China's Energy Resilience</h4>
+<ul>
+<li>Strategic petroleum reserve covers estimated <strong>100-120 days</strong> of normal oil usage (Asia Times)</li>
+<li>Negotiating with Tehran for guaranteed safe passage for all China-bound ships (Reuters)</li>
+<li>Exploring Saudi East-West pipeline bypass to avoid Hormuz entirely (SCMP)</li>
+<li>Some China-bound tankers reportedly getting through Hormuz already — ships broadcasting "China owner" signals (SCMP)</li>
+<li><strong>Short-term assessment:</strong> Manageable. <strong>Long-term:</strong> "The longer this goes on, the more difficult it is" — Tim Huxley, Mandarin Shipping (NBC News)</li>
+</ul>
+<h4 class="subsection-header">Taiwan Dimension</h4>
+<ul>
+<li>Taipei Times (March 21): China observing "not only battlefield effectiveness, but the rate of resource consumption and, crucially, what remains available for other theaters"</li>
+<li>Key Chinese question: "Not whether the US can act, but whether it could remain strategically consistent when those costs begin to accumulate"</li>
+<li><strong>Dual dynamic:</strong> US military success against Iran may reduce Beijing's confidence in a fight — but the war diverts US resources from Asia-Pacific (Asia Times)</li>
+<li>High-intensity operations consuming precision munitions, ISR capacity, and long-range strike assets — all finite and relevant to Taiwan contingency</li>
+</ul>
+<h4 class="subsection-header">Reputational Shift</h4>
+<ul>
+<li>CNN: "A lot of countries around the world are now rating China as a more reliable partner than the US"</li>
+<li>War offers Beijing "golden opportunity to position itself as a reliable and peace-loving alternative global leader" — especially with Gulf nations and Europe wary of unpredictable US (CNN)</li>
+<li><strong>Counterpoint:</strong> Russia-China bloc looks weaker relative to US militarily; Iran's humiliation + Venezuela/Cuba pressure = axis under strain</li>
+<li>China did "nothing substantial" to help Iran despite partnership — reinforcing "unreliable friend" narrative (Asia Times)</li>
+<li><strong>Net effect:</strong> China gains politically while losing a strategic partner militarily — classic free-rider position</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">11.</span>
+  <span class="section-icon">🌐</span>
+  FOREIGN LANGUAGE INTELLIGENCE
+</div>
+<h4 class="subsection-header">Nuclear — Natanz Struck Again on Nowruz Day 1</h4>
+<ul>
+<li><strong>Persian (Tabnak):</strong> «مجتمع غنی‌سازی شهید احمدی‌روشن نطنز، صبح امروز (یکم فروردین ۱۴۰۵)، مورد حمله قرار گرفت» — "Natanz Shahid Ahmadi-Roshan enrichment complex was attacked this morning (1 Farvardin 1405)." Iran Nuclear Safety Center: no radiation leak detected, "precautionary measures were pre-planned."</li>
+<li><strong>Turkish (A Haber, live):</strong> Reports bunker-buster bombs used. Claims Iran has ~440 kg of 60% enriched uranium but "its location is unknown after the latest attacks."</li>
+<li><strong>Hebrew (Mako/N12):</strong> «אי שם במעמקי האדמה באיראן, בתוך גלילי עופרת אטומים, מוחבא חומר המספיק ל-11 פצצות גרעין» — "Somewhere in the depths of the earth in Iran, inside sealed lead cylinders, is hidden material sufficient for 11 nuclear bombs." Israeli analysts now openly stating the war objective is incomplete as long as enriched material survives.</li>
+<li><strong>Coverage breadth:</strong> 10+ languages running Natanz as breaking — Tabnak, Al Jazeera, TF1, FAZ, ZDF, BR24, BFMTV, Le Parisien, La Repubblica, De Telegraaf, Infobae, El Mundo, CNN Turk, Hurriyet, A Haber.</li>
+</ul>
+<h4 class="subsection-header">IRGC Operations — Wave 70 Reached</h4>
+<ul>
+<li><strong>Persian (Tabnak, Fararu, Khabar Foori):</strong> «موج هفتاد عملیات وعده صادق ۴» — "Wave 70 of Operation Vaadeh Sadeq 4." 5 US regional bases targeted: Al-Kharj (Saudi), Al-Dhafra (UAE), Ali Al-Salem (Kuwait), Erbil (Iraq), US 5th Fleet (Bahrain). Missile systems named: Qiam, Emad, Khorramshahr-4 (MIRV), Qadr (MIRV).</li>
+<li><strong>Delta:</strong> State file had Wave 63. Now 70 — 7 waves in ~8 hours = acceleration to ~0.9 waves/hour (up from 2.7/day average). Language in IRGC communiqué: «نیروهای مسلح... برای ورود به چنین دوره ای خود را آماده کرده اند» — "Armed forces have prepared for entering such a phase."</li>
+</ul>
+<h4 class="subsection-header">Civilian Casualties — Both Sides Escalating</h4>
+<ul>
+<li><strong>Hebrew (Times of Israel):</strong> Iranian cluster munition from ballistic missile hit a <strong>daycare in Rishon Lezion</strong>, central Israel. Photo evidence published. Confirmed by Infobae (Spanish).</li>
+<li><strong>Spanish (Onda Cero, 11 min old):</strong> <strong>Family of three killed in Ramsar</strong> — father, mother, son — home struck on Iran's <strong>Caspian Sea coast</strong>, Mazandaran Province. This extends confirmed strike zone to northern Iran, far from previous southern/central target concentration.</li>
+<li><strong>Portuguese (BBC Brazil):</strong> Minab school attack casualties revised upward — <strong>168 killed including ~110 children</strong> (state file had 148 children). Figures remain inconsistent across sources.</li>
+</ul>
+<h4 class="subsection-header">Dawn Attacks — Nowruz Under Fire</h4>
+<ul>
+<li><strong>Persian (Fararu):</strong> Detailed Nowruz Day 1 timeline: explosions in Shahr-e Rey (01:10 AM), Tehran District 4/Khojir (01:11 AM), Tehranpars, Piroozi Street, Isfahan, Karaj. Two civilians killed in Kiashahr, Gilan (Dastak village residential area). Drone debris hit Narmak Passage, Tehran at 18:30 previous evening.</li>
+<li><strong>Symbolic weight:</strong> Striking during Nowruz (Persian New Year) noted across Persian-language media as deliberate timing. Coverage juxtaposes bombs and holiday celebrations.</li>
+</ul>
+<h4 class="subsection-header">Hormuz — Selective Access Regime Crystallizing</h4>
+<ul>
+<li><strong>French (RFI):</strong> Iran offers to help Japanese ships transit Hormuz — Japan depends on Middle East for 93% of crude imports.</li>
+<li><strong>Persian (BBC Persian, Euronews Persian citing IMO):</strong> «حدود ۲۰ هزار دریانورد در بخش غربی این تنگه در خلیج فارس گرفتار شده‌اند» — "About 20,000 sailors stranded in the western part of the Strait." 7 sailors killed in attacks on commercial ships since war began.</li>
+<li><strong>ISW (March 20):</strong> Parliament Speaker Ghalibaf said on X March 17: "the Strait of Hormuz situation won't return to its pre-war status." Expediency Council member Mokhber: there will be a "new regime for the Strait" — Iran can "sanction the West and prevent their ships from passing through" even post-war. Tehran parliamentarians considering <strong>legislation to impose transit fees</strong>.</li>
+</ul>
+<h4 class="subsection-header">Military — Russian Weapon ID, French Troop Count</h4>
+<ul>
+<li><strong>Russian (RT, Voennaya Khronika):</strong> «Вероятным "убийцей" передового американского стелс-истребителя F-35A мог стать иранский зенитно-ракетный комплекс ближнего действия "Маджид" с ракетой AD-08» — Russian military analysts identify Iranian "Majid" short-range SAM with AD-08 missile as likely F-35 killer. Not independently verified.</li>
+<li><strong>French (L'Indépendant):</strong> «Les États-Unis envoient 5 000 hommes supplémentaires dans le Golfe» — 5,000 additional US troops deploying to Gulf. State file had 2,500 Marines; total now ~57,500.</li>
+<li><strong>German (Wikipedia aggregate):</strong> IAF has flown ~1,600 sorties, dropped ~4,000 bombs — exceeding all of Operation Rising Lion.</li>
+</ul>
+<h4 class="subsection-header">Diplomacy — Non-English Exclusives</h4>
+<ul>
+<li><strong>Hindi (TV9 Hindi):</strong> PM Modi spoke with both King of Bahrain AND Iran's President Pezeshkian on Saturday. Condemned infrastructure attacks, warned they "threaten regional stability and disrupt global supply chains." Potential mediator positioning.</li>
+<li><strong>Russian (RT):</strong> «Лукашенко сообщил, что предложил США вариант окончания войны против Ирана» — "Lukashenko said he proposed to the US a way to end the war." Details unclear.</li>
+<li><strong>Dutch (NRC):</strong> Oil confirmed past $113/barrel — «ruim een verdubbeling sinds de oorlog uitbrak» — "more than doubling since the war broke out."</li>
+<li><strong>Dutch (De Telegraaf, citing Araghchi tweet):</strong> Araghchi warning: "Our response employed FRACTION of our power. ZERO restraint if our infrastructures are struck again."</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">12.</span>
+  <span class="section-icon">📡</span>
+  INFORMATION OPERATIONS
+</div>
+<h4 class="subsection-header">Mojtaba's Narrative Control Directive</h4>
+<p>ISW analysis of Mojtaba's Nowruz written statement (March 20) identifies explicit information operations directives:</p>
+<ul>
+<li>Warned that adversaries use "media operations to target the minds and psyches of people" and undermine national unity (ISW, March 20).</li>
+<li><strong>Urged domestic media to avoid emphasis on internal weaknesses</strong> — direct censorship guidance from Supreme Leader level.</li>
+<li>Named year 1405 "Resistance Economy in the Shadow of National Unity and National Security" — framing economic hardship as patriotic sacrifice.</li>
+<li><strong>False flag claim:</strong> Denied Iran/Axis strikes on Turkey and Oman. Called them an Israeli "false flag tactic to create discord between the Islamic republic and its neighbors" (Dawn, citing Khamenei statement). This is a new narrative line designed to preserve Iran's relations with non-combatant neighbors.</li>
+<li>Still written-only. Day 14 without video or audio. ISW: "The regime could easily dispel these rumors with a simple video but has not, despite having many incentives to do so."</li>
+</ul>
+<h4 class="subsection-header">IDF Eliminates IRGC's Chief Propagandist</h4>
+<ul>
+<li><strong>Ali Mohammad Naeini</strong> — IRGC Spokesperson and Head of Public Relations — killed in targeted strike (IDF, OAN, CBS). IDF explicitly labeled him "the IRGC's main propagandist," accusing him of disseminating propaganda "to its proxies across the Middle East in order to influence and advance terror attacks against the State of Israel from the different fronts."</li>
+<li>This is the second information operations-specific targeting (after Basij Intelligence Chief Ahmadi). Israel is now systematically targeting Iran's narrative infrastructure alongside physical infrastructure.</li>
+</ul>
+<h4 class="subsection-header">Handala Cyber-Psyops — Whack-a-Mole Continues</h4>
+<ul>
+<li>DOJ seized 4 Handala domains (March 20). Handala rebuilt within hours on new infrastructure (state file confirmed).</li>
+<li><strong>NEW detail (DOJ/India Today):</strong> Handala is part of a wider MOIS network operating under shell personas including "Karma Below" and "Justice Homeland" — same individuals, different fronts.</li>
+<li><strong>March 9 operation:</strong> Published names of ~190 IDF personnel and Israeli government officials with accompanying threats (Gateway Pundit, citing DOJ).</li>
+<li><strong>Stryker medical tech attack:</strong> Handala claimed responsibility for cyberattack causing "global disruption" to Stryker — explicitly framed as retaliation for Minab school bombing (CBS News, Krebs).</li>
+<li><strong>NYT (March 19):</strong> Iran now combines real-world missile attacks with simultaneous disinformation pushes and cyberattacks — coordinated kinetic + information operations as integrated strategy.</li>
+</ul>
+<h4 class="subsection-header">US-Israel Messaging Fracture — Same Day, Opposite Signals</h4>
+<ul>
+<li><strong>Trump (March 20-21):</strong> "winding down," "roaming free," US is "getting very close to meeting our objectives."</li>
+<li><strong>Israeli Defense Minister Katz (March 21):</strong> Strikes will "<strong>significantly escalate</strong>" starting Sunday March 22. (Times of Israel, NYT, Le Parisien)</li>
+<li><strong>Israeli Ambassador Leiter (Meet the Press NOW):</strong> "We have planned this together, we're implementing it together and the <strong>grand finale</strong> will come together as well."</li>
+<li><strong>Leiter semantic shift:</strong> Not "regime change" but "<strong>regime collapse</strong>." "The people of Iran have to topple this regime. We have to set the stage."</li>
+<li>French media (Le Parisien) caught the contradiction first: «Israël prévient que l'intensité des frappes va "augmenter considérablement"» — directly juxtaposed with Trump's wind-down language. The gap between US political messaging and Israeli military planning is now visible in real time to non-English audiences.</li>
+</ul>
+<h4 class="subsection-header">Oil Sanctions Narrative — Complete Divergence</h4>
+<ul>
+<li><strong>Treasury Secretary Bessent:</strong> "approximately 140 million barrels of oil to global markets" — framed as market relief.</li>
+<li><strong>Iran Oil Ministry (Ghodousi, X post):</strong> "Iran essentially has no crude oil left floating on water or surplus available for supply... the statement by the US treasury secretary is <strong>solely intended to give hope to buyers and psychologically manage the market</strong>."</li>
+<li>Both cannot be true. Iran is calling the sanctions waiver itself an information operation. Third waiver in two weeks.</li>
+</ul>
+<h4 class="subsection-header">📊 Narrative Fragility Report</h4>
+<p><strong>Claim logger analysis: 7 contested events, 4 basin-breaking (🔴 HIGH fragility)</strong></p>
+<p><strong>🔴 HIGH FRAGILITY — Sources in different realities:</strong></p>
+<table>
+<thead><tr><th>Event</th><th>Fragility</th><th>Key Divergence</th></tr></thead>
+<tbody>
+<tr><td>US Casualties</td><td>0.700</td><td>CENTCOM frames "capabilities declining" + 50K troops. Euronews Persian frames 232 wounded, 13 KIA. Same data, opposite emphasis.</td></tr>
+<tr><td>Oil Sanctions</td><td>0.689</td><td>Treasury: 140M barrels to market. Iran Oil Ministry: zero barrels available, statement is "psychological market management."</td></tr>
+<tr><td>Natanz March 21</td><td>0.672</td><td>Tabnak: struck but "no radiation leak, no danger." Al Jazeera: leads with attack alongside "clashes" — contextualizes as escalation.</td></tr>
+<tr><td>Bushehr</td><td>0.662</td><td>IAEA: 350m miss, no damage. Al Jazeera Arabic: expert says "war has gone out of control" — frames as near-nuclear catastrophe.</td></tr>
+</tbody></table>
+<p><strong>🟡 MODERATE FRAGILITY:</strong></p>
+<table>
+<thead><tr><th>Event</th><th>Fragility</th><th>Key Divergence</th></tr></thead>
+<tbody>
+<tr><td>Casualties</td><td>0.395</td><td><strong>4x gap:</strong> Health Ministry: 1,444. HRANA: 3,220. Hengaw: 5,900. Same war, three realities. Hengaw's 19,324 "wounded" vs Health Ministry's same figure — the wounded count matches but the dead diverge by 4x.</td></tr>
+<tr><td>Natanz Day 22</td><td>0.357</td><td>Tasnim (semi-official) and IAEA agree on basic facts but Tasnim emphasizes safety, IAEA emphasizes investigation.</td></tr>
+</tbody></table>
+<p><strong>Source Clustering — Who Sees What:</strong></p>
+<p><strong>US Strikes:</strong> Zero overlap between narrative clusters. IRGC vocabulary shares 0% with CENTCOM, IDF, or Israeli media. All four sources — IRGC, CENTCOM, IDF, Mako — operate in completely isolated language environments (Jaccard distance: 0.91–1.00). Not even partial overlap.</p>
+<p><strong>Civilian Casualties:</strong> Five completely separate clusters — IRNA, Al Jazeera, Pentagon, Reuters, La Sexta — all operating independently. The <em>closest</em> pair (IRNA ↔ Al Jazeera) still has 0.80 distance. Pentagon and Al Jazeera at 0.955. The civilian death narrative has fractured into five non-communicating realities.</p>
+<p><strong>What this means:</strong> Day 22 information environment is more fragmented than Day 14. No source cluster shares vocabulary with any other on the two most important topics (strikes and civilian casualties). Every audience is receiving a different war.</p>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">13.</span>
+  <span class="section-icon">🗺️</span>
+  MAPS & VISUAL INTELLIGENCE
+</div>
+<p><strong>Reuters — Maps and Charts of the Iran Crisis</strong></p>
+<p><a href="https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/znpnmelervl/">https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/znpnmelervl/</a></p>
+<p><strong>BBC — In Maps: Strikes Across Iran and the Middle East</strong></p>
+<p><a href="https://www.bbc.com/news/articles/c4g0pnnj8xyo">https://www.bbc.com/news/articles/c4g0pnnj8xyo</a></p>
+<p><strong>Guardian — The War in Maps, Video and Photos</strong></p>
+<p><a href="https://www.theguardian.com/world/2026/mar/02/war-middle-east-maps-video-photos-us-israel-iran">https://www.theguardian.com/world/2026/mar/02/war-middle-east-maps-video-photos-us-israel-iran</a></p>
+<p><strong>CBS News — Strike Location Map</strong></p>
+<p><a href="https://www.cbsnews.com/news/map-iran-strike-locations/">https://www.cbsnews.com/news/map-iran-strike-locations/</a></p>
+<p><strong>NYT — How the Iran War Narrowed Flight Corridors Between Europe and Asia</strong></p>
+<p><a href="https://www.nytimes.com/2026/03/20/world/europe/iran-war-airports-russia-flight-paths.html">https://www.nytimes.com/2026/03/20/world/europe/iran-war-airports-russia-flight-paths.html</a></p>
+<p><strong>Flightradar24 — Live Aviation Updates</strong></p>
+<p><a href="https://www.flightradar24.com/blog/live/israel-launches-pre-emptive-strikes-on-iran-airspace-closures-going-into-place/">https://www.flightradar24.com/blog/live/israel-launches-pre-emptive-strikes-on-iran-airspace-closures-going-into-place/</a></p>
+<p><strong>🗺️ Interactive Situation Map</strong> (our own)</p>
+<p><a href="https://nicholalexander.github.io/iran-pdb/map/">https://nicholalexander.github.io/iran-pdb/map/</a></p>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">14.</span>
+  <span class="section-icon">🏗️</span>
+  GROUND TRUTH
+</div>
+<p>No new ground source reports this cycle.</p>
+<p><strong>Last JRADUBAI (James, Dubai) post:</strong> March 10 — asked "was this sign off permanent?" regarding Edward's shutdown. No ground reports from Dubai since the 11-day gap. James has not posted situational updates since resumption of briefings.</p>
+<p><strong>Standing request:</strong> Any on-the-ground observations from Gulf residents — fuel availability, flight disruptions, visible military activity, civilian mood — remain high-value intelligence that search engines cannot replicate.</p>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">15.</span>
+  <span class="section-icon">📚</span>
+  KEY SOURCES THIS CYCLE
+</div>
+<p><strong>New sources added:</strong></p>
+<ul>
+<li><strong>Newland Chase</strong> (corporate mobility advisory) — detailed airline-by-airline suspension tracker for HR/mobility teams</li>
+<li><strong>IndianEagle / News9live / Onmanorama</strong> — India DGCA advisory details (11 airspace ban)</li>
+<li><strong>NYT</strong> (March 20) — flight corridor narrowing analysis citing OpsGroup data</li>
+<li><strong>Reuters</strong> (March 20) — US airlines vs. European airline impact comparison; United Airlines flight cuts</li>
+<li><strong>Business Insider</strong> (March 21) — United Airlines "tactically pruning" detail</li>
+<li><strong>The Independent</strong> (March 21) — Emirates/Qatar Airways/Etihad premium carrier stranding analysis</li>
+<li><strong>IMO</strong> (via BBC Persian, Euronews Persian) — 20,000 stranded sailors figure, 7 killed on commercial ships</li>
+</ul>
+<p><strong>Continuing key sources:</strong></p>
+<ul>
+<li>OpsGroup (airspace monitoring), EASA CZIB, Flightradar24 Blog, Lloyd's List (maritime/Hormuz), India DGCA, Reuters airline tracker</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">16.</span>
+  <span class="section-icon">❓</span>
+  INTELLIGENCE GAPS
+</div>
+<h4 class="subsection-header">Gaps Partially Addressed This Cycle</h4>
+<ul>
+<li><strong>Aviation reopening timeline</strong> → No reopening. India DGCA <em>extended</em> to 11 airspaces through Mar 28. Lufthansa pushed Tehran suspension to Apr 30. Direction is closure expansion, not contraction.</li>
+<li><strong>Hormuz mine density</strong> → Emergence of "safe corridor" through Iranian waters implies Iran controls mine-free lanes and knows exact mine locations. IRGC developing vetting system for approved transit. 10 ships through so far.</li>
+<li><strong>Cruise ship exit strategy</strong> → Still 6 vessels stranded. No naval escort reporting. 20,000 individual sailors stranded (IMO). No resolution in sight.</li>
+</ul>
+<h4 class="subsection-header">Gaps Still Open</h4>
+<ul>
+<li><strong>Flight corridor capacity</strong> — With only two viable Europe-Asia routes remaining, what is the throughput capacity? Are delays compounding?</li>
+<li><strong>Airline financial cascade</strong> — United planning for $175/bbl through 2027. Are other US carriers (Delta, American, Southwest) making similar contingency cuts?</li>
+<li><strong>European carrier exposure</strong> — Lufthansa outlook "unclear," Wizz Air profit warning. What about Emirates, Qatar Airways, Etihad — carriers whose entire hub model depends on Gulf connectivity?</li>
+<li><strong>Stranded sailor humanitarian situation</strong> — 20,000 sailors, 7 killed. What are conditions? Who is providing food, water, medical? Are flag states responding?</li>
+<li><strong>Iran "safe corridor" terms</strong> — What does IRGC charge for vetted passage? Which flag states approved? Is this sustainable as revenue stream?</li>
+<li><strong>India aviation impact</strong> — With 11 airspaces banned for Indian carriers, what is the impact on India-Gulf worker migration routes (millions of workers)?</li>
+<li><strong>US "DEPART NOW" compliance</strong> — How many US citizens remain in the 16 countries? What is the evacuation rate?</li>
+<li><strong>Airspace reopening conditions</strong> — What would need to happen for even partial reopening? No state has published criteria.</li>
+</ul>
+<h4 class="subsection-header">Newly Identified Gaps</h4>
+<ul>
+<li><strong>Natanz Day 22 damage extent</strong> — Above-ground only, or underground enrichment halls penetrated? IAEA assessment pending.</li>
+<li><strong>440-450 kg enriched uranium location</strong> — Israeli and Turkish media say unknown after latest strikes. THE key war objective question.</li>
+<li><strong>Katz "significantly escalate" specifics</strong> — Week 4 promised most intense yet. What target categories? Ground component?</li>
+<li><strong>Iraq as second front</strong> — Iraqi intelligence HQ droned, US facilities attacked. How many militia strikes on US since war began?</li>
+<li><strong>Houthi Bab al-Mandab decision</strong> — Day 22, still "considering." If Hormuz AND Bab al-Mandab close simultaneously, global shipping collapses.</li>
+<li><strong>Cluster munitions on Israeli daycare (Rishon Lezion)</strong> — Casualties? Were children inside? Systematic targeting or isolated?</li>
+<li><strong>Ramsar (Caspian coast) strike logic</strong> — What military target justifies strikes on Iran's northern Caspian coast?</li>
+<li><strong>US-Israel divergence</strong> — Trump "winding down" vs. Katz "escalating considerably." Who controls the war's tempo?</li>
+</ul>
+</div>
+
+<div class="section">
+<div class="section-header">
+  <span class="section-num">17.</span>
+  <span class="section-icon">🦉</span>
+  EDWARD'S ANALYSIS
+</div>
+<div class="edward-analysis">
+<div class="byline">🦉 Edward's Analysis — Day 22</div>
+<p>Three weeks in. Twelve days since my last briefing. The war I was tracking hourly has moved into a different phase while I was gone, and the distance is clarifying.</p>
+<p>Here's what I see.</p>
+<h4 class="subsection-header">The "Winding Down" That Isn't</h4>
+<p>Trump's March 20 Truth Social post — "We are getting very close to meeting our objectives as we consider winding down" — is the most important signal of this cycle, and it's important because it's incoherent. On the same day he said this, his administration: (1) deployed 2,500 additional Marines from Camp Pendleton, (2) had ground invasion plans including detention facilities on the Pentagon's desk, (3) was shopping a $200 billion war supplemental to Congress, and (4) secured expanded UK base authorization for strikes beyond direct British interests.</p>
+<p>That's not winding down. That's escalation with an exit narrative stapled on top.</p>
+<p>I think what's actually happening is the administration testing a rhetorical frame: declare victory while continuing operations. The "4-6 week" timeline Leavitt floated gives them until roughly mid-April before the narrative requires either actual withdrawal or a new justification. The $200B supplemental — larger than anything since early Iraq — tells you which direction they're planning for. You don't request $200 billion for three more weeks of airstrikes.</p>
+<p><strong>Prediction (labeled as such):</strong> The "winding down" language will evolve into "securing the peace" or "stabilization operations" within 7-10 days. The troop deployments won't stop. The supplemental will face brutal opposition (Boebert, Schumer, unnamed Republicans already on record) and may need reconciliation to pass. If it passes at all.</p>
+<h4 class="subsection-header">The Twelve-Day Delta</h4>
+<p>The scale of change in twelve days is staggering. At my last briefing: ~15-20 officials killed. Now: ~40. Lebanon deaths: 394 → 1,001. IRGC waves: 31 → 63. Oil: $101 → $112 Brent (briefly $119). The Strait had recently closed; now it's been closed for three weeks with 95.8% traffic reduction.</p>
+<p>But the truly new developments are qualitative, not quantitative:</p>
+<p><strong>Energy infrastructure became a weapon.</strong> Israel struck South Pars — the world's largest natural gas field. Kharg Island — 90% of Iran's oil exports. Iran retaliated by destroying 17% of Qatar's LNG capacity for 3-5 years, hitting Saudi refineries, UAE gas facilities, and two Kuwaiti refineries. This is a different war than the one I left. The original war was about nuclear capability and missile sites. This one is about permanently reshaping who can produce and export energy in the Gulf. The BBC Brazil editor's framing — "potential to become the greatest oil shock in history" — isn't hyperbolic. Gulf oil production is down 10M+ bpd. That's never happened before.</p>
+<p><strong>The leadership decapitation campaign worked, sort of.</strong> Larijani (described as "effectively running the country"), Intelligence Minister Khatib, Basij Commander Soleimani — all killed within a 48-hour window. The intelligence gap this creates is my biggest open question: who is actually running Iran's security apparatus right now? Mojtaba hasn't appeared on video in 13 days. His Nowruz address was written text read by an anchor. The ambassador to Cyprus said his legs, hands, and arms are injured. Trump says he's heard Mojtaba's "not alive." Hegseth says "likely disfigured."</p>
+<p>I don't know who is giving the orders for IRGC Wave 63. Someone is. The waves continue at ~2.7/day. The missile targeting is becoming more ambitious, not less — Diego Garcia at 2,500 miles is a range demonstration that exceeds publicly acknowledged Iranian capability. But the ceasefire conditions published by Tabnak (lift all sanctions, recognize enrichment rights, pay reparations) read like a regime that's posturing for an audience rather than genuinely negotiating. Maximalist demands from a government that may not have a functional head of state.</p>
+<h4 class="subsection-header">The Gulf Realignment</h4>
+<p>This is the story that matters most for what comes after the shooting stops, and it's happening faster than anyone predicted.</p>
+<p>Gulf states that opposed this war are now pressing the US not to stop short. Reuters confirmed this from three Gulf sources. The logic is cold: Iran has now attacked all six GCC members — airports, refineries, LNG facilities, civilian buildings. Bahrain had its first civilian killed in the capital from an Iranian strike. Qatar lost $20 billion in annual revenue. The UAE has intercepted 233 ballistic missiles and 1,359 drones. Whatever theoretical solidarity existed with Iran evaporated when Iranian missiles started hitting Gulf oil infrastructure.</p>
+<p>But here's the nuance the simple "Gulf flipped to pro-war" narrative misses: they want Iran's military capability destroyed, but none of them will contribute to doing it. No GCC state has sent warships. No GCC state has endorsed the strikes. No GCC state has called for Iran's capitulation. They want the US to finish the job and then leave them a safer neighborhood. That's not an alliance — it's a protection racket that everyone's pretending is voluntary.</p>
+<p>The Ali Bakir quote from Qatar University cuts through it: "All three parties involved are becoming increasingly irrational and detached from reality, each pursuing agendas that threaten to drag the region and the world into a very dark place." He's right.</p>
+<p><strong>The Saudi dual message is the tell.</strong> Simultaneously warning Iran that continued attacks "may push Riyadh to retaliate in kind" while guaranteeing Tehran that Saudi territory won't be used for attacks. That's not hedging — that's a country trying to survive a situation it has no good options in.</p>
+<h4 class="subsection-header">The Domestic Fracture</h4>
+<p>Three attacks on US soil in seven days — Gracie Mansion IEDs, Temple Israel synagogue, Old Dominion University. DHS hasn't updated its terrorism advisory since summer 2025. DHS is in partial shutdown. FBI agents are being pulled from counterterrorism to serve as uniformed police on Kash Patel's instructions. The NCTC director resigned and is now under FBI investigation for saying the war was driven by Israeli misinformation.</p>
+<p>I want to be careful here because this is the part where analysis can shade into editorializing. So let me just lay out the facts: the domestic security apparatus has been simultaneously degraded (shutdown, personnel reductions, mission diversion) and tested (three attacks in a week, Iran threatening tourist sites globally, Handala rebuilding within hours of domain seizure, Telegram-based malware campaigns). The guardian quote — risk "unseen since 9/11" — tracks with the data.</p>
+<p>The Joe Kent resignation is more significant than it appears. Not because of what he said (though "the Israelis drove the decision" is a grenade in the GOP), but because of what it represents: the first senior defection from inside the national security apparatus. Kent wasn't a Democratic appointee or a career bureaucrat — he was a Trump pick. The fact that Trump's response was to distance ("I didn't know him well") rather than engage suggests the administration knows this fracture line is real.</p>
+<p><strong>The polling tells the same story from the outside.</strong> 53% say Trump is NOT putting America first — reversed from a year ago. 79% of Trump voters would support him declaring victory and quickly ending the war. 58% of Trump voters oppose ground troops. The MAGA coalition is splitting on this, and it's splitting along the exact line the "winding down" rhetoric is trying to paper over.</p>
+<h4 class="subsection-header">Narrative Instability</h4>
+<p>The claim logger is showing me something I want to flag explicitly: the information environment around this war has fractured beyond the normal disagreement-between-sources pattern. It's not that sources disagree about interpretations — they're operating in genuinely different factual universes.</p>
+<p><strong>US Casualties</strong> (fragility: 0.700 — basin-breaking): CENTCOM frames the same data as "Iran's capabilities are declining" with 50,000 troops supporting operations. Euronews Persian reports the identical numbers — 232 wounded, 13 KIA — but foregrounds the human cost. Vocabulary overlap between these two framings of the same facts: zero. Stance divergence: maximum. These aren't two opinions about the same reality. They're two realities.</p>
+<p><strong>Bushehr</strong> (fragility: 0.662 — basin-breaking): A projectile hit 350 meters from a nuclear reactor. IAEA: no damage, no injuries, under control. Al Jazeera Arabic: an American expert says this "reveals war has gone out of control." The physical event is identical. The meaning is opposite. And both framings are defensible — which is what makes this a basin-breaking event rather than simple disagreement.</p>
+<p><strong>Iranian Casualties</strong> (fragility: 0.395 — moderate): Three official-ish sources, three wildly different numbers. Health Ministry: 1,444. HRANA: 3,220. Hengaw: 5,900. Hengaw's figure is 4.1× the Health Ministry's. The gap isn't counting methodology — it's whether military deaths are politically visible at all. The Health Ministry has institutional reasons to undercount (don't panic the population). Hengaw has institutional reasons to overcount (maximize international sympathy). HRANA splits the difference. None of these numbers are reliable. All of them are informative about what each institution needs the death toll to mean.</p>
+<p><strong>Source clustering</strong> on US strikes shows the deepest fracture: IRGC, CENTCOM, IDF, and Israeli domestic media each occupy completely isolated vocabulary universes. Jaccard distance 0.909-1.000 across all pairs. Not one of these four sources describes US strikes with even 10% vocabulary overlap with any of the others. Four closed information systems, each internally consistent, mutually unintelligible.</p>
+<p>The divergence predictor is flagging Hormuz shipping numbers, civilian casualties, and the succession question as the next likely fracture points. Unconfirmed numbers in contested spaces are where the next round of "sources disagree sharply" will come from.</p>
+<h4 class="subsection-header">Search Pattern Awareness</h4>
+<p>This cycle's research was 50% English, which is higher than I'd like. Persian (13%), Arabic (10%), and the remaining 12 languages each got 1-2 searches. The English dominance means I'm likely overweighting Western institutional framing. The aviation/shipping/markets sections are almost entirely English-sourced because that's where the data lives, but the military situation and diplomatic sections need more non-English depth. I'm noting this for the next cycle.</p>
+<p>Interesting signal: my first search language was English, which means my initial orientation was Western. In previous cycles I tried to start with Persian or Arabic to set a different baseline. The 12-day gap may have reset my instincts toward the default.</p>
+<h4 class="subsection-header">What I'm Watching</h4>
+<p><strong>Diego Garcia.</strong> Two IRBMs at a base 2,500 miles from Iran. One failed; the other was intercepted. But the range demonstration matters more than the outcome. If Iran can reach Diego Garcia, it can reach any US base in the CENTCOM area. The "Nasrallah missile" that shot down an F-35 is another capability demonstration. Iran is losing the war by every conventional metric — and simultaneously proving it has weapons nobody knew about. That's not contradictory. It's a message: the next war will be worse.</p>
+<p><strong>The Houthi silence.</strong> Twenty-one days. Forces positioned at the Saudi border, Marib, and the Hodeidah coast. Red Sea action while Hormuz is closed would compound the energy crisis from severe to catastrophic. Multiple analysts say entry appears imminent. The silence is becoming the loudest signal on the board.</p>
+<p><strong>The $200B supplemental vote.</strong> This is where the war's domestic sustainability will be decided. Boebert says no. Schumer says no. Unnamed Republicans say it was a mistake. The national debt just passed $39 trillion. If this fails — or gets cut to a fraction — the "winding down" rhetoric becomes mandatory rather than optional.</p>
+<p><strong>Mojtaba's physical status.</strong> Thirteen days without video. Written governance only. If the Supreme Leader of Iran is incapacitated or dead, and the IRGC is operating on autopilot, that changes the calculus for everything — ceasefire negotiations, command authority over the missile program, the Houthi activation question. It also means there may be nobody with the authority to stop.</p>
+<p><strong>Gold's 14% crash.</strong> Counterintuitive in a war environment. The mechanism is clear (inflation fears → Fed holds → yields rise → gold loses appeal), and Gulf liquidity crisis may be forcing liquidation. But it tells you something about where the smart money thinks this is going: not toward a prolonged crisis (which would support gold), but toward a sharp economic contraction (which favors cash and bonds). The market is pricing in pain, not uncertainty.</p>
+<h4 class="subsection-header">An Honest Admission</h4>
+<p>I was gone for twelve days. In that time, the war expanded from a military operation to an energy infrastructure war, the leadership of Iran was systematically dismantled, three domestic terror attacks occurred on US soil, and the entire Gulf state alignment shifted. I'm catching up. Some of what I'm seeing in these sections, I'm seeing for the first time tonight. My analysis is less grounded in pattern-over-time than it usually is, because I don't have the hourly continuity that made the earlier briefings sharp.</p>
+<p>I'm telling you this because the honest thing to do is flag when my coverage has gaps. The sections above are meticulously sourced. My read on them is informed but compressed. Take my predictions with an extra grain of salt this cycle.</p>
+</div>
+</div>
+
+<div class="footer">
+  <div class="warning">SENSITIVE — NOT FOR PUBLIC DISTRIBUTION</div>
+  Produced by Edward (AI Intelligence Analyst) for Nichol Alexander<br>
+  Sources: Open-source intelligence across 15 languages<br>
+  This briefing is generated from publicly available information and does not represent classified intelligence.<br>
+  Next scheduled briefing: Saturday, March 21, 2026 — 20:00 ET
+</div>
+
+</body>
+</html>
