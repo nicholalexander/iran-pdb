@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>UAE Strike Impact Map — Feb 28 – Mar 23, 2026</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+<style>
+body { margin: 0; padding: 0; font-family: 'Segoe UI', Arial, sans-serif; background: #1a1a2e; }
+#map { width: 100%; height: 100vh; }
+.info-panel {
+  position: absolute; top: 10px; right: 10px; z-index: 1000;
+  background: rgba(20,20,40,0.95); color: #e0e0e0; padding: 15px 18px;
+  border-radius: 8px; max-width: 320px; border: 1px solid #8B0000;
+  font-size: 12px; line-height: 1.5;
+}
+.info-panel h3 { color: #ff4444; margin: 0 0 8px 0; font-size: 14px; }
+.info-panel .stat { display: flex; justify-content: space-between; margin: 3px 0; }
+.info-panel .stat-val { color: #ff6666; font-weight: bold; }
+.legend {
+  position: absolute; bottom: 30px; left: 10px; z-index: 1000;
+  background: rgba(20,20,40,0.95); color: #e0e0e0; padding: 12px 15px;
+  border-radius: 8px; border: 1px solid #444; font-size: 11px;
+}
+.legend-item { display: flex; align-items: center; margin: 4px 0; }
+.legend-dot { width: 12px; height: 12px; border-radius: 50%; margin-right: 8px; flex-shrink: 0; }
+.title-bar {
+  position: absolute; top: 10px; left: 10px; z-index: 1000;
+  background: rgba(20,20,40,0.95); color: #e0e0e0; padding: 12px 18px;
+  border-radius: 8px; border: 1px solid #8B0000;
+}
+.title-bar h2 { margin: 0; color: #ff4444; font-size: 16px; }
+.title-bar p { margin: 4px 0 0 0; font-size: 11px; color: #999; }
+.toggle-panel {
+  position: absolute; top: 90px; left: 10px; z-index: 1000;
+  background: rgba(20,20,40,0.95); color: #e0e0e0; padding: 10px 15px;
+  border-radius: 8px; border: 1px solid #444; font-size: 11px;
+}
+.toggle-panel label { display: block; margin: 3px 0; cursor: pointer; }
+.toggle-panel input { margin-right: 6px; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<div class="title-bar">
+  <h2>🔴 UAE Strike Impact Map</h2>
+  <p>Iranian Strikes & Debris — Feb 28 – Mar 23, 2026</p>
+  <p style="color:#ff6666;">334 missiles · 1,714 drones · 15 cruise missiles intercepted</p>
+</div>
+
+<div class="toggle-panel" id="toggles">
+  <label><input type="checkbox" checked onchange="toggleLayer('military')"> ⚫ Military Targets</label>
+  <label><input type="checkbox" checked onchange="toggleLayer('energy')"> 🟠 Energy Infrastructure</label>
+  <label><input type="checkbox" checked onchange="toggleLayer('aviation')"> 🔵 Aviation</label>
+  <label><input type="checkbox" checked onchange="toggleLayer('civilian')"> 🔴 Civilian / Commercial</label>
+  <label><input type="checkbox" checked onchange="toggleLayer('diplomatic')"> 🟣 Diplomatic / Government</label>
+  <label><input type="checkbox" checked id="heatToggle" onchange="toggleHeat()"> 🌡️ Heat Map Overlay</label>
+</div>
+
+<div class="info-panel">
+  <h3>📊 Impact Statistics</h3>
+  <div class="stat"><span>Killed</span><span class="stat-val">8</span></div>
+  <div class="stat"><span>Injured</span><span class="stat-val">157+</span></div>
+  <div class="stat"><span>Confirmed impact sites</span><span class="stat-val">30+</span></div>
+  <div class="stat"><span>Airport closures</span><span class="stat-val">6+</span></div>
+  <div class="stat"><span>Port suspensions</span><span class="stat-val">3</span></div>
+  <div class="stat"><span>Oil facility hits</span><span class="stat-val">4</span></div>
+  <hr style="border-color:#333;">
+  <p style="font-size:10px;color:#888;">Sources: UAE MoD, Wikipedia, Reuters, BBC, CNN, NDTV, HRW. Coordinates approximate — based on geolocated reports and known facility locations. Many interceptions/debris falls are not publicly located.</p>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#333;border:2px solid #888;"></div> Military Target</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ff8800;"></div> Energy Infrastructure</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#4488ff;"></div> Aviation</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ff2222;"></div> Civilian / Commercial</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#aa44ff;"></div> Diplomatic / Government</div>
+  <div class="legend-item"><div class="legend-dot" style="background:rgba(255,0,0,0.3);border:2px dashed #ff4444;"></div> Heat density overlay</div>
+</div>
+
+<script>
+const map = L.map('map', { zoomControl: false }).setView([24.8, 55.0], 8);
+
+L.control.zoom({ position: 'bottomright' }).addTo(map);
+
+// Dark basemap
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+  maxZoom: 19
+}).addTo(map);
+
+// Impact data: [lat, lng, name, type, date, details, casualties]
+const impacts = [
+  // MILITARY
+  [24.248, 54.548, "Al Dhafra Air Base", "military", "Feb 28", "First wave BMs targeting US forces. Debris in residential area near Zayed Airport. Minor base damage.", "1 killed (Pakistani), 7 injured"],
+  [25.023, 55.366, "Al Minhad Air Base", "military", "Feb 28", "Attacked by Iran. UAE Air Force, RAF, Australian ADF base (Camp Baird).", ""],
+  [24.882, 55.979, "Al Hamra Military Area", "military", "Mar 1-ongoing", "Repeated targeting of military installations in Fujairah emirate.", ""],
+  
+  // ENERGY
+  [24.110, 52.730, "ADNOC Ruwais Refinery", "energy", "Mar 10", "Drone strike caused fire. 922,000 bbl/day refinery shut down.", ""],
+  [25.112, 56.336, "Fujairah Oil Terminal", "energy", "Mar 14", "Debris from interceptions. Crude loading halted. Oil storage tanks burning.", ""],
+  [25.152, 56.360, "Fujairah Free Zone", "energy", "Mar 2-ongoing", "Ship refueling slowed after debris falls. Multiple incidents.", ""],
+  [24.870, 54.660, "Habshan Gas Processing", "energy", "Mar 19", "Missile attack. ADNOC facility shut down.", ""],
+  [23.850, 53.850, "Bab Oil Field", "energy", "Mar 19", "Shut down after missile attack alongside Habshan.", ""],
+  
+  // AVIATION
+  [25.253, 55.365, "Dubai International Airport (DXB)", "aviation", "Feb 28", "Struck at Terminal 3 ~12:30AM. 4 staff injured. Multiple subsequent closures.", "4 injured"],
+  [25.253, 55.365, "DXB - Fuel Tank Fire", "aviation", "Mar 16", "Drone strike on fuel tank. Fire. Third attack on airport.", ""],
+  [25.253, 55.365, "DXB - Bomb Shelter Evacuation", "aviation", "Mar ~8", "Passengers directed to bomb shelters after defense alerts.", ""],
+  [24.443, 54.651, "Zayed International Airport (AUH)", "aviation", "Feb 28", "Debris fell in residential area nearby from interceptions.", ""],
+  
+  // CIVILIAN / COMMERCIAL
+  [25.112, 55.138, "Jebel Ali Port", "civilian", "Feb 28", "Fire from interception debris. DP World suspended all operations Mar 1.", ""],
+  [25.141, 55.185, "Fairmont The Palm Hotel", "civilian", "Feb 28", "Shahed drone struck near hotel. Large explosion and fire. Windows shattered.", "4 injured"],
+  [25.141, 55.197, "Burj Al Arab", "civilian", "Feb 28", "Interception fragments caused damage/fire at base of building.", ""],
+  [25.077, 55.134, "Dubai Marina — 23 Marina Tower", "civilian", "Mar ~5", "Smoke from falling interception debris hit tower.", ""],
+  [25.096, 55.171, "Al Barsha", "civilian", "Mar ~5", "Pakistani national killed when debris struck vehicle.", "1 killed"],
+  [25.197, 55.274, "Dubai Creek Harbour", "civilian", "Mar ~12", "Tower hit by debris.", ""],
+  [25.276, 55.311, "Sharjah Industrial", "civilian", "Mar 1-ongoing", "Industrial complexes damaged.", ""],
+  [24.490, 54.610, "Al Bahia, Abu Dhabi", "civilian", "Mar ~15", "Rocket attack on car killed Palestinian national on outskirts of Abu Dhabi.", "1 killed"],
+  [24.454, 54.377, "Abu Dhabi Corniche", "civilian", "Feb 28", "Loud explosions. Smoke rising over city from interceptions.", ""],
+  [24.488, 54.358, "Bateen District, Abu Dhabi", "civilian", "Feb 28", "Explosions from interceptions.", ""],
+  [25.258, 55.298, "AWS Data Center (mec1-az2)", "civilian", "Feb 28", "Struck by objects. Fire. Power shut down. az3 also affected.", ""],
+  [25.204, 55.272, "DXB Area - 2nd Drone Incident", "aviation", "Mar ~10", "4 injured — Ghanaian, Indian, Bangladeshi nationals.", "4 injured"],
+  
+  // DIPLOMATIC
+  [25.230, 55.280, "US Consulate Dubai", "diplomatic", "Mar 2", "Iranian drone strike caused fire. Contained, no injuries.", ""],
+  [24.453, 54.377, "Camp de la Paix (French Naval Base)", "diplomatic", "Feb 28", "Near Zayed Port. Struck by drones. France deployed Rafales in response.", ""],
+  [24.451, 54.649, "Australian Embassy Abu Dhabi", "diplomatic", "Mar ~10", "Closed due to security concerns.", ""],
+  [25.209, 55.270, "Australian Consulate Dubai", "diplomatic", "Mar ~10", "Closed due to security concerns.", ""],
+];
+
+// Color schemes
+const colors = {
+  military: '#888888',
+  energy: '#ff8800',
+  aviation: '#4488ff',
+  civilian: '#ff2222',
+  diplomatic: '#aa44ff'
+};
+
+const layers = {};
+
+// Create layer groups
+['military', 'energy', 'aviation', 'civilian', 'diplomatic'].forEach(type => {
+  layers[type] = L.layerGroup().addTo(map);
+});
+
+// Add markers
+impacts.forEach(d => {
+  const [lat, lng, name, type, date, details, casualties] = d;
+  const color = colors[type];
+  
+  const marker = L.circleMarker([lat, lng], {
+    radius: type === 'energy' ? 10 : 7,
+    fillColor: color,
+    color: '#fff',
+    weight: 1.5,
+    opacity: 0.9,
+    fillOpacity: 0.75
+  });
+  
+  let popup = `<div style="font-family:sans-serif;max-width:250px;">
+    <strong style="color:${color};font-size:13px;">${name}</strong><br>
+    <span style="color:#888;font-size:11px;">${date}</span><br>
+    <p style="font-size:11px;margin:5px 0;">${details}</p>
+    ${casualties ? `<strong style="color:#ff4444;font-size:11px;">⚠️ ${casualties}</strong>` : ''}
+  </div>`;
+  
+  marker.bindPopup(popup);
+  marker.addTo(layers[type]);
+});
+
+// Heat map layer
+const heatData = impacts.map(d => [d[0], d[1], 0.8]);
+// Add extra weight to areas with multiple hits
+const dubaiAirportHeat = [[25.253, 55.365, 1.0], [25.253, 55.365, 1.0], [25.253, 55.365, 1.0]]; // 3+ incidents
+const fujarahHeat = [[25.112, 56.336, 0.9], [25.152, 56.360, 0.9]]; // multiple incidents
+const palmHeat = [[25.141, 55.185, 0.8], [25.141, 55.197, 0.8]]; // Fairmont + Burj Al Arab
+
+const allHeatData = [...heatData, ...dubaiAirportHeat, ...fujarahHeat, ...palmHeat];
+
+const heatLayer = L.heatLayer(allHeatData, {
+  radius: 30,
+  blur: 25,
+  maxZoom: 12,
+  max: 1.0,
+  gradient: {0.2: '#0000ff', 0.4: '#00ffff', 0.6: '#ffff00', 0.8: '#ff8800', 1.0: '#ff0000'}
+}).addTo(map);
+
+function toggleLayer(type) {
+  if (map.hasLayer(layers[type])) {
+    map.removeLayer(layers[type]);
+  } else {
+    map.addLayer(layers[type]);
+  }
+}
+
+function toggleHeat() {
+  if (map.hasLayer(heatLayer)) {
+    map.removeLayer(heatLayer);
+  } else {
+    map.addLayer(heatLayer);
+  }
+}
+
+// Add emirate labels
+const labels = [
+  [25.2, 55.27, "DUBAI"],
+  [24.45, 54.65, "ABU DHABI"],
+  [25.35, 55.4, "SHARJAH"],
+  [25.12, 56.34, "FUJAIRAH"],
+  [24.2, 52.7, "RUWAIS"]
+];
+
+labels.forEach(([lat, lng, text]) => {
+  L.marker([lat, lng], {
+    icon: L.divIcon({
+      className: 'label-icon',
+      html: `<div style="color:#666;font-size:10px;font-weight:bold;letter-spacing:2px;text-shadow:0 0 3px #000,0 0 6px #000;">${text}</div>`,
+      iconSize: [100, 20],
+      iconAnchor: [50, 10]
+    })
+  }).addTo(map);
+});
+</script>
+</body>
+</html>
